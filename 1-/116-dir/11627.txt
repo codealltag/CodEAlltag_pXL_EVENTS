@@ -1,0 +1,15 @@
+Am 26.06.2013 18:18, schrieb Helen Blankenhagel:
+
+Nö, der Rathschiller kann den Zeichensatz nicht deklarieren, der kann auch 
+keinen Unicode lesen und vergibt falsch Msg-IDs. Der Xnews ist einfach 
+nur Schrott. Mit viel Aufwand kann man mittels eines zweiten Programms 
+dem Xnews die allerschlimmsten Fehler austreiben. Da richtet man dann 
+auf seinem Rechner einen Proxyserver ein der zwischen Xnews und das 
+Usenet geschaltet wird, und der die Postings regelkonform "übersetzt".
+Catherine
+
+-- 
+Glauben: http://rem.zgvnfddgz.rc/bdgtn.eis?jwhjangkp=6&tdv=qapag
+Monsterunser: http://nus.uaidxkhqh.op/fkxot.izx?oksxvncex=7&nsb=tsgoog
+"Wünsche": http://fyg.aoipvwacq.ln/pywpe.iej?nmxyydmdh=7&xti=wksusnic
+SEIN Volk: http://gsz.slhskgfks.kl/rzzaj.sog?nvkgilqiz=0&sso=bgaagyj

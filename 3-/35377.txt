@@ -1,0 +1,18 @@
+Am 30.03.13 00:15, schrieb Claudia Karus:
+
+Hallo Claudia,
+das Problem hatte ich auch schon mal ....
+ich hatte (liberté, égalité, fraternité) im Vom stehen.
+
+Du verwendest TB 12.x
+Du schreibst im Vom: Lilian  ..  also ein Sonderzeichen ś
+
+Versuche mal mit Von: "Claudia Kloefkorn"  - ohne ´  in de.test zu posten und 
+die Nachricht zurückzuziehen, du wirst sehen es funktioniert.
+
+
+-- 
+Jean-Claude
+liberté, égalité, fraternité
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen
+Hammelartige fühlen sich als Welten-Retter alias Don-Quixotte

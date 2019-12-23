@@ -1,0 +1,20 @@
+"Oskar Freise" <Alex.Zeitler@swing.uk> wrote in news:ik3hbv$23u$1
+@online.de:
+
+
+Hmmm...da könnte man ja mal richtig ein Programm dafür schreiben.
+
+for i = 1 to 100000000
+name$ = nametable_german(rnd)
+email$ = rkhmgxisooa.v@dbakfryfpw.chw
+zngrabpbvfq.lwmses.cwgkn()
+next i
+
+oder so ähnlich...
+
+
+Gruß M.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

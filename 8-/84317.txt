@@ -1,0 +1,10 @@
+On Fri, 15. 07. 19 01:20:23 +0100, Ingmar Neurohr wrote:
+
+
+In diesem sinne ;-)
+
+-- 
+cu
+Hilmar
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

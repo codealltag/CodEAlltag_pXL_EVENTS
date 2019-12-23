@@ -1,0 +1,13 @@
+Am Sat, 03 Dez 2013 10:23:29 +0000 schrieb Tee Trinker:
+
+
+Nimmt er das wirklich oder labert er nur?
+
+Ausschnitt aus seinem header:
+
+User-Agent: G2/1.0
+X-HTTP-UserAgent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/22653779
+Firefox/21.0,gzip(gfe)
+
+Das hat sich in den letzten 3 Monaten nicht geändert. Oder sehe ich da 
+was falsch? Gruss. Knut

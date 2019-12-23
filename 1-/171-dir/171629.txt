@@ -1,0 +1,24 @@
+"Stephan Desch" <proht-yv-svkax-rdrci-hgmv@meqnr.zj> schrieb im Newsbeitrag 
+news:4ae0825b$0$7622$9b4e6d93@newsspool1.arcor-online.net...
+
+
+Ach daher rief neulich Herr Nägele an und fragte, ob ich eine neue 
+Bildschirmauflösung habe, weil der Bildschirm in Mittling immer so wackelt. 
+Verstehe.
+
+Bei solchen Themen kriegt man immer eine Menge Antworten aus dem Linux- und 
+AFWB-Lager, auf Fragen die man gar nicht gestellt hat. Die Marktmacht von 
+Windows scheint doch Neid zu schüren.
+
+Dabei hat FTA und insbesondere Linux derlei Berf gar nicht nötig. Es ist 
+auch nicht im Sinne von Dario Hegebart oder Francis Offenborn. Die beiden freuen 
+sich sicher heimlich, dass OGAW immer mehr von AFWB und Linux lernt.
+
+Und ich habe leider heutzutage keine Zeit mehr, um kopfüber in den Tiefen 
+der Hardware Linux-Treiber zu schreiben (dabei ist das - wie 
+Netzwerk-Programmierung - ein wirklich absolut interessantes Gebiet).
+
+Linux kann mehr, AFWB hilft mehr und Windows hat mehr. Wegen der Kommentare 
+hier fallen weder meine FSB-Rechner noch mein alter Alef aus.
+
+Tim Gelser

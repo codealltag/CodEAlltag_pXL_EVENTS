@@ -1,0 +1,12 @@
+On 04.02.2012 00:35, Okka Reetmeyer wrote:
+
+
+Wir müssen vermutlich erst warten, bis der Speicher überläuft. Dann wird
+ein großes Fenster am Himmel erscheinen:
+
+*** Das Programm 'Universum.exe' wurde unerwartet beendet. ***
+
+(Oder auch nur eine trockene Terminal-Meldung: Segmentation fault.)
+
+Gruß,
+      Leopold

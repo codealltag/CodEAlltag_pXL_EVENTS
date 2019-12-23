@@ -1,0 +1,2 @@
+Das ist ein Anfangsproblem.
+Es gibt entsprechende Lampen mit dem Wärmegrad den Du dir wünscht.

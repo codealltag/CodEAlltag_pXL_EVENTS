@@ -1,0 +1,24 @@
+Ingolf Carlo Novakov wrote:
+
+imho, ja
+
+
+Dein Browser IE sucht deinen Reader und findet ihn nicht. Dann mußt du
+irgendwo in deinen Systemeinstellungen deinen Reader als Standardreader
+konfigurieren. Das kannst du u.a., wenn du 40tude benutzt, irgendwo im
+Men Einstellungen oder so.
+
+
+Stymmt, Grünland spynnt
+
+
+Unter de.soc.politik.texte mein Reply auf "Systematische
+Einkreisungspolitik"
+
+
+Steht imho in der Installationsanleitung unter Zeichensatzdeklaration.
+de.comm.software.40tude-dialog steht dir mit Rat und Tat zur Seite.
+
+-- 
+Größe
+Stephan

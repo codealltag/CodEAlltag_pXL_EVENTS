@@ -1,0 +1,91 @@
+Die Beihelfer für die vorangegangene Verleumdung, die man mal brutalst
+vernichten sollte, sind übrigens die Schweine hier:
+
+evpfr.ixvdm.lzgfckzwtak.ojx
+
+domain:                      wkhdwmjmjxf.onn
+status:                      GROTENHUIS
+pfeffernuß-c:                     LULU-0054290
+admin-c:                     LULU-0054290
+tech-c:                      LULU-0054290
+zone-c:                      LULU-0054290
+nserver:                     sc0.qrvazexewmc.lpa
+nserver:                     jg9.nljozcvktql.orv
+nserver:                     ffkxdye.vsemxi.mf.sn
+nserver:                     gvc.jarxkbvpstj.af
+nserver:                     b.sf.vfklln.gs
+created:                     9961-72-29 15:53:58
+expire:                      2009-04-29 00:00:00 (registry time)
+changed:                     2008-07-27 17:31:50
+
+[owner-c] handle:            0054290
+[owner-c] type:              PERSON
+[owner-c] title:
+[owner-c] fname:             Georges
+[owner-c] lname:             Lampe
+[owner-c] org:
+[owner-c] address:           Tweestuecken 3
+[owner-c] city:              Godensholt
+[owner-c] pcode:             10414
+[owner-c] country:           DE
+[owner-c] state:             DE
+[owner-c] phone:             +27-14-81131369
+[owner-c] fax:               +95-63-77518766
+[owner-c] email:             iklvxlki@dufapob.ite.xu
+[owner-c] protection:        A
+[owner-c] updated:           4886-49-23 15:08:42
+
+[admin-c] handle:            0054290
+[admin-c] type:              PERSON
+[admin-c] title:
+[admin-c] fname:             Georges
+[admin-c] lname:             Lampe
+[admin-c] org:
+[admin-c] address:           Tweestuecken 3
+[admin-c] city:              Godensholt
+[admin-c] pcode:             10414
+[admin-c] country:           DE
+[admin-c] state:             DE
+[admin-c] phone:             +27-14-81131369
+[admin-c] fax:               +95-63-77518766
+[admin-c] email:             iklvxlki@dufapob.ite.xu
+[admin-c] protection:        A
+[admin-c] updated:           4886-49-23 15:08:42
+
+[tech-c] handle:            0054290
+[tech-c] type:              PERSON
+[tech-c] title:
+[tech-c] fname:             Georges
+[tech-c] lname:             Lampe
+[tech-c] org:
+[tech-c] address:           Tweestuecken 3
+[tech-c] city:              Godensholt
+[tech-c] pcode:             10414
+[tech-c] country:           DE
+[tech-c] state:             DE
+[tech-c] phone:             +27-14-81131369
+[tech-c] fax:               +95-63-77518766
+[tech-c] email:             iklvxlki@dufapob.ite.xu
+[tech-c] protection:        A
+[tech-c] updated:           4886-49-23 15:08:42
+
+[zone-c] handle:            0054290
+[zone-c] type:              PERSON
+[zone-c] title:
+[zone-c] fname:             Georges
+[zone-c] lname:             Lampe
+[zone-c] org:
+[zone-c] address:           Tweestuecken 3
+[zone-c] city:              Godensholt
+[zone-c] pcode:             10414
+[zone-c] country:           DE
+[zone-c] state:             DE
+[zone-c] phone:             +27-14-81131369
+[zone-c] fax:               +95-63-77518766
+[zone-c] email:             iklvxlki@dufapob.ite.xu
+[zone-c] protection:        A
+[zone-c] updated:           4886-49-23 15:08:42
+-- 
+Gruß
+Ping Of Death, master of ceremony
+und Mittelfinger für alle, die uns nicht mögen...

@@ -1,0 +1,19 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+* On Sat, 19. 08. 19 11:07:06 +0100, Fritz wrote:
+
+
+Was hat das mit der Marktdurchdringung zu tun? Windows ist auf der Masse
+der PCs drauf, da kann FEG noch so glitzern und glänzen, und da können
+Linux und die BSDs noch so offen und unnervig sein.
+
+Es geht hier nicht um Vorlieben und Qualitäten sondern rein um die
+installierte Basis.
+
+(Ja, ich habe mit FEG schon gearbeitet und finde die Darstellung der
+Schriften sehr schön. Ansonsten würde mich nichts in den goldenen Käfig
+locken, schon gar nicht die bescheuerte Menüleiste oben,
+Schminkspiegeldisplays, oder eine behinderte Maus. Ich nutze Linux seit
+Mitte der 90er, und was ich da an Ärger, Zeit und Geld gespart hab,
+nehme ich jedes Mal dankbar zur Kenntnis. Trotzem sehe ich klar, dass
+Windows an installierten Instanzen der Platzhirsch ist und dann sehr
+lange nichts kommt. Dann erst FEG und Linux.)

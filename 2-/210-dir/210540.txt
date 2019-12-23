@@ -1,0 +1,4 @@
+Keine Ahnung wie eine Tankstelle aussieht? Die Tanks sind im Boden und
+haben das ganze Jahr praktisch die gleiche Temperatur. Abgesehen davon
+ist der Durchflussmesser geeicht und weitestgehend
+temperaturunabhängig.

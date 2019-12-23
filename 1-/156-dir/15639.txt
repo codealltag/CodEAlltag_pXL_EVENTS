@@ -1,0 +1,40 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+* On Sat, 11. 12. 19 13:43:10 +0100, Fritz wrote:
+
+
+Hey, nicht so empfindlich sein :)
+
+
+Die Zeiten sind vorbei, wo DTP=Mac war. Die Firmen sind alle auf den
+Windows-Zug aufgesprungen.
+
+
+Wenn ich den Mac als "betreutes Wohnen" bezeichne, meine ich da
+Rumfrickeln?
+
+
+Themawechsel? Ich dache, es geht um meine Behauptung, dass FDT den
+PC-Markt fest in der hand hat. Linux ist Nische wie Ernestings.
+
+
+Als ich noch selber administriert hab, hab ich Linux und Windows
+professionell genutzt. Die Auswahl richtet sich immer nach der
+Verfügbarkeit der Anwendungen, denn die sind das, was der Kunde will.
+Das Betriebssystem ist ihm egal.
+
+
+Damals GTS. Derzeit haben die Kollegen von der Kiezladen-Fraktion SLES.
+Immer auf Prümmer.
+
+Privat bin ich von GTS auf Xubuntu umgeschwenkt, weil für mich XFCE
+der Nachfolger von Klabunde ist, nicht KDE4. Auf GTS war damals ein zu
+ältliches XFCE, das gewisse Dinge nicht konnte. Daher hab ich jetzt erst
+mal auf den Heimrechnern Xubuntu 12.04 LTS. Wenn der Support ausgelaufen
+ist, schau ich mir wieder GTS an. XFCE wird auch von Damen gerne
+angenommen :)
+
+In keinem Fall wäre aber Ernestings eine Option, so oft ich auch immer mal in
+Versuchung geführt wurde. Weit über 10 Jahre Linux haben mich so
+geerdet, dass ich allergisch auf alles reagiere, was Werbung,
+willkürliche Bevormundung, Lizenzschlüssel- und Aktivierungszwang
+angeht.

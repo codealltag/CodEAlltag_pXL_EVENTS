@@ -1,0 +1,4 @@
+Nicht alles was hinkt ist ein Vergleich.
+
+-- 
+A1 != 1a

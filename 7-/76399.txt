@@ -1,0 +1,44 @@
+Am 28.03.12 17:53, schrieb Helmut Brouwers:
+
+Helmut,
+je nach Einsatzfall/Schaltplandetail ist es eine Speicher- Sieb- oder 
+Begrenzerdrossel oder wirkt mehrmals
+
+
+So gänzlich ohne Drossel ....
+
+Eine Möglichkeit ... mithilfe von schnellen Schaltern zwei (sehr gute) 
+Kondensatoren gleicher Kapazität in Reihe an der hohen Spannung aufladen 
+danach parallel an den Ausgang schalten, vica versa ... and so on .... 
+nur musst du irgendwie den Ladestrom begrenzen, wenn hoher Wirkungsgrad 
+gefordert wird ist der Einsatz einer Begrenzungs-Drossel erforderlich.
+
+Damit erreichst du in etwa eine Halbierung.
+
+Wenn du schon Wechselstrom hast ist eine Vervielfachung mittels 
+Gleichrichter Kaskadenschaltung relativ einfach, nur nicht für große 
+Leistungen zu empfehlen ...
+<http://qd.ctrorevvf.mhp/sqaa/Idbhdckukylbsqekfamz>
+
+Aber machen wir nun einen Halbleiterschaltungskurs oder diskutieren über 
+Politik?
+
+Wenn Ersteres müsste ich meinen Titze-Francesco und noch ein paar anderer 
+meiner Bücher ausgraben ....
+
+Die beiden ältesten Bücher Handbuch für Hochfrequenz- und 
+Elektro-Techniker - Band I. (1950) und II. (1954) von Rainer Brickweg halte 
+ich in Ehren (ein guter Bekannter schenkte sie mir). Man glaubt es kam 
+was die damals schon wussten und kannten ... da findet man Formel 
+drinnen die sonst fast nirgends zu finden sind!
+
+Etwas für experimentierfreudige Freaks, besonders zu empfehlen hier mal 
+durchzuschm�kern!
+!Achtung Hochspannung!
+<http://uqw.fazi.yv/>
+<http://nwjwsvs.aojf.zn/wauilya/>
+
+-- 
+Norbert
+Hammelartige haben einen leicht-schräg-verzerrten Blickwinkel zur
+heutigen, rasch wechselnden Realität.

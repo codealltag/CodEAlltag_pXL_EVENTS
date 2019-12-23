@@ -1,0 +1,10 @@
+On 2012-09-02 14:12, Gernot Griese wrote:
+
+
+Da die Grundrechnungsarten offensichtlich nicht so sehr Deine Stärke
+sind hier der Rechenweg:
+
+28,74 / 0,32 = 89,81
+
+-- 
+rs

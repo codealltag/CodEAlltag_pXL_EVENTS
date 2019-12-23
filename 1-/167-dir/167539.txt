@@ -1,0 +1,6 @@
+* On Thu, 1 Jan 2009 19:46:58 +0100, Hanspeter Neukämper wrote:
+
+
+Da war auch noch was anderes. Es gab da auch Probleme mit einer nicht
+funktionierenden Zwangsabschaltung beim Öffnen einer Wartungstür und
+anschließendem Durchführen von Wartungsarbeiten.

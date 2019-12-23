@@ -1,0 +1,9 @@
+On 2013-01-19 01:59, Berta Niggeling wrote:
+
+
+Du könntest auch 150E9 schreiben, das spart zwei Bytes und eine
+Fingerverrenkung, und ist mindestens gleich cool. Und funktioniert auch
+in ASCII. :-P
+
+-- 
+rs

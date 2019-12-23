@@ -1,0 +1,6 @@
+Das mag in DEINEM speziellen Fall so sein, in vielen anderen Fällen
+ist es eben anders.
+Übrigens finde ich es echt amüsant, wenn irgenwo im Internet ein
+Javascript-Dreizeiler steht mit dem Hinweis "....darf nur mit
+Genehmigung des Autors weiterverwendet werden..." (oder so ähnlich).
+Da wird die Absurdität schon offensichtlich...

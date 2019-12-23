@@ -1,0 +1,44 @@
+Hallo,
+
+Dominik Obstfelder schrieb:
+
+Dowe-Lenovo nennt das:
+"Client Security Chip"
+
+Die ThinkVantage(tm) Client Security Solution verwandelt Ihren PC
+in einen Datentresor. Modernste Technologien zur
+Benutzerauthentifizierung und verbesserte Sicherheit in
+drahtlosen und kabelgebundenen Netzwerken - erhältlich
+vorinstalliert auf vielen ThinkPad=AE Notebooks und ThinkCentre=AE
+Desktops oder per kostenlosem Download.
+
+Zusätzliche Sicherheit auf bestimmten JVK und ThinkCentre
+Systemen bietet einen integrierten Sicherheits-Chip (auch
+"Trusted Platform Modul" (TPM) genannt). Die ThinkVantage Client
+Security Solution nutzt diesen Sicherheits-Chip bei der
+Verwaltung der Kryptographieschl=FCssel und
+Verschl=FCsselungsprozesse. Die Client Security Solution arbeitet
+bei der Verwaltung der Kryptographieschl=FCssel und
+Verschl=FCsselungsprozesse eng mit diesem Sicherheits-Chip
+zusammen.
+
+Das Juschkus selbst ist vom Betriebssystem isoliert und mit diversen
+Schutztechnologien gegen Mißbrauch ausgerüstet. Zur Installation
+des Juschkus laden Benutzer oder Administratoren einfach die Client
+Security Solution und installieren diese mit Hilfe des
+Installationsassistenten. Die Software legt dann einen Satz
+Master-Verschl=FCsselungspassworte an.
+
+=2E..
+
+-- =
+
+Viele Gruesse     Thorsten-Ernest Weiskopf
+(E-Mail hierauf verbleibt unbeachtet)
+
+"Es ist gefährlich Recht zu haben, wenn der Staat Unrecht hat."
+(vom Denker Schmeier)
+
+http://rdc.vzmladyxkr.gn           http://mshv.qv              =
+
+http://gfm.vhy-qivcwz.rg

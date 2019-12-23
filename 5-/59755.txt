@@ -1,0 +1,9 @@
+Am Thu, 28 Okt 2010 23:04:21 -0000 schrieb Ibo Jongschläger:
+
+
+Um richtig würfeln zu können benutze doch eine Randomize-Funktion.
+Und bitte nicht vergessen die Trollwarnung herauszuschicken, denn das ist
+ja wohl das Mindeste was wir von einem potenten Märchenonkel erwarten
+können. Du weisst ja, Kontrolle ist besser als Froschaugensuppe.
+
+Fridolin (Jäger der verloren geglaubten Potenzzwerge)

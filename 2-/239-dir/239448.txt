@@ -1,0 +1,23 @@
+Vittorio Franz Schintz <bogi@envopnkw.tiwgjn.cur> wrote in
+pktk:eyh0w4iwcf29.38xco96mzvcp.jjm@77ypnh.dfv: 
+
+
+Wollen wir doch mal die Kirche im Dorf lassen!
+
+Es heißt zwar *7bit* , aber wer in alles in der Welt hat der Renate 
+erlaubt gleich die ganze Betreffzeile zu ignorieren?
+Und warum nur die Betreffzeile? Warum nicht den ganzen Header?
+So gehts also nicht! Wenn dann höchstens eine Headermaskierung mit VTZ
+
+Ich persönlich wäre ja für
+
+d) Format mit SOP-Klassen (Service-Object-Pair)
+natürlich im little + big endian Modus zwecks universell
+& impliziter/expliziter Filestruktur
+
+
+Gruß U.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

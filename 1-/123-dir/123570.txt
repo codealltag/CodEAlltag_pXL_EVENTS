@@ -1,0 +1,16 @@
+Am 01.06.2011 10:47, schrieb Edmund Werheit:
+
+
+Ach ja, fast vergsssen.
+Könnt ihr mit Filtern im Usenet umgehen?
+Wenn nein, dann könnt ihr den Dreck hier noch lesen.
+Ansonsten:
+FILTER EINSTELLEN!
+
+Filterregeln:
+Betreff    enthält    MKT                        -> löschen
+Von        enthält    Edmund Werheit        -> löschen
+Von        enthält    lflInxioz-Zqzsbg    -> löschen
+Betreff    enthält    G.u.T                         -> löschen
+Von	   enhält Bekloppten-Hunter -> löschen
+Von        enthält Ober-Bekloppten-Hunter -> löschen

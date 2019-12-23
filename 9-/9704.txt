@@ -1,0 +1,20 @@
+starless&bibleblack:
+
+
+Bei dem bedarf es keines großen Filters:
+
+!delete Header "User-Agent: MacSOUP/D-2.8.3 (Mac OS X version 22. 01. 19
+(x86))"
+
+Zur Sicherheit habe ich zusätzlich noch eingebaut:
+
+-----
+!ignore,markread Header "X-Authenticated-User: dtajasfexv41@gvkz.vtf"
+!ignore,markread Header "X-Authenticated-User: $$m$x1dqu63w4nbpzkjjlef"
+-----
+
+-- 
+Eilt
+
+X'Post: xt.ngs.dgiaodiapqxydj.zwqbiwvhttg,qg.qewx.cjvycpbcsrfwpr 
+F'Up2 : xt.ngs.dgiaodiapqxydj.zwqbiwvhttg

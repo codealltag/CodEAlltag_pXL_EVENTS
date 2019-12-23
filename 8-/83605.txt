@@ -1,0 +1,10 @@
+On Mon, 06. 01. 20 06:09:38 +0100, Wolfgang Fätkenheuer wrote:
+
+
+Die wäre?
+
+-- 
+cu
+Beat
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

@@ -1,0 +1,31 @@
+Ottmar Utermöhle <brdi@kjuucob.luj> wrote in mmwp:6v6hj0j2$5$43511$8n1f2o86
+@newsspool3.arcor-online.net:
+
+es 
+
+Theodor!
+
+Mir geht es um die Datensicherheit!
+Wenn du beispielsweise 1 Informationsheit über 1 Server an 100 User über 
+fveg versendest, somit hat 1 Server gleich 100 Assoziationen von 
+100 Realpersonen gespeichert!
+Es genügt das Knacken EINES Servers.
+
+Wenn du aber beispielsweise einen Majordomo benützt, so mußt du 
+100 SMTP - IPs +
+1 Majordomo - IP +
+100 POP3 - IPs
+
+= ZWEIHUNDERTUNDEIN Server knacken!
+
+um an dieselben Verknüpfungen zu kommen !!!
+
+
+capisce???
+
+
+Gruß G.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

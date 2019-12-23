@@ -1,0 +1,52 @@
+Antwort auf eine Nachricht von Viktor Naß
+
+
+Er hat die hier: 5.24.1532.7350
+
+Er hat diese also schon. Aber es ist bekannt, daß Microsoft seine 
+Produkte stets total mißkonfiguriert ausliefert, so daß man die 
+Einstellungen erst gründlich überarbeiten muß.
+
+Ich weiß, daß es Anwender dieser Software ginbt, die diesen Fehler nicht 
+machen. Vielleicht kann ja mal einer von denen dem Wolfram erklären, wie 
+das geht?
+
+Schau mal, mein Subjekt sieht so aus:
+
+Subject: Re: Analyse der 
+=?UTF-8?B?S8O8cnp1bmdlbjogTXV0aWcgLSBhYmVyIHNvemk=?=
+  =?UTF-8?B?YWwgdW5hdXNnZXdvZ2Vu?=
+
+Deines so:
+
+Subject: =?UTF-8?Q?Re:_Analyse_der_Kürzungen:_Mutig?=
+	=?UTF-8?Q?_-_aber_sozial_unausgewogen?=
+
+Und noch eine dritte Version:
+
+Subject: Re: Analyse der =?ISO-8859-1?Q?K=FCrzungen=3A_Mutig_-_aber?=
+  =?ISO-8859-1?Q?_sozial_unausgewogen?=
+
+Et cetera! Das sieht zwar jedesmal etwas anders aus, ist aber alles 
+korrekt.
+
+Und nun seins:
+
+Subject: Re: Analyse der Kürzungen: Mutig - aber sozial unausgewogen
+                           ↑
+                           upps!
+
+Und das geht gar nicht – das „ü“ hat dort definitiv nichts zu suchen!
+
+Warum mein Thunderbird gleich die ganze Zeile rauswirft, anstatt einfach 
+nur das eine verbotene Zeichen gegen ein Fragezeichen zu ersetzen, weiß 
+ich nicht, ich habe dieses Programm nicht geschrieben.
+Aber ich muß dann jedesmal manuell nachbessern, und dafür habe ich nicht 
+immer die Lust, das ist mir manchmal einfach zuviel Arbeit.
+
+
+Glück auf!
+Ubbine Denzer, Mattendorf/de
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://jqu.bmwar-mzxbtw.et

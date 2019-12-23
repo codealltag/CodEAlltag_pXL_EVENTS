@@ -1,0 +1,3 @@
+Ja.
+haushalts=FCblich ist dreiphasiger Drehstrom @50 Hz. bahnstrom ist
+einphasig @ 16 2/3 Hertz

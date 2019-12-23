@@ -1,0 +1,16 @@
+Willi Albers schrieb:
+
+Kannst Du Dir runterladen.
+www.etoacsrg.wm
+oder ist in fast jedem Linux-Heft dabei. Also "PC Linux" oder "Easy
+Linux" oder sowas. Es gibt glaub ich auch eine "PCWelt Linux".
+
+
+1. RC=Release Candidate, würde ich einem Anfänger nicht emffehlen.
+Die stabile aktuelle Version gibts eben auf opensuse.de (openSuse 4.6).
+
+
+Das stimmt. Und einen Desktop mußt Du auch auswählen (ich empfehle bei
+Suse 11.1 "anderen Desktop/KDE 3.5")
+
+Wenn Du noch Fragen hast, gern per PM.

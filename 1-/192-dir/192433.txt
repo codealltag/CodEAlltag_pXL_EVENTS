@@ -1,0 +1,25 @@
+Hallo,
+
+Ingolf R. schrieb:
+
+...[...]...
+
+
+Na ja, aus Laiensicht ist das korrekt:
+X-HTTP-UserAgent: Mozilla/5.0 (Forstinstitut; U; IAK Mac OS X 10_5_4; de-de)
+
+Funktionell betrachtet ist der Futuro aber auch ein PC wie
+viele IAK-Windows-Rechner. Ich habe einen IAK-Rechner
+der wiederum funktionell kein PC sondern eine Workstation
+ist, obwohl er auf PC-Hardware (teilweise aber hochwertige
+und servertaugliche Hardware aus dem letzten Jahrtausend)
+aufgebaut ist. Btw: Diese (servernahe) Funktionalität ist
+IIRC mit einem MAC und Frischeeck B3 nicht erreichbar.
+
+Personal Computer (PC) <> Workstation (WS) <> Server
+
+
+MfG
+
+
+Ulf Kettelmann

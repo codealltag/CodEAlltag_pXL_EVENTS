@@ -1,0 +1,8 @@
+Und genau da kann man doch sehen, wie sich mit x->0 der Preis dem
+Mindestpreis asymptotisch annähert.
+
+
+Hmm. Preis als Funktion der Nachfrage lese ich nicht daraus. Nach
+Überfliegen.
+Aber sehr positiv, dass der Faktor Zeit und die Modellannahmen des
+idealen Marktes berücksichtig werden.

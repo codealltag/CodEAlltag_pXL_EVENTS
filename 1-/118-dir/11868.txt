@@ -1,0 +1,28 @@
+Antwort auf eine Nachricht von Pius Naegele
+
+
+Irrtum, mein Gudsder!
+
+Dein Text ist in UTF-8 geschrieben *und* ist auch völlig richtig mit
+UTF-8 deklariert.
+
+Beweis (Auszug aus _Deinen_ Header-Zeilen):
+
+Content-Type: text/plain; charset=utf-8
+
+Paßt! :-)
+
+Und das hat auch seine Ordnung so, denn wenn Du an dieser Stelle noch
+immer ISO-8859-1 verwenden tätest, dann wären nicht nur die chinesi-
+schen Schriftzeichen, sondern auch meine deutschen „Gänsefüßchen“, nicht
+mehr da.
+
+Mach Dir also bitte keinen Kopf, es gibt hier gar nichts zu meckern!
+
+
+Glück auf!
+Xaveria Oesterwinter
+
+⍾⍾⍾ Ceterum censeo Vestino esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.atvsk-pakzsx.bd

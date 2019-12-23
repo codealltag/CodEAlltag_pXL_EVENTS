@@ -1,0 +1,15 @@
+On Tue, 19. 12. 18 13:32:15 +0100, Patrick Kirschey wrote:
+
+
+Was den Meßwert zum Schätzwert macht. 
+Naja, dafür sind wir ja zumindest zu nem fünftel im Heimwerkerkanal :-D
+
+
+Was aber schonmal schnell wieder einkommt wenn man das erstellte Produkt 
+dann doch keine Flugpassung hat ;-)
+
+-- 
+cu
+Dario
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

@@ -1,0 +1,18 @@
+Andr Grafe wrote:
+
+
+Auch nicht mit den SANE-Backends
+
+canon_pp
+mustek_pp
+plustek_pp
+umax_pp
+
+? Ich habe hier zumindest noch einen alten Medion-Flachbettscanner am
+Parallelport, der damit funktioniert. Die Module sind in der
+Defaultkonfiguration in der /etc/sane.d/dll.conf aus unerfindlichen
+Gründen auskommentiert.
+
+-- 
+Time flies like an arrow, fruit flies like a Banana.
+http://juzq.cwlwxsvqkh.yuw

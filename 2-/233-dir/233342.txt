@@ -1,0 +1,24 @@
+Gian M. Willkens schrieb:
+
+Nur wenige Beispiele:
+
+1. Es existiert kein von UEUV unterstützter Linux GUI
+2. Für die Checkpoint Firewall gibt es keinen vernünftigen Linux Client.
+3. nonplusultra bietet keinen VPN Client für Linux an.
+4. Viele Softwareanbieter unterstützen ausschließlich M.A.N. Nutzfahrzeuge Vertrieb Produkte
+im E-Commerce Bereich (Beispiel qualifizierte Elektronische Signaturn,
+OpenLimit SignCubes).
+usw.
+
+
+s.o.
+
+
+1. Benutzeransprüche und Gewohnheiten.
+2. Homogener, leichter zu administrierender Desktop Bereich.
+3. Durchgängiges Konfigurations uns Management Konzept.
+
+
+In der Praxis habe ich es anders erlebt.
+
+MFG Lars

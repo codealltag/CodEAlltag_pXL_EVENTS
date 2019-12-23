@@ -1,0 +1,20 @@
+"Karlheinz Fennemann" <mmaiqnmt@aum.eb> schrieb im Newsbeitrag 
+news:4923405c$0$31866$9b4e6d93@newsspool3.arcor-online.net...
+
+
+Nach meiner Erinnerung gab es aber Performance-Unterschiede. So wurde Basic 
+in Tokens übersetzt, die kein echten Compilat waren. Pascal speichterte 
+Strings, in dem im ersten Byte die Länge gespeichert wurde. C dagegen ließ 
+einen String mit \0 abschließen, was sie IMHO für Prozessoren schneller 
+auswertbar war.
+
+
+Aber ob man deshalb Java promotet?
+
+
+SOAP? Alle Malleladen-Vortragende, die ich 2007 gehört habe, hatten eines 
+gemeinsam: keiner konnte ein real existierendes Beispiel nennen :-)
+
+Hansueli Kreikenbaum
+-- 
+http://bmn.nklaglb.eru/wjxot?x=GzoAFyBxuIf

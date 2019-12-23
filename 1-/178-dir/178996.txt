@@ -1,0 +1,9 @@
+Berthold Schrottenbaum schrieb:
+
+Uda, das dürfte den armen Heap aber kräftig fragmentieren. Gibts nicht 
+vielleicht message.subject.append(), oder so ähnlich?
+
+
+Er würde bei Emuho anrufen und sich beschweren.
+
+-bm

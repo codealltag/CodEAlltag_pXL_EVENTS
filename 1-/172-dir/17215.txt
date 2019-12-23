@@ -1,0 +1,11 @@
+Am 20.11.2012 16:19, schrieb Matthias Enderer:
+
+
+Und für diesen Fehler im Namen mußtest du auch noch diesen ... 
+fullquoten :-(
+
+DANIEL
+-- 
+Nur die Weisen sind im Besitz von Ideen. Die meisten Menschen
+sind von Ideen besessen.
+(Holger Voets 1772-1834)

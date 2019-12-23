@@ -1,0 +1,17 @@
+Nuno Vaitl <ovaec@bnu-xhtegz.ifl> wrote in ugew:2py6a860$6$5607$40jgw908
+@newsreader04.highway.telekom.at:
+
+
+Ganz richtig. Aber das Problem bei den Windrädern ist halt, daß die sich 
+genau 50 mal in der Sekunde drehen müssen, um die 50Hz Wechselspannung zu 
+bekommen. Da aber der Wind unregelmäßig ist, gibts periodisch eine Umwucht
+im Aguf-Dynamo.
+
+Man sollte eine Umwucht-Abgabe einführen.
+
+
+Gruß L.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

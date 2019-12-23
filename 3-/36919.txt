@@ -1,0 +1,37 @@
+Paolo Berdel schrieb:
+
+
+Wie heißt eigentlich die Krankheit, unter der die leiden, die solchen
+Kranken zwanghaft nachlaufen zu müssen?
+
+
+Da einer nicht weiß, wie mit Irren dieser Art umzugehen ist, ist noch
+wesentlich bedauernswerter.
+
+Betrachte es als kleine Fleißaufgabe, Dir a) einen DAGC zuzulegen, der
+diesen Namen auch verdient, und dann darfst Du Dir b) einen Filter dieser
+Art basteln:
+
+!move(Kacktonne) From {(Yimgdzp.*Xzqbzd)>}
+!move(Kacktonne) From {(Thomas.*Schulz)>}
+!move(Kacktonne) From {(Wilfried Porzner)>}
+!move(Kacktonne) From [...]
+
+Einmal täglich kurz nachjustieren, fertig.
+
+Wenn der Irre auf diese Weise beschäftigt ist, sich täglich neue Pseudos
+auszudenken und neue News-Server zu mißbrauchen, richtet er 1. wenigstens
+/draußen/ keinen Schaden an und wird b) irgendwann verhungern. Mich juckt
+dieser Idiot nicht weiter.
+
+Apropos: Lebt eigentlich das "SelzerMcKenzie" noch? Von dem sehe ich aus
+demselben Grund schon seit Jahren nix mehr.
+
+Sébastien
+
+-- 
+Oh, höre, Deutschland: Einer von diesen sogenannten "Parlaments-
+Abgeordneten" "beglückt" "sein Volk" mit extrem "wissenswerten"
+... H ... "Aussagen":
+
+"Es gibt auch morgen noch viel zu tun, und das ist auch gut so!"

@@ -1,0 +1,363 @@
+Gruppe : ed.hjjq.otvhabtrtgrygn
+Benötigte Zeit für Berechnung : 00:00:01
+Statistikzeitraum von 19.03.2012 bis 18.04.2012
+
+****** Wer hat die meisten Beiträge geschrieben ? ******
+ ...| Name              | Anzahl Beiträge | Größe     | Disk. | %
+----|-------------------|-----------------|-----------|-------|--------|
+  1 | Walburga Torberg      |             355 |   896.645 |     3 |  8,38% 
+  2 | Gerd             |             311 |   791.193 |    19 |  7,35% 
+  3 | Dem [Tr]Ottel ... |             262 |   487.294 |     3 |  6,19% 
+  4 | Wolfram Endner |             261 | 1.076.852 |   176 |  6,16% 
+  5 | Jens            |             160 |   404.068 |     1 |  3,78% 
+  6 | Tee Trinker       |             134 |   236.227 |    27 |  3,16% 
+  7 | Grobi             |             110 |   505.462 |     0 |  2,60% 
+  8 | Kurt              |              98 |   281.465 |     0 |  2,31% 
+  9 | Willy Endner   |              82 |   138.539 |     0 |  1,94% 
+ 10 | Gerd Kockelkorn     |              73 |   137.952 |     0 |  1,72% 
+ 11 | Remo Meiner      |              66 |   126.404 |    14 |  1,56% 
+ 12 | Beat Uslar    |              66 |   154.653 |     0 |  1,56% 
+ 13 | Giorgio "Panzer ... |              63 |   189.655 |     0 |  1,49% 
+ 14 | J.Malberg         |              63 |   114.431 |     0 |  1,49% 
+ 15 | Carl Ungethüm |              60 |   133.630 |     5 |  1,42% 
+ 16 | Norman Kemmerer    |              58 |   112.886 |     8 |  1,37% 
+ 17 | Skandalos         |              58 |   123.203 |     1 |  1,37% 
+ 18 | h4364r            |              56 |    98.639 |     1 |  1,32% 
+ 19 | Ronny Unrein     |              55 |   110.312 |     0 |  1,30% 
+ 20 | Nils L.         |              52 |    97.916 |     0 |  1,23% 
+ 21 | CirrusMinor       |              50 |   115.057 |     0 |  1,18% 
+ 22 | Eilert Ekart        |              48 |   118.190 |     5 |  1,13% 
+ 23 | Der Habakuk.      |              47 |   152.014 |    10 |  1,11% 
+ 24 | Orlando Deschner      |              45 |   125.259 |     0 |  1,06% 
+ 25 | Fox               |              40 |   122.896 |    27 |  0,94% 
+ 26 | René Pfannekuchen   |              38 |   101.606 |     0 |  0,90% 
+ 27 | Alain Oberbeck     |              38 |    96.917 |     0 |  0,90% 
+ 28 | Pascale         |              37 |    76.626 |     4 |  0,87% 
+ 29 | Jean-Luc O. Ahlbrink |              37 |   115.346 |     1 |  0,87% 
+ 30 | Claus Neuhäusler ... |              35 |    58.350 |     1 |  0,83% 
+ 31 | starless&bibl ... |              33 |    76.044 |     0 |  0,78% 
+ 32 | Claus Unterrainer |              31 |    91.764 |     0 |  0,73% 
+ 33 | Eilert Rischmüller       |              30 |    72.431 |    16 |  0,71% 
+ 34 | Samuel Ules       |              30 |    68.217 |     0 |  0,71% 
+ 35 | JPS               |              28 |   123.621 |    14 |  0,66% 
+ 36 | Hasso             |              28 |    93.619 |    10 |  0,66% 
+ 37 | Herr Fleisch    |              28 |    76.206 |     0 |  0,66% 
+ 38 | Jean-Luc Erdelen     |              28 |    57.922 |     0 |  0,66% 
+ 39 | Giorgio Eichenbrod       |              26 |    66.365 |     2 |  0,61% 
+ 40 | Alexandre Orther     |              26 |    83.655 |     0 |  0,61% 
+ 41 | Daniela Ungermann   |              25 |    71.689 |     0 |  0,59% 
+ 42 | Gabriel Temminghoff     |              23 |    48.560 |     0 |  0,54% 
+ 43 | Markl       |              21 |    70.937 |     0 |  0,50% 
+ 44 | Olivier Lischer       |              21 |    69.782 |     0 |  0,50% 
+ 45 | Iris Bümanns         |              21 |    47.162 |     0 |  0,50% 
+ 46 | Robert Micheli     |              21 |    40.100 |     0 |  0,50% 
+ 47 | David Nottorf    |              20 |    43.361 |     0 |  0,47% 
+ 48 | Henri Attlfellner     |              18 |    35.913 |     0 |  0,43% 
+ 49 | Urban S            |              17 |    70.399 |     9 |  0,40% 
+ 50 | baude             |              17 |    38.491 |     0 |  0,40% 
+
+***** Wer hat die meisten Diskussionen gestartet ? *****
+ ...| Name              | Disk. | Anzahl Beiträge | Größe     | %
+----|-------------------|-------|-----------------|-----------|--------|
+  1 | Wolfram Endner |   176 |             261 | 1.076.852 | 34,11% 
+  2 | Tee Trinker       |    27 |             134 |   236.227 |  5,23% 
+  3 | Fox               |    27 |              40 |   122.896 |  5,23% 
+  4 | Gerd             |    19 |             311 |   791.193 |  3,68% 
+  5 | Eilert Rischmüller       |    16 |              30 |    72.431 |  3,10% 
+  6 | Remo Meiner      |    14 |              66 |   126.404 |  2,71% 
+  7 | JPS               |    14 |              28 |   123.621 |  2,71% 
+  8 | Der Habakuk.      |    10 |              47 |   152.014 |  1,94% 
+  9 | Hasso             |    10 |              28 |    93.619 |  1,94% 
+ 10 | Urban S            |     9 |              17 |    70.399 |  1,74% 
+ 11 | Norman Kemmerer    |     8 |              58 |   112.886 |  1,55% 
+ 12 | Zorro             |     8 |               9 |    31.083 |  1,55% 
+ 13 | Torsten R.        |     7 |               8 |    25.783 |  1,36% 
+ 14 | Gernots             |     6 |              11 |    53.997 |  1,16% 
+ 15 | D. Brincke            |     6 |              11 |    39.723 |  1,16% 
+ 16 | Carl Ungethüm |     5 |              60 |   133.630 |  0,97% 
+ 17 | Eilert Ekart        |     5 |              48 |   118.190 |  0,97% 
+ 18 | Pascale         |     4 |              37 |    76.626 |  0,78% 
+ 19 | J.P.S.            |     4 |              10 |    30.939 |  0,78% 
+ 20 | BRD-Kritiker      |     4 |               4 |    24.662 |  0,78% 
+ 21 | Eugen Grißhaber     |     4 |               4 |     7.072 |  0,78% 
+ 22 | Walburga Torberg      |     3 |             355 |   896.645 |  0,58% 
+ 23 | Dem [Tr]Ottel ... |     3 |             262 |   487.294 |  0,58% 
+ 24 | Ueli Wittmayr        |     3 |              15 |    52.199 |  0,58% 
+ 25 | Felix Bärentatze |     3 |               4 |     7.546 |  0,58% 
+ 26 | Vincent Netzbu ... |     3 |               4 |     7.519 |  0,58% 
+ 27 | :????????         |     3 |               3 |     7.440 |  0,58% 
+ 28 | Geschwister v ... |     3 |               3 |     6.037 |  0,58% 
+ 29 | Sahra Hundeknecht |     3 |               3 |     5.422 |  0,58% 
+ 30 | Olivier Gründel      |     3 |               3 |     5.233 |  0,58% 
+ 31 | Vereinigte Oi ... |     3 |               3 |     4.849 |  0,58% 
+ 32 | Giorgio Bügel       |     2 |              26 |    66.365 |  0,39% 
+ 33 | fc3a501@uni-h ... |     2 |              16 |    22.190 |  0,39% 
+ 34 | Trudy Nadirk     |     2 |               9 |    21.406 |  0,39% 
+ 35 | Roberto F ... |     2 |               9 |    17.989 |  0,39% 
+ 36 | Joël Ebersmann         |     2 |               8 |    48.058 |  0,39% 
+ 37 | Stephan von  ... |     2 |               4 |     8.575 |  0,39% 
+ 38 | Schlammige Ge ... |     2 |               3 |     6.929 |  0,39% 
+ 39 | Wahrheitssuche    |     2 |               3 |     6.189 |  0,39% 
+ 40 | Erhard Niklos    |     2 |               3 |     6.036 |  0,39% 
+ 41 | Alfons Borcherdt  |     2 |               3 |     5.609 |  0,39% 
+ 42 | C. Oberpichler       |     2 |               2 |    35.467 |  0,39% 
+ 43 | Karl Uhlenbusch  |     2 |               2 |    15.564 |  0,39% 
+ 44 | Christoff Schnee  |     2 |               2 |     6.479 |  0,39% 
+ 45 | Lutz Brandter ... |     2 |               2 |     5.977 |  0,39% 
+ 46 | Onno Jetzlsperger     |     2 |               2 |     5.952 |  0,39% 
+ 47 | Patrice Vögt   |     2 |               2 |     4.942 |  0,39% 
+ 48 | Arnim Stahlge ... |     2 |               2 |     3.863 |  0,39% 
+ 49 | Engel 2012        |     2 |               2 |     3.304 |  0,39% 
+ 50 | Niko Traubenkraut    |     2 |               2 |     3.272 |  0,39% 
+
+****** Wer hat die längsten Beiträge geschrieben ? *****
+ ...| Name              | Größe     | Anzahl Beiträge | Disk. | %
+----|-------------------|-----------|-----------------|-------|--------|
+  1 | Stinkfried Endner | 2.176.423 |             261 |   176 |  9,96% 
+  2 | Walburga Torberg      |   896.645 |             355 |     3 |  8,29% 
+  3 | Gerd             |   791.193 |             311 |    19 |  7,32% 
+  4 | Grobi             |   505.462 |             110 |     0 |  4,67% 
+  5 | Dem [Tr]Ottel ... |   487.294 |             262 |     3 |  4,51% 
+  6 | Jens            |   404.068 |             160 |     1 |  3,74% 
+  7 | Kurt              |   281.465 |              98 |     0 |  2,60% 
+  8 | Tee Trinker       |   236.227 |             134 |    27 |  2,18% 
+  9 | Giorgio "Panzer ... |   189.655 |              63 |     0 |  1,75% 
+ 10 | Beat Uslar    |   154.653 |              66 |     0 |  1,43% 
+ 11 | Der Habakuk.      |   152.014 |              47 |    10 |  1,41% 
+ 12 | Willy Endner   |   138.539 |              82 |     0 |  1,28% 
+ 13 | Gerd Kockelkorn     |   137.952 |              73 |     0 |  1,28% 
+ 14 | Carl Ungethüm |   133.630 |              60 |     5 |  1,24% 
+ 15 | Remo Meiner      |   126.404 |              66 |    14 |  1,17% 
+ 16 | Orlando Deschner      |   125.259 |              45 |     0 |  1,16% 
+ 17 | JPS               |   123.621 |              28 |    14 |  1,14% 
+ 18 | Skandalos         |   123.203 |              58 |     1 |  1,14% 
+ 19 | Fox               |   122.896 |              40 |    27 |  1,14% 
+ 20 | Eilert Ekart        |   118.190 |              48 |     5 |  1,09% 
+ 21 | Jean-Luc O. Ahlbrink |   115.346 |              37 |     1 |  1,07% 
+ 22 | CirrusMinor       |   115.057 |              50 |     0 |  1,06% 
+ 23 | J.Malberg         |   114.431 |              63 |     0 |  1,06% 
+ 24 | Norman Kemmerer    |   112.886 |              58 |     8 |  1,04% 
+ 25 | Ronny Unrein     |   110.312 |              55 |     0 |  1,02% 
+ 26 | René Pfannekuchen   |   101.606 |              38 |     0 |  0,94% 
+ 27 | h4364r            |    98.639 |              56 |     1 |  0,91% 
+ 28 | Nils L.         |    97.916 |              52 |     0 |  0,91% 
+ 29 | Alain Oberbeck     |    96.917 |              38 |     0 |  0,90% 
+ 30 | Hasso             |    93.619 |              28 |    10 |  0,87% 
+ 31 | Claus Unterrainer |    91.764 |              31 |     0 |  0,85% 
+ 32 | Alexandre Orther     |    83.655 |              26 |     0 |  0,77% 
+ 33 | Pascale         |    76.626 |              37 |     4 |  0,71% 
+ 34 | Herr Fleisch    |    76.206 |              28 |     0 |  0,70% 
+ 35 | starless&bibl ... |    76.044 |              33 |     0 |  0,70% 
+ 36 | Eilert Rischmüller       |    72.431 |              30 |    16 |  0,67% 
+ 37 | Daniela Ungermann   |    71.689 |              25 |     0 |  0,66% 
+ 38 | Markl       |    70.937 |              21 |     0 |  0,66% 
+ 39 | Urban S            |    70.399 |              17 |     9 |  0,65% 
+ 40 | Olivier Lischer       |    69.782 |              21 |     0 |  0,65% 
+ 41 | Samuel Ules       |    68.217 |              30 |     0 |  0,63% 
+ 42 | Giorgio Bügel       |    66.365 |              26 |     2 |  0,61% 
+ 43 | Claus Neuhäusler ... |    58.350 |              35 |     1 |  0,54% 
+ 44 | Jean-Luc Erdelen     |    57.922 |              28 |     0 |  0,54% 
+ 45 | Gernots             |    53.997 |              11 |     6 |  0,50% 
+ 46 | Ueli Wittmayr        |    52.199 |              15 |     3 |  0,48% 
+ 47 | Gabriel Temminghoff     |    48.560 |              23 |     0 |  0,45% 
+ 48 | Joël Ebersmann         |    48.058 |               8 |     2 |  0,44% 
+ 49 | Iris Bümanns         |    47.162 |              21 |     0 |  0,44% 
+ 50 | David Nottorf    |    43.361 |              20 |     0 |  0,40% 
+
+**** Wann wurden die meisten Beiträge geschrieben ? ****
+ ...| Datum      | Anzahl Beiträge | Größe   | Disk. | %
+----|------------|-----------------|---------|-------|--------|
+  1 | 30.03.2012 |             206 | 517.573 |    18 |  4,87% |
+  2 | 28.03.2012 |             204 | 600.446 |     3 |  4,82% |
+  3 | 10.04.2012 |             188 | 472.268 |    15 |  4,44% |
+  4 | 15.04.2012 |             175 | 471.375 |    24 |  4,13% |
+  5 | 27.03.2012 |             166 | 420.494 |     8 |  3,92% |
+  6 | 07.04.2012 |             164 | 404.230 |    39 |  3,87% |
+  7 | 26.03.2012 |             163 | 373.839 |    19 |  3,85% |
+  8 | 04.04.2012 |             161 | 423.319 |    12 |  3,80% |
+  9 | 13.04.2012 |             159 | 428.303 |    17 |  3,76% |
+ 10 | 25.03.2012 |             158 | 364.480 |    21 |  3,73% |
+
+********* Diskussion mit den meisten Beiträgen *********
+ ...| Titel             | Anzahl Beiträge | Größe     | Disk. | %
+----|-------------------|-----------------|-----------|-------|--------|
+  1 | Das Vergraule ... |             464 | 1.274.006 |     1 | 10,96% 
+  2 | Bedingungslos ... |             355 |   978.548 |     1 |  8,38% 
+  3 | Pack die Bade ... |             102 |   286.488 |     1 |  2,41% 
+  4 | Klimawandel:  ... |              74 |   186.928 |     1 |  1,75% 
+  5 | Was kostet mehr?  |              59 |   155.725 |     0 |  1,39% 
+  6 | "Zypern-Rettu ... |              58 |   165.880 |     1 |  1,37% 
+  7 | Dreht Mordkor ... |              57 |   127.595 |     1 |  1,35% 
+  8 | DB-Sonde Pla ... |              56 |   130.473 |     1 |  1,32% 
+  9 | GEZ-Medien lü ... |              52 |   133.450 |     1 |  1,23% 
+ 10 | +++++  Zschäp ... |              48 |   105.307 |     1 |  1,13% 
+ 11 | Zypernrettung ... |              43 |   103.774 |     1 |  1,02% 
+ 12 | Warum "Else ... |              41 |    80.808 |     1 |  0,97% 
+ 13 | Mehdorn!          |              40 |   203.028 |     1 |  0,94% 
+ 14 | Luxemburgs Pr ... |              38 |   100.706 |     1 |  0,90% 
+ 15 | Gegen das Ver ... |              34 |    95.437 |     1 |  0,80% 
+ 16 | Saudi-Arabien ... |              34 |    82.976 |     1 |  0,80% 
+ 17 | EU will Fahrv ... |              34 |    68.233 |     1 |  0,80% 
+ 18 | Chavez ist tot    |              33 |    87.883 |     1 |  0,78% 
+ 19 | "Rote Karte f ... |              31 |    76.254 |     1 |  0,73% 
+ 20 | Erdöl ohne Ende   |              30 |    67.994 |     1 |  0,71% 
+ 21 | Groß wie ein  ... |              30 |    62.322 |     1 |  0,71% 
+ 22 | Geldnot: EU w ... |              29 |    57.575 |     1 |  0,68% 
+ 23 | Euro-Crash: I ... |              28 |    71.994 |     1 |  0,66% 
+ 24 | Zypern - Lehr ... |              28 |    66.526 |     1 |  0,66% 
+ 25 | Uiuiui! Karfr ... |              27 |    65.589 |     1 |  0,64% 
+ 26 | Deutsche werd ... |              27 |    54.752 |     1 |  0,64% 
+ 27 | Erdogan: Zion ... |              26 |    72.715 |     1 |  0,61% 
+ 28 | Das Elitenpro ... |              26 |    50.919 |     1 |  0,61% 
+ 29 | Der BRD-Zusam ... |              25 |    74.160 |     1 |  0,59% 
+ 30 | Kinder sind L ... |              25 |    60.562 |     1 |  0,59% 
+ 31 | Kinderabtreib ... |              24 |    71.107 |     1 |  0,57% 
+ 32 | CRATZENBACHERER Salafi ... |              24 |    54.106 |     1 |  0,57% 
+ 33 | DIE WELT: "Di ... |              24 |    48.851 |     1 |  0,57% 
+ 34 | Voestalpine b ... |              23 |    51.569 |     1 |  0,54% 
+ 35 | +++++ Schoa » ... |              23 |    49.856 |     1 |  0,54% 
+ 36 | Verdacht auf  ... |              22 |    65.361 |     0 |  0,52% 
+ 37 | EU: ALLE PRIN ... |              21 |    55.479 |     1 |  0,50% 
+ 38 | +++++  Paläst ... |              20 |    58.432 |     1 |  0,47% 
+ 39 | Euro-Chef: Zy ... |              20 |    50.839 |     1 |  0,47% 
+ 40 | Warum?            |              20 |    34.557 |     1 |  0,47% 
+ 41 | So, Nordkorea ... |              20 |    41.161 |     0 |  0,47% 
+ 42 | Zypern: Ein L ... |              19 |    50.518 |     1 |  0,45% 
+ 43 | +++++  Kirchw ... |              19 |    43.299 |     1 |  0,45% 
+ 44 | 15/82             |              19 |    31.615 |     1 |  0,45% 
+ 45 | +++++   Holoc ... |              18 |    37.342 |     1 |  0,43% 
+ 46 | NEID NEID NEID... |              17 |    34.168 |     1 |  0,40% 
+ 47 | +++++  „Hier  ... |              16 |    50.805 |     1 |  0,38% 
+ 48 | Das Schlachte ... |              16 |    44.250 |     1 |  0,38% 
+ 49 | Girlich: EU ... |              16 |    39.406 |     1 |  0,38% 
+ 50 | EGMR: Islamis ... |              16 |    37.732 |     1 |  0,38% 
+
+******* Die am häufigsten verwendeten Newsreader *******
+***** inklusiver unterschiedlicher Versionsnummern *****
+Gesamtzahl der Beiträge für die Berechnung : 7476
+ ...| Newsreader        | Anzahl Beiträge | Größe     | Disk. | %
+----|-------------------|-----------------|-----------|-------|--------|
+  1 | G2/1.0            |             775 | 2.186.700 |   178 | 24,89% 
+  2 | MacSOUP/D-2.8 ... |             185 |   414.734 |    78 |  5,94% 
+  3 | Mozilla/5.0 ( ... |             152 |   406.419 |    16 |  4,88% 
+  4 | MesNews/1.08. ... |             120 |   366.405 |    62 |  3,85% 
+  5 | Mozilla/5.0 ( ... |             120 |   270.295 |     8 |  3,85% 
+  6 | Microsoft Out ... |             119 |   307.412 |    11 |  3,82% 
+  7 | Mozilla/5.0 ( ... |             110 |   308.301 |     3 |  3,53% 
+  8 | Xnews/5.04.25     |             104 |   182.213 |    26 |  3,34% 
+  9 | Mozilla/5.0 ( ... |             104 |   223.751 |     2 |  3,34% 
+ 10 | Mozilla/5.0 ( ... |              87 |   199.273 |     3 |  2,79% 
+ 11 | Mozilla/5.0 ( ... |              77 |   227.227 |    23 |  2,47% 
+ 12 | 40tude_Dialog ... |              77 |   183.882 |     1 |  2,47% 
+ 13 | slrn/pre1.0.0 ... |              75 |   169.030 |     0 |  2,41% 
+ 14 | Mozilla/5.0 ( ... |              69 |   164.829 |    14 |  2,22% 
+ 15 | Mozilla/5.0 ( ... |              62 |   118.324 |     0 |  1,99% 
+ 16 | OpenXP/32 v3. ... |              60 |   103.927 |     0 |  1,93% 
+ 17 | MicroPlanet-G ... |              46 |    85.282 |     0 |  1,48% 
+ 18 | 40tude_Dialog ... |              45 |   228.690 |     0 |  1,45% 
+ 19 | Forte Agent 1 ... |              38 |   104.786 |     1 |  1,22% 
+ 20 | Pan/0.139 (Se ... |              38 |    88.702 |     0 |  1,22% 
+ 21 | Mozilla/5.0 ( ... |              35 |   105.617 |    12 |  1,12% 
+ 22 | WBUS Win ... |              35 |    82.694 |     5 |  1,12% 
+ 23 | Xnews/2006.08.24  |              26 |    60.614 |    14 |  0,83% 
+ 24 | Xnews/06.08.25    |              25 |    77.603 |     1 |  0,80% 
+ 25 | OpenXP/4.10.7 ... |              25 |    69.076 |     0 |  0,80% 
+ 26 | Forte Agent 1 ... |              25 |    49.438 |     0 |  0,80% 
+ 27 | Mozilla 4.77  ... |              24 |    68.254 |     0 |  0,77% 
+ 28 | 40tude_Dialog ... |              23 |    56.816 |     2 |  0,74% 
+ 29 | Opera Mail/12 ... |              20 |    47.117 |     0 |  0,64% 
+ 30 | Mozilla/5.0 ( ... |              19 |    61.025 |     0 |  0,61% 
+ 31 | Microsoft Out ... |              18 |    64.720 |     0 |  0,58% 
+ 32 | WKA-Thund ... |              15 |    40.243 |     0 |  0,48% 
+ 33 | Xnews/06.02.15    |              14 |    36.820 |     0 |  0,45% 
+ 34 | Mozilla/5.0 ( ... |              13 |    41.153 |     0 |  0,42% 
+ 35 | Mozilla/5.0 ( ... |              13 |    40.869 |     0 |  0,42% 
+ 36 | Forte Agent 5 ... |              13 |    25.178 |     0 |  0,42% 
+ 37 | Mozilla/5.0 ( ... |              12 |    29.471 |     0 |  0,39% 
+ 38 | tin/pre-1.4-9 ... |              11 |    15.981 |     2 |  0,35% 
+ 39 | Mozilla/5.0 ( ... |              11 |    21.798 |     1 |  0,35% 
+ 40 | Forte Agent 1 ... |              11 |    21.948 |     0 |  0,35% 
+ 41 | Forte Agent 6 ... |               9 |    21.243 |     1 |  0,29% 
+ 42 | Mozilla/5.0 ( ... |               9 |    18.054 |     1 |  0,29% 
+ 43 | Mozilla/5.0 ( ... |               9 |    21.290 |     0 |  0,29% 
+ 44 | Microsoft Win ... |               9 |    20.046 |     0 |  0,29% 
+ 45 | Mozilla/5.0 ( ... |               9 |    15.923 |     0 |  0,29% 
+ 46 | 09. 12. 18    |               8 |    11.217 |     3 |  0,26% 
+ 47 | Mozilla/5.0 ( ... |               8 |    26.909 |     0 |  0,26% 
+ 48 | Mozilla/5.0 ( ... |               8 |    19.356 |     0 |  0,26% 
+ 49 | Andere            |               8 |    15.331 |     0 |  0,26% 
+ 50 | XanaNews/1.19 ... |               7 |    14.884 |     0 |  0,22% 
+
+******* Die am häufigsten verwendeten Newsreader *******
+*********** nach unterschiedlichen Programmen **********
+Gesamtzahl der Beiträge für die Berechnung : 7476
+ ...| Newsreader        | Anzahl Beiträge | Größe     | Disk. | %
+----|-------------------|-----------------|-----------|-------|--------|
+  1 | Mozilla           |           1.026 | 2.616.155 |    89 | 32,95% 
+  2 | G2                |             775 | 2.186.700 |   178 | 24,89% 
+  3 | MacSOUP           |             185 |   414.734 |    78 |  5,94% 
+  4 | Xnews             |             177 |   368.467 |    44 |  5,68% 
+  5 | 40tude_Dialog     |             165 |   510.429 |     3 |  5,30% 
+  6 | Microsoft Out ... |             141 |   378.217 |    11 |  4,53% 
+  7 | MesNews           |             121 |   368.154 |    62 |  3,89% 
+  8 | Forte Agent       |              98 |   226.015 |     3 |  3,15% 
+  9 | OpenXP            |              85 |   173.003 |     0 |  2,73% 
+ 10 | slrn              |              77 |   171.773 |     0 |  2,47% 
+ 11 | WBUS Win ... |              46 |   108.268 |     5 |  1,48% 
+ 12 | MicroPlanet-G ... |              46 |    85.282 |     0 |  1,48% 
+ 13 | Pan               |              41 |    99.819 |     0 |  1,32% 
+ 14 | Opera Mail        |              20 |    47.117 |     0 |  0,64% 
+ 15 | WKA-Thund ... |              15 |    40.243 |     0 |  0,48% 
+ 16 | tin               |              11 |    15.981 |     2 |  0,35% 
+ 17 | Andere            |               8 |    15.331 |     0 |  0,26% 
+ 18 | KNode             |               7 |    17.210 |     1 |  0,22% 
+ 19 | Zacharias          |               7 |    14.884 |     0 |  0,22% 
+ 20 | Claws Mail        |               7 |    12.643 |     0 |  0,22% 
+ 21 | MT-NewsWatcher    |               6 |    12.608 |     1 |  0,19% 
+ 22 | Gnus              |               3 |     9.160 |     0 |  0,10% 
+ 23 | TurboShrimp       |               3 |     5.598 |     0 |  0,10% 
+ 24 | ÃƒÂœberElk        |               3 |     4.558 |     0 |  0,10% 
+ 25 | SunDuck           |               3 |     4.173 |     0 |  0,10% 
+ 26 | SunGrub           |               2 |     4.031 |     0 |  0,06% 
+ 27 | WBUS Win ... |               2 |     3.464 |     0 |  0,06% 
+ 28 | IEPorcupine       |               2 |     3.430 |     0 |  0,06% 
+ 29 | ThunderBaboon     |               1 |     1.128 |     1 |  0,03% 
+ 30 | trn               |               1 |     2.764 |     0 |  0,03% 
+ 31 | AshSloth          |               1 |     2.632 |     0 |  0,03% 
+ 32 | EpiQuail          |               1 |     2.438 |     0 |  0,03% 
+ 33 | UltraJackal       |               1 |     2.392 |     0 |  0,03% 
+ 34 | ThunderMongoose   |               1 |     2.279 |     0 |  0,03% 
+ 35 | Lukas           |               1 |     2.157 |     0 |  0,03% 
+ 36 | CannonEmu         |               1 |     2.154 |     0 |  0,03% 
+ 37 | WWWChipmunk       |               1 |     2.110 |     0 |  0,03% 
+ 38 | WaterCougar       |               1 |     2.008 |     0 |  0,03% 
+ 39 | DingsBrowser      |               1 |     2.002 |     0 |  0,03% 
+ 40 | SeaAnemone        |               1 |     1.887 |     0 |  0,03% 
+ 41 | FireLynx          |               1 |     1.870 |     0 |  0,03% 
+ 42 | SongDonkey        |               1 |     1.863 |     0 |  0,03% 
+ 43 | LightningSnake    |               1 |     1.615 |     0 |  0,03% 
+ 44 | IFerret           |               1 |     1.569 |     0 |  0,03% 
+ 45 | TeraCougar        |               1 |     1.538 |     0 |  0,03% 
+ 46 | MegaPorcupine     |               1 |     1.497 |     0 |  0,03% 
+ 47 | CyberPiranha      |               1 |     1.494 |     0 |  0,03% 
+ 48 | Sylpheed          |               1 |     1.490 |     0 |  0,03% 
+ 49 | NewsPorcupine     |               1 |     1.489 |     0 |  0,03% 
+ 50 | MagicAnemone      |               1 |     1.473 |     0 |  0,03% 
+ 51 | GhostMollusk      |               1 |     1.455 |     0 |  0,03% 
+
+*************** sonstige statische Werte ***************
+Anzahl der Beiträge : 4233 in 31 Tagen
+Neue Diskussionen : 516
+Anzahl der Antworten : 3717
+Anzahl geänderter Diskussionen : 529
+Gesamtgröße : 46379901 tdwhm (17.844,88 kb)
+Anzahl der Zeilen : 628488 Zeilen
+Anzahl Autoren : 297
+Durschnittliche Anzahl der Beiträge je Autor : 12,38
+Durschnittliche Größe der Beiträge je Autor : 31.622,96 bytes (30,88 
+kb)
+Durschnittliche Anzahl der Zeilen je Autor : 324,07
+
+-- 
+Gobusata shite orimasu, sayounara - Detlev
+http://zvd.rjckyei.iia/qaemh?o=KRx1fiHz1Ey

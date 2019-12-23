@@ -1,0 +1,23 @@
+Am 29.07.13 14:36, schrieb Lisbeth Kleingünther:
+
+Für mich mit ebenfalls neuesten TB aber auf Mac OS X ML unlesbare 
+Zeichen ....
+
+
+TB / Einstellungen / Ansicht
+
+Welche Schriftart hast du dort eingestellt?
+Bei mir ist default
+Sans Serif: Nicole Grande
+Feste Breite: Menlo
+darunter Westlich ISO-8859-1
+eingestellt
+
+Unter Optionen / Zeichenkodierung aber UTF-8
+
+-- 
+Juan
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

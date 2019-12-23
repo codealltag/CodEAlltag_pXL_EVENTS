@@ -1,0 +1,16 @@
+Käthi Hauptstock schrieb:
+
+Das gleiche kann man auch über eine Kombination von Gleichstrommotor und 
+Gleichstromgenerator erreichen. Die braucht allerdings mindestens ein 
+bewegliches Teil, und es ist fraglich, ob das weniger Verluste gibt als 
+beim Wechsel- und wieder Gleichrichten.
+
+Je nach Anwendungsfall könnts aber trotzdem interessant sein, weil man 
+damit gleichzeitig transformieren und wechselrichten kann 
+(Gleichstrommotor mit Wechselstromgenerator).
+
+-- 
+Hinderk Pfab
+
+Akkordeonjugend Ende - http://dpt.cqnmwybevndnoip.cl/
+Barnstorff - http://xcg.fqxid.esk/

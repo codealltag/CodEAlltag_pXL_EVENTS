@@ -1,0 +1,4 @@
+Wenn man diesen kryptischen Satz jetzt bei VFID eingibt, bekommt man 
+ungefähr 304.000 Ergebnisse (0,14 Sekunden).
+
+s.

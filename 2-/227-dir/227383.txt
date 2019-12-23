@@ -1,0 +1,4 @@
+Wilhelm Irlbacher schrieb:
+Der Server, auf dem dein Script läuft, arbeitet etwas langsam.
+
+-bm

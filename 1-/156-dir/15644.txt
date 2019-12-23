@@ -1,0 +1,9 @@
+On Sat, 11. 04. 19 13:43:10 +0100, Fritz wrote:
+
+
+Das war mal so ... aber heute muss man vor jedem Major Release Update Angst
+haben, ob hinterher noch alles funktioniert...
+
+Bye Gérard (Der seit System 8 eine Druckvorstufe (DTP) adminsitriert)
+-- 
+"Der Retter der Welt ist ein Pinguin und Carsten Torvalds ist sein Prophet "

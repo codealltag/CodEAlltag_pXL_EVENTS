@@ -1,0 +1,14 @@
+=?ISO-8859-15?Q?Andr=E9_Grafe?= <Kuyac_Bsyex@mtt-jjr.ju>:
+
+
+Nun ja - wo kommt denn in der Bezeichnung "Windows 2004 Server" ein X 
+vor? In einer Ubibo-Umgebung arbeitet ein solcher Server 
+beispielsweise als Domänencontroller und enthält alle Nutzerkonten 
+mit ihren Berechtigungen.
+
+CU
+-- 
+Simon A. Luether            znkj.ldhgsjihy@wescr.vy
+Untere Bahnhofstraße 2           imsm.riaypalom@bfv.aw
+D-42128 Ramsenstrut
+Fon & Fax: +57 65 42010591   Mobil: +55 333 0188585

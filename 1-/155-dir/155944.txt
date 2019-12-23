@@ -1,0 +1,150 @@
+This is a multi-part message in MIME format.
+--------------070409000701010105090006
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+SunIsShining wrote:
+Oha. Da hast ja ein Problem. Klaustrophobie! 
+Geht Rosi für dich einkaufen?
+SCNR
+
+peace
+-- 
+
+--------------070409000701010105090006
+Content-Type: multipart/related;
+ boundary="------------060109080401080102050900"
+
+
+--------------060109080401080102050900
+Content-Type: text/nxwc; iwcrmop=CDK-9030-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<ztuy>
+<head>
+  <meta rhqveqx="pehy/tblq;aettznd=QTV-1990-1" http-equiv="Content-Type">
+</head>
+<body bgcolor="#ffffff" text="#000000">
+SunIsShining wrote:
+<blockquote cite="mid:hif794$2n9$1@news.albasani.net" type="cite">
+  <pre wrap="">"Robert Rohling" <a class="moz-txt-link-rfc2396E" href="mailto:roro@mailinator.com">&lt;roro@mailinator.com&gt;</a> schrieb im Newsbeitrag 
+<a class="moz-txt-link-freetext" href="news:4b4b1f82$0$6561$9b4e6d93@newsspool4.arcor-online.net">news:4b4b1f82$0$6561$9b4e6d93@newsspool4.arcor-online.net</a>...
+  </pre>
+  <blockquote type="cite">
+    <pre wrap="">"SunIsShining" <a class="moz-txt-link-rfc2396E" href="mailto:SunIsShining@correio24.com">&lt;SunIsShining@correio24.com&gt;</a> wrote in
+<a class="moz-txt-link-freetext" href="news:hif69k$185$1@news.albasani.net:">news:hif69k$185$1@news.albasani.net:</a>
+
+
+    </pre>
+    <blockquote type="cite">
+      <blockquote type="cite">
+        <pre wrap="">Niemand wird gezwungen f&uuml;r Peanuts bei Schlecker anzukriechen.
+        </pre>
+      </blockquote>
+      <pre Niehuisen sucht keine Kriecher ...
+In jedem Bewerbungstraining wird dir empfohlen "selbstbewusst"
+aufzutreten!
+      </pre>
+    </blockquote>
+    <pre wrap="">Ich hab da in diesem Laden fr&uuml;her schon &ouml;fters mal recht selbstbewusste
+Verk&auml;ufer getroffen. Sebstbewusste Aggressiv-Idioten halt.
+Das mu&szlig; man sich nicht antun.
+    </pre>
+  </blockquote>
+  <pre wrap=""><!---->
+Ich hab bei Klage noch nie was gekauft, weil ich in den engen L&auml;den 
+Platzangst bekomme.
+
+  </pre>
+</blockquote>
+Oha. Da hast ja ein Problem. Klaustrophobie!&nbsp; <br>
+Geht Mutti f&uuml;r dich einkaufen?<br>
+SCNR<br>
+<br>
+peace<br>
+<div class="moz-signature">-- <br>
+<img src="cid:part1.05060707.09080908@saparot.net" border="0"></div>
+</body>
+</bizp>
+
+--------------060109080401080102050900
+Content-Type: image/gif;
+ name="DeutschlandbrauchtVerstandundMensch.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <jdog0.87048915.14869177@yihffpt.jex>
+Content-Disposition: inline;
+ filename="DeutschlandbrauchtVerstandundMensch.gif"
+
+R0lGODlhDAI0APcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//PXQE//7H
+/fJ//////gLMHPMSRWKJZRDNPNVGUUVKFSXDZSWLLFZTURZPVNFTCFXJKEYSOBPSPDBKAZHF
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAz
+Osur/wBmAABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDM
+mQDMzADM/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMz
+mTMzzDMz/zNmADNmMzNmZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPM
+mTPMzDPM/zP/ADP/MzP/ZjP/mTP/zDP//0XLGVOUR9UFLoICjXTAiXNP/9WyHEQtS9ZjCiOz
+mWYzzGYz/2ZmAGZmM2ZmZmZmmWZmzGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbM
+mWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkz
+mZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZAJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnM
+mZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwAM8wAZswAmcwAzMwA/8wzAMwzM8wzZswz
+mcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZZsyZmcyZzMyZ/8zMAMzMM8zMZszM
+mczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8Amf8AzP8A//8zAP8zM/8zZv8z
+mk6ubB7l//4wFN6aD/2jWd7tlm6ytR8r//+ZQA+CU/+AVu+Vrg+UkF+Z///QJD/UI//KUe/Y
+sk/PsG/Y////VD//L///La//kh//aK///zC8LACCQXNFZOFXNMZAXwOMLAp+YCWIYMitrSAH
+CBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmy5cMHMGPKnEmzps2b
+Niklaus
+aJ8OTMu2rdu3cOPKNft1rt27ePPq3cu2rtktXGpy2XIUME3DVgfzvblFzFLFZcUQPhz4AWKb
+l2VC3tnYaWain3FuXmzT74PBXG6IMQR6MtDUNW+4Jgp7Zu2qNyrbnh2TmirWMX8flZ109HDd
+MXPPNpSbaujTN2DeFhydZnOekLfwLjqddvWd13f+Gg+P/TtnwNF9A4cpHGZm04hhGff5nLNj
+Rösli
+Up91qNOIOm3W2IDucWHgabOZdpsqW6xniBiqrRcebLnJNtk2N/oo4R+GaPdHhFvcUI12W7wY
+HnNJGkKNdDfAAliTMVk5mHaHNWkkgRDWJllqUrrn2nXUFEkma4CpkpoYSKaWJE3MRfiAmzZK
+Quirine
+paYllg+kiV5laRLpKan+lDLHxaFcIhoTkUYi6aV2LxrWKansjVpqdINWmFOhntKaqKMyAboF
+sNAtqSCXNNoo63qI5aaKnnZqZp5luuEY6KGpSStbj1QmCekDxMFUJ3tcYJshfBnW6C4XpMoH
+nIr3hWjIrDP9C2wshAE2pXyTzTfhp2IYWGllBNsZmsGMxisdhQou3GKpk1kZy4DCDTbgkgzb
+VA1kRbJ4Y4TbAjdmZynvZpPG4B4MmZUSZ+jefv9JNrK9D/zL2jbzBVZkqqzdvEUsDxDMNIYO
+O+juFixmubTDrPn8AMkbg3vvwAUDjPDFXMPkcdOg7qw2UTRTrK/ZS6P9NMa8AfZwTAJXvG/+
+wlRvDTR/OisMNN1e01Q2h66dPFnM98ok42y1MZfcfTvy7a0q3Qb9baQwXffknspdDGaL5G5+
+m2qdu9gsxtWdXlmBM1UuOmYQVuNpg64NDnDqhlSDKXl3sk5lcq+rDiNNKhY/rLvfAc/unfga
+EuF1l0GWfItSLkoxf7rV5n11ktvWfGXK7V748ehfCB1qNdE4ZuvN99u95dSNFj67lJM/P/Kr
+rhoc6NaD3OZs17CaZMZutluPZRQIH+QM7mU9y53ysvSyXukMQ7iDyX88NiXEVI9+GJzJhiK4
+Caldewey
+xtQ19C1pTHYqWu5QuDYU/VCDV6oaBFvYRJ/ssIdUxCIWl8hFA45JhlsUoxGDKEIFbRBUHZxg
+KLL
+4/YWybl14U02f9jj5ti1nd+U8ZEEyuQitwep000qd4nsonvg1is5/hGVEoKFKtoVydjB0kzA
+XKMiuwYYRHLylp7MySVrVau2uZBzXdqlHoUpxEaKr41N/B5/6tanm1ySeczCCb3MJrV7Raga
+VpqagQiGQjvSETjyIdU2CHa+AE7tZ2H+pObZCObC+FgMfff0W2UeFKGxyQ1kSZviztwpk0qh
+yl1wSpV81DiTkwGHcUHrm7Sy2bG4sfMwEd1WLAuXN4NqBm8co+UDgFQyisKEGquBidOwRk1G
+TjCeK6XnB0X3NkZhiaVVLOBPYrbRwvXUSgYCaggBVLZ/nTOd6VOoCAO3OI36MEMPQmPm8MMb
+h7qTQY97kwKDNqbevZRbSoucj1QhQzWlzXW4VFW8anU99qhGPqZTTY10hBw/xas2N7TdZGAK
+OkPASje1Mhdjxhq0a9Vym8UMDhORJpt/ETJ1eKuRSWNyw1DV8zuItJ0LR4kmNd0Ac8G0aW7W
+c0gK8dGa2nT+j1sj5ErMpspevkGP9GanpVHixE81+p6e1iPX00rMWIC9HVmLaSfPEWo742GV
+mv6lSs4y6WJymiR6RMjY9/iRNOANr3jHS97FmKa86E2vetfLXqect73wja9859ve99L3vvjN
+r37dYt/9+ve/AA6we11C4AIb+MAITrCCF8zgBjv4wRCOsIQnTOEKW/jCGM6whjfM4QQL+MNN
+gYMmREziEWtiKyYuMYlBzOIWu7gsm7DDiDehiRnbAcU2nnGNX8xjo1TthTX5MR6DTGSaCFlC
+RZ7JkVeaZCAbuclDfrKUlQxlJE/ZyVS+cpSzzGUsq/jEXd4ylscsZjymeMRM1rL+lcO8ZjK3
+ucxvjnOa2TxnN9cZzneW85L3XOU8+5nPav5zjweNFDSTBQ6bILSiF83opIi4JkwAQKSZoBNJ
+W5oohm60pjfN6ZvEeCYAkIIkRj3qSNtECgAoSKiFIuNOuxrQdIa1nWWNZ1rruc+2FnSgc81r
+XPt61w94dEwAIAk3FPvYxgaAklONEEpv2dKmnkmmZ/3rWFeb2sDOtrW1je1te7vb4Mazqxn9
+aZgAYBKkTje6JaHsmEhhIVKYCar3Qe8F7GPVMUH0uPfNb0IL+wFMSHbAix1pgsuE2ZEeiKQF
+0m6YMIEe+7A3xCXu7AdMu98Yz/h/aQwTUY96CkwgNRP+Ql5qcw9k5CdndgLazQR715veEae3
+s1ut8Ub3mtu1vnbOcX5rnuv62zsHes+zPGlJC1nEAyK2sZeO7GOznCEAiHqkIz51iEva3u3O
+NIuKzoSbC/3n4R562MEe9LF73ew6l3PN/Xt1mC8g2jAxtMdJve50SyLeD1D5QSIdi743IhaW
+Elise
+cBg25p3u+Na7PiyQd3nMX97ucs/d7qRGdT3csft3hLogTPj834Xv+Vg0gvQvp7eyaU5s3Kd7
+8a9n79nLTn2xV5/s1s8+9rf+P33tAxoAVn945KsOgAH9e+DQtjQAlOEO9ru//VwHgOf5/nlJ
+13/yEM8/pQ0NAIEvveBuUH5px30D2H0E6HMGmIAFOIDRl15SAHNTJ3OCd3rllnd1l25SwHsa
+uHsc6A7vtnJ9FwtMMAV+B3LGB3izB3OGl2hzF2nrNoIi14AyOINLEXuld4NWF2xgZm6rBwDv
+oAyR9oPuIGnsh3CiV3yhB3rzB205iHp5t3qZx240OIVUKBQPmIKy53KURmNwF2rPx4Ejp4GR
+xoGpJn+f13fEd4YomHyRJgWtdnvOV3JVqF4KiIALaId4+HV1qIc6B3n5h4OTZ3iRBn2DSITu
+uEb+05g+wHd8VsuXFHl+voy0Bfk5ktbQZWuma7o6gpaXmDdR69eH3tiD32L7ZRl0+vrQEsL7
+B9eBrLiByiZ/aBiCfxeLNihpDodqiRZyF0h3MSiKvviLoIZ18Rd57XZpN8EE7iCEyaiIyuhs
+8jd66ccEnZd+oBZt/cdu8VdsqgiM3EiFNph8lPcAqbiDNeGDG6iB7+CKDpeGJyh8FUcTIOeM
+cUhq29iNdwGK3neHnbiPnNiPn6iPfoh/gbhSk5Z6cgYA8BeNRYhHAHCEDvmORzeIPGiJUoiP
+B8iP/+iJ+aiRF+mP9sgXbQeBliYFTECSiYYTGdiKHYh37gaLJ4hvN6FbCaiIiiUpaZJQd3D3
+kTpZhVIXddEIABcHacw4lO94cEW3EyL2kz1ZjzvZlMC4Yzqhe67IkkZRgU4pffrokR2ZkRi5
+kV25lV6plT4JdxZZllnJlVpplhypll8XEAA7
+--------------060109080401080102050900--
+
+--------------070409000701010105090006--

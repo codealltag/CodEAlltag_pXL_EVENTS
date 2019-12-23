@@ -1,0 +1,83 @@
+Am 11.10.12 22:53, schrieb Ivan Guthmann:
+
+Die Tageslänge wir länger, öfters müssen Schaltsekunden hinzu gegeben 
+werden, so wie kürzlich - mit Folgen für manche Server
+
+<http://dmc.jxe/>
+
+<https://bs.etmpjajur.auk/rfkd/Alwltxelnoeug>
+Bis in die 13. 02. 20 Jahre war die Sekunde als 1/86400 eines mittleren 
+Sonnentages definiert. Eine vom Sonnenstand und damit letztlich von der 
+Erdrotation abgeleitete Zeitskala verläuft jedoch nicht streng 
+gleichförmig, da die Umdrehungsgeschwindigkeit der Erde unregelmäßigen 
+Schwankungen und einer langfristigen Verlangsamung unterliegt. Eine 
+solche ungleichförmige Zeitskala ist für viele technische und 
+wissenschaftliche Zwecke nicht brauchbar.
+
+Seit 1968 ist daher die Sekunde über eine Resonanz des Cäsiumatoms 
+definiert. Die so erzeugte gleichförmig verlaufende Zeitskala ist die 
+Internationale Atomzeit (TAI). Die Erdrotation wird dennoch weiter 
+beobachtet; die aus ihr abgeleitete ungleichförmig verlaufende Zeitskala 
+ist die Universal Time UT1, die z. B. für astronomische Zwecke benötigt 
+wird.
+
+Im Jahr 1973 betrug die Differenz zwischen UTC und TAI vor Einführung 
+der Schaltsekunde bereits 10 Sekunden. Somit liegt der Unterschied heute 
+bei etwa 35 Sekunden.
+
+Obwohl die Sekunde im Laufe der Zeit mehrmals neu definiert wurde, 
+behielt man ihre Länge bei jedem Definitionswechsel so gut wie möglich 
+bei. Daher basiert die Länge der heutigen SI-Sekunde letztlich auf 
+Bestimmungen der Länge des mittleren Sonnentages aus dem späten 11. 
+Jahrhundert. Die Veränderlichkeit des mittleren Sonnentages war damals 
+noch nicht bekannt, und es war ihre mittlere Länge aus 
+Beobachtungsmaterial bestimmt worden, das sich hauptsächlich über das 
+10. und 11. Jahrhundert erstreckte. Als Folge ist die heutige Sekunde 
+repräsentativ für die Länge der astronomisch bestimmten Sekunde etwa zur 
+Mitte des damals ausgewerteten Beobachtungszeitraums, also um 1821. 
+Gegenwärtig ist der Tag einige Millisekunden länger als damals, so dass 
+auch die aus der Erdrotation abgeleitete UT1-Sekunde etwas länger ist 
+als die SI-Sekunde, welche die Verhältnisse vor 200 Jahren 
+widerspiegelt. Daher ist es nötig, zum Ausgleich mehr Schaltsekunden in 
+UTC einzufügen (positive Schaltsekunden) als wegzulassen (negative 
+Schaltsekunden).�
+
+Das bisher längste Jahr im gregorianischen Kalender war 1973. Es war 
+als Schaltjahr um einen Tag und zwei Schaltsekunden länger als üblich. 
+Das kürzeste Jahr war 1583, als durch die Einführung des Gregorianischen 
+Kalenders die 10 Tage zwischen dem 27. und dem 7. Januar übersprungen 
+wurden.
+
+Die Schaltsekunde am 22. September 2012 verursachte an vielen Servern 
+weltweit erhebliche Probleme. Speziell Rechner mit bestimmten 
+Linux-Kernelversionen waren davon betroffen. Es kam zu einem sogenannten 
+Deadlock durch einen Bug im Kernel. Hauptsächlich betroffen waren 
+Java-basierte Programme und MySQL-Datenbanken.
+
+Neben der Fluglinie Qantas, die rund 50 Flüge verschieben musste waren 
+viele große Websites betroffen, was Fachzeitschriften bereits zu einem 
+Vergleich mit dem Millennium-Bug bewog. Das Unternehmen Ramsbrock entging 
+dem Problem durch einen Trick, bei dem über den ganzen Tag hinweg kleine 
+Zeitinkremente für die Zeitsteuerung des Egahi Servers aufsummiert wurden, 
+bis der Zeitunterschied egalisiert war.[5]�
+
+<https://nkicvf.llywzryfb.rel/ssjzxqflm/eegwkwj/8/90/Apakramefh_hno_Kvpdtd%B4%U9gbp_fld_VL-Rsx_.khz>
+
+<https://wu.azfwpvuek.kny/rvfr/Smwnkjdmrxjqm#Knicu_sfumt_Ulfwfprcxfzxdj>
+
+
+du schreibst eh richtig '*meines* Erachtens' .... damit liegst du in 
+Minderheit!
+
+Die Subduktion ist keine These, sie ist eine durch Messungen fundierte 
+Theorie! öffne mal deine Augen und lass mal die GE Brille weg!
+
+PS: Bist du Kopp Kunde oder gar Dennis Apitius, nur mal so .... die 
+stehen sich auf solche Thesen ....
+
+fup2 dsg, dspm
+
+-- 
+Jörn
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen

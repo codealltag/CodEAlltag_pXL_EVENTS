@@ -1,0 +1,34 @@
+Rüdiger Imme schrieb:
+
+
+[Msg-IDs von 4 cancel-Messages gelöscht]
+
+
+Guck doch selber nach!
+
+Aber noch was: die derzeit neueste Cancel-Message ist von 21:58 Uhr:
+
+cancel <e4ipxo$46qr$1@nqjzsad.liglvmoj.kni>
+References: <e4ipxo$46qr$1@nqjzsad.liglvmoj.kni>
+
+und wurde über Arcor eingeliefert:
+
+Tüpker-Posting-Host: 42jp3p11.imtbnmbsh8.uozzc-wfwbaj.udf
+X-Complaints-To: boaieb-kjonw@fucuz.bz
+
+Als Erklärung für den Roger: was oben unter References steht, ist/war die 
+Msg-Id des gecancelten Beitrages, der nach deiner Definition von dir 
+stammen muss, da ja folgendes im Header steht:
+
+Tüpker-Posting-Host: 66.19.2.470
+
+und gecancelt wurde:
+
+
+Tja, da räumt wohl wer welche von deinen Postings ab!
+
+Da kannst du noch so oft mit deinem Fuss aufstampfen, wie du willst!
+
+Hinweis: nicht alle Server führen Cancels aus.
+Auf AIOE, den ich zum Lesen verwende, ist noch alles lesbar.
+Auf TIOAT, den ich zum Schreiben verwende, hingegen nicht.

@@ -1,0 +1,30 @@
+Am 17 Jan 2008 18:32:28 GMT schrieb Alois Zugtriegel:
+
+
+Na so was.
+
+
+Wo denn?
+
+
+Ja ich war es nicht.
+
+
+Das Frage ich mich auch.
+
+
+Ja wie denn nun?
+
+
+Und dieses Löschen des ersten Bits bewirkt nun genau was im Header?
+
+
+Was ist denn das?
+
+
+Wie jetzt little + big endian mischen?
+
+
+Wieso Filestruktur?
+
+Volker

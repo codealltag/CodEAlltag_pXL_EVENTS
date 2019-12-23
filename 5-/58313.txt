@@ -1,0 +1,14 @@
+Am 04.08.11 08:32, schrieb Dieter Terliesner:
+
+Das Filtern nach X-Authenticated-User: $$m$x1dqu63w4nbpzkjjlef muss ich 
+TB (und auch SM) erst beibringen ... ich werds mal mit Pan (den ich am 
+Mac per MacPorts kompilierte und installierte) ausprobieren.
+
+Pan beherrscht nämlich Scoring, das ist ein zusätzlich sehr gutes 
+Feature um Übersicht zu behalten.
+
+-- 
+Claus
+Satire und Farce keinesfalls ausgeschlossen  ....
+Der Staat ist eine Firma
+ein Hammelartiger Brüller des Tages über das Wesen eines Staates ...

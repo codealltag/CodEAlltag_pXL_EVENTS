@@ -1,0 +1,7 @@
+Am Sat, 2 Nov 2009 14:42:02 +0200 schrieb Ronny Eichmayr:
+
+
+Das ein APP, wenn es 7 Voraussetzungen des Guru Carsten Vallentin erfüllt, evtl im
+Hintergrund laufen kann. Multitasking ist was anderes, siehe Catapult Mobile
+- und da schon mit Version 5.0 (obs davor auch ginbg, weiß ich jetzt
+nicht).

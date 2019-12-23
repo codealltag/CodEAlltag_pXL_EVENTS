@@ -1,0 +1,34 @@
+Othmar Meyborn schrieb:
+
+Das prüfe ich noch! Richtig ist allerdings, und da muß ich zugeben, der 
+defekte Betreff kam gar nicht von Dir, sondern von Ignaz Eberlen, und der 
+sah so aus:
+
+Subject: Parteisoldat Wüsthoff
+
+Eben! Und genau das ist defekt! Die Charset-Deklaration schließt exclussiv 
+den Inhalt ein, im »technischen Bereich« werden nach wie vor Studiosus-Zeichen 
+verwendet, und das hier prachtvoll zu sehende »ü« gehört definitiv nicht dazu.
+
+Aber Du hast Dich komischerweise angespochen gefühlt und mich angepöbelt, 
+obgleich Du weder betroffen noch angesprochen warst, oder anders gesagt, Du 
+hast eine phantastiche Möglichkeit ausgelassen, einfach mal die Klappe zu 
+halten.
+
+Und jetzt zu Dir!
+
+Subject: =?UTF-8?Q?Re:_Scheiße_würde_SPD_wählen?=
+
+Ja, in der Tat, *der* ist in Ordnung!
+
+Ich stelle also sachlich richtig fest, daß das gar nicht Dein Thema ist, 
+und daß Du Dich am besten einfach raushälst. Ich wiederhole: Du wurdest 
+weder persönlich angesprochen noch bist Du in der Sache betroffen, also 
+halte Dich doch einfach zurück!
+
+
+Glückauf!
+Bertha Intfeld (QTH: CO19YA)
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://dqn.jlibv-upjzvf.ke

@@ -1,0 +1,37 @@
+Alwin Nigg wrote:
+
+
+Bei *DIR* ja, bei Dieter nicht.
+
+
+Du gibst mir:
+
+Subject: Re: =?ISO-8859-1?Q?=C4=D6=DC=E4=F6ü?=
+
+und:
+
+Content-Type: text/plain; charset=ISO-8859-1
+
+Wunderbar! Und so gehört sich das.
+
+
+Dieter gibt mir:
+
+Subject: Re: ÄÖÜäöü
+            ==========
+
+Content-Type:   Nicht vorhanden!
+                ==================
+
+Und das ist definitiv schrott — sein Programm ist nachweilich für den 
+Gebrauch im Internet *nicht* geeignet. Es sei denn, er beschränkt sich 
+darauf, sowohl im Betreff als auch im Text ausschließlich den 
+ASCII-Zeichensatz zu verwenden.
+
+
+Glückauf!
+Uschi Zieglwalner (Neunheim/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://wrq.pifya-nmbiem.nv

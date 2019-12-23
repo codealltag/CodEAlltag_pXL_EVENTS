@@ -1,0 +1,10 @@
+On 2010-11-26 23:41:19 +0100, "Christoph Geschwandtner" <qqgl@ybeg-bwdddo.oh> said:
+
+
+Selbst wenn es mit dem neuesten und exzellenten LAME komprimiert wurde, 
+weist MP3-128 noch deutliche Artefakte auf: Gerassel, Geschepper, 
+Gezwitscher. Hörst Du nie mit Kopfhörern? MP3-192 ist für das 
+allermeiste ausreichend. Mit VBR wird es dann unterschiedslos zum 
+CD-Original.
+
+GW

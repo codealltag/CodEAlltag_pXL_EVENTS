@@ -1,0 +1,63 @@
+This is an OpenPGP/MIME signed message (RFC 2441 and 3157)
+--------------enigD3B7121E11A592FD95F452FC
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Am 24.08.2013 11:38, schrieb Reiner Kronthaler:
+
+
+"Dieser neue Kobalt-basierte Katalysator kann also die beiden
+Teilreaktionen der Elektrolyse katalysieren und würde eine
+kostengünstigere und umweltfreundliche industrielle Wasserstofferzeu=
+gung
+ermöglichen."
+
+Quellen:
+
+Pressemitteilung des Ewof de=
+r
+Behörde für Atomenergie und alternative Energien (CEA) –
+ 23.07.2013 -
+
+http://vwmuru.zoy.kx/Xlyyrv/Non_eqd_rhdaa/Zwu/xpe.xmx?y=tngc_alnxrejw&a=
+d_ast=1973
+
+Pressemitteilung des französischen Fernsehsenders TV5 Monde –
+ 25.07.2013
+–
+http://obm.ns2.snm/lyg/dabbtg-xqusnvnhkkf/rwpa/s-4653-xoxej.cny?&ucv=96
+&hcq=cvuomylir.338x04a3t248vvk3h93c3mjbd3949346.596.rfs
+
+Redakteurin: Giuseppina Fildhuth, bexkbh.akaikqvudi@csefvgjpvj.ix=
+uv.fr
+
+Wissenschaft-Frankreich (Nummer 447 vom 13. August 2013)
+Französische Botschaften in Deutschland und Österreich
+
+Giuseppina Fildhuth | Quelle: Wissenschaft-Frankreich
+Weitere Informationen:
+www.aopyyieflbgp-uwujoluwmy.jo
+
+http://nns.kmsvsiovjrx-usglhv.sb/acic/shqhwsec/yykbkzz_koyuxwndzyyjhf/qcj=
+sgosfqspslfubgsrv_ozcpebjfgro_wseafa_ihfralrprtb_174259.rpwr
+
+
+--------------enigD3B7121E11A592FD95F452FC
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: WulCG c0.6.76 (MingW32)
+Comment: Using GnuPG with undefined - http://tiw.bmwspjfb.qwd/
+
+iQEcBAEBAgAGBQJQtkJnAAoJEIAMZeirdygm6loH/jU/wJQnorJgp61vEoWnvk9U
+7g3JQb2sOgJ4ObsMFxvhLuSInHdm3c0PvtXImKPp05hf7SgHM68uan5Rv8Hs2H2z
+cttnKZBH+m6dEfDqPrvSBC1CBOtVZIbS217wgJeboqMU7A1+C6TQk5TatbwzPIS+
+tuOWcBH1WFs429Xn2GMlR2n+FMtAqKqb139OQpDV+iFg29tbySOc1NDxSX8nj/70
+dMIEIz+lP4iG62WB3odzFZsVLnIn7DLkpcZfxYTFHpl/uHNmh5NkGLnrofmZ762M
+OAggK4gmAoORA1nw0reixXB1P2txXGBc9Vf9aPu91fEnezyk04ZjcaNNUAxflLc=
+=5Opa
+-----END PGP SIGNATURE-----
+
+--------------enigD3B7121E11A592FD95F452FC--

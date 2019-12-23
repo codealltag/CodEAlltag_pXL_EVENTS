@@ -1,0 +1,18 @@
+On 2013-01-03 21:27, Luisa Frees wrote:
+
+
+*fett*, /kursiv/, _unterstrichen_, und fertig.
+
+15 Bytes/Anschläge weniger und mit weniger Fingerverrenkung zu tippen.
+Und darüber hinaus auch ohne dass der Newsreader diese speziell
+interpretieren muss, wie es bspw. Thunderbird ohnehin tut, als
+Schriftauszeichnungen erkennbar.
+
+
+Wie umständlich...
+
+
+Die Praktikabilität.
+
+-- 
+rs

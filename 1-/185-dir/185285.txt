@@ -1,0 +1,10 @@
+nickless schrieb:
+
+
+Genau sowenig wie ein Netzwerk ein Raum ist, gibt es auch nichts hinter 
+dem Stoppschild, außer vielleicht einen  BKA-Admin.
+
+Durch DNS Fälschung wird man nicht auf die gewünschte sondern eine BKA 
+Seite geleitet. Man umgeht also nichts, sondern entscheidet sich für 
+einen ungef�schten DNS Server und es existieren überhaupt keine 
+Stoppschilder. "Umgehen" ist die völlig falsche Vokabel.

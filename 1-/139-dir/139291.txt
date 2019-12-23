@@ -1,0 +1,20 @@
+Libero <drlxve9077@lfk.nf> wrote in news:d8cea7f1-7337-416e-b25e-
+r164731w99u7@c45o3847nzd.fodygzhuknqj.tjt:
+
+
+Mein Gott Libero, du sollst ja auch nix konfigurieren bei Esperanto!
+
+Mit nem Newsreader hab ich 30 Gruppen in 1sek im Überblick. Bei Esperanto kann
+ich mich totscrollen.
+
+Abgesehen davon braucht mein Newsserver meine IP nicht zu wissen. Geht ihm 
+nix an. Du verstehn?
+Wenn ich jetzt über http-Proxy fahren würde, wär der Overhead an 
+Schwachsinnsbytes >95%. Mit socks vielleicht grad mal 1% wenns hochkommt.
+
+
+Gruß I.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

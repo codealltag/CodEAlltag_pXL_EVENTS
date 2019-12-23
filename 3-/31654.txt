@@ -1,0 +1,8 @@
+Noch. 
+
+
+Du siehst, auch in R ist gegen die Einfuehrung schwachsinniger Regeln
+kein Kraut gewachsen. Ich denke, man sollte versuchen, zu vermeiden,
+dass die Roehrchenvorschrift auch in R umgesetzt wird.
+
+Dietrich

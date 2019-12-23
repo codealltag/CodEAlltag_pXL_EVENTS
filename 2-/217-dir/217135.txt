@@ -1,0 +1,5 @@
+On Mar 18, 1:11=A0pm, Thorsten Jörg Valentien <d...@freecrac.dyndns.org>
+wrote:
+
+Wobei die Erkennung durch ein dem Fragezeichen vorangehendes
+Leerzeichen verunmöglicht werden mag.

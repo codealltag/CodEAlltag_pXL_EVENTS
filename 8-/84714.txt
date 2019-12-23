@@ -1,0 +1,12 @@
+On Mon, 07. 07. 20 11:17:43 -0700, Klaus Janke wrote:
+
+
+Physikalisch ja, technisch nein.
+
+Was genau ist effizient an 7% bzw. 30% ??? 
+
+-- 
+cu
+Jean-Paul
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

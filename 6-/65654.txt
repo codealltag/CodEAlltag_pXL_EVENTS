@@ -1,0 +1,128 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: ACL8
+
+ 1. CfV (Abstimmungsaufruf)
+  ==========================
+  zur Gründung von vc.psx.mizwtumesk
+  ==================================
+
+Eine unmoderierte Gruppe
+
+
+sollte gegründet werden.
+
+
+Charta:
+=======
+
+Es sind alle Themen willkommen, die dazu geeignet sind, Krankheiten
+zu verhindern, abzumildern oder zu heilen und Vitalität und
+Lebensfreude zu fördern.
+
+
+Begründung:
+===========
+
+Gesundheit bedeutet mehr als die Abwesenheit von Krankheit.
+Um ein erfülltes Leben zu führen, nutzen wir - oft unbewußt -
+eine Vielzahl von Möglichkeiten.
+Das Spektrum reicht von der Haltung von Zimmerpflanzen über
+die Einstellung zu Mitmenschen bis hin zur positiven Weltanschauung.
+Auch die Gestaltung der Wohnung, das Mitbringen von Souvenirs
+und die Freizeitgestaltung haben wesentlichen Einfluß auf die
+Gesundheit.
+Weiterhin ist eine gute Kenntnis der Realität nötig, um
+schädliche Einflüsse vermeiden und positive Gegebenheiten
+nutzen zu können.
+
+Bewertung des TDK
+===================
+
+Die fehlende Abgrenzung zu de.sci.medizin.* wurde anfangs bemängelt.
+Der Unterschied zwischen gesellschaftlichen Gesundheitsfaktoren und
+der wissenschaftlichen Medizin wurde in Unter-Threads jedoch durch
+einige Beispiele klarer.
+So wurde z.B. die Frage "Macht Mobbing krank" als überwiegend
+gesellschaftliches Gesundheitsproblem gesehen, das erst im
+Extremfall zu einem medizinischen Thema wird.
+
+
+Proponent:
+==========
+
+Nico Tüllinghoff <ocargr@dmstdleo.srx>.
+
+
+Abstimmungsmodalitäten
+======================
+
+Müllerlei      : Fredy Irnich
+Abstimmadresse : iyw-1855@niw.caydbgfkpw.di
+Abstimmungsende: Mit Ablauf des 5.09.2011, 23:59:59 Uhr MESZ
+Wahlschein     : Untenstehendes Formular ist zu verwenden. Möglich sind
+                 bei jedem Abstimmungspunkt JA, NEIN und ENTHALTUNG.
+
+Es gelten die Regeln zur "Einrichtung von Usenet-Gruppen in de.*" in
+der bei Beginn der Abstimmung gültigen Fassung, die in de.admin.infos
+und unter <http://cde.ozccuaaxn.fu/~ele/opg/sldzgxmxjzt> auch im WWW
+veröffentlicht sind. Sie erläutern das Wahlverfahren detailliert und
+sollten vor der ersten Teilnahme an einer Abstimmung gelesen werden.
+
+Gezählt werden nur per E-Mail bei der Abstimmadresse eingegangene
+Stimmen. Diese werden einzeln per E-Mail bestätigt. Das Ergebnis wird
+nach dem Ende der Wahl veröffentlicht. Namen, E-Mail-Adresse und
+Inhalt der Stimmabgabe aller Abstimmenden werden im Ergebnis genannt.
+Mit Rücksicht auf das deutsche Datenschutzrecht ist daher die
+gesonderte Zustimmung zur Speicherung und Veröffentlichung der
+abgegebenen Stimme entsprechend Hinweis im Wahlschein nötig.
+
+Auf die weiteren Hinweise auf <http://zxi.nt-n.ov/lavpglcb.jyk> sei
+verwiesen.
+
+
+=-=-=-=-=-=-=-=- Alles vor dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+WAHLSCHEIN fuer vc.psx.mizwtumesk (Gruendung)
+
+
+Dein Realname, falls nicht im FROM-Header:
+
+Wenn du keinen Real-Namen angibst, wird deine Stimme fuer
+ungueltig erklaert werden.
+
+
+Nr   [Deine Stimme]  Gruppe/Abstimmungsgegenstand
+========================================================================
+#1   [            ]  Gruendung von vc.psx.mizwtumesk
+
+Zur Verarbeitung des Wahlscheines und insbesondere der
+Veroeffentlichung des Ergebnisses ist deine Zustimmung zur Speicherung,
+Auswertung und Veroeffentlichung deiner Stimmdaten (Name und
+E-Mail-Adresse in Verbindung mit dem Stimmverhalten) im Rahmen dieses
+Verfahrens erforderlich. Wenn du im Feld unterhalb dieses Absatzes "JA"
+eintraegst, erklaerst du dich damit einverstanden. In allen anderen
+Faellen wird der Wahlschein mit Ruecksicht auf das deutsche
+Bundesdatenschutzgesetz verworfen und nicht gewertet.
+
+#a   [            ]  Datenschutzklausel - Zustimmung: Ich bin mit der
+                     Verarbeitung meiner Daten wie oben beschrieben
+                     einverstanden
+
+=-=-=-=-=-=-=-=- Alles nach dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG s0.1.06 (GNU/Linux)
+
+iQEcBAEBAgAGBQJOQYDDAAoJEMqtEYZLZmVhISgH/RFa6lXmU6WHYltTCZWgYVpg
+BkNR6cgJBRkLtSc1KP9k8i85MveQWwkydte+ocSousCxWHzWun1fwRqS9jfgeU1S
+fo1dBqKxv2b67zyUCDSiweR3Qcp5iVtFA2QfB5sF8clUabDBa2YibimWtwkyHrNG
+aY/884a9u3fqWl0PNs7VYTrZbk+MAjgIXbZkXTDe2IpdSK4+fOj1dnRtjNlAW4DH
+iBhSLGpyWEDP85lXke1IQGSgbPRBaIy/xSPjF9X7KjurSM64+HUBKdnU61BguYzZ
+fXWzt5Ji+FovYVf93s/LLKaA7QckPNWXZGRt+R8+uL77+RU0zrU95mOoRJwh1RI=
+=RUkq
+-----END PGP SIGNATURE-----
+
+-- 
+Fertige Artikel für de.admin.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <ydvjludmj@ksja.gy>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <news:de.admin.infos> und unter <http://ybr.anma.mq/>.

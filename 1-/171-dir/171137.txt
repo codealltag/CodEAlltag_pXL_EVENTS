@@ -1,0 +1,15 @@
+Am Sun, 11. 10. 19 16:47:38 +0100 schrieb Gerd J Panury:
+
+
+Ich warte immer noch auf ein Plug´n´play-Windows am besten gleich fertig
+installiert auf einem USB-Stick zum kaufen angeboten, welches dann auf
+beliebigen Rechnern bootet und vorhandene Hardware dann auch einbindet, so
+das ich meine individulle Geywitz-Konfiguration (klickibunti alles
+abgeschaltet) überallhin mitnehmen kann.
+
+Als Alternative könnte ich mich auch an ein Gamer-Linux gewöhnen, wenn es
+von den Spieleherstellern im hohen Maße gefördert werden würde.
+Dann könnte ich mich von Geywitz komplett verabschieden und würde nichts
+vermissen.
+
+Karl

@@ -1,0 +1,38 @@
+This is a multi-part message in MIME format.
+--------------552111228302577465251524
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Antwort auf eine Nachricht von ibo nemez
+
+Beweise Du mir doch das Gegenteil!
+
+Jeder gutgehende Betrieb hat eine fleißige Belegschaft, ohne die tut 
+sich in dem Laden gar nichts.
+
+
+_Du_ kennst meine Arbeit! :-D
+
+Selbst wenn ich mich mit der Flöte in die Stadt stelle und den ganzen 
+Tag „Lord of the dance“ pfeife kriege ich am Tag mehr zusammen als Du im 
+ganzen Jahr mit Deinen dummen Sprüchen.
+
+Aber machen wir doch mal die Probe. Stellen wir uns mal vor, morgen 
+legen _ALLE_ Angestellten der Prechter die Arbeit nieder, wieviel 
+Gewinn macht der Garbe dann noch?
+
+
+Glück auf!
+Lore Oetge, Nempitz/de
+
+--------------552111228302577465251524
+Content-Type: text/x-vcard; charset=utf-8;
+ name="example.vcf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="example.vcf"
+
+Özlem
+cXVvdGVkLXByaW50YWJsZTpDaWU9QzU9OUJsYTtFcmlrYQ0KYWRyO2RvbTo7OztNYW5uaGVp
+bS9kZQ0KdmVyc2lvbjoyLjENCmVuZDp2Y2FyZA0KDQo=
+--------------040805080507070406080004--

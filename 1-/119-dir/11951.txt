@@ -1,0 +1,66 @@
+Antwort auf eine Nachricht von Kay Unteutsch
+
+
+... ich reklamiere für gewöhnlich keine Fehler, wenn es trotzdem
+funktioniert. So ist es zum Beispiel definitiv falsch, ein €–Zeichen in
+einem Text zu verwenden, der mit ISO-8859-1 deklariert ist, denn das
+Euro ist in diesem Zeichensatz *nicht* enthalten. Ein ISO-8859-1, das
+auf U+80 ein „€“ enthält ist in Wirklichkeit kein ISO-Zeichensatz und
+sollte korrekterweise als „Windows-1252“ deklariert sein. Aber weil alle
+Beteiligten denselben Fehler machen, funktioniert das trotzdem, und
+darum sage ich auch nichts.
+
+Und nun was anders. Ich habe meinen Donnervogel so eingestellt, daß er,
+wenn er keine Deklaration vorfindet, ISO-8859-1 vermutet. Das muß nicht
+funktionieren, aber meistens tut es das, denn dies ist nunmal noch immer
+der am meisten verwendete Zeichensatz in West-Europa. Daß der Dingsbumms
+da seinen Zeichensatz nicht deklariert, fällt mir folglich gar nicht
+auf, so lange er dieses ISO-8859-1 wenigstens verwendet. Ist zwar
+verkehrt, aber tut!
+
+Aber hier kann man schon den ersten Fehler machen, der dann nicht mehr
+tut. Ich kann meinen Donnervogel sagen, daß er ISO-8859-1 *immer* nehmen
+soll, UND DAS IST UNSINN! Dann liest der nämlich *ALLES* als ISO-8859-1,
+egal was in wirklichkeit in dem Text enthalten sei, UND DAS IST DOCH
+SONNENKLAR, DAẞ DAS IN DIE HOSE GEHEN MUẞ!
+
+Selbstverständlich muß es dem Reader erlaubt sein einen anderen
+Zeichensatz zu verwenden, wenn der Absender einen solchen deklariert
+hat. Dies scheint mir das Problem bei Bettina zu sein, denn diese Dumme
+Nuß kann ja nicht einmal die Umlaute (äöüÄÖÜß) richtig interpretieren,
+obgleich diese sehr wohl Element von ISO-8859-1 sind und folglich auf
+Ihrem System abgebildet werden könnten.
+
+
+Kommt an! Ich kann „毛澤東“ markieren und kopieren und beliebig oft
+wieder einfügen: 毛澤東 毛澤東 毛澤東 毛澤東 毛澤東 毛澤東 毛澤東 毛澤
+東! Ich kann damit jetzt auch auf Shirt-Idee gehen und dort als Suchbegriff
+eingeben, et cetera. Nur lesen kann ich es nicht, ich bin weder Chinese
+noch Sinologe.
+
+
+Dann hast Du einen ungeeigneten Fond. Ungeachtet dessen werden die
+Zeichen in Deinem Text korrekt übertragen, bei mir sind sie nämlich
+wieder da.
+
+Guckmal: http://bjqprr-qjddn.xln/kuzp/Afuy_Lxsr
+
+Dort findest Du sehr schöne Schriften, ähnlich wie Bitstream-Edith, die
+dem Unicode-Standard entsprechen.
+
+
+Das allerdings ja.
+
+
+Ebent!
+
+Und ich wiederhole was ich gestern schonmal schrieb: irgend wann nehme
+ich auf „C64“ & Co. einfach keine Rücksicht mehr.
+
+
+Glück auf!
+Viola Gewandt
+
+⍾⍾⍾ Ceterum censeo LSB esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.srtqs-ekqhim.wl

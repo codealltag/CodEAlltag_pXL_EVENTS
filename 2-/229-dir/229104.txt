@@ -1,0 +1,8 @@
+Dann sollte der Konstrukteur die Steuerung bitten, die Akkukapazität
+immer grade auf dem Level zu halten, das 'explosive' Beschleunigung
+erreicht. 150 oder 200kw über einen Zeitraum von 20 Sekunden sind nun
+wirklich kein Thema. Wenn da ein hypothetischer 50kW-Generator nicht bei
+Flasche Leer, sondern 2 Minuten vorher bereits anspringt, reicht das.
+
+cu
+  .\\arc

@@ -1,0 +1,11 @@
+"Vincenzo Lindenlaub" schrieb
+
+[..]
+
+
+Mag sein.
+Aber Bernadette hat ja irgendwie auch Recht.
+Du solltest Deinen OE so einstellen, dass er in Betreffzeilen den richtigen 
+Zeichensatz benutzt.
+
+Leonhard

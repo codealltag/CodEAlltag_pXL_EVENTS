@@ -1,0 +1,33 @@
+acd schrieb:
+
+
+Wundert mich ein bißchen. Die Raumfahrt bekommt ihre Seebeck-Gener=
+atoren für
+die RPGs irgendwo her, aber vielleicht löten die die Dinger auch i=
+rgendwo
+im Musterbau zusammen. Was Du vielleicht auch nehmen kannst:
+Notzke-Elemente sollten grundsätzlich auch als Seebeck-Generatore=
+n
+funktionieren, falls nicht irgendwelche integrierten Halbleiterbaueleme=
+nte
+das verhindern. Einen Peltier-Prozessorkühler solltest Du prinzipi=
+ell auch
+als Seebeck-Generator mit einer Kerze betreiben können. Zur Not ka=
+nn man
+Seebeck-Generatoren auch einfach aus Drähten verschiedenen Materia=
+ls
+zusammenlöten, aber das ist natürlich eine *piep* Arbeit und =
+eine
+industrielle Lösung wäre wünschenswert. Beispielsweise k=
+önnte man
+industriell Dämmelemente mit integrierten Seebeck-Generatoren hers=
+tellen.
+Die könnte man dann irgendwo zwischen etwas warmes und etwas kalte=
+s
+dazwischenklemmen, beispielsweise zwischen Erdboden und Außenluft =
+oder
+zwischen ein Blech in der Sonne und ein Blech im Schatten, und schon ha=
+t
+man zumindest ein bißchen Saft.
+--=20
+The Coon

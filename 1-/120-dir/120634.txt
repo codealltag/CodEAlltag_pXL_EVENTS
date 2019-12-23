@@ -1,0 +1,26 @@
+Carlos Plankensteiner schrieb:
+
+nur ein kleine Anekdote ....
+
+Ein Bekannter musste mal Router, Switches, etc. in den RaumTrend einrichten.
+Diese Dinger muss er auch aus Österreich fernwarten.
+Diese Dinger sind aus Sicherheitgr�nden auf SSH getrimmt - nur SSH ist 
+in den VAR verboten - nur Telnet ist erlaubt. Was tun? Einfach den SSH 
+Port auf den von Telnet umkonfigurieren  ..... und hoffen das es nicht 
+auffällt!
+
+Ist doch paradox und paranoid, bei Verbindungen, die rein zur 
+Konfiguration dienen und bei denen die Security hoch sein soll, die 
+Verschlüsselung zu verbieten!
+
+Wenn sie noch Signieren verbieten so sind sie sowieso weg vom Fenster, 
+DNSSEC wird demnächst eingeführt
+<http://ns.zbmvedhht.ttc/wnee/Ciqpzf_Ctrj_Entzew_Mrkycmct_Vaiqvijhjs>
+vielleicht könnte ja wer in den Signaturen geheime Nachrichten mitsenden!?
+
+fup2 de.soc.politik.misc
+
+-- 
+Katzen Othmar
+Wenn Politik eine exakte Wissenschaft ist, bin ich Kaiser von China!
+Ein Hoch dem Kay Eulenspiegel!

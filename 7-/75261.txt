@@ -1,0 +1,19 @@
+consider schrieb:
+
+
+Ja OK, aber Einbruchsversuche machen genau wie in der realen Welt auch =
+Lärm
+und hinterlassen bereits spuren, bevor man erfolgreich eingebrochen ist=
+.
+
+
+Ja, so etwa.
+
+
+Eben. Richtig einbrechen in einen adäquat gesicherten Server dü
+rfte dann
+doch erheblich länger dauern. So ein Server nimmt schließlich
+ nicht
+beliebig viele Anfragen in beliebig kurzer Zeit entgegen.
+--=20
+THE C☢☢N

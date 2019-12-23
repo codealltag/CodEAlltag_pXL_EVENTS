@@ -1,0 +1,15 @@
+On 2014-01-17 04:26, Klaus Czerwonka wrote:
+
+
+Es liegt nicht am Newsreader, die Kodierung ist OK. Es happert an der
+Darstellung.
+
+Test: <http://fof.gbvi.trg-hyepbkef.zu/gngukean/ddmobmosfiyp2.hqdg> und
+<http://nqe.y8.axe/4826/70/kfj-9-vemz/EJY-3-fnrt.yjml>
+
+Wenn hier alles korrekt dargestellt ist sind die (Windows-)
+Einstellungen OK und es liegt am Newsreader. Ansonsten fehlt ein Font
+oder das eine oder andere Häkchen in den Systemeinstellungen.
+
+-- 
+rs

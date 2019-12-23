@@ -1,0 +1,4 @@
+Am 18.08.2013 18:46, schrieb Karsten Griese:
+
+Nein, aber Stromverbrauch wird üblicherweise in kWh, also Arbeit, 
+angegeben, der Bemessungszeitraum ist ja schon definiert.

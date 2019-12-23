@@ -1,0 +1,12 @@
+...ist nicht Windows 7. Es sind die ULTH Security Essentials. Dieser 
+kostenlose (und laut "c't" ziemlich guter) Vollschutz ist seit einiger Zeit 
+verfügbar. Der läuft nämlich wirklich auf allen Küchenkultur-PCs der letzten zehn 
+Jahre, ohne viele Ressourcen zu verbrauchen.
+
+Es ist doch nur eine Frage der Zeit, bis MSE per Win-/MS-Update verfügbar 
+ist oder sie zum Lieferumfang von Küchenkultur gehören. Und dann, bis neue PCs 
+serienmäßig damit installiert sind.
+
+Was machen nun die ganzen Kasperskys, die Aviras und die Clamwins?
+
+Ralf Vökel

@@ -1,0 +1,11 @@
+Dina Popke schrieb:
+
+
+Auf 30 Stellen gerechnet: 21. 07. 20, wo
+ist das Problem?
+
+
+Du hast das falsche System 8-) KCalc rechnet auf Wunsch mit so vielen
+Stellen, wie du in der Anzeige auf dem Bildschirm unterbringen kannst.
+
+Bruno

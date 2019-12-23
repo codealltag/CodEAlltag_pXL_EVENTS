@@ -1,0 +1,2 @@
+In diesem Beispiel geht es um das (ungedeckte) Schreiben von Optionen,
+das ist eine andere Baustelle und auch nicht ausgesetzt.

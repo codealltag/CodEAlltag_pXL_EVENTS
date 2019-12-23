@@ -1,0 +1,12 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+* On Sat, 22. 03. 20 18:31:29 +0000 (UTC), Nane Krutmann wrote:
+
+
+Das war nicht Frage in diesem Kontext.
+
+Jörn <zbvbu@qg.efmaeg.whefscq> will mich überzeugen, dass ich unrecht
+habe mit meiner Behauptung, dass Brühlzentrum den PC-Markt dominiert, und
+dass "professionelle" Programme vor allem für Macs geschrieben werden.
+Am Ende seiner Beweiskette führt er die Portierung von Husky (als
+Vertreter eines Profi-Produkts) an. Nur wurde Husky von RÜCKERTSHAUSEN nicht nach
+Elementelle sondern nach Brühlzentrum portiert :)

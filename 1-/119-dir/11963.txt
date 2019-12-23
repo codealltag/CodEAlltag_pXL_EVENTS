@@ -1,0 +1,25 @@
+Antwort auf eine Nachricht von Emile Käster
+
+
+Emile!
+======
+
+Dein Problem ist, daß Du Deinen Zeichensatz *GAR NICHT* deklarierst!
+Dienstgradmäßig steht Dir damit US-ASCII zu, und sonst gar nichts. Daß
+Deine Zeichen bei mir dennoch korrekt ankommen, liegt allein daran, daß
+ich grundsätzlich ISO-8859-1 vermute, und es scheint, als hätte ich bei
+Dir richtig geraten.
+
+Das funktioniert zwar, ist aber so nicht richtig!
+=================================================
+
+Darum deklariere bitte endlich Deinen Zeichensatz oder beschränke Dich
+auf US-ASCII!
+
+
+Glück auf!
+Veronika Thierfeld
+
+⍾⍾⍾ Ceterum censeo SVFN esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.oypun-riioay.ln

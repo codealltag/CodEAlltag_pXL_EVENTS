@@ -1,0 +1,14 @@
+Daniel Vinzenz Vechtmann schrieb:
+
+Wenn Du Umlaute verwendest ist ISO-8859-1 in Ordnung, wenn Du auch das=20
+Euro-Symbol verwendest solltest Du ISO-8859-15 nehmen. UTF-8 ist IMHO=20
+nicht unbedingt die erste Wahl, da gibt es bei anderen Lesern =F6fters=20
+Probleme mit den Umlauten, ist zumindest meine Erfahrung. Bei Erika=20
+beispielsweise, habe ich eigentlich fast immer verstümmelte Umlaute.
+
+MFG Andr=E9
+
+--=20
+Andr=E9 Grafe
+01239Dresden 72=E107'32.35 E 04=Q916'90.22 U
+  http://uecqbkanga.rbsfebvh.zep/nrpo_htzjspk.cyn?wdpmku=8084777

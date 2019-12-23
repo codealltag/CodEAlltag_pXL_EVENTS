@@ -1,0 +1,57 @@
+Hannes Coorssen schrieb:
+
+
+Was der geraucht hat? Ich würde auf Nylonschürze tippen.
+
+Dem sollte vielleicht mal einer erklären, daß man sich ü
+ber Software nicht
+in "Das Netz" als solches einhacken kann und auch, wieso das so nicht
+läuft. Vielleicht sollte dem auch gleich noch einer erklären,=
+ was ein
+Rechnernetzwerk überhaupt ist. Am besten erklärt man dem bei =
+der
+Gelegenheit auch, warum Wasser bergab fließt.
+
+In ein Kabel kann man sich nicht per Software einhacken, dazu braucht m=
+an
+Hardware direkt vor Ort, und einen Computer muß man erstmal ü
+berzeugen, daß
+der sich überhaupt die Frage anhört. Falls ja, überlegt =
+sich ein Rechner
+als Nächstes, ob er eine Antwort gibt und wenn ja welche. Denkt de=
+r
+Innenfuzzy, man kann einen Rechner foltern oder die Scheiße aus de=
+r
+Blechkiste prügeln? Einen Rechner kann man weder erpressen noch be=
+stechen.
+Entweder man weiß, wie man mit dem Rechner reden muß, oder ma=
+n weiß es
+nicht. Ganz geduldig mit einem Rechner zu reden, und zwar so, daß =
+der
+versteht, was man von dem will, ist die einzige Art, wie man einen Rech=
+ner
+überzeugen kann, das zu tun, was man von ihm will. Und wenn man vo=
+m Rechner
+was gefragt wird, dann muß man gelegentlich auch die richtige Antw=
+ort
+wissen, ansonsten ist das Gespräch gleich wieder beendet.
+
+Alles verbindet sich mit einer Frage:
+Kann man so viele Programmierer bestechen, verstricken, blenden, erpres=
+sen,
+täuschen und überlisten, daß man sich einen Generalschl=C3=
+=BCssel für alle
+vielleicht unter Umständen eingebauten Geheimtürchen und Schw=
+achstellen
+besorgen kann? Schafft man es wirklich, in jedem Betriebssystem ein paa=
+r
+Zeilen Code so unauffällig unterzubringen, daß sich niemand f=
+ragt: "Hä, was
+war das denn jetzt gerade?"
+
+OK, ich habe mir die Kernel-Quelltexte bisher noch nicht komplett
+durchgelesen. Ich schätze auch mal, wenn man das macht, hat man na=
+chher nur
+noch Brei in der Birne.
+--=20
+THE C☢☢N

@@ -1,0 +1,19 @@
+Am 21.07.2011 20:43:59 schrieb Pietro Csiky:
+
+
+an Tatsachen führt nunmal kein Weg vorbei.
+
+
+Beispiel:
+
+0,00001234567 lj sind
+
+1.1679655671376E+20 nm
+
+
+wie zu erkennen ist sind plötzlich keine Nachkommastellen vorhanden.
+zufrieden?
+
+
+-- 
+cu |_|

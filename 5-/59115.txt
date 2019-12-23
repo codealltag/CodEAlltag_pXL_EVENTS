@@ -1,0 +1,16 @@
+Am 25.06.2012 23:03, schrieb Ullrich Vaagt:
+
+
+Das ist nicht der reader, das ist das Betriebssystem. Ich hatte auch 
+einmal so ein Win-NT, das mit UTF-8 nicht fertig geworden ist. Da hat 
+das alte Linux schon bravourös alles geschaukelt, ist eine 
+Win-NT-Version nach der andern dahergetackelt gekommen, die das nicht 
+konnte.
+
+
+EUGEN
+-- 
+Sprachverwirrung des Guten und Bösen: dieses Zeichen gebe ich
+euch als Zeichen des Staates. Wahrlich, den Willen zum Tode
+deutet dieses Zeichen! Wahrlich, es winkt den Predigern des
+Todes! <Zarathustra, Vom neuen Götzen!>

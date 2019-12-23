@@ -1,0 +1,7 @@
+Gleichzeitig vermindert sich die Salzkonzentration in den mit frischem 
+Eiswasser angereicherten Gebieten.
+Strömungen durch Temperaturausgleich werden mit Strömungen durch 
+Salzkonzentrationsausgleich kombiniert.
+Temperatur beeinflusst natürlich auch die Löslichkeit. Dabei muss man auch 
+noch die besonderen Charakteristiken des Wassers mit einberechnen (größte 
+Dichte bei 4 Grad).

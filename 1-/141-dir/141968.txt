@@ -1,0 +1,37 @@
+Nur mal eine Überschlagsrechnung, die zeigt, daß die Erwärmung durch
+Schnee im Nordwinter nicht vernachlässigbar klein ist. Deshalb sind
+Januar und Februar besonders anfällig dafür, "global ungewöhnlich warm"
+zu erscheinen, nämlich immer dann, wenn ungewöhnlich viel Schnee liegt.
+
+Erdradius 6350 km
+Wetter und starke Durchmischung 0-3000 m
+Luft wiegt 1,3 Gramm/Liter
+spezifische Wärme Luft 0,2 cal pro Gramm und Grad
+Schmelzwärme Wasser 80 cal/Gramm
+
+Erdoberfläche 500 Mio km²
+davon 1/3 Land 170 Mio km²
+davon 2/3 Nordhalbkugel 100 Mio km²
+= 1e8 km² = 1e14 m² = 1e18 cm²
+Schneehöhe 1 cm ergibt 1e18 cm³ = 80e18 cal
+
+Erdoberfläche 5e8 km² = 5e14 m²
+Wetterschicht 3000 m ergibt 15e17 m³
+= 15e20 dm³ = 20e20 Gramm
+erwärmt mit 0,8e20 cal ergibt 0,2 Grad
+
+Und nun diskutieren wir mal über den realistischen Wert der mittleren
+Schneehöhe auf der Nordhalbkugel. Ich schlage vor: Normal 1 cm, diesmal 2
+cm, also 0,2 Grad mehr als sonst.
+
+Der El-Nino war nicht +0,8 Grad wie 1999, sondern nur 0,5 Grad.
+
+Globale Temperatur Jan/Feb war +0,7 Grad, davon El-Claus 0,5 und Schnee
+0,2 Grad.
+
+Satellitenmessung:
+http://hbh.qhgyzvqfkirk.onm/oexsmp-nrkfhm-tsbcssiiuvex/
+http://wizfmt.gsqsk.unl.qkb/kfjegh/hsx/h9jm/beayrbghq_9.0
+ftp://vuw.umnz.bnp/qfk/epafauz_yvnh_swheoy/rss_ojhhvyz_vbf_whke_gockgyr_dbi_drimyyois_qvpz_grl_tgzki_f75_4.pwc
+
+Alfred

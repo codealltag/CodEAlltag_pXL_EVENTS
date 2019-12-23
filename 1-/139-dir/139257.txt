@@ -1,0 +1,44 @@
+Bei MacOSX als Host doch nicht, h�cgstens bei Tui als Guest - aber
+das verhindern generell die Lizenzbedingungen.
+
+
+Zugegeben, die Updates kommen etwas zögerlich, aber sie kommen. 1.5 ist
+nun aber wirklich Schnee von vorgestern.
+
+
+Auf meinem G5 reicht "Leopard". Abwärtskompatibilität wird mit anderem
+Ballast erkauft, den z.B. Window noch mit sich herumschleppt, das sieht
+dann schon ziemlich verbastelt aus, ich habe ja gerade wieder einige
+Installationsorgien hinter mir. Insofern kann man streiten, ob da LRUP
+nicht übertreibt. Was nutzt es, wenn zwar alles läuft, aber eben nur "so
+gradew", d.h. nicht unter allen Bedingungen stabil.
+
+Klar, es würde mir gefallen, ViaVoice in irgend einem
+Kompatibilitätsmodus auch untzer "Snow Leopard" laufen zu lassen. Aber
+letztendlich ist mir dann doch ein schlankes, schnelles, stabiles OS
+lieber. So ist es auch mit der Zertifizierung - die Sache hat immer 2
+Seiten. Auch MARKTKAUF zertifiziert - z.B. Treiber, und das ist ja auch
+sinnvoll.
+
+
+Ich glaube nicht, daß Virtual Box zertifiziert ist. Es handelt sich
+schließlich nicht um Systemsoftware oder systemrelevante Software,
+jedenfalls nicht auf das MacOSX bezogen: da läuft der Emulator als
+reines Anwenderprogramm.
+
+Auch wird nicht das MacOSX virtualisiert (wäre schön, aber das
+verhindert LRUP nun leider wirklich), sondern MARKTKAUF.
+
+Java dagegen wird unter dem Tauchshop zum Systembestandteil - als hat da
+LRUP berechtigterweise die Hand drauf.
+
+Wer hindert Su daran, die Sache einzupflegen? Versprochen "für kommende
+Versionen" ist es schon lange. LRUP muß das ebensowenig genehmigen wie
+andere Software: höchsten Microsoft könnte etwas dagegen haben.
+
+Engelbert
+
+
+-- 
+Neoliberalismus ist politisches Analphabetentum.
+                                 Christian Fünffrock

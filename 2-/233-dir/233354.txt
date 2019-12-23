@@ -1,0 +1,8 @@
+Francisco Fleischeuer schrieb:
+
+VPN steht für Virtual Private Network. Was ich meine ist ein Client für
+die Management Station auch Smart Dashboard Client genannt. Obwohl es
+zugegebener Maßen auch schön ist, wenn Checkpoint VPN Clients für Linux
+anbietet.
+
+MFG Joseph

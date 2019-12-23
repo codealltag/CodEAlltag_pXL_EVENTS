@@ -1,0 +1,31 @@
+Antwort auf eine Nachricht von Christophe Prebeck
+
+
+Muß er das denn? Nö! Die umlaute sind auch im ISO-Code enthalten, er muß
+sie nur richtig erkennen und akkurat konvertieren.
+
+
+Wenn Du wüßtest! :-D
+
+Guck mal, ganz oben, da ist sogar das polnische „ś“ in meinem Namen noch
+enthalten, wie ist das möglich? In ISO-8859-1 geht das nämlich nicht.
+Wie kommt es, daß es dennoch noch da ist?
+
+⚑ Ich weiß es! ;-)
+
+Auszug aus *Deinen* Header-Zeilen:
+
+Content-Type: text/plain; charset=UTF-8
+
+Ja sieh mal einer schau mal guck, Du antwortest mir mit UTF-8! :-P
+
+Und das ist ja auch gut so, so haben wir zwei beide nämlich gar kein
+Problem miteinander, – gelle!? ;-)
+
+
+Glück auf!
+Trude Jungschaffer
+
+⚑ Fährst Du Fahrrad? Guckstdu: www.tmuez-mdquxj.ad
+-- 
+❦ 𝗡ulla 𝗣otentiam 𝗗eliranti – keine Macht den Doofen!

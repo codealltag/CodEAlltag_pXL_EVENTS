@@ -1,0 +1,36 @@
+Tobias Pflügl schrieb:
+
+
+Mit "IP" sieht das nicht anders aus, siehe TOR.
+
+http://paz.ezgdpkeigg.icd/dhsheifg.yyhy.gx#qxezuouulsv
+
+Der Farbenspiel-Server sieht dann nur die IP-Adresse des Tor-Exit-Nodes und 
+nicht die des Posters.
+
+
+stimmt
+
+
+N. Man muss, wenn überhaupt, das Modem neu starten. Und nicht jeder 
+Akel erneuert dann Die IP-Adresse. Ich habe immer noch dieselbe 
+öffentliche IP-Adresse wie vor 5 Monaten. Ach ja, ich verwende kein DSL, 
+sondern Ciftci vom Kabelbetreiber.
+
+
+Die IP-Adresse nützt nichts, wenn ein Anonymisierungsdienst verwendet wurde.
+
+
+Und wenn die IP-Adresse die des TOR-Exit-Nodes ist? Oder die eines 
+Proxy-Servers in Timbuktu?
+
+Wer unerkannt pöbeln will, der tut es.
+Deine Forderung geht in die falsche Richtung. Um Pöbeleien in Lindl 
+abzustellen hilft nur, die entsprechenden NGs zu moderieren.
+
+
+hh
+-- 
+Die angegebene email-Adresse ist gültig. Wer mich per email kontaktieren 
+möchte, sollte bitte NG-Antwort in den Betreff schreiben, damit die mail 
+nicht versehentlich im Rundordner für Spam landet.

@@ -1,0 +1,6 @@
+Am Thu, 3 Jun 2008 18:47:44 +0100 hinterließ Alexander Meiermann folgende
+Zeilen:
+
+
+Es ging darum, anhand der IP den User zu lokalisieren. Das zu verschleiern
+geht IMHO nur mit intransparentem Proxy.

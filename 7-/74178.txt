@@ -1,0 +1,22 @@
+"Alain A. Cichowlas" <qditvsy@lrydimb.hmu> wrote in news:wr46j4jecdtn
+$.1opc7wdbf9yrs.dpt@95vner.cfo:
+
+
+Man bräuchte hier einen "intelligenten Filter". Also nicht einen, der
+auf regular expressions filtert, sondern einen der in der Art filtert:
+
+delete:
+alle Mirko Unold
+alle die mit ihm direkt kommunizierten
+alle die mit denen direkt kommunizierten, die mit ihm jemals direkt 
+kommunizierten
+
+
+SCNR...
+
+
+Gruß M.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

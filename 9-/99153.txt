@@ -1,0 +1,22 @@
+Urs Kagelmacher schrieb:
+
+
+Lösung:
+
+Grundlegend: Überkapazitäten in Schwungräder pumpen.
+Schwungrad im Vakuum laufen lassen und Achse magnetisch lagern.
+Und noch wichtig: Gegen Corioliskräfte Rotationsachsen parallel zu=
+r Erdachse
+ausrichten.
+
+speziell: Schwungräder direkt neben Kohlekraftwerke stellen, so da=
+ß man das
+Schwungrad zyklisch unter Optimallast aufpumpen und dann das Kraftwerk =
+für
+eine Weile komplett abschalten kann. Dann muß man die Kraftwerke n=
+icht in
+irgendwelchen beschissenen Teillastbereichen fahren, sondern man macht =
+den
+Dampfhahn ganz dicht und spult erstmal das Schwungrad ab.
+--=20
+The Coon

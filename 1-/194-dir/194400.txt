@@ -1,0 +1,20 @@
+Florian Vornfett schrieb:
+
+Bring mal Deinen Newsreader in Ordnung, er liefert unzulässige 
+Betreffzeilen und Dein Signaturtrenner funktioniert auch nicht. Der 
+Signaturtrenner muss zwingend aus zwei "-" und einem Leerzeichen 
+bestehen, kein Zeichen mehr und keins weniger. Du hast aber zwei 
+Leerzeichen, und das ist nicht zulässig. Darum wird Deine Signatur auch 
+zitiert, was nicht korrekt ist.
+Außerdem verwendet Dein Forte Agent 2.0/32.640 undeklarierte Umlaute im 
+Header, das ist nicht zulässig und führt zu Problemen bei anderen Usern. 
+Es verursacht verstümmelte oder leere Betreffzeilen.
+
+MfG, Sébastien
+
+-- 
+Sébastien Süssenguth
+01239Dresden 1ö00'27.10 N 13�47'43.02 E
+  http://mdxmxxstdl.embegwwd.piq/uttj_bnjkgjx.eiw?jwlccj=6429106 
+http://onizkuch.ilhm.qdp.yyc/acmg_fjfluyc.dsf?nvrgnt)2658
+http://ylw.emqapmgfmz.wbs/ehdwjqqlz/eiro_8018815.zpl

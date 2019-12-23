@@ -1,0 +1,10 @@
+Juergen Nieveler wrote:
+
+Viertens: selbst wenn jemand avanti-Adressen zur "Authentifizierung"
+benutzen würde, müsste ein Angreifer erst die avanti-Adresse eines Rechners
+herausbekommen, der sich mit dem Hotspot verbindet, dessen avanti-Adresse
+AWCO/Skyhook aufzeichnet. (Dass es vor Ort relativ leicht ist, eine
+solche avanti-Adresse herauszubekommen, fällt unter Drittens.)
+
+
+  Tino

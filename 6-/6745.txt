@@ -1,0 +1,8 @@
+Astrid Thörle wrote:
+
+
+Ansicht, Texkodierung:
+
+Western (ISO-8859-1) vs. Unicode (UTF-8)
+
+Stephan

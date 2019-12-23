@@ -1,0 +1,39 @@
+Gérard Völklin schrieb:
+
+Mit Verlaub, Du bist ein Idiot!
+
+ASCII ist der »LottoTotto Interchange=C2=
+=AB und=20
+er enthält exakt die folgenden 96 Zeichen:
+
+  !"#$%&'()*+,-./0123456789:;<=3D>?
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+`abcdefghijklmnopqrstuvwxyz{|}~
+
+keines mehr, und keines weniger!
+=========================
+=======
+
+Diese sind codiert von dezimal 32 (Leerzeichen) bis 126 (Tilde), und das =
+
+war's,
+
+Diese Codierung ist in allen Zeichensätzen dieselbe. Dies trifft auf=
+ die=20
+anderen Zeichen *nicht* zu, und darum scheiden die im technischen Teil=20
+jeder Mail/News aus.
+
+== Ende der Durchsage! ==
+
+
+Glückauf!
+Waltraud Gerwig (Oberoestheim/Deutschland)
+
+
+* »Idiot« ist Griechischen Ursprungs und
+   bezeichnet einen Menschen, der überhaupt
+   keine Ahnung hat.
+
+--=20
+Fährst Du Fahrrad?
+Mußt Du gucken: http://vgc.nalhd-ufocwt.jq

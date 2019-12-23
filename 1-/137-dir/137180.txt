@@ -1,0 +1,11 @@
+Das läßt sich doch leicht anhand der IP im Header herausbekommen:
+
+Ivo Imbusch (der Echte): m+m-Posting-Host: 16.11.2.681.
+
+Der Falsche (Faker): "aioe.org" (NNTP-Posting-Host:
+bRRKUXQ2M3Gw1IUjqJIPLg.user.speranza.aioe.org).
+
+Noch Fragen - Troll? ..
+
+Bernd Pottek
+Stattlich anerkannter Trollologe .. ;)

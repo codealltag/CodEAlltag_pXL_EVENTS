@@ -1,0 +1,23 @@
+Edmund Wellerdieck wrote:
+
+
+Windows, und ich vermute einmal das es sich um dieses OS handelt, hat 
+seit ? Jahren "Administrative Freigaben". über diese kann jeder, dem das 
+entsprechende Paßwort bekannt ist auf die Festplatte(n) zugreifen.
+
+Zu Zwecken der Fernwartung gibt es Software die einen Vollzugriff auf 
+den Remoterechner von div. Herstellern. DameWare sei hier erwähnt. Der 
+Einsatz ist in Deutschland legal, wenn der Beriebsrat der Benutzung der 
+Software zugestimmt hat und der administrative Zugriff nur nach 
+Zustimmung des Users erfolgt[1].
+
+Es stellt sich hier aber für mich eine andere Frage:
+Wie seriös ist "Der Standard"? Der Artikel kommt mir doch etwas 
+merkwürdig vor. Dort wird geschrieben:
+
+Wie wild flitzte die Maus über den Schirm, ohne dass Frau M. selbst 
+tätig war. "Ich hatte die Chance, den Eindringling auf meinem Rechner 
+beim Löschen eines Dokuments zu beobachten", sagt die Computerexpertin.
+
+
+[1]Nach meinem derzeitigen Wissen. Bin aber kein Rechtsanwalt.

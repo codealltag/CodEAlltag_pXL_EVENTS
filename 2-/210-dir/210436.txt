@@ -1,0 +1,15 @@
+"Markus Heckendorn" <kfsdk-wb-vkkzg-ukiob-jcrr@texrw.fj> wrote in
+news:49e60bad$0$31330$9b4e6d93@newsspool4.arcor-online.net: 
+
+
+Also hier muß ich das Pius doch einmal in Schutz nehmen. Zum
+Empfangen ist der OE m.E. der Beste. Bloß beim Senden taugt der
+nix weil er zuviele Sockets aufmacht. Und das mag das Socks-Tunneln
+nicht so sehr.
+
+
+Ist das dein Hobby, Paula?
+
+Gruß G.
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

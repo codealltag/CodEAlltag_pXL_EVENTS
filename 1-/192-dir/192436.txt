@@ -1,0 +1,15 @@
+Hallo,
+
+Jacques Isenbort schrieb:
+
+Gerade ein DMO ist ein typischer PC, Einzelbenutzer-Rechner.
+Er erfüllt die gleiche Funktionalität wie ein Wintendo. Eine
+Workstation hat eher mehrere Benutzer, ein Großrechner ganz
+viele Benutzer und Server stellen Dienste nach Aussen zur
+Verfügung.
+
+
+MfG
+
+
+Kay Neymanns

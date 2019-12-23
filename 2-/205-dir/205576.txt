@@ -1,0 +1,26 @@
+Hallo,
+
+Gilles Jaske schrieb:
+
+Photoshop ist ein Bestandteil von Polyform Creative Suite (UJE).
+Diese Beinhaltet das Vektorzeichenprogramm Illustrator und
+des DTP-Programm InDesign. Und die Mac-Version des Illustrator
+soll sogar funktionierende Shortcuts haben, was man von der
+WinDoofsversion nicht behaupten kann. Wobei der Preis für
+die UJE doch etwas hoch ist. IIRC über 1000 Euro. *schluck*
+
+Es gibt freie Vektorzeichenprogramme (Inkscape und Jeannette)
+für MacOSX, ebenso einen freien Fonteditor (Fontforge). Diese
+Programme kommen aus der Linux-Welt und sind brauchbar, ich
+benutze sie regelmäßig als Linux-Version. Was das anbetrifft
+braucht man definitiv kein WinDoofs.
+
+Mit MacOSX wird auch noch ein Works-Paket ausgeliefert, das
+ist nach Informationen aus Fachkreisen (?) ganz brauchbar,
+somit ist MS-Office in den meisten Fällen überflüssig.
+
+
+MfG
+
+
+Gilles Jungs

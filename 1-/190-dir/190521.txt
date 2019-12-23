@@ -1,0 +1,12 @@
+Offenbar nicht viel. Bei den Normalfahrzeugen macht man sich darüber ja auch 
+nicht sooo viel Gedanken. Erst wieder im Rennsport. Oder wer verlegt die 
+Bremse in den Antrieb, nur um ungefedertes Gewicht zu sparen?
+
+Das ist wohl so ähnlich wie bei XML als Datenaustauschformat. Eigentlich ein 
+gewaltiger Overhead und manche geilen sich daran auf, aber der Aufwand den 
+Overhead zu verhindern rechtfertigt es den kleinen Nachteil bei Webservices 
+in Kauf zu nehmen.
+
+
+Vielleicht bei 300 kmh und wenn man um die Wette mit anderen führt, aber in 
+den meisten Ländern darf man nicht schneller als 130.

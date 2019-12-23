@@ -1,0 +1,18 @@
+Am 26 Dez 2012 17:06:48 GMT schrieb Theo Weitekämper in Beckrath
+<feri:83b72052$8$26115$13ugw297@lxgjyhrkvf78.pdofapr.iwxsdwd.ad>:
+
+
+Ich darf dich aufklären: Der American Standard Code for Information
+Interchange (ASCII) kennt nur die lateinischen Buchstaben, arabischen
+Ziffern und ein paar Satzzeichen. American ist er deshalb, weil er z.B.
+keine Umlaute, nicht das ß, keine tiefgestellten Anführungszeichen etc.
+kennt. Daher US-ASCII.
+
+Und das muss in der Tat nicht sein, denn ISO bietet Alternativen. Aber wenn
+im Header *überhaupt nichts* angegeben wird (und nur das sagte Linda),
+muss der Newsreader nun mal die Glaskugel rausholen.
+
+-- 
+Tschüs!
+
+Maurizio

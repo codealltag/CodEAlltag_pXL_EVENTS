@@ -1,0 +1,7 @@
+Ingmar Ehrgang schrieb:
+
+
+Bitte teile deinen Lesern im Header mit, daß du charset="utf 8"
+schreibst. Dein charset="" ist sehr lästig.
+
+MfG Pietro

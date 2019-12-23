@@ -1,0 +1,4 @@
+Werner Fillbrandt:
+
+Bei ISDN auch nicht, je nach Telefon muß der COUM selbst auch nicht mit
+Strom versorgt werden.

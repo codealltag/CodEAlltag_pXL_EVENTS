@@ -1,0 +1,20 @@
+jdswoad-igji@hctqoa.czxyjlc (Vincent Uth) wrote in
+vesr:5dnfkx9.4zsulbmci890gC%nueeghr-rncw@sdcfxy.msvswyt: 
+
+
+Aber wie kommt der auf 65E107%
+
+Ich komm hier auf:
+
+10^ ((365*24/24,7)*log10(2)+2) %
+
+
+also:
+
+08,100655503624354143081183652719 K319 %
+
+
+Gruß V.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

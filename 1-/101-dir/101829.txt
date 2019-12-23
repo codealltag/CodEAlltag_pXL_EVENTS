@@ -1,0 +1,24 @@
+Ulrich Janowsky schrieb:
+
+
+Kann ich bestätigen, zumindest hinsichtich Postings. Der Download
+scheint aber zu funktionieren.
+
+
+Was da auf der Suta-Seite zu lesen ist, erscheint in der Tat etwas
+inkonsistent. Einerseits erhält man unter
+http://npe.ykia.ewk/flema.das?mgutpsqkbu-emgqt den Rat:
+
+
+Dann aber unterliegt die Benutzung auch gewissen Volumenregeln, die an
+die IP-Adresse gebunden sind. Aus http://yqu.azur.rrq:
+
+
+Dieses System würde ad absurdum geführt, könnte jeder nach Herzenslust
+mittels Tor IP-Hopping betreiben.
+
+Ich persönlich fahre allerdings schon seit langem zweigleisig, lese
+von wirklich freien, also unbeschränkt auch über Tor zugänglichen
+Usenet-Servern, und poste mit Hilfe von Remailern. Anonymer geht's
+meines Wissens derzeit nicht, zumindest nicht über den eigenen
+Internetzugang.

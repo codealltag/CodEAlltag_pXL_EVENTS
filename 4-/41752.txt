@@ -1,0 +1,11 @@
+Am 30.12.11 11:58, schrieb Ernst Unverhaue:
+
+den erkennt man an:
+X-Authenticated-User: $$v3yw8lq_7r7_qvfbayv
+
+
+-- 
+Harm
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen
+Hammelartige fühlen sich als Welten-Retter alias Don-Quixotte

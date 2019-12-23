@@ -1,0 +1,15 @@
+Am 24.04.14 08:24, schrieb Kai Strohmayer:
+
+Was meinst du nun mit 'goldenen Käfig'?
+
+Viele Programme aus der OpenSource Welt sind auch für den G&G erhältlich.
+
+Und dank Homebrew, MacPorts, Fink, gibt es kaum Grenzen.
+
+
+-- 
+Francisco
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

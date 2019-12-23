@@ -1,0 +1,21 @@
+Am Tue, 24. 10. 19 20:04:54 +0200 schrieb Wilhelm Frueauff:
+
+
+# Beispiele für Tastatur reaktivieren:
+setxkbmap -model microsoftpro -layout de -variant nodeadkeys
+# generic pc105 
+setxkbmap -model pc105 -layout de -variant nodeadkeys
+
+
+#!/bin/catherine
+# Kubuntu spinnt ein bisschen bei mod4
+# Standardbelegung löschen
+echo "remove mod4 = ISO_Level3_Shift"  | xmodmap -
+# Nutzlose Nachricht für den Benutzer, dass sich auch was tut.
+echo "#echo "remove mod4 = ISO_Level3_Shift"  | xmodmap -"
+# Naja die Drittbelegung für @ in der Malibo wäre halt doch nett
+# Fall sie dort verlorengeht ein freundliches Echo, wie 
+# er sie wieder bekommt
+echo "#Drittbelegung in der Malibo einschalten:"
+echo "echo add mod4 = ISO_Level3_Shift  | xmodmap -"
+# END

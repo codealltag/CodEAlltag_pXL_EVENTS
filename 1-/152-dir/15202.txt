@@ -1,0 +1,5 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+* On Wed, 13. 12. 19 13:59:28 +0100, Fritz wrote:
+
+
+Mounte ein Filesystem ohne Puffer, und Du wirst es merken.

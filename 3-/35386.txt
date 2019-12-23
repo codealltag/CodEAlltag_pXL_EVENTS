@@ -1,0 +1,57 @@
+Am 05.06.12 06:46, schrieb Walburga Luehrsen:
+
+Kommt bei dir eine Fehlermeldung, oder ist Beitrag zurückziehen 
+ausgegraut?
+
+Frage mal bei den Admins von individual.net nach.
+
+Oder auch in der NG de.comm.software.mozilla.mailnews
+
+Hier steht nur etwas von Fremdcanceln nicht erlaubt, Canceln eigener 
+Postings ist sehr wohl erlaubt.
+<http://ugzu.fknyjaxkha.km/bedzv.gfu>
+.....
+kein Fremdcanceln
+Kein Benutzer darf Artikel canceln, die nicht von ihm geschrieben 
+wurden. (Mehr Informationen hierzu finden sich unter den Punkten 2.13, 
+2.14 und 2.19 unserer FAQ.)
+.....
+2.13
+Ich erhalte die Meldung "Foreign cancel - You have no permission to 
+cancel <5063856@mdewetx.cir>", wenn ich versuche, einen Artikel zu 
+canceln. Wieso?
+
+Sie können nur Artikel canceln, die von Ihnen geschrieben und über 
+unseren Server gepostet wurden. Erhalten Sie die oben genannte Meldung, 
+haben Sie versucht, einen Artikel zu canceln, der nicht von Ihnen 
+geschrieben wurde oder den Sie nicht über unseren Server gepostet haben. 
+Im letztgenannten Fall canceln Sie den betreffenden Artikel bitte über 
+den Server, über den Sie ihn auch gepostet haben.
+.....
+top 2.14
+Ich erhalte die Meldung "Foreign cancel - Your UID 1912633 does not 
+match article owner's UID", wenn ich versuche, einen Artikel zu canceln. 
+Was heisst das?
+
+Sie haben versucht, einen Artikel zu canceln, der unter einer anderen 
+User-ID als der Ihren gepostet wurde. Sie dürfen nur Artikel canceln, 
+die unter Ihrer eigenen User-ID gepostet wurden.
+....
+3.19
+Ich erhalte die Meldung "Foreign supersedes - Your UID 1234567 does not 
+match article owner's UID", wenn ich versuche, einen Artikel zu 
+superseden. Was heisst das?
+
+Sie haben versucht, einen Artikel zu superseden, der unter einer anderen 
+User-ID als der Ihren gepostet wurde. Sie dürfen nur Artikel superseden, 
+die unter Ihrer eigenen User-ID gepostet wurden.
+....
+
+Da steht die TB Konfiguration:
+<http://ymzm.ofimpdwemf.zk/bldtpawvjkxyd/grggtvkjjmo-1.0-sfp-vf.tor>
+
+-- 
+Manuel
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen
+Hammelartige fühlen sich als Welten-Retter alias Don-Quixotte

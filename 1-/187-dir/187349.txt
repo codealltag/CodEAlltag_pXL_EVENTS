@@ -1,0 +1,7 @@
+"Hier" kann man nichts löschen. Das Usenet ist dezentral. Man kann einem
+Artikel einen Löschwunsch hinterherschicken. Jeder Serverbetreiber
+entscheidet für sich, ob er diesem Löschwunsch entspricht oder nicht.
+Gängige Praxis ist der sog. Cancel-Lock, d.h. der Löschwunsch wird nur
+berücksichtigt, wenn er einen Schlüssel enthält, der zu dem passt, mit
+dem der zu löschende Artikel beim Erstellen oder Eintreffen beim ersten
+Server versehen wurde.

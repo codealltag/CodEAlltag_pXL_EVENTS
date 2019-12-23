@@ -1,0 +1,16 @@
+* Dietmar Etzkorn schrieb cross-spammend:
+
+
+Weit Du eigentlich, was
+
+!move(XPost-Tonne) Header {^Followup\-To:\s*([^\n]*,){1}}
+
+bedeutet?
+
+Lutz
+
+-- 
+"Wahrheiten sind Illusionen, von denen wir aber vergessen haben,
+daß sie welche sind."
+
+                                           [Ihno Fabisch]

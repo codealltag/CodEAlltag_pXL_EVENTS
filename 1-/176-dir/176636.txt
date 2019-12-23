@@ -1,0 +1,6 @@
+Am Tue, 21 Sep 2010 15:20:54 +0200 schrieb Lutz Brehmen:
+
+
+Dann doch eher ein repeat until 0=1.
+-- 
+Puppenhuhn! Paradieswurst!

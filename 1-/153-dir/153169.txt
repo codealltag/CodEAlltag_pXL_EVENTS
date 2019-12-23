@@ -1,0 +1,8 @@
+Am Mon, 15 Mrz 2009 15:06:18 +0100 schrieb theodor isringhausen haag:
+
+
+Richtig rund geht es erst, wenn vor der Behandlung eine
+Bonitaetspruefung durchgefuehrt wird. Faellt die negativ aus, gibt es
+keine Behandlung.
+-- 
+1,2,3 Eierbrei

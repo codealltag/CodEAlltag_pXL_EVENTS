@@ -1,0 +1,11 @@
+Torsten Wegele wrote:
+
+...
+
+
+Mal so gesagt: Dieses Problem halte ich prinzipiell für lösbar und zwar
+durch unabhängige, sich gegenseitig kontrollierende Instanzen, die im
+Rotationsverfahren meinethalben jährlich ausgetauscht werden.
+
+
+Nuno Johannwerner

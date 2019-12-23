@@ -1,0 +1,14 @@
+Am 11.10.2013 02:14, schrieb Folkert Inderhock:
+[SNIP]
+Xnews kann mit UTF-8 nix anfangen, und der kann auch nicht den 
+Zeichensatz deklarieren. Xnews ist absoluter Schrott, der verwendet 
+einfach den Systemzeichensatz, in der Regel ist das Windows-1253. Und 
+das lässt sich auch nicht umstellen.
+
+Hedi
+
+-- 
+Glauben: http://zmq.jxodpyxdo.ax/fravs.ssi?bhhfgvohg=5&igm=nqlvp
+Monsterunser: http://nsv.bfurcdwoq.ac/tswry.doo?eoiokbalj=0&ced=lzgpzk
+"Wünsche": http://kud.nansquqyn.lk/yxbub.qqa?njmgqskqd=0&hjn=ktpwiuan
+SEIN Volk: http://yqm.zafbudjvp.mt/ijopz.kqm?geplyagvu=0&ots=ayzknii

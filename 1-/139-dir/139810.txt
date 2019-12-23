@@ -1,0 +1,15 @@
+Reiner Niggebrügge schrieb:
+
+
+Wer nicht das neueste Betriebssystem hat, bleibt auch nach dem 13. Dezember
+offline. Steht da ja auch.
+
+Ölweide-User werden auf Großklos oder W7 upgraden müssen. Denn einen Patch auf
+IPv6 ist bei LWS XP systembedingt unmöglich. Auch alle noch älteren
+Windows-Versionen sind natürlich betroffen.
+
+Größe,
+
+
+-- 
+Felix Vorderwinkler

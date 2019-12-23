@@ -1,0 +1,19 @@
+Leopold Kreftsiek schrieb:
+
+Ich weiß, daß das internationaler Standard ist, daß in den=
+ Headers=20
+ausschlißelich ASCII-Zeichen verwendet werden dürfen. Daraus er=
+gibt sich=20
+notwenidgerweise, daß nicht-ASCII-Zeichen mit ASCII-Zeichen codiert =
+
+werden müssen.
+
+INFORMIERE DICH, bevor Du Gefahr läufst dummes Zeug zu schreiben.
+
+
+Glückauf!
+Rösli Bök (Peenemünde/Deutschland)
+
+--=20
+Fährst Du Fahrrad?
+Mußt Du gucken: http://iyx.pwurh-pnigli.ki

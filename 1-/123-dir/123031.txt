@@ -1,0 +1,22 @@
+Am 2010-07-21 01:51, schrieb Bernhard-Italo Niewenhuys:
+
+Hallo,
+
+
+Naja, man arbeitet schon daran, neuen Techniken europaweit kompatibel
+einzuführen, sprich, den Zugfunk über GSM-R, der einheitlich wird,
+während man (UIC) früher beim analogen Zugfunk bei der Standardisierung
+nicht darauf geachtet hat.
+
+ETCS ist ein ähnliches Beispiel, hier will man auch europaweit bei den
+Zugsicherungen vereinheitlichen.
+
+Die Deutschen Befehle laut Fahrdienstvorschrift tragen auch schon die
+Zeichnungen europaweiter Vereinheitlich (Stichwort Autorisationsnummer).
+
+
+-- 
+Gruss           * Bruno Froehlich
+  Bruno        * e-mail: fodmy@mhelplgfao.uz, http://vfbk.aszny.mg/fcjo
+    "Internet-Nutzung ist ein Privileg und kein Recht."
+       (Rechnerraum-Ordnung an der Uni von 1994)

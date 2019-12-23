@@ -1,0 +1,11 @@
+On 2010-10-16 06:35:28 +0200, Remmer Inhestern <xjsptm@uobcxajn6.bk> said:
+
+
+Jeder Systemadmin hat heutzutage Zugriff auf sensible Datenbestände. Es 
+ist eine Idiotie solche Daten elektronisch zu lagern, denn dann sind 
+dem Mißbrauch alle Türen und Tore geöffnet. Datenschutz funktioniert 
+nicht mehr bei elektronischer Speicherung! Jeder Admin kann sie 
+unbemerkt kopieren und meistbietend verhökern, was wohl auch massenhaft 
+geschieht. Nur erfährt man bloß von wenigen Einzelfällen.
+
+GW

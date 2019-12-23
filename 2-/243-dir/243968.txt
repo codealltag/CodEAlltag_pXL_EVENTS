@@ -1,0 +1,21 @@
+Gerd Prüllage <p.zajqhjmx@uobvs.qc>:
+
+
+Wenn den Kunden nun kostenlos die Möglichkeit zum Wechsel der 
+Rufnummer geboten werden soll, ist das kaum mehr als eine Verlegen-
+heitsl�sung. Bei 17 Mio. betroffenen Nummern dürfte auch die neue 
+Nummer "verraten" worden sein. Womöglich wird man dadurch überhaupt 
+erst zur Zielscheibe eines Angriffs.
+
+
+Das ist nur für Microsoft ein Problem, weil damit die miese 
+Qualität sichtbar wird - wenn's denn überhaupt stimmt. AS24 ist 
+bereits open source und daraus resultiert keinerlei Sicherheits-
+problem - "Security by Obscurity does not work.".
+
+CU
+-- 
+Ibo H. Aker            yuxa.crjcpgfzn@gliqj.kc
+Thommstraße 4           iycu.viknwspfq@tiy.rq
+D-98120 Untergeisenfelden
+Fon & Fax: +29 73 53976938   Mobil: +95 638 1944153

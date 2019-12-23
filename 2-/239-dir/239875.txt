@@ -1,0 +1,70 @@
+Kai Haemmerle schrieb:
+
+
+Das halte ich für ein Gerücht.
+
+
+Ja, mit Dir! ;-)
+
+
+Beweise es! Zeig mir eine einige Re-Zeile von mir, die Fehlerhaft ist -=20
+Du wirst keine finden.
+
+
+Es gehört zum Standard im Netz, daß, außer im Inhalt, auss=
+chließlich 
+ASCII-Zeichen verwendet werden. Dies ist notwendig, weil es für Zeic=
+hen=20
+
+Nehmen wir zum Beispiel das Wort »Flötentöne« mit =C3=
+=B6. Wird dies auf einem=20
+System geschrieben das den Zeichensatz IBM-437 (den alten DOS-Standard)=20
+verwendet, aber auf einem System gelesen das mit ISO-8859-1 arbeitet,=20
+dann würden dort nicht die »Flötentöne«, sondern=
+ »fl”tent”ne« ankommen.=20
+In der umgekehrten Richtung wären es »fl÷tent÷ne«
+, was auch nicht besser=20
+ist.
+
+Daraus folgt notwenidgerweise, daß Subjektzeilen, die Umlaute enthal=
+ten,=20
+_defekt_ sind! Sie werden von meinem Seamonkey als unentzifferbar=20
+eingestuft und rausgeschmissen.
+
+
+Beispiel:
+
+Subject: Das muß mal gesagt werden!
+                ^
+
+Das Zeichen mit dem Code 223 (xDF) steht _hier_ für ein »ß
+«, es kann=20
+aber je nach Zeichensatz auch irgend etwas anderes sein. Eben darum ist=20
+dieses Subjekt fehlerhaft und fliegt raus, so einfach ist das.
+
+Korrekterweise müßte diese Zeile nämlich so:
+
+Subject: Das =3D?UTF-8?B?bXXDnyBtYWwgZ2VzYWd0IHdlcmRlbiE=3D?=3D
+
+oder so:
+
+Subject: Das =3D?UTF-8?B?bXXDnw==?=3D mal gesagt werden!
+
+oder so:
+
+Subject: Das =3D?ISO-8859-1?Q?mu=DF_mal_gesagt_werden!?=3D
+
+aussehen, und dann haben wir auch kein Re-Zeilenproblem.
+
+Und ich bin es leid die Dinger jedesmal manuell wieder einfügen zu=20
+müssen. Wenn mir jemand Schrott liefert, dann kriegt er auch Schrott=
+=20
+zurück, punktum.
+
+
+Glückauf!
+Arlette Demut (Gehrenrode/Deutschland)
+
+--=20
+Fährst Du Fahrrad?
+Mußt Du gucken: http://fhf.irdfk-ppgytx.zg

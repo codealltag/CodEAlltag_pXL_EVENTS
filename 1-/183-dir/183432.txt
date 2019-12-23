@@ -1,0 +1,3 @@
+Deine Formel passt aber nicht zum Problem. Die Mehrwertsteuer 
+wird nicht aus dem Bruttopreis herausgerechnet, sondern
+auf den Nettopreis addiert.

@@ -1,0 +1,8 @@
+Mißverständlich zitiert bzw. unkomplett gelöscht. Vor dem
+"Felix Thalemann ..." steht immerhin ein > als Kennzeichnung eines
+Quotes. Warum allerdings keine auf Habakuk verweisende Zeile von MKK
+erzeugt wurde, liegt in den Tiefen des Codes von OpenXP verborgen. (Der  
+Fehler ist reproduzierbar.)
+
+MfG
+        Ubbo

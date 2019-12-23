@@ -1,0 +1,15 @@
+Simon Theewen <gflce@vnxwvjoiny.yhf> wrote in news:i91dr7$1ut$1
+@ulric.tng.de:
+
+
+Wirklich 1,3% ? Nicht 1,29874526% oder vielleicht 1,301889435% ?
+
+
+Mach doch einfach rnd()*20 ...
+
+
+Gruß E.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

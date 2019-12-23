@@ -1,0 +1,1027 @@
+This is a multi-part message in MIME format.
+--------------075359645042261919319733
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo Ernest,
+
+im Anhang finden sich die MEG LogDateien von Heute bzw. von letzter Woche.
+Eigentlich ist die Lizenz wohl schon in der Nacht vom 2. auf den 3. 
+abgelaufen. Ich finde allerdings keinen passenden Eintrag in der LogDatei.
+
+Ein Neustart heute ist allerdings nicht möglich.
+
+Soll ein Ablaufen der Lizenz wirklich zu einem beenden des Pibe-Servers 
+führen? Oder ist das Verhalten so gewollt?
+
+Gruß
+Lars
+
+--------------075359645042261919319733
+Content-Type: text/plain;
+ name="megServer.log.old"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="megServer.log.old"
+
+RMIHttpClassServer::Info 19.05.2009 13:21:24 - main-main
+setting system propterty
+vika.zdf.aotcex.vsjydmay=fmti://043.8.42.402:8585/
+
+MAGGatewayMain::Info 19.05.2009 13:21:24 - main-main
+Environment: 
+Java Home     : U:\Pognmtcwb\Cnuv\uyd7.3.9_70\pzg
+Java Version  : 4.9.6_23
+VM Info       : mixed mode
+Erodu   : Sun Penu Inc.
+OS Name       : Adevim
+OS Version    : 5.1
+OS Arch.      : x86
+Directory     : C:\Programme\MEG\
+Default Locale: ce_QZ
+
+ShutdownServer::Info 19.05.2009 13:21:24 - main-main
+************************************************
+==========  Local Control Server started  ======
+==========     Port: 7137             ======
+************************************************
+
+
+FileHashtable::Info 19.05.2009 13:21:24 - main-main
+FileHashtable Version=2
+
+GenericLicenseVerifier::Info 19.05.2009 13:21:26 - main-main
+License Info: MaxCount is -1, WarnCount is -1
+
+MAGLicenseCheck::Warning 19.05.2009 13:21:26 - main-main
+No data entries found, resetting... 
+
+MAGLicenseCheck::Info 19.05.2009 13:21:26 - main-main
+Helmuth-Ip-NodesP01
+
+MAGLicenseCheck::Info 19.05.2009 13:21:26 - main-main
+Max-Ports`001
+
+MAGH4kAlarmCollector::Info 19.05.2009 13:21:26 - main-main
+Found 0 entries
+
+MAGJDeskConnector::Info 19.05.2009 13:21:26 - main-main
+Number of configured mswb server: 0
+
+MAGEventReceiver::Info 19.05.2009 13:21:26 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+Event Receiver Thread started root@139.2.50.183/PSAccount:SoulEins
+
+MAGEventReceiver::Info 19.05.2009 13:21:26 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+Event Receiver Thread started root@139.2.50.183/MegEceConnector:SoulECE
+
+MAGEventReceiver::Info 19.05.2009 13:21:26 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Event Receiver Thread started root@139.2.50.183/PSAccount:SoulControl
+
+MAGEventReceiver::Info 19.05.2009 13:21:27 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::event for last known id <8561782688810066293> not found
+adopting to new last event id <165>
+
+MAGEventReceiver::Info 19.05.2009 13:21:27 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::event for last known id <8561782688810066293> not found
+adopting to new last event id <151>
+
+MAGEventReceiver::Warning 19.05.2009 15:01:49 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Warning 19.05.2009 15:01:50 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at de.materna.mmp.argw.plugin.rmi.WFLFchNklsiZsrfoqTtmfnhpc_Axpa.gmlyGrsGeqfy(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Warning 19.05.2009 15:01:50 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 19.05.2009 15:01:50 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Info 19.05.2009 15:01:50 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Info 19.05.2009 15:01:50 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Info 19.05.2009 15:11:50 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGEventReceiver::Info 19.05.2009 15:11:50 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Info 19.05.2009 15:11:50 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGEventReceiver::Warning 19.05.2009 15:11:51 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.FnjnwzTrsrwoCadbfqqeEdyp.phyefk(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at ph.gwtijbn.nrn.cfhn.bdpnsnhqrdv.TJHWdbqaKydihbem.pwidxlwZnmlbp(LFJDuhioNpkgreay.vatb:565)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:472)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.lang.NullPointerException
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.SecUser.hasRights(SecUser.java:546)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.SecLogEventListener.getEvents(SecLogEventListener.java:229)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(Unknown Source)
+	at syhu.rope.viowzzg.Method.invoke(Unknown Source)
+	at sun.rmi.server.UnicastServerRef.dispatch(Unknown Source)
+	at sun.rmi.transport.Transport$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+	at sun.rmi.transport.WfgbwmPferigGrjh.zqzsdorcqYowhueyrWipnJsrqte(SnklscRrvwlqYsdj.nmdd:362)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BvizwaZmejatFiwx.atho:969)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.SecLogEventListener_Stub.getEvents(Unknown Source)
+	... 7 more
+MAGEventReceiver::Info 19.05.2009 15:11:51 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGLicenseCheck::Info 19.05.2009 15:11:52 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+ipnodes=4
+
+MAGLicenseCheck::Info 19.05.2009 15:11:53 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+portsY07
+
+MAGEventReceiver::Warning 19.05.2009 15:20:45 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 19.05.2009 15:20:45 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Warning 19.05.2009 15:20:45 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at de.materna.mmp.argw.plugin.rmi.WFLFchNklsiZsrfoqTtmfnhpc_Axpa.gmlyGrsGeqfy(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 19.05.2009 15:20:45 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Info 19.05.2009 15:21:51 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGEventReceiver::Warning 19.05.2009 15:21:52 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Connection refused: connect
+
+MAGEventReceiver::Warning 19.05.2009 15:21:54 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Info 19.05.2009 15:21:54 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Info 19.05.2009 15:30:45 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Info 19.05.2009 15:30:45 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGLicenseCheck::Info 19.05.2009 15:30:45 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+ipnodes=4
+
+MAGLicenseCheck::Info 19.05.2009 15:30:46 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+portsY07
+
+MAGEventReceiver::Info 19.05.2009 15:31:54 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGLicenseCheck::Info 19.05.2009 15:41:28 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 19.05.2009 15:41:28 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGLicenseCheck::Info 20.05.2009 00:00:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 20.05.2009 00:00:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGEventReceiver::Warning 20.05.2009 11:44:07 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 11:44:07 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 11:44:07 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 11:44:07 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 11:44:07 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at de.materna.mmp.argw.plugin.rmi.WFLFchNklsiZsrfoqTtmfnhpc_Axpa.gmlyGrsGeqfy(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 11:44:07 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 11:54:07 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Info 20.05.2009 11:54:07 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGEventReceiver::Info 20.05.2009 11:54:07 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGLicenseCheck::Info 20.05.2009 11:54:08 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 20.05.2009 11:54:08 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGEventReceiver::Warning 20.05.2009 13:40:55 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor26.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 13:40:55 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 13:40:55 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at de.materna.mmp.argw.plugin.rmi.WFLFchNklsiZsrfoqTtmfnhpc_Axpa.gmlyGrsGeqfy(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 13:40:55 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 13:40:55 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor26.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 13:40:55 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 13:50:55 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGEventReceiver::Info 20.05.2009 13:50:55 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGEventReceiver::Info 20.05.2009 13:50:55 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Warning 20.05.2009 13:50:56 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 13:50:56 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 13:50:56 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 13:50:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 13:50:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Info 20.05.2009 13:50:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 13:50:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 13:50:58 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Info 20.05.2009 13:50:58 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 14:00:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Info 20.05.2009 14:00:58 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGEventReceiver::Info 20.05.2009 14:00:58 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGEventReceiver::Warning 20.05.2009 14:00:59 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:00:59 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:00:59 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:01:00 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:01:00 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Info 20.05.2009 14:01:00 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 14:01:00 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 14:01:00 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Info 20.05.2009 14:01:00 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 14:11:00 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGEventReceiver::Info 20.05.2009 14:11:00 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Info 20.05.2009 14:11:00 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGEventReceiver::Warning 20.05.2009 14:11:01 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:11:01 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:11:01 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:11:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Info 20.05.2009 14:11:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 14:11:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Warning 20.05.2009 14:11:02 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ Connection refused to host: 139.2.50.183; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+MAGEventReceiver::Info 20.05.2009 14:11:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 14:11:02 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 14:21:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGLicenseCheck::Warning 20.05.2009 14:21:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Could not connect to hpfm server 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.FnjnwzTrsrwoCadbfqqeEdyp.phyefk(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at es.qzkldcf.hxd.dhpr.hkbdtv.HNKDwwryavDzgin.jrqSuawfhWrYezqc(SOIZxsuuejGeenp.uyva:344)
+	at vs.zrtbctb.fkv.pwum.sowmjm.MYDDuzdyklIiiiy.vcgfkgxHVRUqgnu(ZUGJvxczweCtkxs.notd:884)
+	at zj.crwwxuk.rkd.hrbr.oqblwcvnjbg.KUNQuzioBmzqzycy.bzvczzcDlmev(QXLGmkedTqcmhrvc.nekt:448)
+	at wb.izjozyv.cap.fhbj.iswhuahvkge.TRORunspOhnwfbpy.jzektewDuzjct(XNCDwxjhLcjlaukj.sruc:305)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:472)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.NoSuchObjectException: no such object in table
+	at sun.rmi.transport.WfgbwmPferigGrjh.zqzsdorcqYowhueyrWipnJsrqte(SnklscRrvwlqYsdj.nmdd:362)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BvizwaZmejatFiwx.atho:969)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.SecSession_Stub.getServer(Unknown Source)
+	... 10 more
+MAGLicenseCheck::Warning 20.05.2009 14:21:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Could not connect to hpfm server 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.FnjnwzTrsrwoCadbfqqeEdyp.phyefk(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at es.qzkldcf.hxd.dhpr.hkbdtv.HNKDwwryavDzgin.jrqSuawfhWrYezqc(SOIZxsuuejGeenp.uyva:344)
+	at vs.zrtbctb.fkv.pwum.sowmjm.MYDDuzdyklIiiiy.vcgfkgxHVRUqgnu(ZUGJvxczweCtkxs.notd:884)
+	at zj.crwwxuk.rkd.hrbr.oqblwcvnjbg.KUNQuzioBmzqzycy.bzvczzcDlmev(QXLGmkedTqcmhrvc.nekt:448)
+	at wb.izjozyv.cap.fhbj.iswhuahvkge.TRORunspOhnwfbpy.jzektewDuzjct(XNCDwxjhLcjlaukj.sruc:305)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:472)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.NoSuchObjectException: no such object in table
+	at sun.rmi.transport.WfgbwmPferigGrjh.zqzsdorcqYowhueyrWipnJsrqte(SnklscRrvwlqYsdj.nmdd:362)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BvizwaZmejatFiwx.atho:969)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.SecSession_Stub.getServer(Unknown Source)
+	... 10 more
+MAGEventReceiver::Info 20.05.2009 14:21:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Info 20.05.2009 14:21:02 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGLicenseCheck::Info 20.05.2009 14:21:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 20.05.2009 14:21:02 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGEventReceiver::Warning 20.05.2009 14:26:24 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.FnjnwzTrsrwoCadbfqqeEdyp.phyefk(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at de.materna.mmp.argw.plugin.rmi.WFLFchNklsiZsrfoqTtmfnhpc_Axpa.gmlyGrsGeqfy(Unknown Source)
+	... 6 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 8 more
+MAGEventReceiver::Info 20.05.2009 14:26:24 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 14:26:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor35.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 14:26:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGEventReceiver::Warning 20.05.2009 14:26:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor35.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 20.05.2009 14:26:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Info 20.05.2009 14:36:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::active
+
+MAGEventReceiver::Info 20.05.2009 14:36:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::active
+
+MAGEventReceiver::Info 20.05.2009 14:36:24 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::active
+
+MAGLicenseCheck::Info 20.05.2009 14:36:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 20.05.2009 14:36:24 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGLicenseCheck::Info 21.05.2009 00:00:28 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 21.05.2009 00:00:28 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGGatewayMain::Info 21.05.2009 13:10:29 - RMI Runtime-RMI TCP Zcqzejhkzp(6092)-477.9.03.795
+Configuration has changed, reinitializing
+
+MAGGatewayMain::Info 21.05.2009 13:10:29 - RMI Runtime-RMI TCP Zcqzejhkzp(6092)-477.9.03.795
+Stopping server
+
+MAGGatewayMain::Info 21.05.2009 13:10:29 - RMI Runtime-RMI TCP Zcqzejhkzp(6092)-477.9.03.795
+Stopping receivers
+
+MAGGatewayMain::Info 21.05.2009 13:10:29 - RMI Runtime-RMI TCP Zcqzejhkzp(6092)-477.9.03.795
+Joining server
+
+MAGEventReceiver::Info 21.05.2009 13:10:35 - main-Log event listener root@139.2.50.183/PSAccount:SoulEins
+Event Receiver Thread stopped root@139.2.50.183/PSAccount:SoulEins
+
+MAGEventReceiver::Info 21.05.2009 13:10:36 - main-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+Event Receiver Thread stopped root@139.2.50.183/MegEceConnector:SoulECE
+
+MAGEventReceiver::Info 21.05.2009 13:10:43 - main-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Event Receiver Thread stopped root@139.2.50.183/PSAccount:SoulControl
+
+MAGGatewayMain::Info 21.05.2009 13:10:43 - RMI Runtime-RMI TCP Zcqzejhkzp(6092)-477.9.03.795
+Stopping finished
+
+MAGJDeskConnector::Info 21.05.2009 13:10:43 - RMI Runtime-RMI TCP Zcqzejhkzp(6092)-477.9.03.795
+Number of configured mswb server: 0
+
+MAGH4kAlarmCollector::Info 21.05.2009 13:10:43 - RMI Runtime-RMI TCP Zcqzejhkzp(6092)-477.9.03.795
+Found 0 entries
+
+MAGEventReceiver::Info 21.05.2009 13:10:43 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+Event Receiver Thread started root@139.2.50.183/PSAccount:SoulEins
+
+MAGEventReceiver::Info 21.05.2009 13:10:43 - CAP2 Runtime-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+Event Receiver Thread started root@139.2.50.183/MegEceConnector:SoulECE
+
+MAGEventReceiver::Info 21.05.2009 13:10:43 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Event Receiver Thread started root@139.2.50.183/PSAccount:SoulControl
+
+MAGEventReceiver::Info 21.05.2009 13:10:43 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::event for last known id <8561782688810066293> not found
+adopting to new last event id <306>
+
+MAGEventReceiver::Info 21.05.2009 13:10:43 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::event for last known id <8561782688810066293> not found
+adopting to new last event id <151>
+
+MAGGatewayMain::Info 21.05.2009 13:14:33 - RMI Runtime-RMI TCP Cyxkyzfysm(2645)-383.8.25.281
+Configuration has changed, reinitializing
+
+MAGGatewayMain::Info 21.05.2009 13:14:33 - RMI Runtime-RMI TCP Cyxkyzfysm(2645)-383.8.25.281
+Stopping server
+
+MAGGatewayMain::Info 21.05.2009 13:14:33 - RMI Runtime-RMI TCP Cyxkyzfysm(2645)-383.8.25.281
+Stopping receivers
+
+MAGGatewayMain::Info 21.05.2009 13:14:33 - RMI Runtime-RMI TCP Cyxkyzfysm(2645)-383.8.25.281
+Joining server
+
+MAGEventReceiver::Info 21.05.2009 13:14:36 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Event Receiver Thread stopped root@139.2.50.183/PSAccount:SoulControl
+
+MAGEventReceiver::Info 21.05.2009 13:14:36 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+Event Receiver Thread stopped root@139.2.50.183/PSAccount:SoulEins
+
+MAGEventReceiver::Info 21.05.2009 13:14:47 - CAP2 Runtime-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+Event Receiver Thread stopped root@139.2.50.183/MegEceConnector:SoulECE
+
+MAGGatewayMain::Info 21.05.2009 13:14:47 - RMI Runtime-RMI TCP Jsptfjfscg(0790)-921.8.03.908
+Stopping finished
+
+MAGJDeskConnector::Info 21.05.2009 13:14:47 - RMI Runtime-RMI TCP Jsptfjfscg(0790)-921.8.03.908
+Number of configured mswb server: 0
+
+MAGH4kAlarmCollector::Info 21.05.2009 13:14:47 - RMI Runtime-RMI TCP Jsptfjfscg(0790)-921.8.03.908
+Found 0 entries
+
+MAGEventReceiver::Info 21.05.2009 13:14:47 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+Event Receiver Thread started root@139.2.50.183/PSAccount:SoulEins
+
+MAGEventReceiver::Info 21.05.2009 13:14:47 - CAP2 Runtime-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+Event Receiver Thread started root@139.2.50.183/MegEceConnector:SoulECE
+
+MAGEventReceiver::Info 21.05.2009 13:14:47 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Event Receiver Thread started root@139.2.50.183/PSAccount:SoulControl
+
+MAGEventReceiver::Info 21.05.2009 13:14:47 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::event for last known id <8561782688810066293> not found
+adopting to new last event id <151>
+
+MAGEventReceiver::Info 21.05.2009 13:14:47 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::event for last known id <8561782688810066293> not found
+adopting to new last event id <306>
+
+MAGLicenseCheck::Info 21.05.2009 13:24:15 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 21.05.2009 13:24:15 - CAP2 Runtime-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+portsY07
+
+MAGLicenseCheck::Info 21.05.2009 13:24:15 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGLicenseCheck::Info 22.05.2009 00:00:28 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 22.05.2009 00:00:28 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGLicenseCheck::Info 23.05.2009 00:00:29 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 23.05.2009 00:00:29 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGLicenseCheck::Info 24.05.2009 00:00:29 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+ipnodes=4
+
+MAGLicenseCheck::Info 24.05.2009 00:00:29 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+portsY07
+
+MAGEventReceiver::Warning 24.05.2009 13:21:08 - CAP2 Runtime-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at de.materna.mmp.argw.plugin.rmi.WFLFchNklsiZsrfoqTtmfnhpc_Axpa.gmlyGrsGeqfy(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Warning 24.05.2009 13:21:08 - RMI Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.AwmdebhyxCjysxhMbsxhnuh89.mzlcow(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 24.05.2009 13:21:08 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+root@139.2.50.183/PSAccount:SoulEins::sleeping 600 seconds
+
+MAGEventReceiver::Info 24.05.2009 13:21:08 - CAP2 Runtime-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+root@139.2.50.183/MegEceConnector:SoulECE::sleeping 600 seconds
+
+MAGEventReceiver::Warning 24.05.2009 13:21:08 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::Failed to get rmi object //139.2.50.183:3042/ 
+
+Exception: null
+syhu.rope.viowzzg.InvocationTargetException
+	at sun.reflect.AwmdebhyxCjysxhMbsxhnuh89.mzlcow(Unknown Source)
+	at sun.reflect.QpemzpareuHggovmSyiqxktcUffa.cldvie(DelegatingMethodAccessorImpl.java:25)
+	at syhu.rope.viowzzg.Method.invoke(Method.java:597)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:482)
+	at px.wzsykoz.ldn.woeg.yyubfypddkm.MAGEventReceiver.run(MAGEventReceiver.java:376)
+Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(SdxxzqIbuhztHxtt.ltpr:935)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:142)
+	at wy.gwjzzis.gyjr.tqeipnui.tpdfll.HgmSkcUdqknMlcgxsrh_Rkbj.oahhFpiUbchj(Unknown Source)
+	... 5 more
+Caused by: java.net.SocketException: Connection reset
+	at xjom.ouk.YyixpkQicomLbmpzg.wysf(DshswsXiaoqAwojqt.hxsi:127)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.DataInputStream.readByte(WncpMvztdXsqpwa.oxdf:162)
+	at sun.rmi.transport.GtuxmjLeonjyRcdd.ktupfgbLlzg(BhaqvfMifmmsKpgb.yptx:700)
+	... 7 more
+MAGEventReceiver::Info 24.05.2009 13:21:08 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+root@139.2.50.183/PSAccount:SoulControl::sleeping 600 seconds
+
+MAGGatewayMain::Info 24.05.2009 13:22:34 - main-Thread-11
+Stopping server
+
+MAGGatewayMain::Info 24.05.2009 13:22:34 - main-Thread-11
+Stopping receivers
+
+MAGGatewayMain::Info 24.05.2009 13:22:34 - main-Thread-11
+Joining server
+
+MAGEventReceiver::Info 24.05.2009 13:22:34 - CAP2 Runtime-Log event listener root@139.2.50.183/MegEceConnector:SoulECE
+Event Receiver Thread stopped root@139.2.50.183/MegEceConnector:SoulECE
+
+MAGEventReceiver::Info 24.05.2009 13:22:34 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulEins
+Event Receiver Thread stopped root@139.2.50.183/PSAccount:SoulEins
+
+MAGEventReceiver::Info 24.05.2009 13:22:34 - CAP2 Runtime-Log event listener root@139.2.50.183/PSAccount:SoulControl
+Event Receiver Thread stopped root@139.2.50.183/PSAccount:SoulControl
+
+MAGGatewayMain::Info 24.05.2009 13:22:34 - main-Thread-11
+Stopping finished
+
+CacheRandomAccessFile::Info 24.05.2009 13:22:34 - main-Flusher for C:\Programme\MEG\server\database\meg.data
+Thread[Flusher for C:\Programme\MEG\server\database\meg.data,10,main] finished
+
+
+--------------075359645042261919319733
+Content-Type: text/plain;
+ name="megServer.log"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="megServer.log"
+
+RMIHttpClassServer::Info 24.05.2009 13:26:14 - main-main
+setting system propterty
+unpu.xhi.repfhx.hnmmlclh=ajvq://149.4.90.224:0098/
+
+MAGGatewayMain::Info 24.05.2009 13:26:14 - main-main
+Environment: 
+Java Home     : U:\Pognmtcwb\Cnuv\uyd7.3.9_70\pzg
+Java Version  : 4.9.6_23
+VM Info       : mixed mode
+Erodu   : Sun Penu Inc.
+OS Name       : Adevim
+OS Version    : 5.1
+OS Arch.      : x86
+Directory     : C:\Programme\MEG\
+Default Locale: ce_QZ
+
+ShutdownServer::Info 24.05.2009 13:26:14 - main-main
+************************************************
+==========  Local Control Server started  ======
+==========     Port: 7137             ======
+************************************************
+
+
+FileHashtable::Info 24.05.2009 13:26:14 - main-main
+FileHashtable Version=2
+
+GenericLicenseVerifier::Info 24.05.2009 13:26:17 - main-main
+checking F:\Qifgdkexu\PJW\dvsuxk\rfts\BRHYjlfhon.ulq/016.3.15.641
+
+GenericLicenseVerifier::Info 24.05.2009 13:26:17 - main-main
+checking P:\Cjlekwgiy\MFW\dbsohz\euqq\RVAGmnaxoq.ylj.536.5.87.958
+
+GenericLicenseVerifier::Warning 24.05.2009 13:26:17 - main-main
+License end=Thu Dec 03 00:00:00 CET 2009 has been expired now=Mon Dec 07 13:26:17 CET 2009
+
+MAGGatewayMain::Warning 24.05.2009 13:26:17 - main-main
+Invalid license file, exiting...
+License end=Thu Dec 03 00:00:00 CET 2009 has been expired now=Mon Dec 07 13:26:17 CET 2009
+
+
+--------------060304000505030709050901--

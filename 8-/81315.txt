@@ -1,0 +1,29 @@
+Der "Rand" sind externe Parameter, Klimatreiber, die bezogen auf eine
+bestimmte Zeitskala relativ konstant sind, oder sich nur relativ
+langsam aendern und die die statististischen Eigenschaften des
+Systems, das "Klima" bestimmen, die aber auf der gegebenen Zeitskala
+nicht selbst eine Funktion des augenblicklichen Zustands des Systems
+sind. Das kann z.B. die atmosphaerische Zusammensetzung sein.
+
+
+Bei der numerischen Wettervorhersage geht es darum, eine spezifische,
+einzelne Realisierung zu simulieren, ausgehend von dem Anfangszustand
+meteorologischer Variablen die zukuenftigen Werte der meteorologischen
+Variablen moeglichst exakt voherzusagen. Da gibt es eine natuerliche
+Vorhersagbarkeitsgrenze, aufgrund des chaotischen Charakters des
+Wettersystems.
+
+Bei Klimasimulationen geht es nicht um die Vorhersage einzelner
+moeglicher Realisierungen, sondern darum, wie sich die statistischen
+Eigenschaften des Systems, das aus der Grundgesamtheit aller
+moeglichen Realisierungen besteht, mit einer Aenderung der
+Randbedingungen aendern. Diese statistischen Eigenschaften sind keine
+Funktion der Anfangsbedingungen. Bei einer Aenderung der
+Anfangsbedingungen wird zwar die Realisierung der einzelnen
+Klimasimulation eine andere sein, aber die statistischen Eigenschaften
+sind die gleichen. Das macht man sich dann z.B. zu Nutze in
+sogenannten Monte-Carlo-Simulationen, bei denen die Anfangsbedingungen
+zufaellig gestoert werden, alles andere ist gleich, um ein Ensemble
+von Realisierungen zu erhalten, als statistische Stichprobe der
+Grundgesamtheit aller moeglichen Realisierungen unter den gegebenen
+Randbedingungen.

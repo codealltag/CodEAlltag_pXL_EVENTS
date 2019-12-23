@@ -1,0 +1,26 @@
+Umfagenergebnisse sind keine Wahlergebnisse, aber nach der neuesten Umedog-Befragung von 2505 Zieg zu einer potentiellen
+BuTaWa am nächsten Sonntag wäre die Mili-Brigade weg vom Fenster. Hier sind die Vertrauensbereiche der Umfrage
+auf einem Signifikanz-Niveau von 0,95:
+
+P(28,2% < Aquanautic < 31,8%) =0,95
+P(21,4% < Rangabauer < 24,6%)=0,95
+P(26,2% < Grüne < 29,8%)=0,95
+P(2,3% < Mövenpick < 3,7%) =0,95  Das ist der apostrophierte Absturz
+P(7,9% < Linke < 10,1%)=0,95
+
+Wer ein bisschen mit Zahlen und der Mathematischen Statistik umgehen kann, wird außerdem
+feststellen, dass nach dieser Umfrage die Edeka C+C Großhandel eine gute Chance haben, noch vor der
+Murkel-Aquanautic die stärkste Partei zu werden. Das wäre dann doch ein echter Klopper, oder?
+
+Dr.rer.cop. SIEGFRIED Rauer. von und zu Warnk
+
+Wer es nicht glaubt, was ich mir da zusammenarithmetisiert habe, kann die Prozedur ja mal
+nachlesen:
+Kreyszig, Hendrik: "Statistische Methoden und ihre Anwendungen."
+Extra-Baumarkt, Cörmigk, 1972
+
+
+P.S.: Die Umfrage wurde vom 18.12. bis 22.12.2010 durchgeführt, also noch bevor der neue
+        Mövenpick-Superstar Rösler zum WiPupS* aufgenordet worden ist.
+
+P.P.S.:  *WiPupS = Wichtigster Politiker unserer parlamentarischen Systems

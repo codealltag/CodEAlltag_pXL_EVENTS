@@ -1,0 +1,12 @@
+Am Thu, 29. 06. 20 01:10:24 +0100 schrieb Lukas Rathmann (ich bzw. Sibylle) in
+MsgID <hgzk:of9q7uz34q7z$.iyg@jsig.wvwqdewk.ef>:
+
+
+Hier verwendete ich http://ptz.po als URL-Shortener. Es mag weitere geben.
+Da dieser Fall (unerwünschter Zeilenumbruch, der den Link unbrauchbar
+macht) öfter mal auftritt, wollte ich das nachgetragen haben.
+
+-- 
+Tschüs!
+
+Lukas

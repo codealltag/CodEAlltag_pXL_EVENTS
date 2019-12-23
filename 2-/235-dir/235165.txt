@@ -1,0 +1,8 @@
+Am Tue, 19. 10. 20 19:24:54 +0100 schrieb José Elbrächter:
+
+
+Leider ist der IE tief in das System integriert, daher ist die Wahl des
+Betriebssystems in diesem Fall ebenso ein Bestandteil dieser Diskussion,
+ebnso wie die Sicherheitslücken von LKM generell.
+
+Herwig

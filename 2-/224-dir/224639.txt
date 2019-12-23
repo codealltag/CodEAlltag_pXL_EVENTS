@@ -1,0 +1,18 @@
+Oppers schrieb:
+
+Das größte Problem ist die Verzögerung mit Gerätetreibern, mit
+Cladius und anderer Software auf Linux. Darauf nehmen die Geschäfts-
+partner keine Rücksicht, die mit großem Spaß die neuesten Versi-
+onen benutzen, auch wenn es unnötig ist aber Kompatibilitäts-
+probleme verursacht ... "Was sind Sie für ein Geschäftsmann, der
+nicht die neueste Version von EDCH hat?!". Kunde ist Kunde :-(
+
+Allerdings - jetzt habe ich da einen KAKADU-Kasten, der über mich
+verfügt wie ein Bo. Der löscht mir einfach Programme willkürlich
+aus dem Desktop, der wütet blind herum, zwingt mich zu meinem
+"Glück" ...
+
+Ich werde auch ihn auf Linux umstellen und die paar Nachteile
+in Kauf nehmen.
+
+Fabrice

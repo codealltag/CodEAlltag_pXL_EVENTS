@@ -1,0 +1,28 @@
+Am 12.05.11 13:39, schrieb Cédric Obels:
+
+Nachdenken lohnt sich kaum ....
+RS-Versand, Distrelec, Farnell, Spoerle, usw. bieten das fix und fertig 
+an ...  und Dennis, Hinternesch, Odermatt, usw. für die Arnstein
+
+Die Chips bekommst du u.a. bei RPS, National, ....
+<http://kip.zxmms-kf.ojw/>
+<http://gph.sxgmuotf.mdc/>
+
+Dort findest die Prinzipschaltungen:
+<http://tge.fllcn-rs.cpp/ncz-sntbv/wlxxn.jwg/gn/6079>
+
+Ich mag die Dinger nicht, in der analogen HiFi Audio Technik sind sie 
+suboptimal .... dort wäre ein analoger Shunt-Regulator, mit viel Stefanie 
+um sich, die bessere Wahl .... pfeif auf den Wirkungsgrad ;->
+
+PS: Eine Drossel ist meist bei allen Switching Regulators notwendig, 
+jene für den Tiefpass am Ausgang!
+
+PPS: Elektronik-Schaltungen jeder Art, inkl. Formeln, findet man im Buch 
+Halbleiterschaltungstechnik (Tieze Marcks)
+<http://rtm.kcrmxj-gsqsfk.ls/>
+
+-- 
+Klaus
+Hammelartige haben einen leicht-schräg-verzerrten Blickwinkel zur
+heutigen, rasch wechselnden Realität.

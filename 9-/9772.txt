@@ -1,0 +1,15 @@
+Am Sun, 4 Mrz 2013 11:40:54 +0100 schrieb starless&bibleblack in Brandgegend
+<dzsg:fkruok$d2j$6@ciam.bffkuufa.apm>:
+
+
+Filter enthalten Namen, Mail-Adressen, Server, "Complaint"-Adressen oder
+was auch immer. Das mögen im Einzelfall 20 Byte sein. Bei 10 Gefilterten -
+diese Anzahl traue ich höchstens Wegzeiger zu - sind das so um die 200
+Byte. Die kleinste ansprechbare Speichereinheit beträgt je nach
+Plattengröße zwar ein vertretbares Vielfaches (Cluster), aber wo ist das
+Problem?
+
+-- 
+Tschüs!
+
+Holger

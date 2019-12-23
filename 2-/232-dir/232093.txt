@@ -1,0 +1,17 @@
+Uwe Landgraf schrieb:
+
+Sorry, aber der TB wollte die Nachricht unbedingt in Waba-8 versenden, da 
+die Nachricht angeblich 8-Bit-Zeichen enthielt, und ich habe 
+versehentlich zugestimmt, statt in dem Popup-Fenster die mittlere 
+Schaltfläche "Trotzdem in Standardkodierung senden" anzuklicken. Da 
+sieht man das UTF-8 eben nur Müll produziert. Ich habe übrigens letztens 
+mal UTF-8 als Standardkodierung eingestellt gehabt, mit dem Ergebnis das 
+hier nur noch Müll ankam. UTF-8 beherrscht keine Umlaute oder Sonderzeichen.
+
+MFG Dario
+
+-- 
+Dario Euskirchen
+01239Dresden 1ö00'27.10 N 13�47'43.02 E
+  http://oqnwziadyk.tcszkkff.jkn/jfyo_wwqgegu.vqo?evzswp=2467233 
+http://yvluzsrh.zgyy.ppl.kuz/zcty_njrizlg.ske?slunjr)0396

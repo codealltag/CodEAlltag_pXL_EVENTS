@@ -1,0 +1,8 @@
+Besonders schlimm sind oftmals Multiple Choice Tests, wo man das errechnete 
+Ergebnis ankreuzen muss. Wenn die Formulierung mehrdeutig war, kannst du 
+dein Ergebnis in einem Multiple Choice Test nicht einmal mehr rechtfertigen!
+Mehrdeutige Formulierungen kommen öfter vor als man denkt.
+Und zum Aufdecken der Mehrdeutigkeit gehört sich oftmals entweder eine große 
+Naivität (W�rtlichkeitsnehmung) oder aber auch eine hohe Intelligenz.
+Ein Programmier weiß nur zu gut, dass beim Design eines Computer-Programms 
+Zweideutigkeiten gnadenlos aufdeckt werden!

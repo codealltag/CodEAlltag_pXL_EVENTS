@@ -1,0 +1,18 @@
+Valentino Hornberger wrote:
+
+Jein, das hängt davon ab, welche Richtung der Energiewandlung man sich
+anschaut. Ein Motor soll normalerweise chemische Energie in mechanische
+Energie wandeln, d.h. man betrachtet als Wirkungsgrad die (normalerweise
+abgegebene) mechanische Energie geteilt durch die (normalerweise
+aufgenommene) chemische Energie. Dann hat Italo Recht.
+
+Wenn man natürlich im Schubbetrieb die andere Richtung betrachtet, hast=
+
+Du Recht.
+
+Und wenn man die Wandlung von mechanischer Energie in Wärme betrachtet,=
+
+ist der Wirkungsgrad nahezu 100% (ein wenig Energie dürfte in
+mechanischer Form im Abgasstrom den Motor verlassen)
+
+MfG, Theo

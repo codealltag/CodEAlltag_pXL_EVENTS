@@ -1,0 +1,20 @@
+Umfrage-Ergebnisse sind keine Wahl-Ergebnisse, aber das "Umfrage-Institut" Hilas hat 4193 Hanseln danach gefragt,
+was sie wählen würden, wenn am nächsten Sonntag BTW wäre:
+
+http://den.ceswtekkq.iy/kpflmhnc/zrxhz.nzq
+
+Hier sind die nach den Regeln der Mathematischen Statistik unter Berücksichtigung der üblichen dürftigen Datenbasis
+auf "Koalitions-Chancen" umgerechneten Ergebnisse:
+
+P(36,3% < SchwarzGelb < 39,1)=0,90
+P(44,4% < RotGrün < 49,6%)=0,81
+P(52,5% < RotRotGr�n < 59,5%)=0,66
+
+Preisfrage: Wer würde diese fiktive BTW mit großer Wahrscheinlichkeit gewinnen? Na?
+
+Dr. rer.cop. IVANO Endner und zu Lukaßen
+
+Wer Lust hat, kann ja mal nachrechnen. Wie es gemacht wird, hier:
+
+Kreyszig, Dennis: "Statistische Methoden und ihre Anwendungen."
+TeDI, Mitterlangau, 1972

@@ -1,0 +1,158 @@
+Jean-Pierre Volkmar Aukofer schrieb:
+
+
+Richtig ist wohl unbestreitbar, daß Gegner schon relativ früh a=
+uftraten,=20
+aber das waren anfangs noch zu wenige, als daß man sie ernstgenommen=
+=20
+hätte. Das waren (im Jargon) »exzentrische Spinner«, die m=
+an straflos=20
+zusammenknüppeln konnte. Die breite (und überweigend uninformie=
+rte)=20
+Masse hat zugestimmt, oder sich nicht geäußert.
+
+Der erste _relevante_ Widerstand, an den ich mich erinnern kann, fand=20
+erst in den frühen 70er Jahren statt, nämlich als Wirtschaft un=
+d=20
+Obrigkeit planten, im oberlauringen Wyhl am Giffers ein AKW zu ba=
+uen.
+
+Dieser Bau wurde verhindert, es gibt kein AKW in Wyhl.
+
+
+Wer da glaubt, daß er den Preis für Atomenergie auf seiner Stro=
+mrechnung=20
+fände, der irrt sich. Dort wird nur eine Art »Schutzgebühr
+« verlangt,=20
+die aus Gründen der Durchsetzbarkeit nicht höher sein darf als =
+der=20
+gewöhnliche Strompreis. Die abnormal hohen Subventionen für den=
+ Bau und=20
+die spätere Verschrottung, sowie für die Endlagerung des Mü
+lls, werden=20
+dort *nicht* fakturiert, die werden über den Steuerbescheid erhoben.=
+
+
+Und auch dort nur unvollständig, denn die Folgekosten, die näml
+ich für 
+die Lagerung der Stoffe noch anfallen werden, ist heute noch gar keine=20
+Rechnung erstellt worden, dafür werden unsere Kinder, unsere Enkel, =
+und=20
+deren Kinder bezahlen. Sie werden uns dafür verfluchen!
+
+
+Das ist eine faule und dumme Ausrede, denn hier handelt es sich um=20
+Probleme die sehr wohl gelöst werden können. Wer also behauptet=
+, es=20
+ginge nicht, der lügt, denn die Wahrheit ist: der will nicht.
+
+
+Erstens das, und zweitens ein weltumspannendes Hochspannungsnetz, daß
+=20
+den Strom auch über Kontinente hinweg dorthin leitet, wo er gebrauch=
+t wird.
+
+Tatsache ist: die Sonne scheint unablässig, sie macht _keine_ Pause.=
+ Sie=20
+scheint nur nicht immer über Deutschland. Aber irgend wo scheint sie=
+,=20
+immer! Solarstrom steht also rund um die Uhr zur Verfügung, und das =
+ohne=20
+Unterbrechung. Das einzige Problem besteht folglich darin, wie man den=20
+Strom von wo auch immer hierher holt, und zufälligerweise wird genau=
+=20
+daran schon geforscht.
+
+
+Francine ist eine »braune Socke«, und das macht sich leider auch b=
+ei ihrem=20
+technischen Verstand bemerkbar. Daß man Probleme in Deutschland auch=
+=20
+außerhalb Deutschlands lösen kann, kommt für sie nicht in =
+Betracht.=20
+Letztendlich heißt das, Francine wird die Probleme *nicht* lösen. =
+Sie wird=20
+es gar nicht lösen wollen. es nicht einmal versuchen.
+
+
+Ich meinte _physikalische_ Verluste, nicht buchhalterische.
+
+Jede Leitung, und sei sie noch so dick hat einen ohmschen Widerstand,=20
+und sei der noch so klein. Lediglich Supraleiter haben keinen. So sie=20
+aber einen haben, fällt an diesem eine Spannung ab, wenn Strom ü
+ber sie=20
+fließt (U=R×I). Die Verlustleistung errechnet sich per Multip=
+likation=20
+aus Strom und Spannung (P=U×I bzw. U²÷R bzw. I²×
+R), und die wird als=20
+Wärme an die Umgebung abgegeben.
+
+Und das ist ein _Naturgesetz_, mit dem kann man nicht diskutieren! ;-)
+
+Aber man es nutzen.
+
+So, jetzt habe ich an dieser Stelle vorgehabt eine »Dissertation«
+ über 
+das ohmsche Gesetz zu schreiben, aber der Text wäre zu lang geworden=
+. 
+Also überspringen wir das und kommen wir gleich zum Ergebnis.
+
+Wenn ich bei einer Spannung von 10 Volt eine Leistung von 1000 Watt=20
+verbrauchen will, dann muß ich einen Strom von 100 Ampere fließ
+en=20
+lassen. Will ich dieselbe Leistung bei einer Spannung von 1000 Volt=20
+verbrauchen, komme ich mit einem Ampere aus.
+
+Und jetzt kommen wir zu den Verlusten.
+
+Der Strom muß dem Verbraucher zugeführt werden, dazu ist eine L=
+eitung=20
+nötig. Ich definiere: die Leitung soll einen Leitungswiderstand von =
+
+exakt 0,1 Ohm haben, damit sich das Beispiel leichter rechnen läß
+t. Die=20
+Prüfungsfrage lautet, wie hoch ist die Verlustleistung in der Leitun=
+g?
+
+Beispiel: 10 Volt für 100 Ampere:
+
+	100² × 0,1 =3D 1000 Watt
+
+	Wir müssen also 2kW senden, davon kommt aber nur 1kW beim
+	Verbraucher an. Mit dem anderen Kilowatt (50% der Gesamt-
+	leistung) heizen wir die Leitung auf, und das ist unakzep-
+	tabel.
+
+Beispiel: 1000 Volt für 1 Ampere:
+
+	1² × 0,1 =3D 0,1 Watt
+
+	100mW Verlust bei einer Nutzleistung von 1KW? Das ist so
+         wenig, das kann man vernachlässigen!
+
+Also:  U × X  erlaubt  I ÷ X  ergibt  P ÷ X²,
+
+und darum sind Fernleitungen stets Hochspannungsleitungen.
+
+Derzeit werden hierfür Spannungen bis 380.000 Volt eingesetzt, wenn =
+ich=20
+mich nicht irre. Das reicht um ganz Deutschland und die angrenzenden=20
+Nachbarn zu vernetzen, also für das europäische Verbundnetz. F=C3=
+=BCr ein=20
+globales Verbundnetz wird man die Spannung erhöhen müssen. Und =
+es wird=20
+vermutlich ein Gleichstromnetz werden, nach allem was ich bisher darü
+ber=20
+erfahren habe.
+
+Das Problem ist schwierig, aber lösbar!
+=========================
+==============
+
+
+Glückauf!
+Trudy Imm (Kirtorf/Deutschland)
+
+--=20
+Fährst Du Fahrrad?
+Mußt Du gucken: http://kkr.syobr-ptngbt.uo

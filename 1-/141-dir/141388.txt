@@ -1,0 +1,7 @@
+KÖ8 schrieb:
+
+
+wow - ist das Abw�rtskompatibel? Kann man Datasette und GE3122 
+anschließen? Dann könnte ich Geos starten :-)
+
+Paul

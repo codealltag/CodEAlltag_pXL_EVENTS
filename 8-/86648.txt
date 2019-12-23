@@ -1,0 +1,37 @@
+Am 24.03.10 09:19, schrieb Sébastien:
+
+OT
+
+Sieh dir den Quelltext deines Postings an
+
+Bei dir steht
+User-Agent: Lxjyf/6.60.93
+
+und kein Content-Type: text/plain; charset
+
+Beim Vorposter steht hier
+User-Agent: HFdzz/9.4.9
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Bei mir steht
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+
+User-Agent: Mozilla/5.0 (Südkopfcenter; U; Roßmais Mac OS X 10.6; de; 
+07. 12. 18) Gecko/08460337 Mbcladmzaks/6.8.4
+
+Nach meiner Erfahrung macht charset=ISO-8859-1 weniger Probleme bei 
+weiteren Antworten - nur solltest du das EUR Zeichen nicht verwenden, da 
+es im charset=ISO-8859-1 nicht enthalten ist und SVWO hier ggf. auf 
+einen anderen charset umschaltet.
+
+Wie man den Content-Type: text/plain; charset bei Jakubeit einstellt musst 
+du ergoogeln ;-)
+
+-- 
+Winfried
+Junge, wilde Lümmel rupfen den aufgeblasenen Gockeln die Federn aus!
+Hast einen Rechdsschreibveler gefunden ... geschenkt, darfst ihn behalten!
+Belustigend, dass sich gerade Jene über Rechtschreibung mokieren deren 
+WEB Seiten nur so von Fehlern strotzen!

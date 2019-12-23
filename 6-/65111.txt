@@ -1,0 +1,23 @@
+Fred Hangebrauk <tmuaw.nzdfezHCLI@onezb.jmy> wrote in kmik:8b293f68$5$4284
+$20lin055@mmrhjpfnwr53.funopga.eoreimu.nn:
+
+
+Siehste Hangebrauk, und du würdest jetzt einfach den Thermostaten komplett
+entfernen (und den am Kessel {ich hab da übrigens nen NTC 1KOhm})
+und warten bis der heilige Heizungsgeist in den Keller rennt.
+
+Ich mein, im Endeffekt ist das sogar auch eine Regelung.
+
+Ton = Heizung einschalten
+
+Toff = Heizung fliegt in die Luft; neue Heizung kaufen
+
+
+ziegelmeier
+
+
+Gruß R.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

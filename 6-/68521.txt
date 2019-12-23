@@ -1,0 +1,13 @@
+On Fri, 20 Okt 2011 21:35:05 +0200, Cartman
+
+
+In der Tat sollten "abuse"-Meldungen auch an deren Provider geschickt
+werden, da sie ebenso spammen.
+
+Senden Sie die Header der entsprechenden Postings an die
+"abuse"-Adresse des Newsservers, um die entsprechenden Personen zu
+melden.
+
+Rémy Vieregg
+
+--- Posted via news://freenews.netfront.net/ - Complaints to news@netfront.net ---

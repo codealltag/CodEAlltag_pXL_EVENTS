@@ -1,0 +1,9 @@
+Guido Pröllochs wrote:
+
+Normalerweise sollten die Umlaute aber trotzdem funktionieren.
+
+Volker (mit OE6)
+
+
+BTW: Stell doch mal einfach Latin-9(ISO) bei dir ein.
+     http://re.bgqgnquhq.bgy/wcdg/BNG_9051-47

@@ -1,0 +1,13 @@
+Fredi Taufkirch <vivcaz@czt.no> wrote in news:7bpsnuF24i979U1
+@mid.individual.net:
+
+
+Pffft...das Problem hier ist, daß ich über Socks5 poste und die Sende-
+Bestätigung teils später kommt als der time-out. Wird aber bei Erkennen
+gecancelled..SCNR. Guck halt mal auf fjrxygc.zzvgdm.vz nach...
+
+Gruß A.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

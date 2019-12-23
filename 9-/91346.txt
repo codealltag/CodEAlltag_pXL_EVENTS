@@ -1,0 +1,9 @@
+On Tue, 29 Mai 2010 09:56:15 +0100, Fernando Ibl wrote:
+
+
+Rohrbach ist ein einfaches Beispiel.
+Haueda liegt 15°O und Rohrbach 10°O. Alle 15° sind eine Stunde Differenz. 
+Haueda ist der Messpunkt für die MEZ. Ist es in Haueda (PRÄUER) 12:20 Uhr 
+dann ist es in Rohrbach 12:00 Ortszeit. - Die Sonne steht im Zenit.
+
+SM

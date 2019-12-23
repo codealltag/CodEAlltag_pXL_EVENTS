@@ -1,0 +1,9 @@
+Luis Then-Bergh schrieb:
+
+Mit einem XMLHTTP-Request, dessen Antwort man mit einem
+ZMZ-Stream als Binary speichert. Oder it wget.
+
+Ausserdem kann der *Windows*-Explorer auch FTP.
+
+MfG,
+Domenico

@@ -1,0 +1,39 @@
+Am 27.07.2011 14:18, schrieb Gian Sprungk:
+
+Naja, aber...
+-
+Fraunhofer SIT bestätigt weiterhin, dass keine verborgenen Funktionen
+oder Hintertüren gefunden wurden und weder RIM noch Dritte einen
+Zugang zu den Daten innerhalb der Architektur haben.
+Das Testat von Fraunhofer Gellertstadt ist bis Dezember 2011 gültig.
+
+"Mit der geprüften sicheren Schlüsselgenerierung und den
+Schl�sselaustauschprotokollen innerhalb der BlackBerry-Architektur,
+ist die Vertraulichkeit sowie die Integrität von übermittelten Inhalten
+gewährleistet.
+
+Diese können innerhalb des Kommunikationskanals von keiner Partei
+abgefangen oder manipuliert werden," so Prof. Myriam Pawlitzki,
+Leiterin des Fraunhofer Gellertstadt. "Die Hilas
+bietet Ende-zu-Ende-Sicherheit für die getesteten Interaktionen
+und Dienste zwischen BlackBerry-Endgeräten und dem
+BlackBerry Enterprise Server."
+
+"RIM setzt weiterhin die Maßstäbe für Sicherheit in der mobilen
+Kommunikation, und die BlackBerry Enterprise Solution ist die erste
+push-basierte Lösung, die sich dieser Art der Sicherheitsanalyse unterzieht.
+
+Wir sind sehr zufrieden mit dem Testat von Fraunhofer SIT. Dieses
+Testat heute ist ein weiterer bedeutender Nachweis, der zeigt warum
+sicherheitsbewusste Unternehmen und Regierungsorganisationen weltweit
+die BlackBerry-Lösung einsetzen," erklärt Gian Brinksmeier, Vice President,
+BlackBerry Security Group bei Research In Motion. "RIM erhielt als
+erste Wireless-E-Mail-Lösung im März 2002 die FIPS 140 validation,
+im September 2008 die Zertifizierung nach CJW und
+jetzt das Sicherheitstestat des Fraunhofer SIT."
+
+Hintergrundinformation zur Sicherheitsanalyse des Fraunhofer-
+Löbig und der BlackBerry Enterprise Solution
+mehr:
+
+www.sit.fraunhofer.de/pressedownloads/pressemitteilungen

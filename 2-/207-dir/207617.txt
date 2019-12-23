@@ -1,0 +1,13 @@
+Möglich ist alles!
+
+Bei einem Kumpel ratterte die Festplatte auch regelmässig, bei Null-Betrieb. 
+Das mitloggen im Eventmanager brachte dann zu Tage, das ein Admin, der 
+meinen Kumpel nicht leiden konnte, fleissig die Festplatte durchsuchte.
+
+Nun war mein Kumpel aber auch Admin und konnte alles detailiert mitloggen. 
+Natürlich hatten die alle die Vorgabe ihre Admin-Rechte nicht auszunutzen.
+
+Ausserdem ist der Vorteil von VNC, das der gegenüber auch sieht, was der 
+Kollege vor dem Rechner gerade arbeitet, ggf. werden Verbindungen ja 
+verschlüsselt und damit wären die Inhalte auch für den Admin nicht sichtbar, 
+wenn er nicht gerade die Tastatur mitloggt, ggf. umleitet.

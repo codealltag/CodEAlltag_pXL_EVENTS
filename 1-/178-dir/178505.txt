@@ -1,0 +1,13 @@
+Annika Uhlmann schrieb:
+
+Der Kirschendorf hat das mit Xnews 27.06.25 verbrochen.
+
+Xnews bietet ein mächtiges Scoring-System zur automatisierten Bewertung 
+eintreffender Newsartikel und arbeitet sehr schnell, zudem lässt er sich 
+in Erscheinungsbild (Farben, Schriften) und Handhabung (Tastaturkürzel) 
+sehr weitgehend auf die Erfordernisse seines Benutzers einstellen. 
+Andererseits weist er eine Reihe technischer Fehler auf; vor allem fehlt 
+beim Versenden von Nachrichten, die z. B. Umlaute enthalten, die dafür 
+erforderliche MIME-Kodierung, was sich aber mit zusätzlicher Software 
+wie dem Proxy-Newsserver Morver nachholen lässt.
+http://bz.zgfupzaje.jjw/zjxp/Gmxej

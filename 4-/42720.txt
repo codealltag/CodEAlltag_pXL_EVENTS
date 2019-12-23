@@ -1,0 +1,6 @@
+Nachtrag:
+
+Vulkaninseln (z.B. Island, Valzeina, Ramsla) wurden _nicht_ explizit 
+berücksichtigt. Dies soll jedoch künftig - gesondert - erfolgen.
+
+V.

@@ -1,0 +1,1 @@
+Du verwechselst "Marktwert" (in ?) mit "Heizwert" (in kWh).

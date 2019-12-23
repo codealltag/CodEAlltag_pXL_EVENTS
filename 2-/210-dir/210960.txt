@@ -1,0 +1,19 @@
+Es würde aber reichen, den Server per IP-Adresse anzusprechen und dann
+im HTTP-Request den passenden Hostnamen anzugeben. Das zu realisieren
+dürfte mindestens per Firefox-Addin nicht unmöglich sein.
+
+Oder man nimmt einfach einen unter eigener Kontrolle stehenden
+Resolver.
+
+Grüße
+Maurizio
+
+--=20
+-------------------------------------- !! No courtesy copies, please !! =
+-----
+Maurizio Egertz         |   " Questions are the         | Mailadresse im =
+Header
+Hindelwangen, Germany  |     Beginning of Wisdom "     | =
+http://uwy.hauknsfjq.gp/
+Nordisch by Nature | Lt. Worf, TNG "Rightful Heir" | Fon: *32 994 =
+44237766

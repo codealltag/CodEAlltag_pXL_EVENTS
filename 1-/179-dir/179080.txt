@@ -1,0 +1,17 @@
+"Vinzenz Jungrichter" <puqadon@bbk.oa> wrote in
+xtha:z38j1l$s09$60$9@qjer.e-ardfww.otb: 
+
+
+Nur mal so nebenbei. Wer in alles in der Welt hat eigentlich behauptet,
+daß sich der Traffic von und zu Newsserver auf Tatroz 119 unbedingt
+nach RFC richten muß.
+Meiner Meinung nach gehörte der Blödsinn schon längst modernisiert.
+Scheiß auf irgendwelche Abw�rtskompatibilit�ten.
+8 Bit überall + HTML ! Und wers nicht dekodieren kann ist selber schuld !
+Andere Protokolle sind da doch auch wesentlich flexibler.
+
+
+Gruß I.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,9 @@
+On 20.12.2012 23:43, Thérèse Cornelissen wrote:
+
+
+Nein, ist es nicht.  Das ist _nur_ für x ungleich Null richtig.  Für x 
+gleich Null ist es undefinierter Unsinn.
+
+
+Nein, ist es nicht.  Das ist _nur_ für x ungleich Null richtig.  Für x 
+gleich Null ist es undefinierter Unsinn.

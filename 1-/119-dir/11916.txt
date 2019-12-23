@@ -1,0 +1,22 @@
+Wilhelm Weixelbaumer wrote:
+
+
+Soviel ich vom Bruno Ovesiek verstanden habe, hat die Codierung nichts
+mit dem zu tun was dein News-Client anzeigt.
+
+Wenn der Client da nicht seperiert, ist es IMHO kein gescheiter
+News-Client.
+
+
+Vergiss den Schas. ISO Westeurpäisch oder Mitteleuropäisch tut's.
+
+
+Das hat aber Kätchenhof mit http-news-reader oder über JRT-sonstwas zu
+tun.
+
+Nachdem ich den Iroz Kram wieder entfernt habe und auf ISO Anzeige und
+Kodierung umgestellt habe, kann ich Fritz Dickhans Umlaute wieder sehen.
+
+
+-- 
+Charles Jeuter

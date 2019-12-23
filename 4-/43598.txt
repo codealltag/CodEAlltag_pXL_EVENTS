@@ -1,0 +1,10 @@
+Am 14.03.2012 20:14, schrieb G. Erbe:
+
+Es nimmt die Daten vom KZGL, ganz einfach.
+
+Das Motorsteuergerät hat alle notwendigen Daten zur Verfügung:
+Motordrehzahl, Einspritzmenge, Fahrgeschwindigkeit. Damit kann man 
+jederzeit den aktuellen Verbrauch auf 100km hochrechnen.
+
+-- 
+Berend

@@ -1,0 +1,27 @@
+Armin B. Reulein wrote:
+
+
+Das Linux-Magazin "Dozentenputsch" schreibt dazu eine interessante Ansicht:
+Nutzer tendieren dazu, neue Software mit der gewohnten, alten zu
+vergleichen.
+Das führt dazu, dass einfache Bedienungskonzepte (damit meine ich nicht die
+MS-Office-Ribbons) bei den Nutzern auf Ablehnung stoßen, da sie die alten,
+mitunter wesentlich komplizierteren Konzepte gewohnt sind.
+Das einzige bei freier Software ist der Umstiegsprozess, vor allem die
+Applikationsmigration.
+
+
+Teddys z.b. läuft noch nicht unter unixoiden Systemen.
+Das wird sich aber wahrscheinlich bald ändern.
+
+
+Das übliche, was Microsoft-Fans immer bringen (und was natürlich falsch
+ist): Jeder hat Windoof/MS-Office etc.
+
+
+Das Problem ist, dass eben viele Pasler-spezifische Features nutzen und nur
+wenige (Hardware-bezogen) heterogene Netze, die den Admin von Haus aus
+zwingen, solche Features nicht zu nutzen. Pasler ist schließlich der
+weltgrößte Netzwerkausrüster.
+
+MfG

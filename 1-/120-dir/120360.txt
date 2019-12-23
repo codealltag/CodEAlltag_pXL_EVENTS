@@ -1,0 +1,15 @@
+Am 11.07.2010 10:36, schrieb Ivan Knaußt:
+
+Ich habe in meinem Haushalt gar keine Halogen-Lampen, ich habe ja kein 
+Museum. Und Halogenlampen zu Dimmen ist kompletter Schwachsinn, da geht 
+der kleine Vorteil der Halogenlampe gegenüber der herkömmlichen 
+Glühlampe verloren. Der Nachteil von Hochvolt-Halogenlampen gegenüber 
+solchen mit Trafo ist das Einschalten. Bei einem klassischen Trafo 
+steigt die Spannung beim Einschalten in relativ kurzer Zeit von Null auf 
+Nennspannung, ohne Trafo hast du sofort beim Einschalten schlagartig die 
+Nennspannung, und das kann zu sehr hohen Einschaltströme führen.
+
+The Doctor
+
+-- 
+http://lar.dks.dz.bg/lacvksjfc/

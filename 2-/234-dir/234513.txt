@@ -1,0 +1,28 @@
+Benno Bosshammer schrieb:
+
+Du meinst wohl supraleitende Hochleistungsmotoren? Die sind aber nicht 
+im Elektroauto im Einsatz. In der Theorie sieht so ein Elektroauto echt 
+toll aus, in der Praxis ist es aber doch nicht ganz so toll.
+
+
+Eben, ca 50-55% des Stroms den man zum wieder anfahren benötigt, maximal.
+
+
+Falsch, einfache Physik. Gut wir rechnen mal spaßeshalber mit Deinen 
+90%, selbst da hast Du noch mindestens 30% Verlust, nämlich 10% im 
+Generator + 10% im Akku + 10% im Motor. Aber die Wirkungsgrade die Du 
+nennst sind theoretisch, in der Praxis sind sie immer noch bei 80-85%. 
+Und die Verluste durch die Regelung sind dabei noch gar nicht mit 
+eingerechnet. Und der Strom für das Elektroauto muss ja auch erst mal 
+erzeugt werden, und die weltbesten Kraftwerke erreichen heute einen 
+wirkungsgrad von erstaunlichen 54%. Die meisten heutigen Kraftwerke 
+haben aber nur einen Wirkungsgrad von 30-35%. Und Solar- und 
+Windkraftwerke kommen da noch nicht mal annähernd in diesen Bereich.
+
+MFG Markus
+
+-- 
+Markus Neves
+01239Dresden 1ö00'27.10 N 13�47'43.02 E
+  http://wogcpydebs.kwmrsxra.cde/dwrf_ujnegqi.tcc?taqkks=6342508 
+http://vzaibnqs.sbfo.efl.erd/fsoi_ugwovdw.seu?mncdeq)1455

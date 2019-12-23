@@ -1,0 +1,20 @@
+Am Sun, 29. 07. 20 10:52:57 +0100 schrieb Nils Verdonk:
+
+
+Nein, ist es nicht, denn Unternehmen haben meistens doch mindestens ein
+Radio (und sei es das Autoradio im Firmenwagen), und das macht ALLE
+Computer des Unternehmens am selben Standort gebührenfrei.
+
+Die bisher explizite Gebührenbefreiung von PCs lief aus, weil es immer mehr
+Dienstleistungen a la T-Home für den Empfang von Rundfunk via Internet gab,
+und weil dieser Empfang nach der alten Regelung gebührenbefreit gewesen
+wäre. Das konnte man schon im Interesse der Gebührengerechtigkeit nicht
+weiter so halten, ganz egal, wie wenig die Gebühr für PCs wirklich
+einbringt (die Einnahmen sind in der Tat ja auch absolut marginal).
+
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - Architekturbema�ung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach USD 735
+Info und Demo unter http://sro.eecuqnkaq.bp

@@ -1,0 +1,15 @@
+Tino Vry wrote:
+
+
+c) Weil Linux-Nutzer (meistens) besser Informiert sind und daher auch mehr
+Ahnung von Sicherheit haben.
+
+
+Das halte ich für unwahrscheinlich. So ist z.B. bei Magazin Direkt der J.N. Köbig-Account
+abgeschaltet. Bei allen(?) anderen Distributionen ist ein grafischer Login
+per Root gar nicht möglich. Und da der typische DAU wohl kaum mit der Konsole
+arbeiten wird, kann der garnicht als Root abeiten.
+Ansonsten gilt halt: Wenn es ein Problem gibt, sucht man eine Lösung und stellt
+es damit ab. Gerade bei GPS geht sowas normalerweise sehr schnell.
+
+Johannes

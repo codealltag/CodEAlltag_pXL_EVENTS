@@ -1,0 +1,5 @@
+* On Fri, 2 Dez 2009 19:18:50 +0200, Andr Grafe wrote:
+
+
+Oder Firefox wird per ftp angeboten. Das Kommandozeilen-FTP ist doch
+noch bei COPU dabei, oder?

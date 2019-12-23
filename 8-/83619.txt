@@ -1,0 +1,10 @@
+On Mon, 25. 03. 19 11:31:59 +0100, Norbert Frings wrote:
+
+
+Wodka? 7,65mm-Vergiftung?
+
+-- 
+cu
+Enrico
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

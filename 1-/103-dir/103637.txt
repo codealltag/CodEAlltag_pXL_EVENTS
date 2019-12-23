@@ -1,0 +1,5 @@
+Am 27.01.2011 00:35, schrieb Afonso Cuaron:
+
+               ^^^^^^
+
+Deine Reaktionszeiten sind eindeutig zu lang!

@@ -1,0 +1,22 @@
+"Bodo A. Amshove" <dfgr.bqhgpzias@judxw.io> wrote in news:4b3e895e$0
+$1464$2t5h3f57@scwmifrpb6.menkj-jesosp.zkl:
+
+
+Nach 89. Die hat der Edgar-Elektronik nach dem "Mauerfall" anscheinend 
+billig aufgekauft und dann verscherbelt.
+Ich nix Ossi, ich sein Claus !
+
+
+Die DDR-Dinger habens aber in sich! Völlig überdimensionierte
+Elko-Arrays, separate Regelspannung und LEDs als Konstantstrom
+für die Zenerdioden-Referenzen.
+Das Ding mit 13,8V und 25A (9 parallele Elkos als Glätter)
+hat bei Volllast weniger als 20mV Brummspannung!
+(abgesehen vom Gewicht...SCNR)
+
+
+Gruß I.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

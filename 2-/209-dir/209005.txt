@@ -1,0 +1,8 @@
+Die Höhe der Arbeitslosigkeit hängt nunmal von sehr vielen Parametern
+ab.
+Der Einfluss _eines_ einzigen Faktors lässt sich da gar nicht
+herausdestillieren.
+Für meine These spricht die zwingende Logik, dass eine gewisse Anzahl
+von Jobs durch den ML unrentabel wird und damit entfällt. Was evtl.
+durch andere Faktoren wieder kompensiert werden kann.
+Mal ganz abgesehen von kosmetischen Korrekturen an der Statistik.

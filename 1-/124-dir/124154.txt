@@ -1,0 +1,18 @@
+Maik Pröttel <_gptuixxydazvxlc_dmlg_zumnmfelt_orzazseoo@x-hnvytm.st> wrote in 
+bsvk:Em-btqbYbZ0re29PGFy_ajL@wxpqzfhm.ikd:
+
+
+Freilich stimmt das so nicht. Is ja nur Pseudo-Code und soll zur 
+Verdeutlichung dienen. Wie she denn das aus:
+
+cout << "Das ist hier nicht relevant" << endl;
+
+
+(doch beschissen)
+
+
+Gruß A.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

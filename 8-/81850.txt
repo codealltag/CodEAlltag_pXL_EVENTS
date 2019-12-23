@@ -1,0 +1,29 @@
+Roman T. Ruehl wrote:
+
+
+Naja, Du kennst sicher auch nicht alle anderen Hilfsdienste, die es
+gibt. 
+
+
+Einen Artikel gibt's hier:
+<http://efa.nj-uyrg.xo/xpfaxk/yzkgxrnng/uzohfekl-eeasx./Wtsvgzhibdnymuw-
+zn-Sfdrf-Kofrozdwcavdx-bxo-hbu-Maphxh-tefop-gcwlnp;uqq3875,359722>
+Melidio-News ist nicht gerade eine bedeutende, qualitativ hochwertige
+Nachrichtenseite, aber es gibt schon den ein oder anderen brauchbaren
+Beitrag mit (meist) regionalem Bezug.
+
+
+Lies den Melidio-News-Artikel! Oder die Web-Seite vom Kerntechnischen
+Hilfsdienst.
+
+
+Das stand auch irgendwo dort: Antrieb und Steuerung irgendwo unten drin,
+vermutlich gekapselt und abgeschirmt, Antrieb über Hydraulik oder
+Druckluft von "unten". Zudem sind das alles Manipulatoren, d.h. die
+fahren keineswegs eigenständig, sondern ausschließlich durch die
+Steuerung vom Leitstand. Dieser kann bei Kabelsteuerung mehrere 100m,
+bei Funksteuerung mehrere km entfernt sein. Die Kamera- und
+Sensorsignale werden auf demselben Weg übertragen wie die Steuersignale.
+
+
+Gruß, Valerius

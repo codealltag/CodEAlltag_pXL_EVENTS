@@ -1,0 +1,16 @@
+"Carsten Verdonck" <ahgezf@azitch.cx> schrieb im Newsbeitrag news:iso0q7$etv$1
+@news.marzen.de...
+
+hjeg-sg-bxou-scqmtu-tsekgjy-sdxpai-mlcb.dvi
+
+Beides! Unbedingt Beides! Wenn man seine persönlichen Daten wirklich in 
+jeder Datenbank verewigen will, sollte man alles machen!  Und Clienten
+verwenden, die mindestens 30 Sockets gleichzeitig aufmachen!
+Bresan und IOBG nicht vergessen!
+
+
+Gruß F.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

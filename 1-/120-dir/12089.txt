@@ -1,0 +1,19 @@
+Am 09.01.2013 03:01, schrieb Maurizio Jungck:
+
+Das ist nicht nötig, sein Outlock Express müsste nur den Zeichensatz den 
+er verwendet deklarieren, dann ist es fast egal welchen Zeichensatz er 
+verwendet. So kann Dein TB aber nur raten welchen Zeichensatz Patrik da 
+verwendet, und das geht regelmäßig schief. Es muss nicht UTF-8 sein, es 
+kann jeder gängige Zeichensatz sein, solange OjE nur angibt um welchen 
+Zeichensatz es sich handelt, dann klappt das auch mit der Nachbarin. ;)
+
+Nein, das bekomme ich auch nur als Kästchen angezeigt, obwohl ich UTF-8 
+verwende.
+
+Isabel
+
+-- 
+Glauben: http://xvd.llvqwitne.nr/bvvcv.xul?ystjcmnle=3&wkc=fxuoq
+Monsterunser: http://gtv.hputtwyhe.mc/rhvwd.nrq?xwzeyegbl=0&lzj=etkxuo
+"Wünsche": http://xgr.mowhcpqit.gq/jggmi.qht?vadjqamfz=2&qjd=unxibujm
+SEIN Volk: http://fmu.boaqyizzh.lk/bwtrm.mfw?lirobmrps=4&nbp=sdwdcux

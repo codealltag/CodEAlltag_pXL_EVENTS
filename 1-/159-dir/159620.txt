@@ -1,0 +1,13 @@
+Frank Dannewald:
+
+
+Ist eigentlich der Neuigkeitenleser Reiseshop Outlook Express so
+konfigurierbar, daß deutsche Umlaute lesbar erscheinen?
+
+Im Header steht derzeit: X-RFC2646: Format=Flowed; Response
+
+-- 
+Rolf
+
+X'Post: eh.prk.kklgpzu.hcoa,ns.kxrd.kuoiarstsfzgwj 
+F'Up2 : jn.rhzk.oywkaxuxpsyudf

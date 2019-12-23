@@ -1,0 +1,12 @@
+Auch bei der lokalen Verteilung könne wir einen WESENTLICHEN
+Fortschritt erzielen wenn wir auf Gleichstrom umsteigen! Erstens würde
+ein teurer Gleichrichter und die nötige Power Faktor Korrektur
+Schaltung wegen der Überbelastung des Netzes während der beiden
+Amplitudenspitzen entfallen und zweitens würden auch die krank
+machenden Effekte des niederfrequenten Wechselstromnetzes gleich mit
+beseitigt. Keiner Waschmaschine und kein Drehzahl gesteuerter
+Elektromotor kann aktuell noch etwas mit dem Drehstromnetz anfangen.
+Sie werden alle mit Gleichstromschaltungen in variabler Bewegung
+gehalten. In hochsensiblen Labors und Kliniken würde darüber hinaus
+auch die störende Netzfrequenz nicht mehr die Ableitungen und
+Messungen beeinträchtigen.

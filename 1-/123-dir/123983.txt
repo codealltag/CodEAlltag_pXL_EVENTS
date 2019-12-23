@@ -1,0 +1,17 @@
+Am 11.04.2011 11:15, schrieb Sascha Jannson:
+
+Und wer dies noch lesen kann, der setze bitte folgende Filter, damit er 
+den Dreck von mir nicht mehr lesen muss:
+
+Filterregeln:
+Betreff    enthält    MKT                        -> löschen
+Von        enthält    Sascha Jannson        -> löschen
+Von        enthält    pyvMdgmkq-Kenzaz    -> löschen
+Betreff    enthält    G.u.T                         -> löschen
+
+Ihr völlig verblödeter
+Sascha Jannson
+
+Die anderen Postings von mir müsst ihr auch nicht mehr lesen, denn da 
+steht wie immer nur Mist drin, wie man sehr deutlich an meiner IP 
+erkennen kann.

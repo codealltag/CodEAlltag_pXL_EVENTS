@@ -1,0 +1,3 @@
+Die Methode zur Berechnung der Inflation beinhaltet ja nicht die 
+Geldmenge!
+Deswegen taugt die methode auch nix.

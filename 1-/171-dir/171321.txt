@@ -1,0 +1,25 @@
+Danièle Jänker schrieb:
+
+
+Heimgebrauch *Schmunzel*. Ich arbeite in einem Unternehmen ausgezeichnet 
+mit der Microsoft Gold Mitgliedschaft ausschließlich mit Linux :) 
+Co-Existenzen sind möglich, die Grafiker arbeiten mit nem Mac, also 
+alles ist vertreten und verstehen sich. "OS-Bashing" gibt es nur im 
+Netz. Unter Linux erreiche ich über Citrix die vorgeschriebenen 
+Microsoft Anwendungen. Witzig ist es, wenn mich eMails von Admins der 
+MS-Seite erreichen, weil wieder irgendwelche Viren im Firmennetz 
+eingeschleust wurden. Was aber auffällt, ist, dass unter Schöffe ständig 
+irgendwelche Server neu gestartet werden müssen, während die 
+Linux-Systeme ewig laufen und das Unternehmen reich machen :) Mit FPWS 
+habe ich meinen Frieden, manchmal schon etwas langweilig, da muss ich 
+schon bewusst kritische System-Zustände simulieren, um nicht zu ermüden 
+und fit für den Notfall zu bleiben. Natürlich muss ich unter Linux meist 
+mehr frickeln, um Geräte zum Laufen zu bringen, für die der Hersteller 
+keine Linux Gerätetreiber zur Verfügung gestellt hat. Aber auch hier tut 
+sich etwas. Immer mehr Unternehmen stellen Teams für die Linux 
+OpenSource-Treiberentwicklung bereit, damit schneller auch exotische 
+neuere Hardware eingebunden werden kann, vorausgesetzt, die Hersteller 
+geben die Dokumentation zu den Geräten heraus, und so weiter und so 
+weiter...
+
+Friedrich P

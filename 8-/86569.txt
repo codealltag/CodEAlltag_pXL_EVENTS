@@ -1,0 +1,7 @@
+Am Tue, 03. 10. 20 17:03:43 +0100 schrieb Leopold Jaworski:
+
+
+Die Welt richtet sich nicht nach dem Bernhard Steenstra, so ein Jammer. Lass
+mich raten, die Mails kamen via Outlook und Du warst nicht in der Lage, zu
+ergoogeln, wie man eine daraus resultierende "Winmail.dat" im Mailanhang
+unter Linux öffnet?

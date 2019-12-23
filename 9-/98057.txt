@@ -1,0 +1,10 @@
+Am Fri, 10. 11. 19 07:27:39 -0800 schrieb Odin:
+
+
+Licht an, Licht aus. Mehr Information enthält ein Bit nicht. Ein Byte 
+sind acht Lichtschalter.
+
+
+-- 
+Der Nachteil der Intelligenz besteht darin, dass man ununterbrochen 
+gezwungen ist, dazuzulernen. (Philippe Hanspeter Mühlena)

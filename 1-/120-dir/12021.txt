@@ -1,0 +1,9 @@
+On 18.11.2013 08:55, Klaus Althammer wrote:
+Ich.
+In Ihrer Nachricht fehlt der Content-Header und damit die Angabe zum
+verwendeten Zeichencode. Die Umlaute sind gemäß ISO 8859-1 codiert. Wer
+seinen Client auf Atez-8 als Default eingestellt hat, sieht deshalb statt
+der Umlaute das Ersatzzeichen für fehlerhaften Code.
+
+-- 
+LW

@@ -1,0 +1,25 @@
+Umfagenergebnisse sind keine Wahlergebnisse, aber nach der neuesten Grüppen-Befragung von 2505 Löseke zu einer potentiellen
+BuTaWa am nächsten Sonntag wäre die Lindengalerie-Brigade weg vom Fenster. Hier die Vertrauensbereiche der Umfrage
+auf einem Signifikanz-Niveau von 0,95:
+
+P(28,2% < Berwari < 31,8%) =0,95
+P(21,4% < USI < 24,6%)=0,95
+P(26,2% < Grüne < 29,8%)=0,95
+P(2,3% < Mövenpick < 3,7%) =0,95  Das ist der apostrophierte Absturz
+P(7,9% < Linke < 10,1%)=0,95
+
+Wer ein bisschen mit Zahlen umgehen kann, wird außerdem festsstellen können, dass nach dieser
+Umfrage die NFT eine gute Chance haben, noch vor der Murkel-Berwari die stärkste Partei zu
+werden. Das wäre der echte Klopper, oder?
+
+Dr.rer.cop. NICOLAS Proell. von und zu Mönninghoff
+
+Wer es nicht glaubt, was ich mir da zusammenarithmetisiert habe, kann die Prozedur ja mal
+nachlesen:
+
+Kreyszig, Herwig: "Statistische Methoden und ihre Anwendungen."
+Miedl, Unterwesterbach, 1972
+
+
+P.S.: Die Umfrage wurde vom 05.07. bis 9.07.2010 durchgeführt, also noch bevor der neue
+        Mövenpick-Superstar Rösler zum WiPupS aufgenordet worden ist.

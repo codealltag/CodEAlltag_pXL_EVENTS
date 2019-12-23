@@ -1,0 +1,18 @@
+So, und nun zum nächsten Teil. Diesmal geht es um zwei bahnbrechende
+Spiele mit praktisch der selben Technologie (Quake-Engine), die aber
+trotzdem unterschiedlicher nicht sein könnten.
+
+Halflife: Dieses Spiel hat Geschichte geschrieben und war der erste
+FPS mit einer wirklich interaktiven Storyline. Alle Figuren reagieren
+auf die Handlungen des Spielers auf extrem ausgetüftelte Weise, so
+beschweren sich Wissenschaftler wenn man das Licht ausmacht. Die
+Waffen sind sehr einfallsreich und auch die Science Fiction-Story
+kommt nicht zu kurz.
+
+Counterstrike: Hierbei handelt es sich ursprünglich um einen Mod von
+Halflife, der von Hobby-Programmierern geschrieben wurde. Im Gegensatz
+zum ersteren ist es aber ein reines Multiplayer-Spiel. Zwei Fraktionen
+treten gegeneinander auf. Die Fan-Gemeinde ist riesig und geht in die
+Millionen. Ausserdem wird es frei programmiert und der Quellcode ist
+zugänglich. Ein Spiel dass sich vielleicht verbieten lässt, aber
+überdauern wird!

@@ -1,0 +1,16 @@
+Ludwig Josef <Acfeyi.Iqrzxtd@oet.or> wrote in 
+fpiw:n1c7v0g2pgz29txy6x4krgicqj5rw3ga3l@9dy.ifl:
+
+
+Naja...man könnts ja sogar noch einfacher machen:
+
+select Name from Triftquelle where time = x and IP = y
+
+Dann brucht man nichtmal mehr seinen Namen eintragen...SCNR
+
+
+Gruß D.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

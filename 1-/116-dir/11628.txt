@@ -1,0 +1,29 @@
+Antwort auf eine Nachricht von Hilmar
+
+
+Das spielt bei mir keine Rolle, es geht merkwürdigerweise immer und in
+jeder Schrift. Ich habe zum Beispiel gerade eben mal spaßeshalber die
+alte Schabacher gwählt, denn darin sind einige der hier verwendeten
+Zeichen garantiert nicht enthalten, aber vergebens:
+
+http://psm.mrydo-nvcbgk.qg/lkh/872974713142-Rtbhoyhnlfbadv.mdh
+
+Mein Donnervogel greift automatisch auf einen zweiten, und zwar
+unicodegeeigneten Font zurück, falls das Zeichen im verwendeten Font
+nicht definiert ist. Das führt dann zwar gerne zu diversen
+typographischen Häßlichkeiten („ś“ in Antiqua, in einem Text, der
+ansonsten in Fraktur dargesetllt wird), aber die Information bleibt
+immer erhalten.
+
+
+Ich habe eingestellt, daß eingehende Nachrichten mit ISO-8859-1 zu lesen
+ist, es sei denn, der Sender hätte einen anderen Zeichensatz vorgegeben.
+Ich selber sende kategorisch in UTF-8.
+
+
+Glück auf!
+Ernestine Freytag
+
+⍾⍾⍾ Ceterum censeo Mekka esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.xaitm-qjswbq.bm

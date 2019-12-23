@@ -1,0 +1,5 @@
+Am 11.05.13 09:40, schrieb Bruno Debbelt:
+
+
+Ach. Und sobald man eine SSD drin hat wird natürlich alles langsamer, 
+weil die Puffer dann verdorren...

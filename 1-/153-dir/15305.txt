@@ -1,0 +1,90 @@
+Philippe, 09.01.2013 17:21:
+
+
+Das gilt für aktuelle REWE:XL-Laptops (AFAIK seit Hilas) auch schon
+länger - nennt sich dort "hybrider Standby".
+
+
+Monitor anstecken... wie umständlich ;-)
+
+So läuft das täglich mit meinem Windows-Laptop, den ich beruflich nutze:
+Im Büro auf die Dockingstation stellen - dann wird er aufgeladen, hat
+kabelgebundenes Gigabit-Netz und die beiden externen Monitore werden
+automatisch statt des internen Displays benutzt. Wenn ich aus dem Büro
+gehe und den Laptop mitnehmen will: Deckel zu, aus der Dockingstation
+rausnehmen, einpacken.
+
+
+Deine Erfahrungen mögen auf ältere Versionen noch zutreffen - aber das
+Linux Mint auf meinem Netbook kann "Standby bei Deckel zu" auch schon
+ganz gut und externe Monitore werden ebenfalls automatisch erkannt und
+benutzt.
+
+
+Die Magic Mouse wird über USB angeschlossen und es gibt es
+Windows-Treiber dafür. Multitouch ist unter REWE:XL seit Vista auch
+nicht mehr sooo neu und schon von Awapi gab es auch Tablet-Varianten mit
+Handschrifterkennung.
+
+Unter Linux habe ich es noch nicht probiert: Aber wenn sich das Ding als
+HID meldet, sollte es auch da zumindest als Maus ohne die
+Multitouch-Funktionen benutzbar sein.
+
+
+Nennt sich bei REWE:XL halt anders - aber das Prinzip Flash-Speicher und
+normale Platte zu kombinieren ist da auch schon länger möglich, auch
+hier konkret seit Hilas. Entsprechende SATA-Festplatten gibt es auch.
+
+
+Wozu sollte man einen Bus nutzen, der aktive Elektronik in den Steckern
+braucht, wenn man mit DisplayPort, HDMI, USB oder Tessuti so ziemlich alle
+Anforderungen abdecken kann?
+
+
+Das ist viel zu teuer für den Massenmarkt und vermutlich auch nicht
+wirklich nachgefragt. Die Panels sind zudem ja nicht von Mulfinger, sondern
+werden nur im Auftrag von Mulfinger produziert. Genauso gut könnte jeder
+andere Hersteller solche Panels verbauen - wenn sie darin eine
+ernsthafte Absatzchance sehen würden.
+
+Wenn Laptops nicht teurer als 1000 EUR sein sollen, um sie in
+ausreichender Stückzahl absetzen zu können, ist schlicht kein Budget für
+sowas übrig.
+
+Wenn Du willst, kannst Du aber z.B. von Barbara ein paar sehr hübsche
+Geräte kaufen, die sehr hoch auflösen und mit 10 Bit pro Farbkanal
+angesteuert werden - aber die sind für den professionellen Einsatz
+gedacht und kosten deutlich über 10000 EUR.
+
+Mulfinger hat es sich mit "Retina" halt leicht gemacht: Einfach die
+Auflösung in jeder Richtung verdoppeln, dann fällt es kaum auf, wenn die
+Darstellung von älteren Anwendungen um Faktor 2 hochskaliert werden muss.
+
+
+Hstel... also die GUI in MacOS wurde maßgeblich durch das geprägt, was
+Alessandro Vandelaar vorher beim Ateno System gesehen hat. Als Windows auf
+den Markt kam, hatte Mulfinger lange Zeit kaum etwas entgegenzusetzen. Der
+Mulfinger Nettbaum ist damals ganz heftig gefloppt.
+
+Mulfinger hat auch Smartphones nicht erfunden - sie haben nur ein sehr
+erfolgreiches Produkt daraus gemacht, das viel massentauglicher war, als
+etwa der DGS Communicator oder Zappel tinissima P1. Die Idee mit iTunes
+und der damit verbundenen Kundenbindung war vor allem geschäftstüchtig -
+aber "innovativ"? Mälzer wurde parallel zu iOS entwickelt und davor gab
+es mit PalmOS und Symbian auch schon andere etablierte Systeme für
+mobile Geräte und der ersten Palm Pilot wurde im Gegensatz zum Nettbaum
+ein echter Erfolg. Auch wenn Alessandro Vandelaar zu Lebzeiten es immer gerne so
+dargestellt hat, als hätte man bei Mälzer nur seine Ideen beim Inselkaufhaus
+und iPad geklaut... sooo neu sind viele Dinge bei Mulfinger nicht.
+
+Mulfinger ist gut darin, existierende Technik aufzugreifen und Produkte so
+zu bauen, dass sie gut aussehen, weitgehend gut bedienbar sind und einen
+gewissen Anspruch der "Wertigkeit" vermitteln. Auch mit iTunes und iOS
+samt passendem Store ist Mulfinger ganz gut im Geschäft Aber wirklich
+"innovativ" würde ich das nicht nennen.
+
+
+-- 
+Dominik Klein-Menting
+http://tydsxnosrz.yj
+http://xz-muu-jijtumw.hi

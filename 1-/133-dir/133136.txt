@@ -1,0 +1,5 @@
+Nur DE-Domains waren offline. Das war kein Problem. Jede Webadresse hat
+gewöhnlich eine IP-Nummer. Die findest Du mit NSLOOKUP oder TRACEROUTE
+auf der Kommandozeile raus. n-tv.de fällt aus? Kein Problem, unter der
+wirklichen Serveranbindung kommst du zu den Seiten (217.27.3.150), um
+den Weltuntergang auf Deinem 30-Zoll-LCD-Monitor beobachten zu können.

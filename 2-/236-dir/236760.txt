@@ -1,0 +1,5 @@
+* On Fri, 02. 09. 20 00:09:53 +0100, Reiner Oldenhof wrote:
+
+
+UseNet ist eben asynchron. Nicht alle Artikel kommen in der selben
+Reihenfolge überall an.

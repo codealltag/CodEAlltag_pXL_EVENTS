@@ -1,0 +1,15 @@
+Hallo Oliver,
+
+"Oliver Ambil" <vwucrqxd@jckzi.qx> schrieb im Newsbeitrag 
+news:hsulhl$f7n$2@news2.open-news-network.org...
+Das kommt davon, wenn man mit ASII 64 im unteren Zeichensastz nicht 
+mehr zufrieden ist.
+Klammeraffen taugen nicht dafür, in den Zeichensatz der Oberen zu 
+kommen.
+
+Die babylonische Sprachverwirrung ist da knallhart ;-)
+
+root> shutdown -q
+
+Gruß
+Jean

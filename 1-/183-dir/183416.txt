@@ -1,0 +1,4 @@
+Björn Irmscher schrieb:
+N,
+(P_brutto-P_brutto/1,19)/P_brutto < 1/6
+und nicht "etwas mehr als ein Fünftel".

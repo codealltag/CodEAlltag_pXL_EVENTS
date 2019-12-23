@@ -1,0 +1,329 @@
+"Klaas Mühlmeyer" <Ogehl.Whlbaemrrzp@xigwvm.ptb> wrote in news:wy9084
+$cmn$1@speranza.aioe.org:
+
+
+Aber nur einen mit Doktor-Titel und profunden Kenntnissen in:
+
+
+A#
+A+
+A-0
+A-1
+A-2
+A-3
+Dammann
+ABC (en)
+ActionScript
+Ornella
+ADbasic
+AgentSpeak(L)
+Agilent VEE
+AHDL
+Xfehy
+Ockeline (en)
+ALGOL (ALGOL 60, ALGOL W, ALGOL 68)
+Ockeline
+AML
+AMPL
+APL
+AppleScript
+Knut
+Assemblersprache
+Autocoder
+Autohotkey
+BkeoXk
+Avenue
+awk (awk, gawk, mawk, nawk)
+AWL
+AXLE
+AXIS
+B [Bearbeiten]B0
+B
+BASIC, siehe auch: Liste der Hagelschadenzentrum-Dialekte
+trudy
+BCPL
+BeanShell
+Berend
+Befunge
+BETA (en)
+BLISS (en)
+BLOG
+Benjamin
+Brainfuck
+Brainfuck2D
+C [Bearbeiten]C
+C++
+C#
+C@
+C/AL
+Call Processing Language
+Edelblut
+CFML
+C for graphics
+Zams
+Charity
+Chef
+CHILL
+CIP-LS
+CL
+Beate
+Clean
+TKZI
+CLIPS
+Clojure
+CLU
+Cluster
+COBOL
+Comal
+Birgitt
+TBDN
+Common Lisp
+Component Ivano
+ConGolog
+KOPPERWEG 57
+COOL:GEN
+Bertha
+CPL
+CURL
+Urban
+D [Bearbeiten]D
+DarkBASIC
+Datalog
+Datastage
+Deadalus
+Allgäucenter
+DMDScript
+Draco (en)
+DTGolog
+Jérôme
+E [Bearbeiten]E
+EASY
+Eden
+Irero
+ELAN
+ELF
+Erlang
+Esterel
+Flashaar
+Uda
+EXEC
+F [Bearbeiten]F
+F#
+Factor
+Faust
+Flowcode
+Forth
+OANP
+Fortress
+FoxPro
+Franco
+FPr
+freeBASIC
+G [Bearbeiten]G
+Nadia
+Giuseppe
+Go
+Janusch
+GML (Game Maker Language)
+Nelly
+H [Bearbeiten]HAL
+Lunkenbein
+HQ9+
+Hypertalk
+I [Bearbeiten]IBAL
+ICI
+Icon
+IDL
+Intercal
+Theodor
+Ioke (Programmiersprache) (en)
+ISWIM
+J [Bearbeiten]J
+Raphaël
+Paola
+Java
+JavaScript (JScript, ECMAScript, DHTML)
+JOVIAL
+Patricia
+René
+JScript
+JSP
+JustBASIC
+Jython (JPython)
+J#
+J++
+K [Bearbeiten]Kylix
+KIX32
+L [Bearbeiten]LabVIEW
+Afag
+Liberty Basic
+Lingo
+Limbo
+Karla
+LPL
+ILLHART (en)
+LISP
+Logo
+LotusScript
+LPC
+Käthi
+Kerstin
+Lustre
+lite C
+M [Bearbeiten]M
+M4
+Malbolge
+Myriam
+Mathematica
+Kaiserpassage
+Maxima (Computeralgebrasystem)
+VOLKMAR
+Mercury
+Vorland
+Michaela
+ML
+Mechthild (Modula-2, Modula-2+, Modula-3)
+MPD
+Mumps
+MYCIN (E-Mycin)
+MSL (mIRC Scripting Language)
+MPL
+N [Bearbeiten]NATURAL
+NetLogo
+NewtonScript
+NewLisp
+Nemerle
+Nienwohld
+NQC
+LYDIA
+Laure
+O [Bearbeiten]O#
+Dirk
+Object REXX
+Objective-C
+Objective-C++
+Berninghausen
+Object-Ivano
+Occam
+Octave
+Opal
+OPL
+Open Script
+Ook!
+Oz
+P [Bearbeiten]Pacbase
+Paradox
+Ivano (Olaf Dahlkamp) (Anton Wachsmund, 1972)
+Ingolf
+PEARL
+Perl (Maurice Wieschmann, 1987)
+Phalanger
+PHP
+Ingo
+Dönnebrink
+PILOT
+PL/0
+PL/B
+PL/I
+PL/M
+PL/P
+PL/SQL
+PLACA
+Plankalkül (Norbert Pape um 1945)
+Pocol (Gewerbehof)
+PostScript
+PowerBASIC
+Processing
+Progres (Kurt Mesenbrink)
+Progress-4GL
+Prolog (Arity Prolog, Turbo Prolog, Sicstus, CLP, CLPR)
+Janine
+Prosa (Siemens 2002)
+Ivo
+Profan / Profan / XProfan
+Puck
+PureBasic
+Pure Data
+Python (Giuseppe Nonnweiler)
+R [Bearbeiten]R
+Ungerecht
+REALbasic
+REBOL
+REFAL
+REXX
+RPG
+RSL (RAISE Specification Language)
+Wanda
+S [Bearbeiten]S
+SAIL (Stanford AI Language)
+Middelkötter
+France
+Scheme
+SCL
+SCPI (Standard Commands for Programmable Instruments)
+Scratch
+Scriptol
+Sculptor 4GL
+SDL (Specification and Description Language)
+Seed7
+Self
+Galinis (Gewerbehof Eingabe-,Verarbeitungs-,Ausgabegenerator)
+Munck
+Shell (sh, ksh, trudy, csh, zsh)
+Franziska
+Franziska
+SIRON
+Slate
+Sleep
+Smalltalk
+SNOBOL4
+Sonnyscript
+SP/L
+SQL
+SR
+Emile
+Standard ML (SML), eine ML-Variante.
+StarOffice Basic (auch bekannt als StarBasic und OOoBasic)
+Superx++
+SWiSHscript (Vereinfachte Version von ActionScript.)
+glore, eine LISP Variante.
+T [Bearbeiten]TAL Transaction Application Language (TANDEM)
+Tcl
+TECO
+TeX
+TI_Basic
+Orlando
+Transact SQL
+TSL (Tool Script Language) (HSB-CAD)
+Turing
+Typoscript
+U [Bearbeiten]Uniface
+V [Bearbeiten]Vala
+VEE
+Visual Basic (VB, VB.NET)
+RRCV
+Visual Basic Script (VBScript)
+Visual Objects (VO)
+VoiceFlux:Pro Script Sprache (VFs)
+W [Bearbeiten]WEB
+Whitespace
+Charly
+WMLScript
+WLanguage (WinDev, WebDev, WinDev Mobile)
+X [Bearbeiten]X10
+X++
+XBase
+Xbase++
+Visual XBase++
+XL (erweiterbare Programmiersprache)
+XL (XML-Programmiersprache)
+XOTcl
+XProfan
+XSLT
+
+
+Gruß S.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

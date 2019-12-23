@@ -1,0 +1,6 @@
+Full ACK.
+
+Diese Vakuum-Säulen saugen auch nur dann Umlaute weg, wenn die
+IP im Header mit "16. 01. 20" beginnt.
+
+LOL.

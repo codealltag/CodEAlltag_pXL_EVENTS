@@ -1,0 +1,11 @@
+Thus spake Dirk Volmerdingsen (kovnzicbcmpbly@uif.so):
+
+MS-Office (bzw. Word) kriegt es nichtmal auf die Reihe ein Word-Dokument
+mit ~30+ Seiten das mit einer früheren Version von Word erstellt wurde
+fehlerfrei anzuzeigen, also sei lieber froh das die Kiste nicht
+explodiert wenn man eine OpenOffice-Datei mit MS-Office öffnen will.
+-- 
+Linux is for people who hate Windows       |  Hansueli 'strcat' Linnebach
+FreeBSD is for people who hate Linux       |  http://soa.pfkdbe.ri/
+NetBSD is for people who hate OpenBSD      |  http://kdp.agqjbm.un/bxlf/
+OpenBSD is for people who hate everything  |  http://vrdwal.pr/ktchr.itd

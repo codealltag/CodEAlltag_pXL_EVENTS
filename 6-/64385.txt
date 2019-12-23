@@ -1,0 +1,18 @@
+Norman Häusl <cqoum.mfgeipTEND@ibups.ugo> wrote in zafl:1o7o5005$4$2179
+$29yrq883@lvqngkcund68.infzjbs.thvljxn.xk:
+
+
+Ja sixt Häusl, etz fällts mir grad wieder ein wemmer scho bei HVDB sind.
+Ich brucht doch noch sowas wie den MAX4477 für meine 8 BPW34 als ne Art 
+Szintillationszähler. Hast ne Idee für nen billigen Ersatztyp?
+
+Und was meinst was besser wär. Jeder BPW34 einen eignen OpAmp zu spendieren
+und dann zu addieren oder die 8 BPW34 gleich parallel an einen OpAmp 
+dranhängen?
+
+
+Gruß W.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

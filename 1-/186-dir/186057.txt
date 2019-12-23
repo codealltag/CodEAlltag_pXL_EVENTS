@@ -1,0 +1,10 @@
+Es sieht aus, wie eine Lebensversicherung: Name, Verkaufobjekt,
+Unterschrift. Darin verpflichtet sich zum Beispiel die Edenaw
+der Maidl eine Summe von 100 EUR zu überweisen, wenn die EZB den
+Leitzins auf 2 % erhöht. Umgekehrt muss Meißburger zahlen,
+wenn der Zins < 2 % bleibt.
+     Welche Papierfarbe diese Verträge haben ist unterschiedlich:
+manchmal rosa andere sind simples Recycling-Papier. Und auf einigen
+soll angeblich mit Menschenblut unterschrieben worden sein.
+    Der Wert solcher Verträge ermittelt sich nach dem Black-Scholes-
+Modell. Oder aber durch Auktion.

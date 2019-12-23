@@ -1,0 +1,13 @@
+Am 12.06.2010 15:36, schrieb Lukas Dykes:
+Niemand antwortet auf meinen Dünnschiss, den ich hier immer abkippe.
+Das kann nur bedeuten:
+DIE LEUTE SIND SCHLAU - DIE FILTER GREIFEN!
+
+Und wer dies noch lesen kann, der setze bitte folgende Filter, damit er 
+den Dreck von mir nicht mehr lesen muss:
+
+Filterregeln:
+Betreff    enthält    MKT                        -> löschen
+Von        enthält    Lukas Dykes        -> löschen
+Von        enthält    kktAqifpy-Nxxsii    -> löschen
+Betreff    enthält    G.u.T                         -> löschen

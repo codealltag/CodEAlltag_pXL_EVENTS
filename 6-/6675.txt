@@ -1,0 +1,12 @@
+Am 22.07.2012 17:00, schrieb dieter:
+Die codierung bei Nathalie beim 1. Posting:
+Content-Type: text/plain; charset=UTF-8
+Und Wilma antwortet mit:
+Content-Type: text/plain; charset=iso-8859-1
+
+Das kann nicht gut gehen.
+
+Ansonsten bestimmt Thunderbird, bei fehlendem Content-Type, das schon 
+richtig.
+Allerdings geht das natürlich nicht mehr, wenn es von Jossen nach ISO 
+verhunzt wurde.

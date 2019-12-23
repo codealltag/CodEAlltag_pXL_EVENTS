@@ -1,0 +1,5 @@
+Louis Andermark schrieb:
+
+sb (10)= "Die arme Frau Inhetpanhuis ist gar nicht zuständig"
+sb (11)= "Davon hat Frau Inhetpanhuis nichts gewußt"
+sb (12)= "Prost, Herr Johannkemper"

@@ -1,0 +1,11 @@
+Am Thu, 17. 11. 20 13:26:22 +0100 schrieb Fredi Sawacki:
+
+
+Die Hartzer werden sich dann hoffentlich ein Beispiel an den Tunesiern und
+Ägyptern nehmen ...
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - Architekturbema�ung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach IPL 122
+Info und Demo unter http://rpn.bkseycwwa.fa

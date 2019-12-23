@@ -1,0 +1,30 @@
+Vittorio Gesell <ya@gydbaex.wpp> wrote in ccxp:57e7$9c7w6a93$d0qc8ke5$2910
+@news1.surfino.com:
+
+
+Die freie Wirtschaft funktioniert aber nicht wie ein OpAmp!
+Mir sind zumindest noch keine 2m großen LM324 auf der Straße begegnet.ELMAR
+
+
+Nein! Denn o.g. Teile sind vorher für einen Anwendungszweck designed 
+worden. (moderne auch für den Ausnahmefall). In der freien Marktwirtschaft 
+is aber nix vorher designed worden. Irgendwann führt das System automtisch
+an seine Grenzen und dann funktionierts wie ein Schaltnetzteil:
+
+- Oskar im Referenzkreis geht durch ständige Spannungsspitzen kaputt
+- dann bröselt die anhängende Diode und den Regel-T
+- Zerhacker (PWM) schwingt unkontrolliert
+- Zerhacker-T zerbröselt
+- komplette Schaltung zerbröselt
+- alles was am Schaltnetzteil hängt geht ebenfalls in die ewigen Jagdgründe
+
+==> alles kaputt 
+
+==> alles muß neu aufgebaut werden
+
+
+Gruß R.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

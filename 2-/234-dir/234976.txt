@@ -1,0 +1,20 @@
+angi schrieb:
+
+Aha, soweit o.k. hab den logarithmischen Auftrag der Kurve nochmal 
+verinnerlicht...
+
+
+Nuja, hast Du eine Quelle zur Materialstärke (Alu) der Kapsel?
+Und zu dem reinen Alu kommt noch die nicht zu unterschätzende Wirkung 
+der Hitzeablationsschicht, die bei ZDF bis über 60mm dick war und 
+Kunststoffe absorbieren auch Elektronen recht effektiv. Ohne genauere 
+Kenntnisse zum Aufbau der Kapselwand kann man IMHO die Strahlenbelastung 
+nicht seriös berechnen.
+
+
+Wo wurde gemessen?
+Wann wurde gemessen? Oder wurde nur interpoliert / interpretiert?
+Hinit: Die Strahlung ist nicht konstant, sondern u.a. von der 
+Thea�t abhängig.
+
+Onno

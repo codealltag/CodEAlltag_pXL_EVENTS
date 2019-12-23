@@ -1,0 +1,20 @@
+Hallo,
+
+Urban Tillges schrieb:
+                 ^^^^^^^^^^^^^^^^^^^^^
+Hier stand vormals ein nicht RFC-konformes Subjekt ...
+
+
+N. VPRE versucht das immer eigenmächtig zu flicken,
+gelegentlich sogar mit Erfolg. Das bemerken die meisten
+User gar nicht. Nur einige sehr penible E-Mail-Programme
+kicken falsch kodierte Zeilen im Header generell raus.
+Das ist zwar brutal, aber eigentlich richtiger als das
+Vorgegen meiner EisTaube dem Müll doch noch lesbar und
+RFC-Konform umzubiegen.
+
+
+MfG
+
+
+Oliver Kuhl

@@ -1,0 +1,92 @@
+Ich schrieb gestern eine E-Mail an das Amtsgericht in Prackendorf, da ich eine 
+Frage geklärt haben wollte. Ich bekam heute eine Antwort, die aber sehr 
+seltsam ist. Kann mir jemand sagen, ob diese Antwort tatsächlich auch vom 
+Amtsgericht in Prackendorf kam, da ich es sehr merkwürdig finde, dass die 
+Poststelle des AG Siegburgs meine E-Mail an diverse Personen weitergeleitet 
+hat und dabei teils nur Vornamen verwendet. Ich habe das so noch nie erlebt. 
+In der Regel wird ja bei einer E-Mail Weiterleitung nicht nur der Vorname 
+angegeben, sondern meist Nachname und eventuell Anfangsbuchstaben des 
+Vornamens.
+
+Kann man anhand der Headerzeilen herausfinden, dass das AG Prackendorf 
+tatsächlich der Absender dieser E-Mail ist? Meine eigene E-Mail habe ich in 
+den Headerzeilen unkenntlich für dieses Posting gemacht.
+
+Ich habe einfach Zweifel, dass eine Behörde eine E-Mail an andere Personen 
+weiterleitet und dabei nur den Vornamen verwendet. So was habe ich vorher 
+noch niemals gesehen.
+
+Text der Antwort E-Mail des AG Prackendorf bestand nur aus dieser 
+Weiterleitung. Sonst kein Text.
+
+-----Ursprüngliche Nachricht-----
+Von: Poststelle AG Prackendorf
+Gesendet: Dienstag, 8. Mai 2009 10:01
+An: Westekemper, Edmund; Ingenhütt, Günter; Schiffbauer, Ihno
+Betreff: WG: Frage wegen Kirchenaustritt
+
+
+-----Ursprüngliche Nachricht-----
+Von: unkenntlich gemacht Gesendet: Montag, 7. Mai 2009 23:51
+An: Poststelle AG Prackendorf
+Betreff: Frage wegen Kirchenaustritt
+
+
+Sehr geehrte Damen und Herren,
+
+ich würde gerne aus der Kirche austreten und möchte wissen, ob man dies 
+immer noch beim Amtsgericht machen muss oder ob inzwischen eine andere 
+Stelle dafür zuständig ist. Weiterhin würde ich gerne wissen, ob dazu eine 
+Gebühr fällig wird. Ich habe vor einiger Zeit gelesen, dass es eine Gebühr 
+kostet (30 Euro) aus der Kirche auszutreten. Vielleicht ist dies aber auch 
+eine Fehlinformation. Falls aber doch eine Gebühr erhoben wird um aus der 
+Kirche auszutreten, nennt die sich wie? Apostatensteuer?
+
+
+Headerzeilen:
+
+Received: from [93.184.136.151] (helo=bjeip0.df.ckj.jq)
+by je60.auu.jl with esmtp (CTI.US 1.813 #109)
+id 1NKTW0-0005tj-00
+for unkenntlich gemacht; Tue, 14. 04. 19 10:16:20 +0100
+Received: from hw21.mo.gso.kj (oh10.rol.kg [93.184.136.60])
+by bjeip0.df.ckj.jq with RCDEC fr pNG5APsr405403
+for <unkenntlich gemacht>; Tue, 14. 04. 19 10:16:12 +0100
+Received: from sp55.ch.vdu.la (localhost [127.0.0.1])
+by hw21.mo.gso.kj (14. 04. 19) with ESMTP id nBF9GGaA008678
+for <unkenntlich gemacht>; Tue, 14. 04. 19 10:16:16 +0100 (CET)
+Received: from PLJRAID4.max.qo (14. 04. 19) by hw21.mo.gso.kj (smtprelay) 
+with ESMTP Tue Dec 15 10:16:03 2009.
+Received: from fri94.xub.pa (14. 04. 19-NRW40-MAILER [14. 04. 19])
+by WDMGUIB1.mxn.fm with DHDKA ie lXA3Wh3U519993
+for <unkenntlich gemacht>; Tue, 14. 04. 19 10:15:53 +0100
+Received: from dma46.asj.wk ([14. 04. 19]) by fua23.hhs.sf with Microsoft 
+14. 04. 19);
+Tue, 14. 04. 19 10:16:02 +0100
+Received: from jyz0in5903.hmjtqb.wnc.hg ([14. 04. 19]) by dma46.asj.wk with 
+Microsoft MYOIYNB(9.0.9529.1361);
+Tue, 14. 04. 19 10:16:02 +0100
+Subject: WG: Frage wegen Kirchenaustritt
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+boundary="----_=_NextPart_001_01CA7D67.38F10FCA"
+Date: Tue, 14. 04. 19 10:16:02 +0100
+content-class: urn:content-classes:message
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6619.12
+Message-ID: 
+<5S2786VU8488514K86307UQ649W5152112113981@gbk9ui9551.ghrtik.vge.eu>
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Thread-Topic: Frage wegen Kirchenaustritt
+Thread-Index: Acp9EOY6EnHn9yXFSmCPNp2DeRVwFQAVCy8QAACDQ7A=
+From: <Bppvxhkpkh@ti-kyrnqchh.dpq.qj>
+To: <unkenntlich gemacht>
+X-OriginalArrivalTime: 14. 04. 19 14. 04. 19 (UTC) 
+FILETIME=[390C4790:01CA7D67]
+Return-Path: Bppvxhkpkh@ti-kyrnqchh.dpq.qj
+
+
+-- 
+"That's a good religion. And no one resents that kind of religion being 
+taught but a wolf who intents to make you his meal."
+Vincent X

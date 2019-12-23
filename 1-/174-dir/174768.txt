@@ -1,0 +1,7 @@
+dann red mal:
+http://ai.tslwmzc.ehafb.sje/ujeehsr?s=EURUSD=X#chart7:symbol=eurusd
+=x;range=6m;indicator=volume;charttype=line;crosshair=on;ohlcvalu=
+es=0;logscale=on;source=undefined
+
+
+--=20

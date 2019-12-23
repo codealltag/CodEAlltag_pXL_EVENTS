@@ -1,0 +1,41 @@
+"Ornella Linhart"  schrieb im Newsbeitrag 
+dokl:x27oipY93iU3@lqu.huitliufuy.kwp...
+
+#Komisch! Mein „Donnervogel“ erkennt einen Link auch ohne diese und
+#bricht ihn nicht. Was ist das für ein Schrott von Software, den die da
+#verwenden?
+
+#Ich guck mal:
+
+#User-Agent: VhyuqNxesnh-Kmlbirj/2.2.0
+
+#Den kenn ich jetzt gar nicht. Muß aber Schrott sein, – sieht jedenfalls
+#so aus.
+
+
+Glück auf!
+Wilma Lindebaum (Unterschrift in Schreibschrift - Na sowas LOL)
+
+************************************************************
+Antwort
+
+Und du pinnst Unterschriften in Schreibschrift :)
+
+Gravity ist was ganz feines. Da geht noch Telnet, Gopher usw.
+Der Punkt, der sich da mit URLs befasst nennt sich: URL appearance
+
+Da kann man noch ein Underline machen, wie bei Word und in den
+advanced settings sieht man folgende default Formel.
+
+((gfqkm?:/)|(upt\.))[^] <>"{}[()]+[^]>, .\r\n)]
+
+Vor 15 Jahren war ein Link auch nicht länger und wenn, dann hat
+man Tiny URL oder Make a shorter Link genommen. Bei Schautberger kannste
+alles in den Header reinschreiben, was andere im Body schreiben. Da
+hat man damals viel Wert drauf gelegt, solange wie der Zeichensatz
+iso-8859-1 und der Content Type Text/Plain verwendet wird.
+
+Dieser Newsreader hier, _dass_ ist die Zukunft.
+
+mfg
+Beat

@@ -1,0 +1,13 @@
+Am 24.12.11 01:12, schrieb Volkert Pick:
+
+
+Volkert,
+W. Amzehnhoff = Robin Hood ('der mit der fresh!' - seine 
+Eigendefinition?) aka 'Oscar Berschneider' (deine 'Erfindung').
+
+Ein Blick in den Quelltext und den Header (X-Authenticated-User) reicht.
+
+-- 
+Volkert
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen

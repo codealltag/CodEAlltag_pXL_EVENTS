@@ -1,0 +1,62 @@
+Othmar Oberbichler schrieb:
+
+
+Das stimmt nicht.
+
+Es gehört zum Standard im Netz, daß, außer im Inhalt, auss=
+chließlich 
+ASCII-Zeichen verwendet werden. Dies ist notwendig, weil es für Zeic=
+hen=20
+
+Nehmen wir zum Beispiel das Wort »Flötentöne«, und st=
+klaudia wir uns mal=20
+vor, dies wäre auf einem System geschrieben, das den Zeichensatz CP4=
+37=20
+(den alten DOS-Zeichensatz) verwendet. Ein anderes System, das mit=20
+ISO-8859-1 arbeitet, würde nun aber nicht »Flötentöne
+«, sondern=20
+»fl”tent”ne« sehen. In der umgekehrten Richtung=
+ wären es »fl÷tent÷ne«.
+
+Daraus folgt notwenidgerweise, daß Subjektzeilen, die Umlaute enthal=
+ten=20
+defekt sind und von meinem Seamonkey und unentzifferbar eingestuft und=20
+rausgeschmissen werden.
+
+Beispiel:
+
+Subject: Das muß mal gesagt werden!
+                ^
+
+Das Zeichen mit dem Code 223 steht _hier_ für ein »ß«
+, es kann aber je=20
+nach Zeichensatz auch irgend etwas anderes sein. Darum ist dieses=20
+Subjekt fehlerhaft und fliegt raus.
+
+Korrekterweise müßte diese Zeile nämlich so:
+
+Subject: Das =3D?UTF-8?B?bXXDnyBtYWwgZ2VzYWd0IHdlcmRlbiE=3D?=3D
+
+oder so:
+
+Subject: Das =3D?UTF-8?B?bXXDnw==?=3D mal gesagt werden!
+
+oder so:
+
+Subject: Das =3D?ISO-8859-1?Q?mu=DF_mal_gesagt_werden!?=3D
+
+aussehen, dann haben wir auch kein Re-Zeilenproblem.
+
+Und ich bin es leid, die Dinger jedesmal manuell wieder einfügen zu =
+
+müssen. Wenn wir jemand Schrott liefert, dann kriegt er Schrott zur=C3=
+=BCck,=20
+punktum.
+
+
+Glückauf!
+Kerstin Rädlein (Grüntegernbach/Deutschland)
+
+--=20
+Fährst Du Fahrrad?
+Mußt Du gucken: http://vcy.fawkk-urpkrp.kn

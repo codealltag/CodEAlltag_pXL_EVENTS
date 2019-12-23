@@ -1,0 +1,16 @@
+Hallo,
+
+
+Der Import laeuft eigentlich noch erstaunlich schmerzfrei: Es gibt nicht
+wesentlich mehr Probleme als beim Austausch zwischen verschiedenen Versionen
+von M$-Office (abgesehen von Macros, die zugegebenermassen nicht so einfach
+zu uebertragen sind ...). Und manche M$-Offcie-Dateien, die von der M$-
+Software als "kaputt" angesehen werden und somit gar nicht mehr geoeffnet
+werden koennen, haben eine gute Chance, durch das laden in OpenOffice doch
+noch wieder zum grossen Teil rekonstruiert zu werden ...
+
+Tschuess,
+	Jakobi Madeleine			(uynilqe@zhpynr-lmludtjyqc.oe)
+-- 
+Ein Domainname (auch wenn er Teil einer Mailadresse ist) ist nur ein Name,
+nicht mehr und nicht weniger ...

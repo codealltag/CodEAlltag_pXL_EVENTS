@@ -1,0 +1,21 @@
+Emile Dyckmanns wrote:
+
+Die waren selten wesentlich. Wann immer ich auf inperformante Software 
+gestoßen bin, lag das am allerwenigsten an der verwendeten Sprache. 
+Meistens an EBRAINDEADCONCEPT, auf dem zweiten PLatz liegt 
+EWRONGALGORITHM und auf dem dritten EDUMBCODER.
+
+
+Womit dann len(string) immer den ganzen String lesen muß => quälend 
+langsam.
+
+
+Man tut. Sun ist nicht die Heilsarmee, die wollen Geld verdienen, und 
+das tun sie im Wesentlichen mit Support, Service und so der Markt grad 
+mal nicht tot ist auch mit Hardware.
+
+-- 
+Ihno Junkerjürgen
+
+Akkordeonjugend Kleinbärenweiler - http://zap.hwoyrurrhngfhdf.hg/
+MaaxCar - http://phk.dkftt.pbn/

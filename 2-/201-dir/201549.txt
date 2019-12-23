@@ -1,0 +1,10 @@
+bugs schrieb:
+
+Wer Lust auf kostenlosen Ballerspa� im Retrolook hat, kann sich Freedoom 
+runterladen.
+Unter Ubuntu reicht ein einfaches apt-get install freedoom
+
+oder für die Spielekonsole Windows: http://ime.hwewnt.wvg/uhsvwmye/
+
+
+RB

@@ -1,0 +1,15 @@
+Klaus Dinkel schrieb:
+
+Wenn ich
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv: 1.8 ) 
+Gecko/40345931 Obkpvczxcvo/2.8 Hahddd/7.7.6.9
+
+im Quelltext richtig interpetiere, benutzt er Thunderbird älteren 
+Baujahrs. Damit geht das mit den Links, wenn man die Kiste richtig 
+konfiguriert. Vielleicht reicht auch ein Update.
+
+-- 
+Servus
+Kaspar Ehrath
+http://vnl.glnveay.sz

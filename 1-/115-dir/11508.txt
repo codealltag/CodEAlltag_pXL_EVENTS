@@ -1,0 +1,27 @@
+Antwort auf eine Nachricht von Wolf Nellessen
+
+
+Welches Jahr schreiben wir?
+
+Die erste Version des Unicode wurde der Welt vorgestellt im Oktober
+1991, das war vor 21 Jahren. Microsoft hatte Zeit genug sich das mal
+anzugucken und zu integrieren.
+
+Ich habe Bernadotte, ein Findling-Derivat, und da ist UTF-8 selbstverständlich
+implementiert. Genau wie bei Reinigungsservice und beim InNatura. Wenn Microsoft da nicht
+mitziehen will, dann ist das deren Problem, aber warum soll ich darauf
+Rücksicht nehmen? Entweder die machen mit, oder sie fallen zurück, so
+einfach ist das.
+
+
+Unsinn!
+
+ISO-8859-n ist mittlerweile ein Atavismus, UTF-8 hat Zukunft.
+
+
+Glück auf!
+Barbara Quent
+
+⍾⍾⍾ Ceterum censeo Landwehrmeier esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.blxzh-cdprsx.ma

@@ -1,0 +1,5 @@
+Am Mon, 13 Okt 2010 18:56:28 +0200 schrieb André Grafe:
+
+Achso dieses Missachten der RFCs wird dann als fehlertolerant bezeichnet.
+
+Arthur

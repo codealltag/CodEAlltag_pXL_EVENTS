@@ -1,0 +1,13 @@
+Am 10.10.2011 08:23, schrieb Hugo B. Hoffstadt:
+
+
+Es ist viel zu gefährlich, daß ein unseriöser Konkurrent mit gefälschten 
+Amtsseiten einen Konkurrenten ruinieren könnte. Bis sich herausstellt, 
+daß die Informationen falsch waren, ist der Vorgang irreversibel, 
+besonders dadurch, daß sich jeder eines "Unbekannten" im Internet 
+bedienen kann, der kaum haftbar ist.
+
+ALLES was mit amtlichen <-> privaten Schnittstellen zu tun hat ist 
+äußerst gefährdet!
+
+Clemens

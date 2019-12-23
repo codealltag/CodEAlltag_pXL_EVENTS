@@ -1,0 +1,16 @@
+Domenico Notthaft <mgttxcvr@clrva.tz> wrote in xojr:4e6fxk31$5$67797$7k1r7a89
+@newsspool3.arcor-online.net:
+
+
+Da wär ich mir aber nicht so sicher!
+Theoretisch könnte man doch eigentlich an den Internetknoten lauter kleine
+Kästchen mit schneller Hardwarelogik einbauen, die alle IP-Pakete 
+durchrattern lassen und die mit "verbotener" source-adress blocken
+und die destination-adress je nach politischem Gusto gleich ans BKA 
+weitermelden.
+
+
+Gruß N.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

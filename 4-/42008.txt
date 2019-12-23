@@ -1,0 +1,15 @@
+Das wäre machbar, ja, aber ob das reicht ist noch offen und benötigt
+darüber hinaus auch noch mehr Bewegungsspielraum in den beiden Achsen.
+Ob die Verwirbelungen hinter den aus dem Wind gedrehten Flächen nicht
+trotzdem leichte Kratzer hervorrufen? Schon wenige kleine streuen das
+einfallende Licht und drücken den Wirkungsgrad.
+
+Das ist so nicht richtig. Gerade die nachgeführten Anlagen erhöhen bei
+diffusem Licht den Wirkungsgrad gegenüber starr ausgerichteten Flächen
+deutlich. Da sind dann Unterschiede bist zu 90% drin weil die
+Ausrichtung nach dem Lichtschwerpunkt erfolgt und nicht dem aktuellen
+Sonnenstand. Bei Verwendung von neuen Zellen mit hohem Wirkungsgrad
+wird dieser Unterschied noch wesentlich deutlicher hervortreten. Schon
+einfache Experimente mit z.B. einem 50W Panel zeigen die extremen
+Wirkungsgradunterschiede bei schlechter Ausrichtung im unteren
+einstelligen Gradbereich.

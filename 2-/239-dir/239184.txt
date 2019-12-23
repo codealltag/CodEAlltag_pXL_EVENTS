@@ -1,0 +1,36 @@
+On 10 Mai., 23:24, "Fernando A. Cunzemann" wrote:
+
+
+Schon klar, das meinte ich auch. Die Bedienung des Kredits
+quasi.
+
+
+Wir kommen so nicht weiter. Das ganze mit Worten zu erklären, ist
+wie Pudding an die Wand nageln. Lassen wir doch Zahlen sprechen.
+Ich hab mir eine Visualisierungsform ausgedacht und dazu ein kleines
+Modell einer Wirtschaft entworfen, das so einfach wie möglich ist, um
+gerade noch nicht trivial zu sein.
+
+http://jn.jhglszn.qpc/mfhb.afc?mee=rewb4k&j=5
+
+Dargestellt sind Zahlungs- und wirtschaftliche Vorgänge in einer
+stabilen Wirtschaft über einige Perioden. Es sollte eigentlich
+alles relativ selbsterklärend sein. Schau mal, ob du damit was
+anfangen kannst. Wichtig ist mir der Punkt, daß eine Wirtschaft
+dauerhaft und wachstumsfrei funktionieren kann, obwohl Kredit
+ausgereicht ist und dafür regelmässig Zinsen gezahlt werden.
+
+Nicht ausmodelliert (aber im Prinzip problemlos erweiterbar) sind:
+
+* Kapitalstock (Maschinen...)
+* Sparen =3D> Investieren =3D> Produktionswachstum
+* Produktivitätswachstum
+* Trennung Unternehmen - Angestellte im Bankensektor
+* Trennung Unternehmen - Unternehmer
+* Staat
+* Geldmengenveränderung (=3DKreditver=E4nderung)
+
+und und und.
+
+
+Ist mir ein Rätsel, wie sich ein Volkswirt so äussern kann.

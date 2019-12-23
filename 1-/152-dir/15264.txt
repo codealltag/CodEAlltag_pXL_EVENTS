@@ -1,0 +1,7 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+* On Tue, 28. 01. 19 22:49:54 +0000 (UTC), Theodor Höpfner wrote:
+
+
+Bei einem Standard PC mit 8 oder 16 GB RAM (wirklich nicht
+ungewöhnlich viel) benutzt das OS normalerweise eine vergleichbare Menge
+an RAM zum Puffern. Das ist sogar schneller als jede SSD.

@@ -1,0 +1,12 @@
+Hinweis:
+Damit die Balken bei den kleinen Richterskalen nicht übers DIN-A-4
+Blatt
+hinausschießen ist jede kleinere Skala mit den Faktor 10 zu Normieren.
+R11 keine Normierung
+R10 keine Normierung
+R9 keine Normierung
+R8 keine Normierung
+I9 22s
+X4 234t
+R5 1000x
+T7 52867w

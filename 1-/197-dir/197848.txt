@@ -1,0 +1,14 @@
+Am Fri, 24 Jul 2009 04:54:51 +0200 schrieb Thierry Minnebusch:
+
+
+Tscha, das ist wohl der Haken bei der Sache: wie soll man sich nen
+vernünftigen Browser runterladen ohne einen vorinstallierten?
+
+Ja, ok. Eine HeftCD der üblichen Art tuts auch. Aber die muss man sich auch
+erstmal besorgen.
+
+Prinzipiell eine gute Sache und wurde auch Zeit, mir hätts aber gereicht,
+könnte man den IE ordnungsgemäß deinstallieren.
+
+Gruß,
+Schöppker

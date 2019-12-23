@@ -1,0 +1,16 @@
+"Clemens \"Panzerschaffer\" Kluge" <atelqndv@j-xsimyc.gx> wrote in 
+cxvo:3j853gj7-t173-6f78-47ip-cq7r39q4z74f@f19o0295vnh.hfcyumjobvqr.vvm:
+
+
+Wie issn das eigentlich so mit den Evet-APIs. Gibts die auch wie bei
+Pendzialek online oder in der Emig frei veröffentlicht und beschrieben.
+Oder Entwicklertools? So wie das Kostenlose VisualStudio-Expreß?
+Oder kostenlose SQL-Server?
+Gibts eigentlich auch was für den Evet um die kompletten TCP-Sockets
+mit Socks zu tunneln?
+
+Gruß V.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

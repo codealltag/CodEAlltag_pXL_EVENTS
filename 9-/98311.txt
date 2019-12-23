@@ -1,0 +1,8 @@
+On Wed, 08. 10. 20 14:21:27 +0100, Berend Buschhorn wrote:
+
+
+Dann wird jetzt logischerweise EvryDNS die Auflösung deren TLDs 
+einstellen, gelle?
+Die Gründe dafür haben sie ja vor 5 Tagen mit wikipedia.org genannt.
+
+Andree

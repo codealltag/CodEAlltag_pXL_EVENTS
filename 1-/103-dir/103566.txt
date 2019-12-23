@@ -1,0 +1,11 @@
+Am Sun, 30 Nov 2010 19:45:55 +0100 schrieb Oscar Mark Lorke:
+
+
+Vielleicht lesen Sie doch noch mal nach:
+
+
+-- 
+ArchTools: Architektur-Werkzeuge für AutoCAD (TM)
+           ArchDIM  - Architekturbema�ung und Höhenkoten
+           ArchAREA - Flächenermittlung und Raumbuch nach WCK 176
+Info und Demo unter http://juf.jmigxfwrq.jv

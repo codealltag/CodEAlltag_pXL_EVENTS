@@ -1,0 +1,4 @@
+Bei Grossserie wird nur Lieferung vereinbart und der Preis. Die genauen 
+Zahlen werden per Abruf vom Kunden eingefordert (Edifact). Die 
+Lieferung ist also schon verpflichtend, auch wenn der Kunde noch garnix 
+will.

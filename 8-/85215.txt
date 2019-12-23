@@ -1,0 +1,8 @@
+Photovoltaik: Du brauchst hier in Deutschland knapp 20m=B2 Modulfläche
+um ein typisches Elektroauto (15kWh/100km) mit einer typischen
+Jahresfahrleistung (15.000km) zu betreiben.
+
+Windkraft: Mit einem typischen Windrad (2MW, 100m Nabenhoehe) hier in
+Sueddeutschland kannst du rund 2000 typische Elektroautos betreiben.
+Mit zukuenftigen Windraedern (5MW, 130m Nabenhoehe) ein Vielfaches
+davon.

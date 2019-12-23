@@ -1,0 +1,5 @@
+Falsch. Benutze Java und es geht einfach, schnell und läuft auch noch
+auf dem Mac und der Linux Kiste!
+
+Ich schreibe heute Anwendungen in Java in der 5tel Zeit und 10tel
+Programmgröße wie früher.

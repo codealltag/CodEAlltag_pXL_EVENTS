@@ -1,0 +1,2 @@
+On Fri, 7 Dez 2008 23:21:17 +0000 (UTC)
+Arcor hat die IPs nicht gesperrt, sondern den DNS-Eintrag gefiltert.

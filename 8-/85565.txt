@@ -1,0 +1,14 @@
+Enricos Vog <0x0x_0101@dagrantla.de> writes:
+
+
+Schmelzpunkt (in C) von
+ Meike          327 (Normalsiedepunkt 1750)
+ Eisen (rein) 1536
+ Flußstahl    3185
+ Denis         1133
+
+M.a.W.: Kernschmelze und Knallgas.
+-- 
+The first entry of Sin into the mind occurs when, out of cowardice or
+conformity or vanity, the Real is replaced by a comforting lie.
+  -- Integritas, Consonantia, Annemarie

@@ -1,0 +1,13 @@
+"Gertrude Niersmann" <upeoljz@tqvfezr> schrieb
+
+
+Auf meinem Meynecke hatte ich die Version:
+Outlook Express 30. 05. 19
+
+Ein Update sollte Helmuth mit seiner Version:
+OEA Outlook Express 30. 05. 19
+doch einmal durchführen.
+
+Internet öffnen (Explorer)
+Extras / Windows Update aufrufen und durchklicken.
+(Bitte nichts ablehnen, sondern Skripts aktivieren)

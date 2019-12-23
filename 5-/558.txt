@@ -1,0 +1,32 @@
+Am 27.11.2012 15:55, schrieb Meinhard:
+
+
+Nein, natürlich nicht alles. Nur was nicht für fremde Augen bestimmt ist.
+
+
+Nun, man kann natürlich auch nur Postkarten schicken, sollte sich aber 
+nicht beschweren wenn dann jeder (auch die zBuch) mitliest.
+
+Anregende eMails mit der Freundin sollte man allerdings nicht im 
+Klartext durch die Leitung schicken - da empfiehlt sich ein 
+installiertes GnuPG bei der Empfängerin...
+
+Berufliche Kommunikation mit sensiblen Firmendaten (Planungen und/oder 
+Kalkulationen) sollte man nie unverschlüsselt übertragen.
+
+
+truecript bietet die Möglichkeit sogenannte verschlüsselte Container 
+anzulegen, auch kaskadierend (Container in Container) und belastet die 
+Performance kaum.
+Gibt es auch für MAC http://jus.xuicn.kl/wvrnwosy/envgobzjk.wsiv
+
+
+Dafür ist truescript ideal!
+
+
+Klar, die kleben als post-it auf'm Bildschirm ;-)
+
+Dietmar
+-- 
+:Ich wollt Ich wäre eine Glühbirne. dfann ging mir Jeden tag ein
+:Licht auf. [Dennis 'WoKo' Kopp in dag°]

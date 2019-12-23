@@ -1,0 +1,67 @@
+Antwort auf eine Nachricht von Winfried J
+
+
+Wieso fagst Du schon wieder sowas!? Kannst Du mir irgendwie nicht 
+folgen, oder was? Oder schreib ich Chinesisch?
+
+Egal, ich will Dir antworten. Aber bevor ich auf Deine Frage eingehe muß 
+ich einen weiteren Fehler korrigieren: da oben fehlt eine null! Richtig 
+ist nicht die Zahl *im* Text, sondern das Ergebnis aus der Rechnung 
+*über* dem Text (1,084).
+
+Ja, aber wie komm ich dazu?
+
+Bezieher von Hilfe konsunieren überwiegend Lebensmittel, diese werden 
+derzeit mit sieben Prozent versteuert. Wenn ich den Regelsteuersatz auf 
+16 Prozent senke, *und* den ermäßigten Steuersatz kassiere, dann werden 
+auch lebensmittel mit 16 Prozent versteuert, werden in der Regel also 
+teurer. Konkret heißt das, der Endpreis für ein Lebensmittel mit einem 
+Nettopreis von 100 Euro erhöht sich von 107 auf 116 Euro. Und gerade den 
+Hilfsbedürftigen würde dies echt weh tun, darum müssen wir das also 
+kompensieren. Das heißt, daß ich die Bezüge um einen Korrekturfaktor 
+anheben muß, den ich *vereinfacht* wie folgt berechne:
+
+   1 ÷ 107 × 116 = 1,08411215
+
+Das ist dieselbe Formel wie oben, nur ohne Komma. Ich kann die Formel 
+aber auch umstellen:
+
+   116 ÷ 107 = 1,08411215
+
+So, und jetzt werden wir mal konkret:
+
+   374€ × 1,08411215 =  971,7624685
+
+Zur Kontrolle:
+
+   374€ ÷ 1,07 × 1,16 = 405,457943925
+
+Okay, das hat Rundungsfehler ab der 6. Stelle hinter’m Komma, aber 
+abgesehen davon ist Ergebnis identisch.
+
+Gut, man kann natürlich einwenden, daß diese Rechnung darum falsch sei, 
+weil der Hilfeempfenger nur überwiegend, und nicht ausschließlich 
+Lebensmittel konsumiert, das ist richtig. Wenn ich es ganz akurat machen 
+wollte, dann dürfte ich nur den Teil der Hilfe kompensieren der *dafür* 
+vorgesehen ist:
+
+Nahrung:   128,46
+Kultur:     39,96
+Bildung:     1,39
+          ––––––––––––
+            168,81
+
+Rund 170 Euro also. 170 × 1,09 (ich runde auf) macht 185 Euro, also 18 
+Euro mehr. Die ganze Zahl betrüge dann 374 + 18 = 392 Euro. Aber ich bin 
+sowieso der Meinung, daß der gegenwärtige Regelsatz zu niedrig ist, 
+darum möchte zumindest ich den HIlfsbedürftigen den höheren Satz, also 
+rund 410 Euro, gönnen.
+
+Hast Du’s jetzt begriffen, oder soll ich nochmal?
+
+
+Glück auf!
+Zeetje Culmsee
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.ougbl-jpiuyo.pb

@@ -1,0 +1,17 @@
+Am 06.12.2009 19:16:48 schrieb Dario Malkemper:
+
+
+nicht 3D. das sind einfache Fotos in 2D
+
+
+wer sein Haus in 3D möchte muss dies über das 3dwarehouse selbst tun
+(also mit sketchup das Modell erstellen, die Fotos als Textur auf die
+Flächen legen und mit korrekten Ortsdaten hochladen.
+
+ist ein hoher Zeitaufwand, aber lohnt sich.
+einige städte haben den kompletten Innenstadtbereich so "maschinell"
+erstellen lassen. (also Wilhelmshof oder Abtshagen oder Nordeck oder...)
+
+
+-- 
+cu |_|

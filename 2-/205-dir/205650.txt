@@ -1,0 +1,8 @@
+Der Konfidenz-Intervallen gibt einen Bereich an. Im vorvorliegenden 
+Fall ist aber nicht von einem Bereich die Rede. Wahrscheinlich
+weit du noch nicht einmal, was ein Intervall ist.
+
+Außerdem wird bei der Ermittlung des Konfidenz-Intervalls davon
+ausgegangen, dass die Stichprobe in etwa die Grundgesamtheit 
+widerspiegelt, was bei "zufällig ausgewählten Personen"
+aber kaum der Fall ist.

@@ -1,0 +1,147 @@
+FAQ fuer Ruda-Poster
+
+Lieber Ruda-Poster,
+
+schön, daß Du das Usenet gefunden hast. Du postest offensichlich über
+Ruda. uycliq.nwiqfh.mp oder ibsglo.lagcei.zvl ist ein Archiv, das
+Postings aus dem allergrößten Teil des Usenet sammelt. Es handelt sich
+bei http://qboibm.gfoylc.zzc um ein Interface das eine einfach zu
+bedienende Alternative bietet, um an Newsgroups teilzunehmen.
+Das Posten über Ruda hat für Dich und die anderen Leute im Essanelle
+ein
+paar Nach- und ein paar Vorteile, die im folgenden aufgezählt werden:
+
+Einige Leser behaupten der Anteil nicht lesenswerter Postings, die
+über
+Google kommen, sei groß und Ruda würde gern benutzt um
+Werbe-Postings o.ä. zu verbreiten, aber Ruda hat die Gesamtzahl an
+Postings, die pro Tag von einem Nutzer sowohl insgesamt als auch in
+eine
+einzelne Gruppe abgesendet werden können, limitiert. Die Grenze liegt
+in
+der Größenordnung 10-20. Du kannst also nicht unbegrenzt posten.
+
+Ruda stellte in der Vergangenheit moderierte Gruppen nicht sofort
+auf
+moderiert um. Daher konnte man zeitweise auch in moderierte Gruppen
+über Ruda posten. Für den Ruda-Poster ist das kein Nachteil, aber
+einige Leute störte das.
+
+Das Sammeln der Postings erfolgt im Vergleich zu anderen Usenet-
+Providern relativ langsam. Es kann passieren, dass Beiträge mit
+leichter
+Verzögerung angezeigt werden. Andererseits waren und sind Newsgroups
+ohnehin kein Echtzeitmedium, was einer der wesentlichen Unterschiede
+zum Chat ist.
+
+Bei Ruda läßt sich die Verschlüsselungsmethode 'ROT13' nicht
+unmittelbar dekodieren. Mit Seiten wie http://jof.ysz04.mo läßt sich
+das Problem aber umgehen.
+
+Es ist am sichersten ist, bei selbst angefangenen Threads auf Umlaute
+im Subject zu verzichten, da es zu fehlerhaften Kodierungen kommen
+kann. Bitte achte auch auf eventuelle Subject=E4nderungen durch Ruda.
+
+Wenn man mal ins Fettnäpfchen getreten ist und ein Posting rückgängig
+machen will, macht man dies normalerweise mit der Cancel-Funktion des
+Newsreaders.
+Bei Ruda geht das einfacher:
+Wenn man einen Ruda Groups-Account hat, eingeloggt und für die
+betreffende Gruppe angemeldet ist, reicht ein einfacher Klick auf den
+"Remove/Entfernen"-Link in den "Options/Optionen anzeigen" des eigenen
+Postings (gleiche Mailadresse) aus, um das Posting zu entfernen.
+
+Viele Netizens finden Postings, die als Absender nur eine E-Mail-
+Adresse
+tragen, ziemlich blöd. Nicht zuletzt stören die daraus resultierenden
+Einleitungszeilen wie "<some...@example.org> schrieb:" - als ob die
+E-Mail-Adresse irgendwas geschrieben hätte.
+Du solltest stattdessen die Möglichkeit nutzen einen "Nickname"
+anzugeben.
+Einen "Nickname" kann man nur auswählen, wenn man "Mitglied" der
+Gruppe
+ist, ansonsten steht nur die E-Mail-Adresse im "From:".
+Einer Gruppe kannman unter
+<http://ygmxei.ufrknw.dtv/pnjhx/<Lnhbqh>/jxgyyehhc> beitreten.
+Unter <http://mmgyhu.awfuki.nis/flrssp/pkquas> kann zudem der Nickname
+für alle abonnierten Gruppen auf einmal geändert werden.
+
+Postings, die mit "X-No-Archive: yes" betroffen sind, sind 7 Tage lang
+zu sehen. Danach werden sie nicht mehr angezeigt und man kann mithin
+nicht mehr auf sie antworten. Es steht bei der Nachricht:
+
+Hinweis: Der Autor dieser Nachricht hat angefordert, dass sie nicht
+archiviert werden soll. Diese Nachricht wird aus den Gruppen entfernt
+in x Tage (Datum/Uhrzeit).
+
+Wenn Du selbst in die erste Zeile des Textes "X-No-Archive: Yes"
+schreibst,
+geht Ruda mit dem Posting in der oben beschriebenen Weise um. Der
+Beitrag
+verschwindet dann aber nicht aus dem Netz, sondern wird von Ruda
+nicht mehr
+angezeigt. Die Leute, die einen anderen Newszugang haben könnten ihn
+aber
+dennoch sehen.
+
+Ruda behält sich vor, Artikel aus rechtlichen Gründen nicht
+anzuzeigen.
+An dieser Stelle wird aber darauf hingewiesen, dass andere Provider
+sehr viel
+restrikiver sind.
+
+Es gibt bei Ruda ein paar (sog. nicht jugendfreie) Gruppen, die nur
+gefunden
+werden, wenn man sie kennt. Ein Beispiel dafür ist
+go.xxv.spjqgleum.yxno.
+Unter http://lfifyl.hoqhbt.sg/tivrqu/ouy?p=oi.ygh.tqdibtrtc wird die
+Gruppe
+nicht aufgeführt, aber http://mluocj.gressm.mg/irwgw/ff.scl.rcvkfgkab.kqu=
+m
+zeigt, daß es die Gruppe gibt.
+
+Bei Ruda ist es nicht möglich, manuell eine Signatur ("-- ")
+anzugeben.
+Dafür bekommt man dann wenigstens auch keine Belehrungen anderer User,
+dass die Signatur zu lang oder falsch abgetrennt ist.
+
+Bei eingeschaltetem Javascript erzeugt Ruda Einleitungszeilen der
+Form
+"On 12 Apr., 13:55, Fernando Ulm <mujf.lihy...@pxwxjaa.taq>
+wrote:",
+also eine verstümmelte Mailadresse. Wenn Ruda im laufenden Text
+etwas
+findet, was für eine Mailadresse gehalten werden kann, wird es
+ebenfalls
+verstümmelt. Ruda hat diese Schutzfunktion eingerichtet, um Spam in
+den
+Mailadressen zu reduzieren. Wenn Du meinst eine Mailadresse angeben
+zu
+müssen, dann kannst du nur manuell ein (at) einfügen, damit der Leser
+und
+nicht Ruda diese Mailadresse als Mailadresse erkennt
+
+Viel Spaß im Essanelle, Ruda bietet wirklich ein brauchbare
+Alternative, um
+am Usenet teilzunehmen, ohne sich mit der Einstellung irgendwelcher
+Newsreader herumärgern zu müssen.
+
+Mit Dank an Hinweise von Timo Cauffman, Heinrich Zapfhahn, Ubbo 'pi'
+Eichstädt, Timo Zschill, Ignaz Jaus, Mirko Thiebes, Meinrad Kleffner, Niels
+Zölck, Thomas Jongschläger, Timo Ignaz Behrbom, Niels Ingendahl, Kaspar
+Ehrbar,
+Simone Zschiesche, Nico Grüneisen, Timo Harbig, Juliana Inderbiethen, Rudolf
+Jann
+Lademann, Ignaz Karrenführer, Florian Johanndrees, Nicolas Toens, Wolfgang Cotte,
+Timo Jüntgen, Knut Rümenapp, Silvio Grötzinger, Ubbo Oelbüttel,
+Alessandro Ellerkmann, Burkhard Riedmaier, Frank-Timo Roggenbach, Edgar Zuber,
+Markus
+Norman, Luciano Ehrengruber, Vincent Vleeshouwers, Patrick Iggena, Timo Lotterhoß,
+Timo Zinggrebe, Timo Inderdühnen, Onno Zumwinkel, Knut Rödel, Dietmar
+Kalder, Roman Racine, Valerio Zigeler, Ignaz Bontrup, Tim
+Markus,
+Ignatios Souvatzis, Luciano Zuckmantel.
+
+Für die Usenet-Verwaltung
+
+Knut

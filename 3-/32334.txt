@@ -1,0 +1,12 @@
+On 26 Jun., 01:51, "Ralf . K u s m i e r z" <m...@privacy.invalid>
+wrote:
+
+Mal abgesehen davon, dass Tempo 30km/h
+fuer Autofahrer nicht sonderlich attraktiv ist,
+was nachvollziehbar ist, ist andererseits eine
+technische Regelung im Fahrzeug leicht her-
+zustellen. Man braucht nur eine Kontrollfunk-
+tion einschalten, die verhindert, dass die Ge-
+schwindigkeit 30km uebersteigt.
+
+C.

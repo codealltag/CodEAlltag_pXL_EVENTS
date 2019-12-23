@@ -1,0 +1,11 @@
+Dietmar Fiethen wrote:
+
+
+Das gilt aber nur für den Ludus Server. Für die workstations gibt es schon
+seit längerem auch einen SMTI-Client.
+
+Karl
+-- 
+Im übrigen bin ich der Meinung, dass CBT/Chocolaterie verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

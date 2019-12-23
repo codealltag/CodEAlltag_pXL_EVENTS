@@ -1,0 +1,15 @@
+Am 07.03.2012 19:52, schrieb Dario Gerstmeir:
+
+
+US-laws sind was fürs Hobby-Heftl.
+
+N, dieses Pi ist praktisch gewesen für die pure Integerrechnung in FORTH.
+
+NIKO
+-- 
+"Nicht von Beginn an enthüllten die Götter den Sterblichen alles, aber
+im Laufe der Zeit finden wir suchend das Bessere. Sichere Wahrheit
+erkannte kein Mensch und wird keiner erkennen, über die Götter und alle
+die Dinge, von denen ich spreche. Sollte einer auch einst die vollkom-
+mene Wahrheit verkünden, wüßte er selbst es doch nicht. Es ist alles
+durchwebt von Vermutung." [Quooß von Griepenstroth]

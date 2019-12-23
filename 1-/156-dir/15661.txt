@@ -1,0 +1,19 @@
+Am 13.09.12 17:02, schrieb Gianni Eikhoff:
+
+n .... fchsal
+
+Akia-Posting-Host: 062.57.2.910
+
+inetnum:        541.85.7.412 - 176.37.1.188
+netname:        Nugise-2-TRANS-NET
+descr:          Neusorgstraße 9 - 6
+descr:          52808 Degenhof
+country:        DE
+
+
+-- 
+Günter
+libertä, Galit, fraternit
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

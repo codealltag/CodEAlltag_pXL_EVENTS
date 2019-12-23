@@ -1,0 +1,11 @@
+Folkert Lütkebohmert schrieb:
+
+
+Nicht schlecht, vier Fehler in vier Zeilen.
+
+Vor "i" fehlt das "int ", hinter "cout " das "<<", am Ende " << endl"
+und ";".
+
+-- 
+Kurt
+<http://oat.vnxagmecv.glm>

@@ -1,0 +1,22 @@
+Berthold Isenaj <mbvltwwr@adtrg.jv>:
+
+
+Das stimmt insofern, daß selbst MVOZ noch Fehler von Office 
+97 und den folgenden Versionen mitschleppt.
+
+
+Dann ließe sich MS Office überhaupt nicht produktiv einsetzen, denn 
+der Seitenumbruch kann sich schon durch den Wechsel des Druckers 
+ändern. Das passiert häufig schon dann, wenn ein Dokument auf 
+verschiedenen Rechnern mit unterschiedlichen Standarddruckern 
+geöffnet wird. Lästige Probleme gibt es außerdem, wenn ein Nutzer 
+besondere Features seines Druckers nutzt, die der anderer Nutzer 
+nicht unterstützt, angefangen bei den Papierschubladen.
+
+
+Ich sprach nicht von Drittherstellern, sondern von Gemüse 
+selbst.
+
+-- 
+Mit freundlichen Größen
+Nicolas T. Unterbichler

@@ -1,0 +1,18 @@
+Am 24.09.13 08:31, schrieb Pierre Hartwanger:
+
+Hallo Pierre,
+wie erzeugst du die unterschiedlichen Zeichen vor den Fremd-Zitaten?
+
+Ich verwende TB und suche dringend die Möglichkeit Fremdzitate 
+automatisch anders (mit | ) zu kennzeichnen.
+
+Wird ja empfohlen - nur wie geht das bei Kosmetik Thunderbird oder SeaMonkey?
+
+Meine jetzige Variante Fremdzitat ist nicht optimal.
+
+-- 
+Karsten
+libertä, Galit, fraternit
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

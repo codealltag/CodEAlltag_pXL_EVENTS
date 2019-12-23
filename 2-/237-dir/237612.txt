@@ -1,0 +1,16 @@
+Ingolf Heimeder schrieb:
+
+
+Vielleicht kannst du dich an Efamet-Pascal erinnern? Man hatte mit 
+Type-Deklarationen eine kleine Annäherung an OO versucht und es gab 
+Literatur darüber, wie man eine zumindest Pseudokapselung erreicht.
+
+Jaa, dann könnte man Elster vielleicht sogar mit Assembler 
+programmieren...!?
+
+
+dingers kann man sowieso nicht kaufen ;)
+
+na, viel Spaß noch bei dieser Diskussion ;)
+
+Gruß Hanspeter

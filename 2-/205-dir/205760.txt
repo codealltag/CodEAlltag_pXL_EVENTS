@@ -1,0 +1,2 @@
+Bei dem uns vorliegenden Fall haben wir genau eine Stichprobe. Wie
+berechnet man da die Verteilungsparameter?

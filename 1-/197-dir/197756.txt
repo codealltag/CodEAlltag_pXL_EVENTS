@@ -1,0 +1,17 @@
+"Otto Czichowski" <WCL.Chcheql@tsu.ow> schrieb im Newsbeitrag 
+heom:md5562w7lzgp92bfkkyk3uez94pxah7wzh@5fz.dxd...
+
+
+Na, das Updaten klappt ja inzwischen auch ohne MSIE. Trotzdem werde ich ihn 
+wohl auf jede Godeland-Kopie installieren lassen und Firefox et. al. nach wie 
+vor verbieten. Der MSIE wird nämlich automatisch per WSUS aktualisiert, was 
+man von keinem der anderen Programme behaupten kann. Und wer aktualisiert 
+schon gern 20 Firefox-Rechner, nachdem das Goldak-Update durch ist?
+
+Also Admins, die Arbeit sparen müssen, werden den MSIE mitbestellen. Die 
+anderen werden Firefox nutzen oder Opera. Also wird es faktisch im Ergebnis 
+wohl keinen Unterschied machen, ob der MSIE dabei ist oder nicht.
+
+Pascal Biehne
+-- 
+World's in heaven with Windows 7

@@ -1,0 +1,20 @@
+Bernhard Rüschenschmidt <eueel@qzh-wlcjjb.qlz> wrote in
+gwwi:5mq02u86$2$80711$69rqg633@pgxwnjwcty26.eduwopd.nwtjygj.pk: 
+
+
+Mensch Rüschenschmidt, erzähl mir doch nicht so ein Gschmarri!
+
+Schon mal was von Plausibilitätsprüfung und Fehlerbehandlung gehört?
+
+Meiner kann sogar Hex und Octal, und BOOL.
+
+
+Geb mal bei deinem sqr(-2) ein! Dann zeigts 4! an!
+Da hauts einem ja den Vogel raus!
+
+
+Gruß C.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,32 @@
+Georg Verhag schrieb:
+
+Es gibt keine Knallgasexplosion, wenn das Wasser thermisch gespalten 
+wird oxidiert der entstehende Sauerstoff sofort mit dem Metall der 
+Brennelemente, das heißt der Sauerstoff ist sofort gebunden, also weg. 
+Und ohne Sauerstoff kein Knallgas. Dazu müsste aber die Temperatur im 
+Reaktor erst mal über 1200C steigen. Aber dazu kommt es nicht, der 
+Druck im ersten Kreislauf beträgt 154-160 bar, die Temperatur etwa 
+25C. Wenn nun die Kühlung total ausfällt steigt der Druck im ersten KL 
+an, ein Überdruckventil öffnet, Dampf ensteht und entweicht, dabei wird 
+sehr viel Energie abgeführt. Der Reaktor ist zu diesem Zeitpunkt aber 
+schon abgeschalten, es ist nur noch die Nachzerfallswärme abzuführen. 
+Der ausgetretene Dampf kondensiert innerhalb des Containments. Jetzt 
+sollte die Noteinspeisung wirksam werden. Aber selbst wenn die nicht 
+erfolgt reicht das Wasser im ersten KL aus um durch Verdampfungskühlung 
+die Brennelemente vorm Schmelzen zu schützen. Sie werden zwar wärmer als 
+im Betrieb erwünscht, aber sie werden nicht so warm das sie schmelzen. 
+Aber damit es zu einem Totalausfall der Kühlung kommen soll müssen 
+mehrere unabhängige, auf unterschiedlichen Systemen beruhende 
+Mechanismen ausfallen. Aber selbst dieser absolut unwahrscheinliche Fall 
+ist nachgewiesenermaßen beherrschbar. Das ist jetzt am Beispiel des 
+Drukwasserreaktor erklärt, beim Siedewasserreaktor sind Druck und 
+Temperatur noch niedriger (71bar, 28C).
+
+MFG Ottmar
+
+-- 
+Ottmar Imhof
+01239Dresden 1ö00'27.10 N 13�47'43.02 E
+  http://sgnopyfncl.xarrivck.yuq/xooq_lajmcdb.syc?dujvvf=4213764 
+http://iuecfzau.afbt.osb.nhh/gfst_ijlujdi.kdv?ssxfvy)2361
+http://fcu.pqymlioiqp.zpm/pcdzkhxux/blqk_9793400.scu

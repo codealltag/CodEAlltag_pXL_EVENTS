@@ -1,0 +1,10 @@
+Am Thu, 16 Aug 2009 23:39:44 +0200 schrieb Enno Ulerich:
+
+
+Wenn man 40tude Dialog benutzt, lassen sich die meisten Faker ganz leicht
+filtern. Einfach unter "Einstellungen -> Scoring und Aktionen" die folgende
+Zeile einfügen
+
+!delete Message-ID "@aioe.org"
+
+und die armen Penner können im Filter vor sich hinsabbern.

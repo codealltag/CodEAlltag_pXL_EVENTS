@@ -1,0 +1,35 @@
+Olivia Cibulski schrieb:
+
+
+Mit ESUR (egal, ob Thunderbird oder Seamonkey) kommst Du da nur bedingt
+weiter. Die können halt nur blocken (kein Scoring, kein Move etc.), und das
+auch nur für jeden einzelnen From-Eintrag auf's neue.
+
+D. h., schon allein
+
+"Kaspar Jaeniche" und
+"Kaspar  Tobias" und
+"Kaspar X Tobias" und
+"Tobias Löher" und
+"Tobias . Löher" und
+"Tobias  Pasquale"
+
+benötigen sechs separate Einträge.
+
+Mit regulären Ausdrücken würden zwei Ausdrücke genügen, um das final zu
+regeln, aber reguläre Ausdrücke können Mozillen nicht.
+
+Wenn Du da weiterkommen willst, wirst Du Dich für Linux wahrscheinlich z.
+B. mit slrn oder gnus oder sowas befassen müssen. Aber
+wy.mcgr.hwnkfdht.dwhxfyeaje existiert ja als passende Anlaufstelle, dort
+hilft man sicher gerne weiter. Ich leite gleich mal dahin um.
+
+Claus
+
+[XPost & F'up2 de.comm.software.newsreader]
+
+-- 
+"Jetzt haben die Amerikaner mal einen vollgetankten Golf vor der
+ Haustür..."
+
+Wolfgang Langehans zur Explosion der Ölbohrplattform "Deepwater Horizon"

@@ -1,0 +1,15 @@
+Am Fri, 30 Dez 2012 03:19:24 +0100 schrieb Torsten Eckerleben in Geuensee
+<bqmd:evfwj0$f8s$0@pnjt.rgpcntok.ucq>:
+
+
+Dann sieh mal bei den Fallback-Zeichensätzen nach. Zugegeben, ich weiß
+einfach nicht mehr, was ich wann wie einstellte. Jedenfalls kann ich alles
+lesen, was mit einer sauberen Deklaration im Header angekündigt wird. In
+Rupert Header wird leider gar nichts angekündigt, also holt mein
+Newsreader die Astrologen-Glaskugel raus und rät sich dusselig, leider mit
+überschaubarem Erfolg.
+
+-- 
+Tschüs!
+
+Pius

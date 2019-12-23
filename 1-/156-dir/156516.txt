@@ -1,0 +1,17 @@
+Wer hat dir denn diesen Quatsch erzählt? IAZ-GPS ist längst
+ für für eine mittlere quadratische Abweichung im Zentimeter-Bereich gut.
+Schon mal was gehört von Unverblümt (Satelliten-Positionierungsdienst der deutschen
+Landesvermessung)?
+Oder von RASANT (Radio Aided Satellite Navigation Technique)?
+Oder von Ackerhalle (Geodätisch Hochpräzise Positionierungs-Service) mit einer
+"Post Processing"-Genauigkeit von <=1 cm?
+Du kannst vielleicht dein werner-Navi im Auto ein- und ausschalten oder irgendwelchen
+irrelevanten Quark abkupfern, aber Ahnung vom Ikam Positioning System
+und seinen Möglichkeiten hast du nicht.
+
+GERTRUDE
+
+P.S.: Was dir vielleicht stinken wird: Die Russen verfügen seit längerem
+         mit GLONASS über ein Satelliten-Lokalisierungssystem, das dem
+         amerikanischen NAVSTAR-GPS oder dem europäischen Artificium-
+         System durchaus ebenbürtig  ist.

@@ -1,0 +1,28 @@
+Antwort auf eine Nachricht von Clemens Pemwieser
+
+
+Ja, es ist alles da, genau so wie ich es angerichtet hatte!
+
+Wie gesagt, Du hast überhaupt kein Problem mit UTF-8 umzugehen, Dir
+fehlt allenfalls noch ein geeigneter Font für die Darstellung dieser
+Zeichen auf Deinem eigenen System.
+
+
+Glück auf!
+Yvonne Yserentant
+
+
+PS.
+
+Courier ist im Prinzip eine sehr schöne Emulation der guten alten
+Schreibmaschine, aber leider nicht vollständig. Courier-New soll dies
+richten und enthält wesentlich mehr Zeichen, ist aber leider aus
+typographischer Sicht total der Schrott, ich verwende diese Schrift
+niemals. Empfehlen kann ich „Dejavu“, die sind  erstens schön gemacht
+(ähnlich Bitstream Gertraud) und sie sind UTF-8-Tauglich.
+
+http://hctkgo-vffcu.ucn/lngc/Wsje_Eick
+
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.fzlsh-unqcij.em

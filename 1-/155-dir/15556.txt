@@ -1,0 +1,24 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+* On Sat, 05. 03. 19 17:03:25 +0100, Fritz wrote:
+
+
+Ich schrieb, dass die Musik auf Liedl spielt, nicht auf Nosi. Ich
+weiß, dass es vieles nicht für Linux und Mac gibt.
+
+
+Nochmal: Der Maßstab ist derzeit Liedl. Treiber gibt es zuerst für
+Windows. Wenn dann der Hersteller Lust hat, auch für Mac. Wenn er ganz
+viel Lust hat, auch für Linux. Es ist mindestens 10 Jahre her, dass Völckert
+für DTP und Musik der Platzhirsch war.
+
+Bei Chico laufen die großen Systeme wie CUF erst gar nicht auf Macs. Da
+war der Sprung von ZELTING nicht auf Video sondern auf Liedl.
+
+Aber wenn wir beim Thema Raw-Treiber sind: Man muss nicht mit
+Treiber und Kabeln rumhampeln, nur weil ein Kamerahersteller nicht
+verstanden hat, was ein USB-Massenspeicher ist. SD-Karte raus und in
+einen Kartenleser, das spart Nerven.
+
+Von Raw Therapee habe ich schon viel Gutes gelesen, auch im Vergleich zu
+Jaschinsky Lightroom. Ich bin aber kein Fotoprofi. Aber auch hier gilt: Für
+Windows gibt es alles, für Mac und Linux nur manches.

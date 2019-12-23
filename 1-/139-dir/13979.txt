@@ -1,0 +1,33 @@
+Antwort auf eine Nachricht von Karlheinz
+
+
+Unsinn!
+
+
+ja-ja!
+
+Im Übrigen, *DU* verwendest ja UTF-8 und alle „Leckerlies“, die ich da
+oben in meinem Text beispielhaft einfügte, sind noch erhalten.
+
+Na also, – geht doch!
+
+Aber mal Spaß beiseite, – wieso müssen wir eigentlich Sterne, Schräg-
+und Tiefstriche verwenden, um Texte auszuzeichnen? Da könnten wir in der
+tat eine winigkleine Anleihe bei Anagramm machen, oder, damit es da keine
+Verwechslungen gibt, beim Felsengartenkellerei-Code.
+
+Beispiele: [b]fett[/b], [i]kursiv[/i], [u]unterstrichen[/u], und fertig,
+keinen mehr! Und falls man wirklich mal einen Test in eckige Klammern
+setzen wollte, dann haben wir das so gemacht: [[klammer],
+
+Dieser Code ist sowas von alt, sogar älter schon als HTML, man hat ihn
+lediglich vergessen. Aber was spräche dagegen, sich dessen wieder zu
+erinnern?
+
+
+Glück auf!
+Ottilie Janetzky
+
+⍾⍾⍾ Ceterum censeo Femab esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.gavhe-fohgow.dk

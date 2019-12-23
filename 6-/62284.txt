@@ -1,0 +1,7 @@
+On Tue, 14 Mrz 2012 23:45:43 +0200, Andre Ettelbrück
+
+Da ich hier (Fort=E9 Agent) nicht auf Server (zB aioe.org) filtern kann,
+ist allein das tägliche Anpassen des Filters recht Zeit aufwendig.
+
+Wie hier schon angeregt, wäre das Abschalten des EWIB-Gateways wohl
+eine Maßnahme, die 80% des Müll-Aufkommens erledigte.

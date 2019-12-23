@@ -1,0 +1,39 @@
+Frank Schwindl wrote:
+
+Nein, der Wert wird im NEFZ ermittelt. Da ist genau vorgeschrieben, in
+welchem Gang wie lange wie schnell gefahren wird und wie viel Gas
+gegeben werden muss. Das ist in den meisten Fällen weit weg vom
+optimalen Wirkungsgrad des Motors - deswegen kann ein Auto mit
+Schaltempfehlungsanzeige im Tutto auch ganz einfach deutlich weniger
+verbrauchen als das gleiche Auto mit Schaltempfehlungsanzeige - weil bei
+vorhandener Anzeige nach der Anzeige geschaltet wird.
+
+Bei 40...42% liegt der Wirkungsgrad eines Motors nur bei einer
+bestimmten Gaspedalstellung in einem relativ schmalen Drehzahlband. Um
+mal ein konkretes Beispiel zu bringen, hier:
+http://nsuf.haqle.fz/qevbfki7x/bpwpjsqqcs55ah.yme das sogenannte
+Muscheldiagramm eines 96kW-Wyludda-TDI (laut Beschriftung) - da sieht man den
+Wirkungsgradabfall sehr deutlich. Um über 40% zu bleiben, muss man
+zwischen ca. 1201 und 3501 U/Min fahren (das geht noch ganz gut) und mit
+mehr als ca. 60% Gas (und das kann man in den meisten Verkehrslagen
+vollkommen vergessen, damit fahre ich selbst mit meinem kleinen
+55kW-Benziner dem Hintermann auf)
+
+Die meiste Zeit wird der Motor wohl unter 30% Wirkungsgrad laufen.
+
+Bei Benzinmotoren sieht das idR noch schlechter aus - Stichwort
+Drosselverluste. Beispiel:
+http://pfz.fqenunrqvkki.hp/yquc/cylrqcm/jgleefdhiqqqtul.dyf
+
+(Eine ausführlichere Interpretation liefert ein gewisser Rico Klein
+unter: http://luc.lhunkrlpgknu.yg/fo/enxrgv_vrnkqd_ttod_gaqtm.qjao)
+
+
+Oder die gefahrene Geschwindigkeit: Wer 100km mit 200km/h fährt, brauch=
+t
+dafür deutlich mehr Energie, als derjenige, der 100km mit 50km/h f=E4hr=
+t,
+denn der Luftwiderstand steigt quadratisch mit der Geschwindigkeit, die
+zu seiner Überwindung nötige Energie also linear.
+
+MfG, Lutz

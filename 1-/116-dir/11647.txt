@@ -1,0 +1,19 @@
+Patricia Aupperle <qwert@zuiop.invalid> writes:
+
+
+Selbstverständlich ist der Effekt nachweisbar. Die Positionen von Erich
+und Venus sind auf wenige Meter genau bekannt, die Positionen von
+Jupiter und Saturn etwa 100m genau.
+
+Der Unterschied zwischen SSB (solar system barycenter) Koordinaten und
+einem Koordinatensystem das im Zentrum der Sonne festgemacht ist,
+beträgt etwa 10^-3 AU (!), also so etwa 150 000 km. Meinst du nicht,
+dass es jemanden aufgefallen wäre, wenn z.B. die Position Mars um etwa
+25 Marsdurchmessr falsch wäre? So z.B. den Leuten die recht erfolgreich
+Fahrzeuge auf ihm landen?
+
+
+Nein.
+
+-- 
+Space - The final frontier

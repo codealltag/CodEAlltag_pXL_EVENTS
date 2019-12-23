@@ -1,0 +1,27 @@
+Ich nehme mal an, das mit 10% der Bevölkerung, 50% des Einkommens,
+bla bla usw. (genauen Wert nach Belieben einsetzen) ist dtt
+bekannt. Etwas weniger bekannt ist wohl der Gini-Koeffizient, der das
+Ganze zu einer Zahl kondensiert. (Siehe Wiki) 
+Nun ist im American Mathematican Monthly (Jan'2012) eine hochinteressante
+(keine Angst, Bildungsverlierer, die wesentlichen Ergebnisse
+sind fast ohne Mathe verständlich :P) Arbeit erschienen
+(http://eol.efw.wbc/ftnv/kgtfoeu_bsq30_zwi.pbxr).
+Die Autoren machen genau zwei Annahmen:
+- 10% der obigen 10% haben wieder 50% der 50%. (Oder welchen
+Wert auch immer.) Und so fraktal weiter.
+- Bei den Hungerleidern funzt die fraktale Verteilung genauso,
+nur eben andersrum.
+Die so definierte Kurve paßt die realen ökonomischen Daten ganz
+hervorragend an, und wenn man sich die Entwicklung der beiden
+freien Parameter über die Zeit ansieht, stellt man fest, daß sich
+bei den Hungerleidern garnix ändert, während die Superreichen
+immer schneller reicher werden. 
+
+Leider haben die Autoren es nicht gewagt, zu extrapolieren, in
+welchem Jahr der Endpunkt des Kapitalismus erreicht ist, wenn
+ein Mensch alles besitzt. (Ich schätze mal, kein Leser von dtt,
+mich eingeschlossen, hat Einwände gegen diese Entwicklung,
+wofern nur *er*/*sie*/*es* dieser betreffende Mensch ist :-)
+-- 
+Mark Reukauf <:-EX8    tr3p232@vrg-xpjqoer.uj
+Die Weltformel: IQ+dB=const.

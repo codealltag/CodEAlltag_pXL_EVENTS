@@ -1,0 +1,15 @@
+Am 2011-03-14 19:49, schrieb Edo Leineweber:
+
+
+Und die sind eben fehlerhaft. Wenn man nicht mit reinem 7-Bit-ASCII
+schreibt, muss der Zeichensatz im Header angegeben sein. Nur weil
+Microsoft meint, das nicht machen zu müssen, wird es nicht richtiger.
+
+
+Das ändert ebenfalls nichts daran, dass deine Postings formal fehlerhaft
+sind.
+
+
+-- 
+http://vxdmqvyhzk.zb
+http://vh-pxd-snjrnvo.ok

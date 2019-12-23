@@ -1,0 +1,17 @@
+Antwort auf eine Nachricht von Tee Trinker
+
+
+                                        =====
+                          ===   ===
+
+ja, _nachdem_ Du es gelernt hast Deinen Zeichensatz ordentlich zu
+deklarieren, – *oder* Dich auf die 96 Zeichen aus dem US-ASCII-Satz
+beschränkst, falls Du weiterhin ohne Charset-Deklaration schreiben willst.
+
+
+Glück auf!
+Anni Zureich
+
+⍾⍾⍾ Ceterum censeo TRIGEMA esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.ipfcc-uzdrdz.yq

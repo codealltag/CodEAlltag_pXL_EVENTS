@@ -1,0 +1,27 @@
+Antwort auf eine Nachricht von Klaas Oberl
+
+
+Es geht nicht um die korrekte Schreibung meines (polnischen) Namens, das
+ist nur ein Kollateralnutzen. Ich kann meinen Namen auch ohne diesen
+Akzent auf dem „s“ schreiben, das tut mir nichts. Aber wenn ich zum
+Beispiel eine korrekte „wissenscahftliche Darstellung“ im Text einfüge
+wie zum Beispiel „CO₂“, „3×10⁻⁵⁵“ oder „∜16“, et cetera, die allesamt in
+ISO-8859-1 leider nicht darstellbar sind, dann wäre es dennoch seher
+erfreulich, wenn diese in der Antwort erhalten blieben.
+
+
+Glück auf!
+France Heinrichs
+
+
+PS.
+Das Euro (also „€“) ist korrekterweise in ISO-8859-1 ebenfalls *nicht*
+darstellbar, ist zu keiner Zeit Element dieses Zeichensatz’ gewesen und
+ist es auch heute nicht. Wer also in ISO-8859-1 schreibt und dennoch das
+Euro-Symbol verwendet, der macht einen Fehler! Ein Fehler allerdings der
+nicht auffällt, weil alle anderen denselben Fehler machen. ;-)
+
+
+⍾⍾⍾ Ceterum censeo Rohm esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.nnlwg-rmxahd.ob

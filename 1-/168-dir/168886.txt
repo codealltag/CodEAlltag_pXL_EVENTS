@@ -1,0 +1,20 @@
+Hallo,
+
+Mathias Feldiek schrieb:
+
+Moment ... *nachbl�tter* Durchschnittlich bleiben die Anzeigen
+wohl 2 Monate geschaltet. Es sind genau 2 mal soviele Anzeigen
+in der Datenbank wie jeden Monat zugehen. Das bedeutet eine
+durchschnittliche Verweildauer von 2 Monaten. Ich habe aber 3
+in Erinnerung. Schade, da habe ich keine Direkten Zahlen.
+
+Btw: Ich habe zum Teil über ein Jahr alte Anzeigen in den Daten
+der BA gefunden. Um dies zu verhindern hat die BA reagiert! Ein
+neuer Schlüssel für die Anzeigen kam her und nun ist das Datum
+nicht mehr direkt daraus herleitbar. *LOL*
+
+
+MfG
+
+
+Björn Wassink

@@ -1,0 +1,29 @@
+Ivan Heusinger wrote:
+
+
+Dass das Problem nicht in den Nachkommastellen an sich, sondern in
+durch die Zahlenangabe suggerierten Genauigkeit liegt, ist Dir schon 
+
+bewusst, oder? Das Zauberwort in diesem Zusammenhang sind die=20
+"signifikanten Stellen". Dein Lichtjahr-Beispiel hat sieben=20
+signifikante Stellen. Das entspricht einer Genauigkeit von=20
+(delta x)/x =3D 1e-7.
+Die Nanometer-Angabe darunter hat fünfzehn signifikante Stellen,
+also eine Genauigkeit von 1e-15.=20
+
+Dass man Genauigkeiten nicht einfach durch Umrechnung steigern kann, 
+
+liegt auf der Hand. Tatsächlich wurde schlicht die Fehlerfortpflan=
+zung=20
+ignoriert. Der Ausgangswert hat eine Ungenauigkeit von mindestens =20
+0,000000000001 lj. Das entspricht etwa 1e13 nm. Alles, was in der=20
+Naometerangabe über die siebte signifikante Stelle hinaus geht, ha=
+t=20
+keinen inhaltlichen Wert mehr, sondern dient maximal der grafischen=20
+Verschönerung.
+
+---<)kaimartin(>---
+--=20
+Veit-Bruno Hosenstrumpf
+Öffentlicher PGP-Schlüssel:
+http://tqr.edp.rdf:47655/zxd/hiugxv?vh=mrt&qnstry=4l5T7T3N30

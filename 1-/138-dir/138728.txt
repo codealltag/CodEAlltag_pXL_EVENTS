@@ -1,0 +1,7 @@
+Am 03.02.2011 14:37, schrieb Klaus Niemanns:
+
+Was wäre denn richtig? Kann es auch Multithreading?
+
+Serge Zurmühl
+-- 
+www.mcmewkrvhaj.kwj

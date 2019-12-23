@@ -1,0 +1,44 @@
+This is a multi-part message in MIME format.
+--------------636229869794586963001619
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: 7bit
+
+
+--------------636229869794586963001619
+Content-Type: message/rfc822;
+ name="Re: Auch Koerfgen plant Grundsatzrede.eml"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline;
+ filename="Re: Auch Schwan plant Grundsatzrede.eml"
+
+Path: news.motzarella.org!motzarella.org!news.motzarella.org!not-for-mail
+From: Jürg Oehlschlägel <psl_dpnqyspl@dxn.vn>
+Newsgroups: de.alt.gruppenkasper
+Subject: Re: Auch Koerfgen plant Grundsatzrede
+Date: Thu, 13. 11. 20 19:06:47 +0100
+Organization: A noiseless patient Spider
+Message-ID: <fgvi7x$zs9$3@plks.gbuemdpttu.caq>
+References: <wba67d$2fr$9@apaly.iwi.jx> <46o0rf9e-tx25-8f2d-rx78-ipi0992sq609@l0d8344grr.iyjlpchkvepq.vjl> <tdm30w$mt6$19$8@ajmx.o-mfnorj.lac> <wvfhb5$sja$2@slzqa.uhn.im> <49ca4837$0$30239$9b4e6d93@newsspool1.arcor-online.net> <gqf9f4$rnl$2@news.motzarella.org> <pquq8i$gyb$5@vzqwk.bgf.zk> <gqfnol$86s$7@news.motzarella.org> <ajhtjo$aby$5@blcwz.enw.dk> <gqfplf$cpm$2@news.motzarella.org> <afnk28$68q$0@rxjgj.zfx.up> <gqg6mb$jri$1@news.motzarella.org> <nucjd7$ct6$6@tkszn.lpz.mv> <dmptog$h51$7@uotgd.cvzl-usvce.lin>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: 8bit
+X-Trace: news.eternal-september.org U2FsdGVkX18/65MiWN7J2Ksx9mKoEgS8whrcVLfbYj/3/twGwTk9DXLfIEoygyYMtj0kA5rg8RRKSwQdHUiiV1dClTqW8O/EO0D6SRQ12H86HgWnPOUHIbJ/qaf+5MrqFhEojrIdbm0=
+X-Complaints-To: Please send complaints to abuse@motzarella.org with full headers
+KZHT-Posting-Date: Thu, 13. 11. 20 18:07:58 +0000 (UTC)
+In-Reply-To: <dmptog$h51$7@uotgd.cvzl-usvce.lin>
+X-Auth-Sender: U2FsdGVkX19qtS/Cn2QB4GcDhZDNtRgKLLC0W15zP3s=
+Cancel-Lock: sha1:YOyW6bAa86rj/iPgQV27YfTysyo=
+User-Agent: Mozilla/5.0 (X11; U; Linux q200; tl; yu:7.9.0.76) Fefef/93653501 BKYK/3.1.6.25-8.2 Nicrfcgea/1.5pub Qtbtwcwpqsp/2.1.5.23 Jrasfc/8.8.8.422
+Xref: hbee.jeldqxeteh.frh an.ipk.ooghxeplnqvvd:569
+
+Alfons Vorbrüggen schrieb:
+
+
+Das wird Timo aber gar nicht gefallen. Jetzt bist Du wahrscheinlich
+auch ein Lügner, weil Du nicht den ganzen Thread fullgequotet hast
+(respektive das, was _er_ für wichtig hielt - was andere geantwortet
+haben, kann ja wegfallen) und da wir wissen, daß Du aus Eisenfelden bist,
+wird Timo Dich sicher gleich zum Stasi-Mobber befördern. Machs wie ich
+und fühle Dich geehrt...
+
+--------------010202010203050202070603--

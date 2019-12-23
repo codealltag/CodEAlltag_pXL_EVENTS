@@ -1,0 +1,20 @@
+Die mittleren Temperaturen an der Erdoberfläche hängen von einigen
+Faktoren ab, darunter:
+- anthropogene Treibhausgase
+- natürliche Treibhausgase (deren Freisetzung auch anthropogen
+beeinflusst ist)
+- direkte Erwärmung durch Verbrennung
+- Sonnenaktivität
+- globale Verdunklung durch Emmissionen
+- Abstand Erde - Sonne
+- Pendeln der Erdachse
+- Albedo
+- Vulkanismus
+- Geothermie
+- Wärmespeicherung der Ozeane
+- CO2-Speicherung der Ozeane
+- Meeresströmungen
+- kosmische Strahlung
+- Erdmagnetfeld
+
+Es ist also ein sehr komplexes System.

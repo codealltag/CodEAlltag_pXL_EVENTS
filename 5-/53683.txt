@@ -1,0 +1,5 @@
+Dass das Feld rechts unten weiss sein *muss*, ist lediglich eine
+Konvention zwecks einheitlicher Darstellung.
+Im Prinzip ist es aber ganz egal, wie das Brett steht, ebenso wie beim
+Backgammon.
+Auf das Spiel selbst hat das keinerlei Einfluss.

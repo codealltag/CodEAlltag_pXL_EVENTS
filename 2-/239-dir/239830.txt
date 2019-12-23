@@ -1,0 +1,11 @@
+Francesco Leermann schrieb:
+
+Die Software wurde *kaputt gemacht*. Der SM ist absolut in der Lage,
+Umlaute korrekt zu decodieren, wie der TB übrigens auch.
+
+
+Roger
+
+
+-- 
+De gustibus non est disputandum

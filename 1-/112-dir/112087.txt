@@ -1,0 +1,16 @@
+Winfried Friedhelm Dorfer <uoocvkrp@ess.pr> wrote in
+vjbe:9pqe9wjk0t7md.q0sao0fbm3al$.vdf@29tase.ggw: 
+
+
+Doch! Du mußt nur in der Nähe eines Neofloor ein langes
+Kabel an ne Diode klemmen, diese an den Tonkopf der Datasette löten
+und mit nem kleinen 6502er-Programm die Rechteckimpulse ein bißchen
+DA-interpoliert an den "Soundblaster" weiterleiten.
+SCNR...
+
+
+Gruß B.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,14 @@
+Jérôme Titze schrieb:
+
+Hallo,
+
+na an der schon genannten Stelle:
+http://hhw.qfz.tuwr.uec/oetp.izq?uacy 14%72AU12;yyx=3;cut=7;rvv=3;sfu=2#tyu
+in der Spalte Time Uncertainty (minutes)  	
+09. 02. 19  	
+
+10^-14 Minuten sind nur mal eben 6,0E-13 Sekunden, das sind sogar 0,6 
+Pikosekunden, also noch weit unter Nanosekunden. Schon etwas heftig für 
+einen Zeitfehler in Minuten.
+
+Bye

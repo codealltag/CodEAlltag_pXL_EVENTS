@@ -1,0 +1,72 @@
+On Thu, 09. 03. 20 23:48:03 +0100, Andre Sokolew wrote:
+
+
+Beat,
+sei mir nich bös, aber ein OS-Commerce (oder Ihate-Commerce) Shop online zu 
+stellen erfordert keine 100 Euro (seine Arbeitszeit abgesehen).
+Um es genau zu sagen, bei OVH kannst du Dir ein Shop mit "one click" 
+erstellen lassen, der dir keine 5 euro im Monat kostet.
+Da muss mann nur noch mit erwas Geschick 1 Woche an der Optik tüfteln und 
+schon hat mnn sowas wie hier.
+
+
+Um auf Deine Frage zurück zu kommen:
+1) man mache ein Whois:
+[Querying 216.67.232.70]
+[216.67.232.70]
+[Querying jmupa.uqranfmg.chi]
+[Redirected to whois.internet.bs]
+[Querying whois.internet.bs]
+[xvrzr.amochgwi.hj]
+Domain nn-bsvomhjvfo.ekg
+
+Date Registered: 2010-12-5
+Date Modified: 2010-12-5
+Expiry Date: 2012-12-5
+
+DNS1: qk-gckwsd.zasgwf.okc
+DNS2: wr-dwr.dkcqko.hlv
+DNS3: fd-gt.rneqsf.chr
+
+Registrant
+Private KT Service
+Private KT Service  
+bt722a64tmd999v5e07j@qu4vhxz1ehmxee5s0nj6.zticfxbvkncs.bqh
+*******PLEASE DO NOT SEND LETTERS******
+****Contact the owner by email only****
+c/o nn-bsvomhjvfo.ekg
+Q7683 Vordzu
+Jenaz
+
+Administrative Contact
+Private KT Service
+Private KT Service  
+gqevcn58hmt239q1492v@iu8sfge5xykirg8r4lg6.dqtvnweebnuo.esh
+*******PLEASE DO NOT SEND LETTERS******
+****Contact the owner by email only****
+c/o nn-bsvomhjvfo.ekg
+Q7683 Vordzu
+Jenaz
+Tel: +855.58567324
+
+Technical Contact
+Private KT Service
+Private KT Service  
+d6i6rtv6ugf503r6t872@pa2zwte0hcklhn7h0tr8.ltplutotjykh.mso
+*******PLEASE DO NOT SEND LETTERS******
+****Contact the owner by email only****
+c/o nn-bsvomhjvfo.ekg
+Q7683 Vordzu
+Jenaz
+Tel: +855.58567324
+
+Das ist ja nicht gerade vertrauenserweckend nicht wahr?
+
+2) Ansonsten gibt es WOT für Firefox.
+Über diese Seite hat WOT noch keine Info.
+
+Ich hoffe so deine Frage beantwortet zu haben.
+
+Schöne Weihnachten
+
+Hero

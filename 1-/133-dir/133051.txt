@@ -1,0 +1,9 @@
+Am 01.08.2009 15:07, schrieb H.G. Zumschilde:
+Da würde doch Dein Mausrad beim runterscrollen heißlaufen. Aber ich 
+denke der Newsserver würde eine so lange Liste schon wegen 
+Überschreitung der 1 MB-Grenze nicht annehmen.
+
+The Doctor
+
+-- 
+http://zjf.bsx.yy.uk/vjtqvdxuz/

@@ -1,0 +1,16 @@
+Berthold Weihermüller <frrxt.cfqegsYRGB@tfsqd.fei> wrote in zgsr:3u7h977a$4$7943
+$63sxq974@caycwzspsq77.edfmudx.apqflll.wh:
+
+
+Na dann la doch den Niedereiter mit deinem Prozessor kommunizieren.
+
+if niedereiter then NOT (load body AND schieb into the listfeld)
+
+oder so ähnlich
+
+
+Gruß V.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

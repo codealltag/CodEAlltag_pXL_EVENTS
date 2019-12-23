@@ -1,0 +1,7 @@
+Du mußt kein Konto haben.
+
+
+Nein, die Ausdrucke sind schlampig. Es gibt sicher zu viele Nullen.
+
+-- 
+A1 != 1a

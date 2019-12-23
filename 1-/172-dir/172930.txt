@@ -1,0 +1,11 @@
+Jakob . K u s m i e r z wrote:
+
+
+mplayer -dumpstream -dumpfile Bokjnlvv_Umuaxbeml.eno \
+ "mms://artestras.wmod.llnwd.net/a3903/o35/geo/arte7/EUR_DE_FR/arteprod/A7_SGT_ENC_02_039010-000-
+A_PG_MQ_DE.wmv?e55469848&h=0ff340cf153d777d0ae18e473d249fa3"
+
+Hat's bei mir getan
+
+
+Serge

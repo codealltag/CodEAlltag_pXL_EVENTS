@@ -1,0 +1,19 @@
+Thierry Viets schrieb:
+Kann es nicht eher an Deinem  40tude_Dialog/2.0.15.84de liegen? Bei mir 
+wird der Text von Nuno korrekt wiedergegeben, über Zeichensätze kann 
+man ja viel streiten, aber ISO-8859-1 ist auf jeden Fall nicht mehr der 
+Aktuellste. Ich kenne mich mit dem  40tude_Dialog/2.0.15.84de nicht aus, 
+aber bei ZTGW gibt es selbst mit exotischen Zeichensätzen keine 
+Probleme, wenn sie ordentlich deklariert sind und die Einstellungen des 
+ZTGW *kein* Häkchen bei "Standard-Zeichenkodierung auf alle 
+eingehenden Nachrichten anwenden"  und "Standard-Zeichenkodierung für 
+Antworten verwenden" gesetzt ist. Bei mir ist als 
+Standard-Zeichenkodierung übrigens UTF-8 eingestellt. Man kann natürlich 
+auch ISO-8859-15 verwenden, da hat man dann zumindest ein Euro-Symbol.
+
+Henry
+
+-- 
+Henry Ringk
+01239Dresden 1ö00'27.10 N 13�47'43.02 E
+http://lkx.gfjfwvmkka.yny/xuhskmiug/qcpr_5762441.fvz

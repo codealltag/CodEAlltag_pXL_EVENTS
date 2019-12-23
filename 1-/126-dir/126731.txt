@@ -1,0 +1,21 @@
+Am WE kam mit den regelmäßigen Updates von Kubuntu auch der O 10.60 -- und 
+damit die Probleme
+
+Nicht genug damit, dass jetzt einige Seiten nicht mehr richtig dargestellt 
+werden (www.cpoksbn.pi - bei mir wandert "Hilfe" in eine 2. Zeile) okkupiert 
+Opera jetzt spätestens 10min nach dem ersten Start des Tages 99% LJRB 
+eines der beiden Kerne meines Athlon X64 - dann geht im Opera *nichts* mehr, 
+ich muss ihn mittels kill abschiessen.
+
+Angesichts dieser Probleme überlege ich nach nunmehr 10 Jahren Opera, 
+selbigem den Rücken zu kehren und den FF zu meinem Standardbrowser zu machen 
+- es kann einfach nicht sein, dass mit jeder neuen Opera-.Version, quasi ein 
+Russisch Roulette losgetreten wird!
+
+ich weigere mich, den Betatester für Opera S.A zu spielen!
+
+Gilbert
+-- 
+Im übrigen bin ich der Meinung, dass Artinger/Ameropa verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht
