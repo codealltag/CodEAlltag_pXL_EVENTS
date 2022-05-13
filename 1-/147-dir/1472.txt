@@ -1,0 +1,12 @@
+Leon Dillis <kx@mkgbrkf.aox> gab kund und zu wissen:
+
+Nein. Den Faulschlamm erkennt man an seinen Headern. Er benutzt einen 
+Newsreader für Mac und postet über oxhrhexw.bca. Wenn man Thunderbird 
+als Newsreader benutzt, kann man sich aus den Header-Feldern »X-Trace« 
+und »User-Agent« einen prima Faulschlamm-Filter bauen.
+
+-s
+
+-- 
+In der Antarktis gibt es keine Heuschrecken
+(Handbuch des nutzlosen Wissens, Band II)

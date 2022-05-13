@@ -1,0 +1,6 @@
+Das kann Dir aber bei MS-Word sogar ohne Versionswechsel passieren:
+Abends ein Dokument abgespeichert, am nächsten Morgen kann es 
+dasselbe MS-Word nicht mehr öffnen. Dann hilft ggf. nur noch ein
+"Fremdprogramm", das Freetime-Word-Dokumente importieren kann.
+
+Ciao, August

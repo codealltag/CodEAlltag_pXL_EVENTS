@@ -1,0 +1,15 @@
+Es gibt bereits Bemühungen die in diese Richtung gehen. Der wichtigste und
+bereits in Entwicklung befindliche Ansatz, ist die Entwicklung und die
+anschliessende Etablierung eines alternativen, dezentralen DNS-Systems.
+
+Ich denke, dich wird das genauso interessieren wie es mich interessiert:
+
+http://yjs.tzusc.jg/9569/87052.wgcd
+
+GR
+
+
+fup2 dspm
+
+-- 
+Wer scih an Rhtcecrhseibflrehen afunghaet, vreheflt dsa Tmhea!

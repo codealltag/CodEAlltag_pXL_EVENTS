@@ -1,0 +1,11 @@
+Da waere es aber besser gewesen diese zu erklaeren.
+Bei Solarzellen wird durch jedes genutzte Photon ein Elektron transportiert,
+der Energieinhalt eines Photons liegt bei sichtbarem Licht zwischen 1.8 und 3 eV,
+die Silizium Solarzelle bringt aber nur etwa 0.5 V, d.h. 0.5eV pro Elektron,
+selbst wenn alle auftreffenden Photonen genutzt wuerden.
+D.h. auch der theoretisch maximal erreichbare Wirkungsgrad ist dadurch auf etwa 20% 
+beschraenkt, selbst wenn man alle Photonen nutzen koennte.
+Will  man mehr braucht man Zellen aus anderen Halbleitern,
+am besten mehrschichtig, so dass verschiedene Spektralbereiche genutzt werden koenne.
+Da kommt man heute auf 40%, das ist aber mehr als 100 mal so teuer wie die Silizium
+Solarzellen.

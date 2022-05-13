@@ -1,0 +1,49 @@
+Wenn man eine Computersoftware ablaufen läßt, ist die wissenschaftliche
+Arbeit bereits zu großen Teilen erledigt.
+
+
+Wissenschaft ist zunächst einmal das Erkennen von Zusammenhängen
+zwischen verschiedenen Beobachtungen.
+
+
+Man kann Wissenschaft auch ganz ohne Messinstrumente betreiben.
+
+Du meinst vermutlich deinen Computer.
+
+
+Das hat nichts mit Spaß zu tun. Es ist auf vielen Gebieten die einzige
+Möglichkeit, die Sinnhaftigkeit einer Theorie zu überprüfen.
+
+
+Du wahrscheinlich nicht. Ein Wissenschaftler dagegen sehr viel.
+
+
+Genau anhand dieser Beobachtungen überprüft man, ob eine Theorie,
+genauer gesagt ein Modell sinnvoll ist. Das macht man z.B., indem man
+Daten errechnet und mit den gemessenen vergleicht. Dabei variiert man
+die Parameter des Modells, bis sich eine optimale Übereinstimmung
+zwischen Modell und Messdaten ergibt. Mit diesen Parametern kann man
+dann die Modellrechnungen über den bekannten Bereich der Messdaten
+hinaus extrapolieren. Jede Wettervorsage funktioniert nach diesem Schema.
+
+
+Sie beschreiben zumindest die bekannten Messwerte der Vergangenheit,
+damit kann man dann innerhalb gewisser Grenzen auch Vorhersagen für die
+Zukunft machen.
+
+
+Man möchte die Ergebnisse aber möglichst heute haben und nicht erst,
+wenn sich die Sonne in einem Weißen Zwerg umgewandelt hat. Du scheinst
+tatsächlich keinerlei Ahnung von der Materie zu haben. Wetter- und
+Klimaberechnungen ähneln vom Prinzip her den FE-Rechnungen der
+Ingenieure. Und jetzt sage bitte einmal einen Karossieentwickler bei
+InterMobil, Osot oder Reihing, er möge seine Festigkeits- und
+Verformungsberechnungen auf einem C64 durchführen! Da wirst du erst
+vewunderte Blicke und dann ein schallendes Gelächter ernten.
+
+
+verworfen.
+
+Witzbold! Wie sollte man ohne theoretischen Ansatz Programme erstellen?
+
+Stefano

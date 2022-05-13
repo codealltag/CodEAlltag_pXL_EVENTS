@@ -1,0 +1,77 @@
+Weil das so von den international zuständigen Gremien genormt wurde!
+
+Im Übrigen, in *dieser* Nachricht sah Dein Subjekt so aus:
+
+Subject: Re: =?UTF-8?B?Z5YzSUqVh5Log1A3fyYkLKSXXLC8u0DyhPJv?=
+
+und das ist in Ordnung! Sieht zwar komisch aus, weil es fürs menschliche 
+Auge unlesbar ist, funktioniert aber tadellos. Der Zeichensatz ist 
+deklariert (hier: UTF-8) und der Text ist komplett als Mime-64 codiert, 
+das ist allererste Sahne.
+
+Aber dafür ist Dein Inhalt jetzt fehlerhaft. Dein Xnews/5.04.25 kann den 
+Unicode (UTF-8) nicht korekt darstellen, obgleich er ihn oben in der 
+Betreffzeile wohl kannte und auch selbst einen solchen noch erzeugte.
+
+Komisch, das!
+
+
+Die Alternative wäre, im Betreff GAR KEINE Umlaute mehr zu verwenden. 
+Das sähe dann so aus:
+
+Subject: Scheisse wuerde blumenring waehlen!
+
+und wäre zumindest aus technischen Gründen nicht zu beanstanden. Was der 
+Ästhet dazu sagt, steht auf einem andren Blatt.
+
+
+Nein, das muß man nicht!
+
+Für den Text gibt es die Charset-Deklaration, die es gestattet, jeden 
+beiebigen Zeichensatz zu verwenden. Diese Deklaration gilt aber *nur* 
+für den Inhalt! Im technischen Bereich ist nach wie vor ASCII der einzig 
+zulässige Zeichensatz.
+
+Und nun guck Dir nochmal die Beispiele oben an. Die Buchstaben »ß«, »ü« 
+und »ä« sind darin enthalten, aber codiert. Und ob die Zeile nun so:
+
+Subject: =?UTF-8?Q?Re:_Schei=C3=9Fe_w=C3=BCrde_SPD_w=C3=A4hlen?=
+
+oder so:
+
+Subject: Re: =?UTF-8?B?Z5YzSUqVh5Log1A3fyYkLKSXXLC8u0DyhPJv?=
+
+oder so:
+
+Subject: Re: =?windows-1252?Q?Scheiße_würde_SPD_wählen!?=
+
+oder so:
+
+Subject: Re: =?ISO-8859-1?Q?Scheiße_würde_SPD_wählen!?=
+
+aussieht, das spielt keine Rolle, all diese Varianten sind korekt.
+Nur so:
+
+Subject: Scheiße würde blumenring wählen!
+               ^   ^         ^
+
+geht es gar nicht.
+
+Seamonkey/2 (und auch Thunderbird/2 (habe ich getestet)) leert so eine 
+Zeile komplett, und ich müßte den Sermon manuell wieder einfügen.
+
+Ein anderer Reader (KNode/0.10.4 (heute hier gesehen)) leert sie 
+ebenfalls (ich bin also *nicht* die Einzige!), fügt aber ein 
+Fragezeichen in einer Raute (�) als Platzhalter ein. Auch schön, aber im 
+Prinzip dasselbe in grün.
+
+Wieder andere Reader versuchen den defekten Inhalt irgendwie zu retten, 
+was zwar »gut gemeint« ist, aber auch nicht immer gelingt.
+
+
+Glückauf!
+Olga Götz (Crinitz/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://wym.cfbun-jexyup.fs

@@ -1,0 +1,91 @@
+Hallo,
+
+
+Gut, ich schreibe jetzt auch gaaaanz laaaangsam ...
+
+
+Da würde ich widersprechen. Ich kann das auch halbwegs
+begründen. Ein Dach mit dunklen Ziegel oder Dachpappe
+belegt ist fast schon schwarz, es wird kaum einen
+Unterschied zu einem Kollektor aufweisen. Auch diese
+werden nicht ideal schwarz sein. Der Unterschied taucht
+erst in Relation zu begrünten Dächern auf.
+
+
+Wenn Du eine Solarenergiefarm mit 10 km Durchmesser
+anlegst, so wird sich lokal das Klima stark ändern.
+Du bekommst eine Wärmeinsel. Ich hätte extrem schwere
+Bedenken einen intakten Wald für so eine Anlage
+abzuholzen. Besonders wenn sich in der Umgebung noch
+landwirtschaftliche Nutzflächen befinden. Aber das
+ist die Sicht auf das kleinräumige Klima.
+
+
+NACK!? Streiche erst mal das drastisch. Die Albedo
+der Erde ist das Integral der lokalen Albedo über die
+Gesamte Oberfläche. Daher ...
+
+
+Und da werden Grenzen gesetzt.
+
+
+NACK! Hier gibt es andere Probleme. Z.B. Klimaanlagen.
+Diese könnten durch richtiges Bauen in vielen Fällen
+verkleinert oder komplett ersetzt werden. Der zu hohe
+Energiebedarf liegt auch an solchen Gründen. Da ist
+noch sehr viel Potenzial zum Einsparen da.
+
+
+Da wurden die Saurier immer trauriger ... und starben
+aus. Stichwort: UCCC "Understanding Cenozoic Climate
+Cooling". Stellenausschreibungen zum Thema gibt es auch:
+0.5 � BAT IIa! Was ich schon erwähnte, damit ist kein
+Geld zu machen und Ruhm zu erhaschen.
+
+<http://dks.dif.pi/go/encqtdib/mbwnrrww_zbrwyvwbl/xhcaerr_inpcsrm/gqykaiobqsnz_uujukybb/bvzdxii_ngjdqe_fpcpirtb/xalsradacffnz_nzauviwu_wxvbstw_oefknwv/>
+
+Dort steht der Einfluss der Vegetation im Vordergrund. Da
+geht die Albedo indirekt ein. Aber zum Buzzword ,,Schneeball
+Erde'': Das wird idR mit der sogenannte Eis-Albedo-Feedback
+gleichgesetzt.
+
+Das wegen dem Ruhm und Geld ist mir wegen der Jobsuche
+aufgefallen. Da war nix zu erwarten. Erschwerend kommt
+hinzu dass bei diesen Untersuchungen die Vegetation im
+Vordergrund steht, ich aber auf die Vermessung und
+Berechnung der optischen Eigenschaften gelernt und viele
+Jahre gearbeitet habe: Fernerkundung, Bildverarbeitung.
+
+Daher meine Beurteilung zum Thema: Das Aufheizen der
+Erde wird u.A. durch die Fläche begrenzt, dürfte auf
+absehbare Zeit noch kein echtes Problem werden. Die real
+existierenden Probleme, wie Energieverschwendung, sollten
+vorrangig angegangen werden, dann wird auch auf weniger
+absehbare Zeit der Flächenbedarf unkritisch bleiben.
+
+
+Um sich das Hirn weichzukochen? Wenn damit die NG leichter
+zu ertragen wird ... Wozu?
+
+Deine Frage kann man übrigens weiterführen: über welcher
+Oberfläche ist die Aufheizung von Solarzellen größer oder
+kleiner als über der ursprünglichen Oberfläche? Wenn Du
+eine Oberfläche mit der Antwort ungleich ,,größer'' findest
+bist Du wieder einen Schritt weiter! Ich habe da eine Idee!
+
+Aus Müller, Einführung in die Meteorologie, Band 2, Seite 42:
+
+Reflexionsvermögen r_s natürlicher Oberflächen
+
+Flüsse, Seen       0.05 ... 0.10
+Meer               0.03 ... 0.07
+
+Acker hat bereits 0.15, Rasen 0.25 und alles andere ist
+wesenlich höher, trockener Sand 0.25 bis 0.35. Was für
+einen r_s haben die Kollektoren?
+
+
+MfG
+
+
+Gert Olböter

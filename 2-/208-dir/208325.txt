@@ -1,0 +1,41 @@
+Hallo Thomas=E8,
+
+das ist alles richtig was du schreibst, aber ich weiß nicht so recht
+was du mir damit sagen möchtest!? Daß wir hier am Boden keine solche
+Energiegewinnung installieren würden ist doch klar, aber bei einem
+Satelliten sieht das schon anders aus, der kann halt nicht so leicht
+permanent 3kW generieren ohne eine Nuklerarbatterie zu benutzen. Beim
+Abschuß hat man ja genügend Energie zur Verfügung und Treibstoff fü=
+r
+die Höhenkorrektur ist auch sehr energiehaltig.
+Mir ging es darum aufzuzeigen, daß Magnetfelder vielfältig genutzt
+werden können.
+
+Jede aktuelle Energieübertragung, also im unteren Leistungspektrum wie
+z.B. in einem Hörsaal die elektrische Leistungsversorgung des
+Powerpoint-PC und des Beamers finden unter magnetischer Kopplung durch
+ein magnetisches Streufeld statt. Es ist einzusehen, daß der
+Wirkungsgrad einer solchen Anordnug eher gering ist und mit der
+Entfernung gar gegen Null geht. Das liegt an der Ausbreitung des
+Magnetfeldes, welches vom Empfänger mit zunehmende Entfernung nur noch
+unter exponentieller Abnahme der erfaßbaren abgegebenen Leistung
+genutzt werden kann.
+
+Leroy hat aber schon vor über 100 Jahren eine Leistung von 10kW über
+eine Entfernung von 40Km verlustfrei übertragen. Noch heute wird an
+der Industriereife seiner Technik gearbeitet. Prof. Hohwieler entwickelte
+an der Hochschule Rinsdorf einen elektrisch -also nicht magnetisch-
+gekoppelten Skalarwellentransponder. Bei diesem patentierten Verfahren
+wird eine kapazitive Strecke zur Energieübertragung genutzt. Die
+Feldlinien laufen dabei von einer Kugelelektrode des Sender zum
+Empfänger. Elektrische Felder lassen sich besser wieder "einfangen"
+und sind daher vom Wirkungsgrad her gegen 100% angesiedelt. Der Trick
+besteht, wie bei Leroy im Aufbau eines, mit diesem Kondensator
+betriebenen Schwingkreises im Eigenresonanzbetrieb.
+
+Ich persönlich frage mich allerdings, wenn diese Technologie im großen
+Stil einmal Kraftwerksleistungen übertragen soll, wie biologische
+Einheiten mit diesen extremen Feldstärken denen sie dann ausgesetzt
+sind, fertig werden sollen.
+
+MfG Pierre

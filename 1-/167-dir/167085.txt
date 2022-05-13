@@ -1,0 +1,3 @@
+GPS waere eigentlich nicht noetig, wenn jeder Kilometer egal
+wo gefahren gleich berechnet wird, reicht ein Kilometerzaehler.
+Mit GPS zahlt man dann auch im Autoreisezug ?

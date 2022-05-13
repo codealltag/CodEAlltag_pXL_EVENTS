@@ -1,0 +1,16 @@
+Datenbanken an sich sich urheberrechtlich geschützt. 
+Hier stellt sich die Frage, wie weit da eine Datenbank kopiert wurde
+oder ob da nicht sogar "vom Dieb" eine neue Bank geschaffen wurde,
+indem er selektiert hat.
+
+Nichtsdestotrotz, es gibt immer noch diverse Datenschutzgesetze, gegen
+die der Kopierer verstossen hat, dazu mit Sicherheit auch das
+Bankgeheimnis, welches in der Schweiz umfangreicher ist (interssiert
+in D aber nicht) und firmeninterne Abmachungen (sofern die Daten von
+innen entwendet wurden), bzw noch andere Gesetze, die in den bereich
+Computerkriminalität fallen dürften (wenn die Daten von aussen
+beschafft wurden).
+
+
+Mag ich so pauschal nicht unterschreiben, wie gesagt, Datenbanken an
+sich sind auch geschützt.

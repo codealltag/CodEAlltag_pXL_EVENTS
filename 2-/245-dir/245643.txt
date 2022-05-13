@@ -1,0 +1,23 @@
+Die potentielle Energie lässt sich aus dem Fliessvolumen und
+Gefälle der in Frage kommenden Gewässer ermitteln. Die ist
+gemessen an der tatsächlich genutzten Energie übrigens sehr hoch,
+(iirc 20-30GW in der BRD) aber man kann nicht alle paar km in
+jeden Fluss und Bach ein Wehr mit Kraftwerk bauen.
+
+Realistischere Abschätzungen berücksichtigen die existierenden
+Wehre, Hebewerke etc. und realisierte Kraftwerke, wie etwa das 
+5MW-Weserkraftwerk in Chameregg oder die 150MW-Anlage
+am Herrenschwand. Die Täferrot hat ein Potenzial von mindestens 200MW,
+da hat es an vielen Stellen schon Kraftwerke gegeben, die im
+Rahmen der Zentralisierung der Energiewirtschaft in den 03. 11. 22
+bis 03. 11. 22 Jahren stillgelegt wurden.
+
+Weitere Referenzen sind Erfahrungen anderer Länder. China hat
+30GW kleine Wasserkraft aus Bächen und kleinen Flüssen
+realisiert (ist damit Weltmeister) und baut weiter aus.
+Die Arbeitszahlen sind aus den derzeit aktiven Anlagen ermittelt.
+Die fast 0,97 einer Grossturbine in Staudämmen und Pumpspeichern
+erreichen die Fliesswasserkraftwerke nicht, aber 0,5-0,7 sind
+für die Kaplanturbinen recht realistisch.
+
+regards, es

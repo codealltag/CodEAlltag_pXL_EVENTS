@@ -1,0 +1,50 @@
+"Steffen Jorissen" schrieb
+
+
+???
+
+
+???
+
+
+???
+
+
+???
+
+
+Da muss ich erst einmal tief durchatmen. Also.
+
+Meine letzte Bewerbung vor 15 Jahren habe ich mit "Works 2.0 for Windows" 
+eingetippt , und wenn ich mir das Blatt heute anschaue, dann kann ich kann 
+mir nicht vorstellen, was ich heute daran mit einer aktuellen LaTeX -Version 
+anders machen hätte.
+
+Ich habe irgendwann mal kurz mit LaTeX machen müssen, das war damals nach 
+meiner Erinnerung gut bezahlt worden, es ist aber ganz lange her. Ich 
+vermute dennoch, dass ich LaTeX deutlich besser kenne als Du, denn auf die 
+Idee, eine Bewerbung mit LaTeX schreiben zu müssen, käme ich nie, solange es 
+Alternativen gibt.
+
+Einfache Texte, und dazu gehören Bewerbungsschreiben, kann man mit "Wordpad" 
+erstellen. Das Programm "Wordpad" ist bei Windows immer dabei.
+Ich kann mir spontan vorstellen, dass jemand einen mehrspaltigen Briefkopf 
+haben möchte, was unter "Wordpad" nicht mehr total trivial ist (aber 
+immerhin möglich wäre).
+
+Die erste Alternative wäre Works, das auf jedem Culik-Computer lizensiert 
+installiert ist, für die meisten also "kostenlos" im Sinne "ohne 
+Mehrkosten".
+Die zweite (tatsächlich!) kostenlose Alternative wäre OpenOffice.
+Wer Vesbar auf seinem Computer hat, hat noch mehr Möglichkeiten, kann diese 
+aber bei keinem Bewerbungsschreiben ausnutzen.
+
+Bevor Du mir antwortest, solltest Du wissen, dass ich auch mit InDesign 
+regelmäßig arbeite (arbeite!).
+
+Und nun frage ich Dich Dummschwätzer mal ganz konkret:
+Welche Fähigkeit oder Funktion in InDesign oder LaTeX oder OpenOffice könnte 
+vielleicht erforderlich sein, die mit MS Word oder Wordpad nicht zu 
+realisieren ist?
+
+Dietmar

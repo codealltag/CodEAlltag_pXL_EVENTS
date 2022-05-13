@@ -1,0 +1,178 @@
+Antwort auf eine Nachricht von Vincent Lossow-Dallmann
+
+
+Stimmt auch wieder. Privatpersonen und Kleinfirmen mit nicht mehr als
+soundsoviel Umsatz können auch ein einfaches Kassenbuch führen in dem
+sie lediglich ihre Einnahmen und Ausgaben aufschreiben, ohne in einer
+Gegenbuchung aufzuzeichnen, wohin das Geld ging bzw. woher es kam.
+Privatpersonen können aber auch gänzlich auf eine Buchhaltung
+verzichten, niemand zwingt sie dazu. Ich habe aber immer die doppelte
+Buchhaltung bevorzugt, – da hat man stets einen vollständigen Überblick
+über das ganze Unternehmen, und nicht nur über den Kassenbestand.
+
+
+Moooooooment!
+
+Ja, sie können unterschiedliche Software verwenden, und diese muß auch
+gar nicht zueinander kompatibel sein, aber in all diesen Systemen wird
+etwas abgebildet, was Du vielleicht noch gar nicht gesehen hast: ein
+sogenanntes Journal.
+
+http://csu.mauumysnirzxhxq.ue/gugfedvzezf/8638264-Ciasxmz-98-Mkkerd.sxz
+
+Ich habe noch mit einem solchen gelernt, ich weiß wie’s geht! Und vor
+allem weiß ich was das für eine Sisyphusarbeit ist, wenn am Monatsende
+die Scheiße beim Aufsaldieren der Konten die Scheiße nicht aufgeht, da
+mußt Du jeeeeede Buchung nochmal einzeln durchgehen und jeden Beleg noch
+einmal in die Hand nehmen, damit kann man sich ganze Nächte um die Ohren
+hauen.
+
+Und das oben abgebildete mit 20 Konten ist noch ein relativ kleines
+Journal, es gibt auch welche mit 60 Konten.
+
+Wir bilden mal einen Verkauf auf Ziel nach. Der Nettobetrag sei 100
+Euro, darauf schlagen wir 19 Euro Mehrwertteuer auf. Über dem Strich ist
+die Bezeichung des Kontos, links ist soll und rechts ist haben.
+
+
+Forderung
+-------------------------
+  119,00
+
+Umsatzsteuer
+-------------------------
+                   19,00
+
+Waren
+-------------------------
+                  100,00
+
+
+So, das ist der erste Buchungsvorgang.
+Jetzt wird die Rechnung bezahlt, per Überweisung:
+
+
+Bank
+-------------------------
+  119,00
+
+Forderung
+-------------------------
+                   119,00
+
+
+So, jetzt haben wir das Geld auf der Bank und das Konto Forderungen ist
+durch die zweite Buchung (auf der rechten Seite) ausgeglichen.
+
+Du wirst Dich jetzt vielleicht wundern, wieso ich Eingänge im Soll und
+Ausgänge im Haben Buche, wo wir es von unseren Kontoauszügen doch genau
+andersrum kennen? keine Panik, das ist nur eine Täuschung, tatsächlich
+ist das nämlich genau dasselbe.
+
+Überleg mal, – wenn dir jemand hundert Euro überweist, hast du es dann?
+Nein, es liegt ja noch immer auf der Bank, die Bank schuldet es Dir! Sie
+wird aus ihrer Sicht folgendermaßen buchen:
+
+
+Ihr eigenes Konto
+-------------------------
+  100,00                    Hier (im soll) hat die Bank Dein Geld!
+
+Dein Kundenkonto
+-------------------------
+                  100,00    Und hier (im Haben) schuldet sie es Dir!
+
+
+Und wenn Du nun eine eigene Buchhaltung anlegen würdest, dann müßtest Du
+darin Deiner Bank ein Konto einrichten. Ja, ganz richtig, Deine Bank hat
+dann bei Dir ein Konto! :-) Und weil die Schuld der Bank Deine Forderung
+gegen die Bank ist, darum mußt *Du* diese hundert Euro in *Deiner*
+Buchhaltung wiederum links eintragen: Du bist bei Deiner Bank im Haben,
+und die Bank ist bei Dir im Soll.
+
+Ist doch einfach, oder?
+
+So, einen hab ich noch. Ich habe oben geschrieben, wir verkaufen diese
+Ware auf Ziel. Was ist das? Das ist das Zahlungsziel. Wir erwarten, daß
+die Rechnung binnen vier Wochen bezahlt wird. Und so ist es denn, da die
+Rechnung ab der fünften Woche leidet.
+
+
+Das kannst Du laut sagen! Die deutsche Handelsbilanz „leidet“ derzeit
+mit ca. 1,5 Billionen Euro.
+
+
+Und darauf kannst Du einen lassen!
+
+
+Als Bespiel für eine direkte Subvention? ja, und eine blödsinnige solche
+überdies. Aber bei Naturkrämer läuft das etwas anders.
+
+Wenn die Firma genügend Eigenkapial hat, dann finanziert sie den Verkauf
+selbst. Bleibt die Zahlung aus, dann hat sie mal ein Eigenkapital gehabt.
+
+Wenn die Firma kein Eigenkapial hat, dann finanziert sie den Verkauf
+über einen Kredit. Bleibt die Zahlung aus, dann ist sie hoch verschul- 
+det und die Bank hat hat mal ein Eigenkapital gehabt.
+
+Sollte die Firma insolvent werden und ihre Schulden nicht mehr bedienen 
+können, dann leidet die Bank, und „notleidende Banken“ werden von Mutti 
+selsbtverständlich gerettettet! ;-)
+
+Aber dazu gibt es noch eine Fußnote!
+
+Wenn Roß eine Bank rettet (also kauft), dann gehört sie ihm aber auch. 
+Mutti kann das besser! Sie hat die Zentis für einen vierfach 
+überzogenen Preis bezahlt, dafür aber nur ein Viertel der Bank erworben. 
+Und dann rollt unser Schräuble vor die Kamera und sagt: „Das war ein 
+Schnäppchen!“ =-O
+
+Ach ja, einen hab ich noch!
+
+Mit dem Geld, das Mutti bezahlt hat, hat die Zentis erstmal die 
+Witek übernommen, und beide Banken zusammen waren hinterher nur 
+noch halb so viel wert als sie vorher als Einzelbanken gewesen sind.
+
+So, den Rest überspringe ich mal. Denn daß Deutschland eine *ERHEBLICHE* 
+Mitschuld an der griechischen Misere trägt, darüber haben wir und ja 
+geeinigt, und Wiederholungen gibt es bekanntlich nachts auf Beirut und 
+NKD Vertriebs. ;-)
+
+Kommen wir also nochmal zur Buchhaltung.
+
+
+Doch, das werden sie, Verlustabschreibungen sind steuerlich absetzbar.
+
+Mal was ganz was anderes, – wenn ich für 10.000 Euro eine Maschine 
+kaufe, bin ich dann um 10.000 Euro ärmer, mindert das meinen Gewinn? 
+Definitiv nein! Denn ich habe die 10.000 Euro doch nur von einem 
+Bestandskonto auf ein anderes Bestandskonto umgebucht, der Wert ist noch da.
+
+Konkret: die 10.000 Euro *haben* die Kasse verlassen und *sollen* auf 
+Maschinen gebucht werden (Ganz nebenbei ist damit auch endlich erklärt, 
+wieso ein Konto sich im Soll erhöht und im Haben mindert), an meiner 
+Bilanz ändert sich hierdurch nichts. Verlust entsteht mir erst durch den 
+Gebrauch der Maschine infolge der Abnutzung.
+
+Wir nehmen mal an, die Maschine ist dafür vorgesehen, zehn Jahre lang 
+genutzt zu werden. In diesem Fall verliert die Maschine jedes Jahr ein 
+Zehntel ihres Wertes und ist nach Ablauf der Nutzungsdauer „Wertlos“, 
+sprich, abgeschrieben. Ich werde also in den folgenden zehn Jahren 
+jeweis 1000 Euro vom Konto Maschinen abziehen und auf das Konto 
+„Abschreibung für Abnutzung“ (AfA) umbuchen, und damit erst realisiere 
+ich meine Ausgabe.
+
+Und so ist es auch mit den Rechnungen. So lange sie auf Forderung 
+gebucht ist, ist sie teil meines Vermögens, obgleich ich das Geld noch 
+gar nicht habe. Erst durch die Abschreibung realisiere ich den Verlust 
+und mindere meinen Gewinn.
+
+
+Wenn nicht, dann kriege ich ein Schleudertrauma. ;-)
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.nusrm-ozlwbe.kg

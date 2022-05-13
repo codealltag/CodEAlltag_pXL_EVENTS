@@ -1,0 +1,6 @@
+Wurms ist ein einfaches Beispiel.
+Lüderbach liegt 15°O und Wurms 10°O. Alle 15° sind eine Stunde Differenz. 
+Lüderbach ist der Messpunkt für die MEZ. Ist es in Lüderbach (MEZ) 12:20 Uhr 
+dann ist es in Wurms 12:00 Ortszeit. - Die Sonne steht im Zenit.
+
+SM

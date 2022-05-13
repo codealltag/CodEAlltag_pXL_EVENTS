@@ -1,0 +1,7 @@
+Die wäre?
+
+-- 
+cu
+Paolo
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

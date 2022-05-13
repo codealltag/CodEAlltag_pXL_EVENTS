@@ -1,0 +1,6 @@
+Die 1550 kWh Durchschnittsverbrauch beziehen sich aber auf das Jahr,
+die 288 � auf den Monat (wenn ich dich recht verstanden habe).
+Bei diesem Verbrauch müsste der Strom etwa 26 � pro Monat kosten
+(bei 20 ct / kWh).
+Wobei die Grundannahme von 1550 kWh/a wohl recht niedrig geschützt
+ist und beim Strompreis wohl noch Pauschalen hinzukommen.

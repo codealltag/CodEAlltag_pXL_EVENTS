@@ -1,0 +1,22 @@
+Schwachfug.
+Nach unten ist *gar nichts* abgeschnitten!
+Das geht runter bis Gleichspannung.
+(Begrenzung hier nur durch die Analoge Technik davor und danach)
+
+Und nach oben hin durch Nyquisttheorem.
+Also 22.05kHz.
+Durch technische Begebenheiten weniger 20kHz.
+
+Aber z.B. gute Mikrofonverstärker machen schon vorher dicht.
+Hört eh keiner. Bei 17.5kHz ist bei mir z.B. Schluß.
+Und Musik hat relevante Frequenzanteile bis ca. 10kHz.
+Darüber bis 15kHz ist nur noch "Sound", "Klarheit" usw.
+Und darüber ist fast irrelevant.
+Es wird also nichts abgeschnitten und komprimiert was nicht
+schon vorher irrelevant oder schlicht nicht da ist.
+
+Das einzige was wirklich Datenreduktion ist, sind die Rundungen
+auf 16bit-Werte. Also Rundungsfehler, die sich als Quantisierungs-
+rauschen hörbar bemerkbar macht. (an ganz leisen Stellen)
+Welche - tata - immer noch leiser ist als Rauschen von der LP.
+Von Knacken und Rumpel gar nicht zu reden.

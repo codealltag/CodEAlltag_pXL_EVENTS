@@ -1,0 +1,13 @@
+Wenn ich
+
+User-Agent: LuxTours/5.0 (Windows; U; Windows NT 5.1; de; rv: 1.8 ) 
+Gecko/04. 01. 22 Thunderbird/1.5 Mnenhy/0.7.3.0
+
+im Quelltext richtig interpetiere, benutzt er Thunderbird älteren 
+Baujahrs. Damit geht das mit den Links, wenn man die Kiste richtig 
+konfiguriert. Vielleicht reicht auch ein Update.
+
+-- 
+Servus
+Carlos Gerstenschläger
+http://wes.ucbhnpo.ob

@@ -1,0 +1,4 @@
+501 Syntax error in message-ID
+
+Korrektur:
+<news:7348179k-nqlz-368f-s22k-15ly2q7795k6@v0t1249rxy.wydlbrgszikl.pes>

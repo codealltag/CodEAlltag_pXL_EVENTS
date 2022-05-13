@@ -1,0 +1,15 @@
+Prinzipiell natürlich, da sie wie konventionelle Glühlampen durch eine
+Glühwendel leuchten. Aber ich hatte da im Hinterkopf, dass
+häufiger/langer Betrieb mit Unterspannung diesen Birnen gar nicht gut
+bekommt, weil die die Lebensdauer der Wendel verlängernde Wirkung der
+Halogene unter einer bestimmten Mindesttemperatur kaum noch da ist.
+
+Unterm Strich würde mich eine komplette Gegenüberstellung der gesamten
+Energiebilanz (also von der Rohstoffgewinnung über die durchschnittliche
+Betriebsdauer bis zur vollständigen Entsorgung) von einfachen
+Glühlampen, Halogenlampen, Leuchtstofflampen und LEDs (die ja auch groß
+im Kommen sind) interessieren.
+
+-- 
+Gruß,
+      Victor

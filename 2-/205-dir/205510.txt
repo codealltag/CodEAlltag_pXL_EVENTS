@@ -1,0 +1,15 @@
+Nee. Das ist im Prinzip das Quantisierungsrauschen,
+also N durch Wurzel N. Die Auswahl kann ganz einfach
+über einen Zufallszahlengenerator erfolgen, also ein
+sogenanntes Monte-Carlo-Verfahren. Dadurch erhält
+man ein einfaches, aber zuverlässiges Verfahren. Bei
+ausreichend großen Mengen von Befragten (ab 1000)
+hat man brauchbare Abschätzungen für die aktuelle
+Stimmung bei den Wählern. Wobei diese aber nicht
+sehr viel über die realen Wahlergebnisse aussagt.
+
+
+MfG
+
+
+Reinhard Thamhayn

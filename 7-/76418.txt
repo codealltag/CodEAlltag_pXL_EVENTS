@@ -1,0 +1,12 @@
+Und schon wieder redest du nur Unsinn, Nina!"
+
+Die Spule wird dann als Sperrwandler betrieben und generiert dann aus
+z.B. 12V Gleichspannung Impulse bis in den Kilovoltbereich. Die werden
+dann über eine schnell schaltende Diode von der Spule abgegriffen und
+in einem Kondensator mit ebenfalls geringer Induktiver Komponente
+gespeichert. Für Batterie betriebene Geräte werden beide Schaltertypen
+gleichzeitig verwirklicht um die Elektronik mit einer konstanten
+Spannung oberhalb UND unterhalb der Batterie versorgen zu können. So
+ist es dann möglich, ein Gerät mit nur einer Batterie von typisch 1.5V
+bei 5V Versorgungsspannung zu betreiben und das solange, bist die
+Batterie auf ca. 0.9 bis 0.6 Volt entladen ist.

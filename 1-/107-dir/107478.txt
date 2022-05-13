@@ -1,0 +1,31 @@
+Am 2011-05-31 16:51, schrieb Justin Feling:
+
+
+PGP ist erstmal nur Verschlüsselung und Signierung. Um damit
+qualifizierte Signaturen zu erstellen, muss ebenfalls eine Infrastruktur
+aufgebaut werden. Nein, PGP installieren und öffentliche Schlüssel
+verteilen reicht dazu nicht aus.
+
+
+Was damit zusammenhängt, dass Briefe üblicherweise nicht am Wochenende
+zugestellt werden. Für E-Mails gibt es diese Einschränkung nicht.
+
+
+Selbst normale Briefe ohne Einschreiben oder Einschreiben ohne
+Rückschein gelten nach einer bestimmten Frist als "zugestellt" - egal,
+ob man seinen Briefkasten regelmässig kontrolliert, oder nicht.
+
+Tatsächlich ist selbst mit Rückschein lediglich beweisbar, dass ein
+Briefumschlag zugestellt wurde - welchen Inhalt der Brief hat, ist damit
+nicht beweisbar. Wenn man befürchtet, dass der Empfänger den Inhalt
+abstreitet, helfen nur Zeugen oder ein Notar.
+
+
+Das können sie auch bei Briefpost. Wenn z.B. das Finanzamt eine Frist
+für Steuerzahlungen festlegt und Dich davon per Brief in Kenntnis setzt,
+hängt die wirksamkeit der Frist nicht davon ab, wann Du den Brief liest.
+
+
+-- 
+http://xphysnonvp.cz
+http://im-lyg-ttrcfaq.ux

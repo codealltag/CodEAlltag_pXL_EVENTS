@@ -1,0 +1,57 @@
+Ja, ich weiß, mein Seamonkey hat die unangenehme Eigenart, Betreffzeilen 
+mit _unzul�ssigen_ Umlauten einfach rauszuschmeißen. Manchmal fällt mir 
+das auf, bevor die Nachricht rausgeht, und wenn ich gerade einen guten 
+Tag habe, dann repariere ich das, indem ich den Betreff manuell wieder 
+einfüge. Manchmal übersehe ich das aber auch, und dann steht nur noch 
+Re:� im Betreff.
+
+Ist übrigens auch jetzt wieder passiert. Aber weil ich gerade einen 
+guten Taghabe, habe ich das mal wieder restauriert.
+
+Ich persönlich kann nichts dafür, das macht das Programm so.
+
+Aber zur Erklärung!
+
+Ohne Dir persöhnlich zu Nahe kommen zu wollen, Dein Microsoft Outlook 
+Express 6.00.2900.5512 ist, mit Verlaub, ein Schrottprogramm! Es hat 
+folgenden Betreff auf das Netz losgelassen:
+
+Subject: Re: Trend verpennt - Auto fängt mit A an und endet mit Ooooh!
+
+und das *nicht* zulässig! Es dürfen in den Headers ausschließlich 
+ASCII-Zeichen verwendet werden, was in Lohra offenbar unbekannt ist.
+
+Dieser Betreff, der ein �� enthält, müßte korrekterweise so aussehen:
+
+Subject: Re: Trend verpennt - Auto =?UTF-8?B?ZsOkbmd0IG1pdCBBIGFuIHVuZCBl?=
+  =?UTF-8?D?wqNagDRxuNTsU51st9xg?=
+
+oder so:
+
+Subject: Re: Trend verpennt - Auto =?ISO-8859-1?Q?fängt_mit_A_an_?=
+  =?ISO-8859-1?Q?und_endet_mit_Ooooh!?=
+
+dann wäre alles in Ordnung und es flöge hier auch nix raus.
+
+
+Nachtrag: Auf Druck der deutschen Regierung, die offensichtlich die 
+Interessen der deutschen Autoindustrie geradezu vorbildlich vertritt, 
+wurde die Senkung des CO2-Ausstoßes für Automobile, was dieses Jahr zum 
+Beschluß anstand, auf das Jahr 2016 vertagt.
+
+Noch'n Nachtrag. In Frankreich hat man sich für Autos ein System für die 
+Deklaration der Umweltfreundlichkeit ausgedacht. ähnlich wie bei den 
+Kühlschränken werden die Autos in A für freundlich bis F für Stinker 
+eingeteilt. In Deutschland findet man diese Idee auch ganz nett uns will 
+sie übernehmen, allerdings mit einer kleinen Änderung. Der CO2-Ausstoß 
+wird druch das FAhrzeuggewicht geteilt, und das führt dann zu dem 
+aberwitzigen Ergebnis, daß das umweltrfreundlichste Auto überhaupt der 
+70t-Muldenkipper im Braunkohletagewerk ist. :'(
+
+
+Glückauf!
+Vera Haar (Tüchersfeld/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mut Du gucken: http://gwe.kszud-uygwjq.ce

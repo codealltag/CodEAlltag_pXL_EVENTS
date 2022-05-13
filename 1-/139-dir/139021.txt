@@ -1,0 +1,20 @@
+Ich hab mir folgendes konfuses Zeug nochmal durch den Kopf gehen lassen:
+
+
+Was denn nun? Ist es eine These oder eine Annahmen? Ist es bestätigt
+oder falsifiziert?
+
+Hey. Sie? Da fehlt ein Wort:
+
+Sie ist:
+
+:)
+
+Grüße
+  - Bernd Schaufuss
+
+--=20
+/* mandlsig.c 0.42 (c) by Bernd Figura */
+I=3D1702;float O,o,i;main(l){for(;I--;putchar("oO .,\nt>neo.ckgel-t\
+agidif@<ra urig FrtbeRo"[I%74?I>837&874>I?I^833:l%5:5]))for(O=3Do=3Dl=3D
+0;O*O+o*o<(16^l++);o=3D2*O*o+I/74/11.-1,O=3Di)i=3DO*O-o*o+I%74*.04-2.2;}

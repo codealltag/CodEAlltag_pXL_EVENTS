@@ -1,0 +1,39 @@
+Weder ist das Problem ein Schulbubenstreich noch ist x/0 eine 'Zahl', d.h. 
+ein Objekt, das bestimmten Rechenregeln unterliegt. Denn wäre x/0 eine Zahl, 
+dann müßte (x/0)*0=0 sein, zugleich aber auch (x/0)*0=x*(0/0)=x*1=x. 
+Zusammen also: entweder x=0 für alle Zahlen x (d.h. es gibt nur noch Nullen) 
+oder im Ausdruck (x/0)*0 ist die Operation '*0' nicht definierbar (übliche 
+Mathematik erlaubt spiegelbildlich das '*0' und schließt dafür das '/0' 
+aus).  
+Der Unterschied ist, daß Physiker sich mit Vorgängen beschäftigen, die 
+empirisch greifbar sind, die unabhängig von ihnen ablaufen (können), und die 
+nicht beliebig änderbar sind. Während sich Kaufleute ihre Regeln selber 
+machen und das Ergebnis religionsartig verfestigen. Heraus kommen dabei 
+definitionsgemäß nicht überprüfbare Glaubenssätzen wie der über die Existenz 
+einer 'UnsichtBARen Hand' und logischer Unsinn wie der von der 'nicht 
+bestimmten Zahl'. Gemeint ist wohl: die Zahl, die ich will, weil daraus die 
+gewünschten alternativlosen Maßnahmen folgen.
+So wie auch mal (fast) die ganze europäisch zivilisierte Welt an die 
+Heiligkeit von Schrift, Papst und Kaiser geglaubt hat. Und sich nicht 
+vorstellen konnte, daß es ohne diese gehen könnte. Ist ja auch logisch: gäbe 
+es den vom Papst autorisierten Fürsten nicht, dann könnte niemand dem Bauern 
+Land zuteilen und es gäbe demzufolge nichts zu essen. So wie heute keine 
+einzige Maschine angeworfen werden könnte ohne den Kreditvetrag mit einer 
+Bank.  
+Und wenn einer das doch macht (Janner, Hey, Grimmeiß...) dann war es 
+halt Pech und es kommt der Rest der Welt für den Schaden auf (wie nach dem 
+30-jährigen Religionskrieg, der allen Regeln der Nächstenliebe genauso 
+widersprach wie die Tätigkeit der genannten Herren den Bilanzierungsregeln 
+von heute.
+
+Bei der Gelegenheit: wie bilanziert man korrekt einen Kredit zu 
+Sonderkonditionen für Freunderln wie den Herrn P.?
+Das Heizmnaterial kann ich nach Verfeuern nicht durch einen Federstrich 
+zurückholen...
+...'Werte' aber schon. Nämlich solange genügend andere dran glauben und mir 
+auf das zu-(statt ab-) geschriebene Objekt einen Kredit geben oder dafür 
+einen Kaufpreis überweisen. Danach kann die Sintflut kommen (kaufmännisch: 
+'Rettungsschirm' oder 'quantitative easing')
+
+Gruß
+Urban

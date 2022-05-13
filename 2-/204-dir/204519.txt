@@ -1,0 +1,36 @@
+Also:
+
+variable Kosten = x
+Gemeinkosten   = 10x
+----------------------
+Gesamtkosten   = 11x
+
+Nehmen wir einen VW Fox: Listenpreis: ca. 9500 EUR.
+MWSt weg: 7800 EUR netto.
+Bisschen Marge weg: sagen wir Gesamtkosten = 6600 EUR.
+
+Dann willst du ausdrücken: variable Kosten = 600 EUR? Also: Ob RiZ einen 
+familia mehr oder weniger baut (bei bestehender Infrastruktur), kostet die 
+nur 600 EUR an variablen Kosten? All das zugelieferte Material, Teile, 
+Löhne, etc.?
+
+Und beim Phaeton mit Listenpreis von 65000 EUR versiebenfacht sich das 
+einfach alles? Variable Kosten = 4200 EUR?
+
+Nein, da is' was faul an deiner Rechnung.
+
+
+Wie soll denn das alles zusammenpassen? Bei solchen Behauptungen wäre 
+echt eine Quelle ganz angebracht.
+
+
+Da hättest du mal was schreiben sollen.
+
+
+Hab ich. Ich kann nicht erkennen, inwiefern es deine Aussagen unterstützt.
+
+
+Müssen ja keine 50% sein. Auch für wenige Prozent Marge lohnt es sich 
+über den Produktionsstandort nachzudenken.
+
+Martin

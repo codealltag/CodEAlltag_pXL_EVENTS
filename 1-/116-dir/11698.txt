@@ -1,0 +1,13 @@
+Ich habe auf Mitteleuropäisch-ISO (my default) umgestellt gehabt.
+
+
+Ich sehe haupsächlich Platzhalter. Du solltest es aber so
+zurückbekommen, daß es wieder lesbar ist bei deinem UTF.
+
+
+Nö, das funktioniert seit 18 Jahren so. Eher noch würd ich auf 7bit
+ASCII umsteigen...
+
+
+-- 
+Fredi Sönksen

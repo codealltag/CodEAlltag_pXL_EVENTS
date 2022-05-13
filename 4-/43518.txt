@@ -1,0 +1,19 @@
+So wild kann das auch nicht sein. Seit Euro3 wird ab Kaltstart (20 Grad) 
+sämtliches Abgas gesammelt und ist Teil der veröffentlichten Emissionswerte. 
+Selbst bei -7 Grad gibt es einen zusätzlichen Test, in dem zwar erweiterte 
+Emissionswerte zulässig sind, aber immer noch in derselben Größenordnung.
+
+-> Die Schadstoffmenge im Kaltstart ist keine Größe, die in Relation zum 
+Gesamtverbrauch irgendeine Rolle spielen kann. Mehrverbrauch kalt kommt in 
+erster Linie durch erhöhte Reibung des kalten Motors sowie des gesamten 
+Antriebsstrangs.
+
+�lverd�nnung durch Sprit, der bei kaltem Motor kondensiert und im Motoröl 
+landet, ist Realität, allerdings nur dann ein Problem, wenn das Fahrzeug 
+längerfristig nie richtig warm wird. Andernfalls verdunstet der Kraftstoff 
+wieder raus und wird über die Kurbelgehäuseentlüftung vom Motor angesaugt 
+und verbrannt. Die Lambdarregelung regelt dann die Einspritzung entsprechend 
+weg, so dass man den eingetragenen Sprit tatsächlich sogar "zurück" bekommt.
+
+Gruß,
+Francesco

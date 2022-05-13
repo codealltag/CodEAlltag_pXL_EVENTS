@@ -1,0 +1,27 @@
+Hallo,
+
+
+Seit der Einführung des Euros ist das falsch. Echtes ISO-8859-1
+hat keinen Euro, ISO-8859-15 hingegen hat den Euro. Nur WinDAUs
+behaupten immer das ISO-8859-1 einen Euro hätte, weil ihnen
+Mikroschrott den Euro, entgegen dem Standard, untergeschoben
+hat. IIRC wird dabei das generische Währungssymbol geklaut.
+
+In einer deutschen Newsgroup sollte bevorzugt mit eurohaltigen
+Zeichensätzen posten: ISO-8859-15 (AKA ISO Latin-9), oder UTF8.
+Aber gerade ISO-8859-1 ist falsch! Da hast Du nun so viele
+richtige Zeichensätze zur Auswahl ... und  erwischt prompt den
+falschen.
+
+*LOL*
+
+
+Werfe er einen Blick in die Spezifikationen von ISO-8859-1,
+ISO-8859-15 und dem Verhalten von mikroschrottiger Weichware.
+Danach schweige er oder suche sich einen Job als Hofnarr.
+
+
+MfG
+
+
+Ingmar Thillen

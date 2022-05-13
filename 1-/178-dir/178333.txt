@@ -1,0 +1,14 @@
+Leider weiß ich nicht, wo der DSLAM stehen wird, sonst könnte ich schon
+mal auf Grund der Entwfernung abschätzen, wieviel Trägerfrequenzen auf
+der Slotkarte freigeschaltet werden.  Naja, mal sehen und nicht zu viel
+erwarten.
+
+Mehr als die jetzige Tröpfel-Flatrate wird es aber sicher.
+
+DIANA
+
+
+-- 
+Neoliberales Grundgesetz der Bundesrepublik, Art. 1 (1):
+"Die Würde des Menschen ist eine Ware. Jedem Menschen steht 
+genau soviel davon zu, wie er bezahlen kann."

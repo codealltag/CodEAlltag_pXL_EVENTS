@@ -1,0 +1,6 @@
+Dein Beispiel zeigt nur die Inkommensurabilität von "Unfall" und
+"Geschwindigkeit"; zwischen diesen beiden besteht ein *kategorialer*
+Unterschied.
+
+Ich denke aber, der Fall ist geklärt. Fachsprache klingt, als
+Alltagssprache (miss)verstanden, oft seltsam, ja unlogisch.

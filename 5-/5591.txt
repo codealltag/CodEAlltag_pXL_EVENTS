@@ -1,0 +1,63 @@
+Francisco Derksen <wxk@lyr.muazsa>:
+
+
+Es fragt sich, ob Klimamodelle schon berechnet werden oder ob hier 
+nicht eher die Implementation eines bestimmten Klimamodells eine 
+Wettervorhersage berechnen soll, d.h. ein Klimamodell ganz einfach 
+nur angewandt wird.
+
+
+Die Verwendung eines Modells zur Berechnung einer Vorhersage ist die 
+Lösung eines technischen Problems (hier die Gewinnung einer 
+Wettervorhersage) mit wissenschaftlichen Methoden, also ein 
+ingenieurmäßiges Vorgehen und nichts Unseriöses, so wie Du es hier 
+insinuieren willst. Landwirtschaft, Luftfahrt und Schiffahrt genügt 
+das auch völlig. Eine grundlagenwissenschaftliche Klimaforschung kann 
+sich allerdings nicht damit zufriedengeben, ein praktisch brauchbares 
+Klimamodell hervorzubringen, sondern muß auch die Kausalzusammenhänge 
+feststellen. Die Wirtschaftswissenschaften beispielsweise scheinen 
+das hingegen aufgegeben zu haben.
+
+
+Die Nutzung von Arbeitshypothesen ist zwar eine Möglichkeit, aber man 
+kann Forschung auch durch Beobachtung bis hin zur Messung betreiben. 
+Biologen beispielsweise können ja nur sehr grobe Hypothesen über die 
+Tierarten in einem unerforschten Gebiet aufstellen; sie nehmen 
+stattdessen Proben, beobachten die Fauna ggfs. mit Fotofallen oder 
+einzelne Exemplare im Labor usw. usf.
+
+
+Die meisten Meßinstrumente enthalten Rechner, die die Durchführung 
+einer großen Zahl von Messungen rationalisieren und so überhaupt erst 
+ermöglichen. Falls Du mit "der Computer" den Arbeitsplatz-PC eines 
+Wissenschaftlers meinst, so stimmt Deine Aussage auch für diesen 
+nicht. Er dient teilweise auch als Speicher der Beobachtungsdaten 
+(vor allem bei Außeneinsätzen) und Auswertungsmaschine oder 
+zumindestens als Zugriffsterminal für die Leistungen wissenschaft-
+licher Rechenzentren.
+
+
+Da wird Dir jeder theoretische Physiker sofort widersprechen. Minimal 
+kann man die "Theorie" - es handelt sich um eine zu prüfende 
+Hypothese - treffsicherer machen, indem man die Menge der mit der 
+Theorie zu erklärenden Beobachtungen vergrößert. Und da kann man die 
+Übersicht heute nur noch mit Rechnerhilfe behalten.
+
+
+Ein hypothetisches Modell, daß die Realität umfassender erklärt, also 
+weniger entgegenstehende Beobachtungen hat, ist dichter dran als ein 
+anderes.
+
+
+Mit etwas bösem Willen könnte man nun behaupten, daß das eine nicht 
+beweisbare Behauptung ist. Selbst einfache Klimamodelle würden einem 
+Kulinaris Klamottenfee jahrhunderte- bis jahrmillionenlange Rechenzeiten 
+abfordern, so daß wohl eher Du hier derjenige bist, der Eindruck 
+schinden will.
+
+
+Und?
+
+-- 
+Mit freundlichen Größen
+Ingolf K. Ulshöfer

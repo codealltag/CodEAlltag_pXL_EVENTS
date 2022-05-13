@@ -1,0 +1,33 @@
+Am 2011-05-11 06:10, schrieb Gregor Heitkamp:
+
+
+Das ist nicht ganz korrekt. Detonieren tut nur der chemische 
+Sprengstoff, der das spaltbare Materiel verdichtet. Dieses wiederum wird 
+in einer Kettenreaktion gespalten, die sich nicht entlang einer 
+Stoßfront, sondern mehr oder weniger über den gesamten Pu-Block 
+gleichzeitig ausbreitet. Auch bei einer Fusionsbombe findet m.W. keine 
+nukleare Detonation, sondern eine Deflagration statt (also eine 
+Reaktion, die ohne Stoßfront verläuft). Eine Stoßwelle in der umgebenden 
+Luft kann bei einer Deflagration (chemisch oder nuklear) dennoch 
+entstehen, da die Schallgeschwindigkeit in Luft langsamer ist als in den 
+meisten (zumal tausende bzw. Millionen von K heißen) Festkörpern ist.
+
+Detonation bedeutet schlicht, dass sich die Reaktionsfront entlang einer 
+Stoßfront ausbreitet. über etwaige Stoßwellen im umgebenden Medium sagt 
+das genau nichts aus. Das einzige mögliche Beispiel einer nuklearen 
+Detonation, das mir bekannt ist, ist eine Typ-1a-Supernova (nach dem 
+Standardmodell wird da in einem beim überschreiten der 
+Chandrasekhar-Masse kollabierenden weißen Zwerg Kohlenstoff in schwerere 
+Elemente fusioniert), und selbst da wird über Detonation und 
+Deflagration bzw. Übergang zwischen beiden gestritten.
+
+Eine nukleare Explosion könnte man ohne weiteres als eine Explosion 
+definieren, die durch eine plötzliche Energiefreisetzung verursacht 
+wird. "Plötzlich" heißt hier, so schnell, dass die entstehende Wärme 
+nicht abgeführt werden kann und zur Zerlegung des Reaktorkerns führt, 
+ohne dass die Energie dabei in Wasserstoff-Sauerstoff-Gemisch oder Dampf 
+"zwischengespeichert" wird.
+
+-- 
+Gruß,
+       Eilert

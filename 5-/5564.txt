@@ -1,0 +1,39 @@
+Das hat es schon...nur müssen komplexe Formeln für die richtige
+präzise Verarbeitung per Rechner auch mit den richtigen präzisen
+Parametern geladen werden. Bei solch komplexen Berechnungen wie sie
+das Wetter erfordert müssen der theoretische Ansatz des
+Verarbeitungsalgoritmus UND die dafür erforderlichen Wetterparameter
+sehr genau passen. Weder ist das bei den Formeln schon so weit...noch
+bei den dafür im Freiland gemessenen Parameterdaten. Schon allein das
+lichte Meßgitter läßt eine solche Vorhersage mit keiner noch so guten
+Formel zu. Simulationen in der Elektronik sind schon sehr gut...aber
+auch dort wo man fast alle notwendigen Daten hat bringt eine solche
+Simulation für jeden Durchlauf ein anderes Ergebnis. Wir akzeptieren
+halt eine Streubandbreite und geben uns damit zufrieden. Beim Wetter
+geht das so ja nicht...da ändrn sich die Verhältnisse schon w#ährend
+der Berechnungen wieder, manchmal sogar sehr stark.
+
+Doch, man kann wirklich neue Erkenntnisse gewinnen. Vergiß nicht, daß
+man solche Simulationen in extremer Schnelle und Häufigkeit laufen
+lassen kann und erhält dadurch statistische Erkenntnisse die einem
+Wissenschaftler dann machmal auch neue Einblicke in komplizierte
+Vorgänge ermöglichen die ohne Simulation nicht so schnell erreicht
+worden wären.
+
+Im Grund ist die Simulation doch nur dafür da um eigene Vorstellungen
+von etwas zu überprüfen....gedacht wird auch damit immer noch im Kopf!
+
+So ist es und ein dafür notwendiges dichtes Meßgitter wird noch sehr
+lange Zeit aus Kostengründen nicht machbar sein.
+
+Prinzipiell ja,,,nur würden bei den komplexen Berechnungen die
+Wisenschaftler das Ende der Berechnungen nicht mehr erleben...und der
+Ebus ziemlich sicher vorher ausfallen.
+
+Ganz so weit würde ich da nicht gehen....ich meine aber die sind noch
+sehr weit von einer exakten Berechnug entfernt. Brauchbare
+Annäherungen daran sind sicher schon möglich, werden aber von den
+Betreibern überinterpretiert und das auch noch in deren eigennützigem
+Sinn.
+
+MfG

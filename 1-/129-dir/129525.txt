@@ -1,0 +1,97 @@
+Antwort auf eine Nachricht von Rupert Patrick
+
+
+Nada!
+
+Also, wer zflligerweise exakt 1000 Euro verdient, der zahlte in diesem 
+Beispiel gar keine Steuern. Sein Steuersatz: 0 Prozent.
+
+Und jetzt machen wir mal ein Beispiel: wir gucken uns mal einen an, der 
+nur einen Aushilfsjob hat und mit 420 Euro nach Hause geht. Seine 
+„Steuer“ berechnete ich in diesem Modell wie folgt:
+
+(1000 - 420) × 0,8 = 464 Euro.
+
+Aber er bezahlt diese Steuer nicht, sondern _bekommt_ sie! Er hätte 
+damit ein Netto (höher als sein Brutto) von 884 Euro und läge damit 
+immerhin mit 134 Euro über dem H4-Satz.
+
+
+ja, ja und abermals ja – genau so habe ich mir das gedacht. Zumindest 
+grundsätzlich, über die einzusetzenden Parameter kann an noch diskutieren.
+
+
+Zehn Euro Brutto im Monat? Kennst Du so eine Friseuse?
+
+Oder war das ein Tippfehler? Hast Du 10 Euro Stundenlohn gemeint? Dann 
+ist diese Freiseuse gar nicht betroffen, denn bei einer typischen 
+Monatsleistung von 160 Stunden hätte sie 1600 Euro Brutto. Ihr 
+versteuerbares Einkommen betrüge 600 Euro, und darauf würde ich ihr in 
+dieser Klasse ca. 80 Euro Lohnsteuer abnehmen. Ihr verblieben 1720 Euro 
+netto (vor Abzug der Sozialabgaben) und wäre damit gar nicht bedürftig.
+
+Ich beginne allmählich an Deine Ernsthaftigkeit zu zweifeln!
+============================================================
+
+(Oder an Deinen Verstand?)
+
+
+Das mag so sein, denn die peinliche Prüfung der Bedürftrigkeit entfiele 
+ja. Aber die erste Frage ist: wie wird man superreich ohne ein 
+Supereinkommen? Und Supereinkommen ist was? Richtig, es ist 
+supereinkommensteuerpflichtig, will heißen, der krtiegt die 800 Euro 
+nicht, der zahlt!
+
+Okay, es gibt auch den Millionenerben, der es tatsächlich nicht nötig 
+hat zu arbeiten, der lebt aus den Zinserträgen, aus den Dividenden und 
+aus sonstigen Renditen. Aber Zinserträge, Dividenden und sonstige 
+Renditen sind was? Richtig, die sind Einkommen, also steuerpflichtig. 
+Auch der kriegt die 800 Euro nicht, auch der zahlt!
+
+So, dann haben wir als letztes noch den braven Arbeitsmann, der sich in 
+40 Jahren auf Maloche treu und redlich ein kleines Vermögen 
+zusammengespart hat, sagen wir mal, 50.000 Euro, und nun fünf Jahre vor 
+dem Erreichen des Rentenalters gefeuert wird. Ja, _dem_ würde ich ohne 
+jeden Skrupel die 800 Euro geben und ich würde nicht einen einzigen 
+Pfennig von seinen 50.000 Euro anrühren, denn *die* hat er sich wahrlich 
+verdient!
+
+
+Und geht in den Knast, nachdem man ihn im LACOCKTAIL beim Klauen erwischt hat 
+und er die Geldbuße nicht bezahlen kann!
+
+Kosten für den Staat: ca. 150 Euro jeden Tag.
+
+Nein, davon halte ich gar nichts!
+
+
+Nein, aber 50 Prozent spitzensteuerstaz bei einem steurpflichtigen 
+Einkommen ab 50.000 Euro/a, das täte mir gefallen. Und zwar 
+linear-progressiv, läßt sich sogar leicht ausrechnen.
+
+Bleiben wir mal in meinem Beispiel und versteuern wir mal einen 
+Facharbeiter mit einem Jahreseinkommen von 36.000 Euro.
+
+Freibetrag: 12.000 Euro, zu versteuern sind also 24.000 Euro. Bei diesen 
+glatten Zahlen muß man gar nicht viel rechnen, man sieht es sofort: der 
+Mann hätte einen Steuersatz von 24 Prozent aus 24.000 Euro gleich 5.760 
+Euro, oder 480 Euro im Monat.
+
+Effektiv (bezogen auf seine Gesamtbezüge) wären das 16 Prozent, wäre 
+also definitiv nicht zuviel.
+
+Es verblieben ihm 30.240 Euro im Jahr gleich 2.520 Euro im Monat, 
+allerdings vor Sozialabgaben.
+
+Die Formel als solche finde ich geil, über die darin eizusetzenden 
+Parameter darf noch gestritten werden.
+
+
+Ja, genau – und genau das ist Scheiße!
+
+
+Glück auf!
+Jacqueline Kuehhirt, Sassenreuth/de
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://rkq.cgjmh-xpnhrd.iu

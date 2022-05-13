@@ -1,0 +1,16 @@
+Hallo,
+
+Am 13.11.2010 21:12, schrieb Björn Nodorft:
+
+...[...]...
+
+
+Ich würde das nicht an Windoofs aufhängen wollen. Das gleiche
+Problem kann auch bei anderen OS auftauchen ... wenn bei der
+Softwareentwicklung geschlampt wurde. Viele Probleme basieren
+auf plattformübergreifende Dummheit und sind definitiv keine
+Frage des OS.
+
+MfG
+
+Luis Ingenthron

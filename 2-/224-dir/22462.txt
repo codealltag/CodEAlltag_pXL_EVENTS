@@ -1,0 +1,15 @@
+Reiner schrub am Saturday, 27. 11. 22 17:45:
+[kaputte Postings und funktionierende Newsreader]
+
+*grins*
+
+
+Ja, UTF-8 ist halt bei Betriebssystemen der Unix-Familie Standard. Und ich 
+werde den Teufel tun, meine gesamte Installation auf einen anderen 
+Zeichensatz umzustellen, nur damit dieser KFK-Schrott richtig angezeigt wird. 
+Man kann ja VONBRUNN auch so einrichten, dass er korrekte Postings erzeugt, aber 
+das scheint einige Leute dann doch zu überfordern.
+-s
+-- 
+Ich würde nie einem Club beitreten, der mich als Mitglied
+akzeptiert. (Henning Brochwitz)

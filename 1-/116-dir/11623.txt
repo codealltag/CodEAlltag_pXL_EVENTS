@@ -1,0 +1,34 @@
+Antwort auf eine Nachricht von Volkmar
+
+
+Ja, – bzw., sie müssen so maskiert werden, daß sie mit ASCII-Zeichen
+darstellbar sind.
+
+Das sind zwei Beispiele für eine korrekte Subjektzeile:
+
+Subject: Re: Wahlempfehlung =?UTF-8?B?CwF1spSvl1FoIE21?=
+Subject: =?ISO-8859-1?Q?Re:_Wahlempfehlung_für_morgen:?=
+
+Und *DAS* hier:
+
+Subject: Re: Wahlempfehlung für morgen:
+
+ist Scheiße, ist so definitiv nicht zulässig!
+
+Und wer war’s?
+
+User-Agent: debatex/5.04.25
+
+Und _natürlich_ wieder einmal Windoof, ist ja klar, – alles andere wäre
+ja auch eine Überraschung gewesen.
+
+Und das hier ist noch eine Ausnahme, in 99 von 100 Fällen ist es ein
+OjE, der diesen Mist fabriziert.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⍾⍾⍾ Ceterum censeo Jautz esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.inwxi-icpslp.xt

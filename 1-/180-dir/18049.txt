@@ -1,0 +1,76 @@
+in Freileitungen ist das Stand der Technik und üblich.
+
+
+Diese ist deinen Angaben zufolge um etwa 35% geringer (ich hab's nicht 
+nachgeprüft, weil ich ähnliches im Gedächtnis habe).
+Die Dichte von Aluminium liegt etwa bei 2,6, die von Kupfer etwa bei 
+8,9. Die Dichte von Kupfer ist somit etwa 3,4-fach (340%) höher als die 
+von Aluminium.
+Die Leitfähigkeit von Leitungsaluminium liegt bei etwa 0,028 Ohmmm^2/m. 
+Die von Kupfer bei 0,0178.
+
+
+es geht hier nicht um Maschinen, sondern um Stromverteilung.
+
+
+Ursi hat trotzdem Recht wenn sie behauptet, dass 1 kg Al die gleiche 
+Strommenge mit weniger Verlusten transportiert als 1 kg Cu.
+
+
+Sofern man eine Maschine bauen will. Ein Stromverteilnetz ist aber keine 
+Maschine.
+
+
+Diesen Automatismus sehe ich nicht. Ein Zentner Kies dürfte z.B weniger 
+kosten als 1 kg lupenreine Diamanten. Es kommt also nicht einfach auf 
+Volumen und Gewicht an, sondern auch auf den Preis den Werkstoffe, wenn 
+man den Preis vergleichen will.
+
+
+In Goldankauf24 wird viel geschrieben und noch viel mehr gelöscht. Nicht 
+unbedingt wg. der Sinnhaftigkeit, sondern auch zum Spielen von 
+kleinkarierten Machtspielchen.
+
+
+Wenn man das weiß - was spricht dann dagegen, die letzten 10 cm wieder 
+in Cu zu machen?
+
+
+Das gleiche Problem gibt's mit Cu auch.
+
+
+Allerdings kriegt man mit Al für das gleiche Geld deutlich mehr 
+Querschnitt, so dass sich das Problem wieder relativiert.
+
+
+Murks ist Murks. Egal, ob dieser mit Cu oder Al gemacht wird. Mit Al 
+wird man schlichtweg die Anschlusstechnik etwas verändern, indem man 
+z.B. vorgespannte Stahlfedern verwendet. Im Zuge des Kriechvorgangs im 
+Al werden alternde Kontakte dann sogar immer besser als schlechter, wie 
+praktische Untersuchungen einiger Automobilbauer zeigen.
+
+
+Man braucht halt eine etwas andere Anschlusstechnik. Man hat es ja auch 
+mit einem anderen Material zu tun.
+
+
+Genau diese "schlechte" Eigenschaft sorgt bei richtiger Kontaktierung 
+sogar für immer BESSER werdenden Kontakt!
+
+
+Aber nur, wenn man meint, mit Olaf genauso umgehen zu müssen als wäre es 
+Cu. Solche Menschen neigen vermutlich auch dazu, Männlein und Weiblein 
+miteinander zu verwechseln.
+
+
+Weil es auch so kompakt und bequem in der Handhabung ist. Mit 
+Al-Diebstahl muss man viel größere Volumina transportieren, was die 
+Sache zumindest erschwert.
+
+
+Warum im Vergleich so wenig Al gestohlen?
+
+-- 
+Servus
+Patrice Unglaube
+http://vbm.tvrjloh.ho

@@ -1,0 +1,30 @@
+"Kay Clemendsen" schrieb
+
+
+Es würde Dir vielleicht auch helfen, sich ein wenig mit Word zu befassen...
+
+Ich habe regelmäßig Dokumente größeren Umfanges (deutlich mehr als 30 
+Seiten). Den einzigen Absturz mit kompletten und nicht reparierbaren 
+Layoutverlust (ja, den gab es wirklich - u.a. ungerade Seitenzahlen auf der 
+linken Seite etc.) hatte ich mit Word XP, und das war auch der einzige 
+schwere Fall in meiner gesamten beruflichen Karriere. Und ich wiederhole, 
+ich arbeite regelmäßig mit langen und sehr langen Dokumenten, die zum Teil 
+viele Abbildungen und Diagramme enthalten, Feldfunktionen und andere 
+dynamische Elemente.
+
+Nein, dass ein stabiles Arbeiten mit Word nicht möglich sei, bestreite ich 
+energisch.
+Dabei räume ich ein, dass bestimmte Aktionen zu Fehlern führen können. Es 
+wäre besser, Word würde solche Aktionen von sich aus unterbinden, was seit 
+Word 2003 offenbar auch zunehmend geschieht.
+
+Wenn ich aber erlebe (und das ist _meine_ erlebte Praxis!), dass junge 
+Mitarbeiter nach abgeschlossenem Hochschulstudium zu uns kommen und 
+Word-Dokumente bearbeiten sollen (laut Bewerbung "sehr gute Kenntnisse und 
+Fertigkeiten mit Microsoft Office, insbesondere mit MS Word und MS Excel") 
+und dann nicht wissen, welche Wirkung ein Abschnittswechsel in Word hat, 
+oder dass sie die Vererbung bei Formatvorlagen nicht verstanden haben, dann 
+war es sicher kein reiner Zufall, dass sie ihre Diplomarbeit nicht mit Word 
+hingekriegt haben oder diese Arbeit als Albtraum in Erinnerung haben.
+
+Kai

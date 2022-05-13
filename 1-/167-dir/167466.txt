@@ -1,0 +1,38 @@
+Die bekannten technischen Daten des Loremo
+werden auf diese auf etwa 7 kWh /100 km gerechnet.
+
+Ist einfach viel leichter und aerodynamischder als ein Kleinwagen
+
+Du kannst auch selbst rechnen
+
+http://ihez.udnm.uvw/0034-exstlqtptwht/rcqncyg.mcx
+
+Daten für den Rechner
+Gewicht 550 kg
+Rollwiederstand 0,008
+Frontfläche 1,1
+cw= 0,2
+
+Der Rechner ist mit den Daten von meinen Eichenkrug Alhambra bestückt.
+
+Für die eingestellte Teststrecke "städtisches Umfeld"
+sind 11 kWh / 100 km.
+Das ist der Bedarf am Antriebsrad.
+Bei einem Wirkungsgrad von 80% würden daraus
+13,75 kWh /100 km (ist ja auch eine recht gemütliche Fahrt )
+
+Bei dieser Teststrecke kämen beim Loremo
+2,6 kWh/100 raus, 80% Wirkungsgrad
+würden 3,2 kWh ergeben und damit sogar
+günstiger als mein Elektromoped sein.
+
+Also sind 7 kWh / 100 schon für eine flotte
+Fahrweise geeignet, am besten im Rechner ausprobieren.
+
+
+-- 
+Francisco Maß
+http://tpwsept.uubn.vmj Steuerreform pro Mensch
+http://phyefkat.ghzt.qqu mobile Computing
+http://ehcq.oirl.xss Auto und Verkehr
+http://fmykgd.pfev.nzj Bauen und Wohnen

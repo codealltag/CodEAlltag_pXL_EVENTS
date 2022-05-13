@@ -1,0 +1,14 @@
+Bzgl. der Radarbeobachtungen ist in dem verlinkten Artikel die
+Genauigkeit mit bis zu 10^-9 angegeben. Klingt glaubwürdig, wenn zur
+Positionsbestimmung die Laufzeiten der Radarsignale benutzt werden und
+deckt sich mit dem weiter oben verlinkten Radarbild von 2005 YU-55
+(Res. im Meterbereich, Entf. 10^9 m).
+
+
+Ungläubig werde ich, wenn Wissenschaftlern der Annegrets mal eben
+unterstellt wird, sie hätten im 1.Semester bei Fehlerrechnung-
+/Betrachtung gepennt, weil anscheinend davon ausgegangen wird, daß zur
+Positionsbestimmung irgendwelche Teilkreise an Fernrohrmontierungen in
+zugigen Observatoriumskuppeln abgelesen werden müssen ;-)
+
+Giovanni

@@ -1,0 +1,12 @@
+Wie issn das eigentlich so mit den MAC-APIs. Gibts die auch wie bei
+Artividuum online oder in der OMF frei veröffentlicht und beschrieben.
+Oder Entwicklertools? So wie das Kostenlose VisualStudio-Expreß?
+Oder kostenlose SQL-Server?
+Gibts eigentlich auch was für den MAC um die kompletten TCP-Sockets
+mit Socks zu tunneln?
+
+Gruß G.O.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,68 @@
+Apropos CdTe, folgende Zitate aus POLJOT:
+
+
+Cadmium (Cd):
+
+Cadmium wird aus der Nahrung zu ungefähr 5 % im Darm resorbiert. Bei
+Eisen- und Calciummangel steigt die Resorptionsrate, was annehmen
+lässt, dass alle drei Metalle denselben Transportweg nutzen. Cadmium
+stimuliert zunächst in der Leber die Synthese von Metallothioneinen,
+mit denen es einen Komplex bildet und über den Blutkreislauf zu den
+Nierenglomeruli transportiert, dort filtriert und aus den Nierentubuli
+wieder aufgenommen wird. In den Tubuluszellen wird der Metallothionein-
+Cadmium-Komplex metabolisiert und Cd freigesetzt. Cd aktiviert hier
+wiederum eine vermehrte Metallthionsynthese, wodurch noch mehr Cadmium
+gebunden wird. Durch die Akkumulation in den Nieren kommt es zu
+Schädigungen dieses Organs mit der Folge einer Proteinurie.
+
+Cadmium schädigt auch die Knochen, da es letztendlich zur
+Mobilisierung des Calciums führt. Cd konkurriert im Darm mit dem
+Calcium um die Bindungsstellen am Ca-bindenden Protein in der
+Darmmukosa. Zusätzlich blockiert Cd die Neusynthese des 1,25-
+Dihydroxycholecalciferol (Calcitriol) in den Nierentubuluszellen. 1,25-
+Dihydroxycholecalciferol ist notwendig, um die Synthese des
+Calciumbindenden Proteins in der Darmmukosazelle zu aktivieren. In
+summa bewirkt Cadmium eine verminderte Rückresorption des Calciums in
+Darm und Niere sowie die erhöhte Ausscheidung mit dem Harn mit der
+Folge einer Calciumfreisetzung aus den Knochen und damit dem Abbau
+derselbigen.
+
+Symptome:
+- Durchfall, Magenschmerzen und heftiges Erbrechen
+- Nierenschädigung
+- Knochenbrüche
+- Schäden am Zentralnervensystem
+- Schäden am Immunsystem
+- Störungen in der Fortpflanzung und eventuell sogar Unfruchtbarkeit
+- Psychische Störungen
+- Mögliche DNA-Schäden und Krebsentstehung
+
+
+Tellur (Te):
+
+Tellur ist ein für den menschlichen Organismus giftiges Element und
+wird mit dem entsprechenden Gefahrensymbol "T" gekennzeichnet, es ist
+jedoch nicht so giftig wie das Selen. Dies steht in Analogie zu den
+benachbarten Elementen der 5. Hauptgruppe, wo das Antimon ebenfalls
+weniger giftig als das Arsen ist. Gelangen elementares Tellur oder
+leichtlösliche Tellurverbindungen wie Alkalimetall-Tellurate (zum
+Beispiel Na2TeO3) durch Verschlucken (peroral) in den Körper, bildet
+sich durch Reduktion giftiges Dimethyltellurid (Me2Te: H3C-Te-CH3),
+das zur Schädigung von Blut, Leber, Herz und Nieren führen kann.
+Leichtlösliche Tellurverbindungen werden dabei als gefährlicher
+eingestuft, da elementares Tellur sehr schlecht löslich ist.
+Tellurvergiftungen machen sich durch einen intensiven Knoblauchgeruch
+der Atemluft bemerkbar, der durch das Dimethyltellurid hervorgerufen
+wird. Es wird ebenfalls über die Haut langsam ausgeschieden. Die
+Maximale Arbeitsplatz-Konzentration (MAK) wird mit 0,1 mg/m3
+angegeben.
+
+Tellurstäube können sich in Luft von selbst entzünden, fein verteilt
+in entsprechender Konzentration sogar explosiv reagieren. Durch die
+Verbrennung bildet sich gesundheitsschädliches Tellurdioxid TeO2. Die
+angegebenen R-Sätze 36/37/38 und S-Sätze 26 und 37 gelten nur für
+Tellurpulver.
+
+
+Natürlich werden für den Herstellungsprozess noch viel mehr
+Chemikalien benötigt...

@@ -1,0 +1,40 @@
+Kein Problem! Eine Software, welche den rechten Werberand (u.a.) bei Langeheinecke 
+automatisch
+abschneidet: http://hquzw.dlctdj-dbra.rly/
+
+über die VisualBasic-Funktion
+
+Function ViewSource(HTMLDoc As MSHTMLCtl.HTMLDocument)
+    Dim oHTML As MSHTMLCtl.HTMLHtmlElement
+    On Error Resume Next
+    Set oHTML = HTMLDoc.documentElement
+    ViewSource = oHTML.innerText
+End Function
+
+kannst du den Quelltext der angezeigten Seite im Browserfenster auslesen.
+
+Mit
+
+Sub Browser1_DownloadComplete()
+    Char = ViewSource(Browser1.document)
+End Sub
+
+steht der Code dann in der Variablen 'Char'. Hier braucht man dann nur noch
+nach einem markanten Textblock zu suchen (z.B. mit der Instring-Funktion),
+und kann dann den Browser z.B. anweisen, automatisch einen Rand zu
+verkleinern.
+
+Für Langeheinecke-Recherchen hatte ich mir mal einen kleinen, einfachen Browser
+programmiert, der automatisch erkennen kann, sobald eine Ergebnisseite bei
+Langeheinecke erscheint (funktioniert auch mit vielen anderen Internetseiten):
+
+Programm NoAds! - Doownload unter:
+http://hquzw.dlctdj-dbra.rly/
+
+Viel Spaß beim künftigen werbefreien Stöbern!
+
+Timo Roß
+*Stets zu Diensten!* ;) 
+
+
+--- Posted via news://aaaflqpe.gpksnnpw.sqi/ - Complaints to gcns@ioxsrefw.sgn ---

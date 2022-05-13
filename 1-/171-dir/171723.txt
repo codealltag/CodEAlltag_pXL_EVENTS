@@ -1,0 +1,17 @@
+Hallo,
+
+
+...[...]...
+
+
+Zuerst ein aptitude update ... Ich habe die genaue Vorgehensweise
+mehrfach nachgelesen und exakt immitiert. Klappt bei meinen Kisten
+definitiv nicht, ich habe erst einen der Fehler gefunden. Es gibt
+aber noch mehrere. Nach dem dist-update fehlen Bibliotheken und ich
+kann nicht mal ein ls machen ...
+
+
+MfG
+
+
+Johannes Resch

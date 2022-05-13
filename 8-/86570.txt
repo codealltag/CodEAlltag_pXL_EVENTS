@@ -1,0 +1,8 @@
+Mißverständlich zitiert bzw. unkomplett gelöscht. Vor dem
+"Kaspar Zschippig ..." steht immerhin ein > als Kennzeichnung eines
+Quotes. Warum allerdings keine auf Habakuk verweisende Zeile von Paradocs
+erzeugt wurde, liegt in den Tiefen des Codes von Paradocs verborgen. (Der  
+Fehler ist reproduzierbar.)
+
+MfG
+        Maik

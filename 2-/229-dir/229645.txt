@@ -1,0 +1,16 @@
+Aber wie kommt der auf 65E107%
+
+Ich komm hier auf:
+
+10^ ((365*24/24,7)*log10(2)+2) %
+
+
+also:
+
+57,816945291698386089744725246942 E107 %
+
+
+Gruß J.F.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,16 @@
+Dein Eipper macht doch alles richtig, er deklariert den verwendeten 
+Zeichensatz, welcher das nun ist, ist im Grunde egal. Und wie ein kurzer 
+Blick in Deinen Header zeigt, verwendete er UTF-8. Beweis: Content-Type: 
+text/plain; charset=utf-8
+
+Europäisch ISO ist aber wirklich nicht unbedingt das Gelbe vom Ei, wenn 
+schon nicht UTF-8, dann doch wenigstens Westlich ISO-8859-1, oder noch 
+besser 8859-15.
+
+Carola
+
+-- 
+Glauben: http://hog.uivlgdfmh.hn/vztlo.xdl?zhcmjfzkr=0&gsw=bhekm
+Monsterunser: http://prz.iudmtkxxd.sd/mprom.goa?hpnpqirrm=7&fyo=njkjia
+"Wünsche": http://uzg.bkenoirft.ae/unbit.cha?bylyzshre=6&fxu=mgpdfajb
+SEIN Volk: http://qta.nyjjxcrxc.ka/izted.azg?togbqrykt=8&qmo=iwfzzzh

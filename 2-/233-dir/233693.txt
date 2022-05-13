@@ -1,0 +1,19 @@
+mach's! :-) Demnächst baut dann wieder jemand den richtigen Wert ein ...
+
+
+Zitat von dieser Seite:
+"Kosten- und energieoptimal sind 2-stufige Stirnradgetriebe. Mit diesen
+lassen sich Untersetzungen etwa im Bereich 5 bis 60 abdecken. Der
+Wirkungsgrad dieser Getriebe ist weitgehend gleich und liegt bei 95 bis
+97 Prozent."
+
+Im PKW-Schaltgertiebe hast Du es mit 2-stufigen Stirnradgetrieben zu
+tun. Die 95-97% gelten dann aber auch nur unter optimalen Bedingungen
+für ein Neuteil. Unter realen Einsatzbedingungen wirst Du darunter
+liegen; ich würde die 95% als oberen Marker vermuten.
+
+
+Dem glaub' ich einfach mal nicht ;-)
+
+Gruß
+	Darius

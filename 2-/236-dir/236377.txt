@@ -1,0 +1,3 @@
+Nein. Wenn man fragt, welchen Anteil der Lohn am Produkt
+hat, nimmt man dafür die Größe Lohn / Produkt, und dieses
+Ding heißt Lohnquote.

@@ -1,0 +1,23 @@
+Was du nicht sagst.
+
+
+Aber die Nordkoreaner stellen dem Empl die Logs ihrer Kipo-Werbserver zur
+Verfügung, wenn ich deine frühere Aussage
+
+"Wie kommst Du darauf? Wo sind seriöse Quellen die dies bestätigen? Die
+IP Adresse alleine dürfte für eine Verurteilung bei weitem nicht
+ausreichen. Hinzukommen müssten aussagekräftige Proxyprotokolle oder
+Logs auf den Webservern. Anhand dieser Informationen lässt sich
+eindeutig feststellen ob jemand versehentlich auf eine Seite gelangt ist
+oder gezielt danach gesucht hat."
+
+richtig verstehe. Ja, das hört sich alles mal wieder sehr überzeugend an. 
+
+
+Didier
+-- 
+How lucky we are that SAPF introduced curly brackets! But it was no[t]
+he who introduced the silly distinction between a and {a} that enables
+so called mathematicians to build card houses on nothing.
+(Prof. Dr. C. Mewissen, mathematical mastermind of "Wörsdorf University Cucinotto
+KJO" , in sci.math)

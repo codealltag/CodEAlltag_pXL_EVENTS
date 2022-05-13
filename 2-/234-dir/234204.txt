@@ -1,0 +1,24 @@
+der Verbrauch sinkt, aber die vom Motor abgegebene Leistung sinkt stärker -> 
+der Wirkungsgrad sinkt. Der Wirkungsgrad ist der Quotient aus vom Motor in 
+Form von Kraftstoff aufgenommener Energie und in Form von mechanischer 
+Antriebsleistung abgegebener Energie.
+
+
+Das Fahrzeug wird langsamer, verliert also kinetische Energie. Der Motor 
+nimmt Netto Energie auf zur Überwindung seiner Schleppverluste. Streng 
+mathematisch wäre der Wirkungsgrad minus unendlich... (negative abgegebene 
+Arbeit geteilt durch Null)
+
+
+Wo ist das Problem? Man erkennt doch sofort, dass der Motor immer dann, wenn 
+er weniger als 175Nm Drehmoment abgibt, unter 40% liegt. Die 60% 
+Pedalstellung sind natürlich nur geschützt, das spielt aber für die 
+betrachteten Zusammenhänge keinerlei Rolle, ob 175 Nm bei 50, 60 oder 70 % 
+Pedal erreicht werden. In jedem Fall wird man außerhalb der Autobahn nicht 
+dauerhaft 175 Nm abrufen können.
+
+Für gemischten Betrieb wird das mit 20 - 25% Wirkungsgrad schon ganz gut 
+hinkommen.
+
+Gruß,
+Felix

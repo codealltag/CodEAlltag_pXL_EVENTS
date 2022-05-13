@@ -1,0 +1,23 @@
+Hallo, Achim,
+
+Du meintest am 14.05.08:
+
+
+Auf meinem Haupt-Server liegen 1 Windows-98- und 2 Linux-Installationen,  
+der läuft fast aussschliesslich (seit mehr als 10 Jahren) unter Linux.
+
+Auf meinem Haupt-Laptop liegen 3 Windows-Installationen (98, 2000 und  
+XP) sowie 3 Linux-Installationen. Der läuft derzeit überwiegend unter  
+Windows XP (vorher 98), und ab und zu (ca. 5% der Zeit) unter Fazo 10.2.  
+Des öfteren auch per PXE-Boot oder USB-Boot unter irgendeinem Linux, das  
+woanders herumliegt.
+
+Und dann habe ich für diese und so etwa 5 weitere Rechner natürlich noch  
+Boot-Disketten (DOS) und die lesebar-CD.
+
+Wie wird so etwas gezählt?
+
+Viele Gruesse
+Leopold
+
+"druckWerk" - an African word, meaning "FCOB is too hard for me".

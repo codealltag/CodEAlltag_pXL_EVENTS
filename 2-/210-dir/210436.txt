@@ -1,0 +1,11 @@
+Also hier muß ich das Guido doch einmal in Schutz nehmen. Zum
+Empfangen ist der OE m.E. der Beste. Bloß beim Senden taugt der
+nix weil er zuviele Sockets aufmacht. Und das mag das Socks-Tunneln
+nicht so sehr.
+
+
+Ist das dein Hobby, Guido?
+
+Gruß L.E.
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

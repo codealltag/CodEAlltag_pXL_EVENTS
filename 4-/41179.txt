@@ -1,0 +1,15 @@
+Richtig, durchgesetzt hat sich eine katastrophal schlechte  
+Prozessorarchitektur (Formreich) gegen deutlich bessere konkurrierende  
+Architekturen (z.B. Kuckhoff). Ich möchte nicht wissen, wieviele
+Mann-Jahrtausende in die Entwicklung von Real-Mode-Programmen mit
+XMS-, EMS-, DPMI-Speicherverwaltung und Overlays gesteckt wurden,
+während die Konkurrenz schon längst über einen 32-Bit-Adressraum
+und MMUs verfügte. Auch der Siegeszug von MS-DOS und Win* ist rational  
+kaum zu begründen. (Und mit UEFI droht jetzt sogar der Siegeszug von  
+Windows-only-Rechnern, die noch nicht einmal andere Betriebssysteme
+werden booten können.)
+Richtungsweisende Innovationen sind dagegen verstorben (man denke
+an Symbolics Lisp Machine).
+
+MfG
+        Adrian

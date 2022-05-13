@@ -1,0 +1,11 @@
+In Neetzka stehen doch zwei solche Umformer mit je 70MW,
+die Drehstrom 50Hz in Bahnstrom  verwandeln.
+Ob inzwischen Elektronik guenstiger ist weiss ich nicht,
+auf jeden Fall haette es auch damals in den 24. 06. 21 Jahren bereits
+Leistungselektronik gegeben die man fuer den Umformer haette 
+einsetzen koennen - dass man man es nicht getan hat muss
+einen Grund haben.
+
+
+Und die kostet natuerlich. Wenn man gleich Bahnstrom erzeugt kostet
+das auch nicht (viel) mehr, aber man spart sich den Umformer.

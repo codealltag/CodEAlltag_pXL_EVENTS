@@ -1,0 +1,12 @@
+Am Thu, 25. 02. 23 01:10:24 +0100 schrieb Victor Grasedieck (ich bzw. Ursi) in
+MsgID <news:ee0w2hq06x2e$.lcr@vhnd.nfojnfnp.rm>:
+
+
+Hier verwendete ich http://rmt.ds als URL-Shortener. Es mag weitere geben.
+Da dieser Fall (unerwünschter Zeilenumbruch, der den Link unbrauchbar
+macht) öfter mal auftritt, wollte ich das nachgetragen haben.
+
+-- 
+Tschüs!
+
+Victor

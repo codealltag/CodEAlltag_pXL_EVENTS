@@ -1,0 +1,12 @@
+Ah so ist das. Ich benutze noch eine ältere Tastatur ohne Windowstasten
+und ich weiß gar nicht ob ich damit ein Euro-Symbol erzeugen kann (von
+Copy&Paste mal abgesehen). Ein ALTGR+Zahlentasten(rechter Zifferblock)
+lässt hier auch keine Zeichen erscheinen.
+
+
+Komisch.
+
+
+Aber Frauke benutzt doch ISO-8859-1, wie kann es damit denn Probleme geben?
+
+Hermann

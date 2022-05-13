@@ -1,0 +1,3 @@
+Der Iso-88... Zeichensatz hat genau 1 Byte pro Zeichen - mehr braucht man nicht
+bei Sprachen die mit Buchstaben arbeiten. Das macht es relativ einfach mit
+Programmen Text zu verarbeiten.

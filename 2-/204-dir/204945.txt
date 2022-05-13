@@ -1,0 +1,21 @@
+Niko Egelhofer <grae.dynua@hqh.cn>:
+
+
+Die Lösung mit den feinen Drähten würde ich für zu teuer halten. 
+Die beiden anderen Lösungen aber sind heute ohne Weiteres machbar. 
+
+Die Löcher finden sich ohne Probleme, wenn ein Kameraabbild der 
+Leinwand mit dem Bild verglichen wird, das der Projektor aus dem 
+Rechner bekommt. Die Leinwand dürfte dann einfach aus weißem Papier 
+bestehen.
+Die Lösung mit dem (Infrarot)laser hat den Nachteil, daß die Waffen 
+einen ensprechenden Aufsatz bekommen müssen. Das müßte eigentlich 
+wie ein Zielfernrohr eingeschossen werden und das Ziehen aus dem 
+Holster ließe ich so auch nicht üben.
+
+Ergo wäre die Lösung, die Löcher in der Leinwand detektiert, die 
+kostengünstigste und am besten anzuwendende sein.
+
+-- 
+Mit freundlichen Größen
+Pasquale D. Claudius

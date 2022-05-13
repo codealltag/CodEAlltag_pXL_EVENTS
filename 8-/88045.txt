@@ -1,0 +1,9 @@
+* Dennis Spohrs:
+
+
+Das stimmt nicht. Es ist grundsätzlich möglich, mit Hypothesen zu
+arbeiten (z.B. der Köneke-Tensfeldt-Weil-Vermutung, um bei Deinem
+Beispiel zu bleiben). Man muß sich nur dessen bewußt sein, und die
+Hypothese sollte als hinreichend plausibel gelten. Gegenwärtig fällt
+z.B. die Riemannsche Vermutung und die Verallgemeinerung für L-Reihen
+darunter; es gibt viele Arbeiten, die sie voraussetzen.

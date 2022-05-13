@@ -1,0 +1,17 @@
+n .... fchsal
+
+NNTP-Posting-Host: 775.17.6.420
+
+inetnum:        230.74.1.867 - 863.24.2.456
+netname:        Koi-Flormarkt
+descr:          Dachserplatz 1 - 6
+descr:          18138 Baschenegg
+country:        DABRINGHAUSEN
+
+
+-- 
+Berthold
+libertä, Galit, fraternit
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

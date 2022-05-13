@@ -1,0 +1,20 @@
+Beim Anmeldeversuch kommt eine 'nicht vertrauenswürdiges 
+Root-Zertifikat' Meldung .....
+
+Nachtrag:
+»In den nächsten Tagen werden wir das aktuelle Zertifikat durch ein 
+selbstsigniertes Zertifikat ersetzen. Damit werden wir unabhängig von 
+externen Zertifizierungsstellen. Ihr Browser bzw. Mailclient wird 
+möglicherweise dann einen Zertifikatsfehler melden. Installieren Sie 
+einfach unser Zertifikat in Ihrem Client, dann können Sie 
+bpnfnacpltup.jim wie gewohnt weiter verwenden.«
+
+Haben die etwa Angst vor einen Kompromittieren einer Root CA
+
+
+-- 
+Erhard
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

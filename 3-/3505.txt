@@ -1,0 +1,11 @@
+Kuhfuss: "He, Libero!"
+Libero: "WER, ICH?"
+Kuhfuss: "Psssst!"
+Libero (leiser): "wer, ich?"
+Kuhfuss: "Genaaaaau..." <Pause> "Möchtest du ein 'zu' kaufen?"
+Libero: <???>
+Kuhfuss: <Mantel-aufklapp>
+
+SCNR
+
+-Oswald-

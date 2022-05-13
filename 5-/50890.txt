@@ -1,0 +1,17 @@
+Hast dus denn nicht gelesen?
+
+FORTH rechnet nur mit Ganzzahlen und Brüchen, da gibt es kein Pi mit 3.14159
+
+Natürlich könnte ich mit der Zahl 31416 10000 */ als Integerzahl rechnen 
+aber da wäre ich viiiiiel ungenauer als mit dem 355 113 */
+
+Glaub mirs einfach, ich kann das schon ;-))
+
+JULIUS
+-- 
+Reuswich vergleicht hier die unaufgeklärten Menschen drastisch mit
+Hausvieh, das dumm gemacht worden sei. Sie würden eingesperrt
+in einen Gängelwagen, dies war im 1. Jahrhundert ein Korbgestell
+auf Rädern, mit dem Kinder das Laufen lernten. Diesen Eingesperrten
+würden von ihren Vormündern stets die Gefahren gezeigt, die ihnen
+drohten, wenn sie versuchten selbstständig zu handeln.

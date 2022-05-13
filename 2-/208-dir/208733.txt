@@ -1,0 +1,11 @@
+["Followup-To:" nach as.zsd.cyf gesetzt.]
+
+Viel attraktiver wird es sein, zum Selbstschutz die Liste der
+ip-Adressen der Stoppschild-Server in den lokalen Paketfilter
+einzutragen, der Zugriffe darauf blockt.
+
+Evtl. eine Geschäftsidee?
+
+"Neu: Zeitlos Internet Security jetzt mit B�rgerfallenstop!
+ Zuverlässiger Schutz vor versehntlichem Landen auf Listen von
+ Kinderporno-Konsumenten"

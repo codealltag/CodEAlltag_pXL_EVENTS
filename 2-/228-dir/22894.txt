@@ -1,0 +1,6 @@
+Auch die Halbleiter und anderen Bauteile haben nur eine beschränkte
+ARBEITS-Lebensdauer und die wird bei Standby-Betrieb rund um die Uhr
+leicht überschritten. Dagegen ist der tägliche Ein- Aus- Betrieb
+unterm Strich effizienter. Weggeworfen werden elektronische Geräte
+aktuell wegen ihrer veralteten Technik oder ihrem Aussehen....nicht
+weil sie immer defekt wären.

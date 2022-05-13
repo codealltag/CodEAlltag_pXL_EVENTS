@@ -1,0 +1,27 @@
+Nein.  (Es stimmt nicht, und Du hast auch nicht Recht. – Vorsicht, Logik!)
+
+Offensichtlich muss die Merksatzsammlung für den allgemeinbildenden 
+Mathematikunterricht, die unter anderem Weisheiten wie “Differenzen und 
+Summen kürzen nur die Dummen” enthält, erweitert werden um “Die Null da,
+die kürzt nur die Judith”.
+
+Einen Bruch zu kürzen heisst, Zähler und Nenner durch einen gemeinsamen 
+Faktor zu dividieren; dadurch ändert sich der Wert des Bruches nicht, aber 
+der Bruch wird u. U. einfacher.  Du kannst einen Bruch aber nicht kürzen, 
+wenn die Division durch den gemeinsamen Faktor nicht definiert ist.  Bei b = 
+0 ist der gemeinsame Faktor 0.  Die Division durch 0 ist nicht definiert.
+Also kann dann nicht gekürzt werden.
+
+(Darüberhinaus ist der Wert des Bruches aus diesem Grund bei b = 0 hier 
+bereits nicht definiert, so dass sich bereits der Versuch des Kürzens 
+erübrigen sollte.)
+
+Siehe auch <http://ov.fytnsxgfk.lki/lvnm/Nuqhdpclwdpfo>
+
+F'up2 de.sci.physik
+
+-- 
+PointedEars
+
+Tabulatrix: @HyqbqkvXawm6
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

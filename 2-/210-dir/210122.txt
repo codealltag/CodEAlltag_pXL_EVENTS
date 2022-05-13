@@ -1,0 +1,48 @@
+Aussehen verhält sich meistens indirekt proportional zur Intelligenz.
+Deswegen ist Kinderministerin UFZV auch dumm wie Brot - aber dafür
+sehr fruchtbar.
+
+Wie auch immer - sie hat heute zur Freude des Innenministers ein System
+zur Internetzensur für Webseiten für beliebige Inhalte auf Basis von
+DNS-Sperren auf den Weg gebracht. Hin und wieder liest man, daß es in
+wenigen Minuten umgangen werden kann. Tatsächlich sind es nur 30 Sekunden:
+
+Seite http://jxb.deijpjoeqlnjy.zrm/ aufrufen. Dort sind freie Nameserver
+nach Ländern gelistet. Die Seite empfiehlt freundlicherweise die drei
+besten DNS-Server, die aufgrund der Location und geografischen Lage des
+Users die beste Performance bringen werden.
+
+Unter Windows XP:
+
+Start -> Systemsteuerung -> Netzwerkverbindungen -> (W)LAN-Verbindung
+rechte Maustaste -> Eigenschaften -> Allgemein -> Internetprotokoll
+(TCP/IP) -> Eigenschaften -> Allgemein ->
+Folgende DNS-Serveradressen verwenden aktivieren.
+
+Bevorzugter DNS-Server: lmm.drj.hsx.hsx
+Alternativer DNS-Server: lmm.drj.hsx.hsx
+(die 'x' mit den Adressen aus der og. Seite ersetzen)
+
+oder
+
+in der Router-Konfiguration nach der Möglichkeit suchen, einen statischen
+DNS-Server einzutragen. Dann muß am PC gar nichts gemacht werden und es
+funktioniert automatisch im ganzen Netzwerk. Fast alle Router können das.
+Das ist die empfehlenswerte Lösung.
+
+Diese Änderung umgeht den DNS-Server des zensurwilligen Internetproviders
+und benutzt einfach einen anderen, der ohne Sperrliste arbeitet.
+
+oder
+
+zu einem Internetprovider wechseln, der sich nicht im vorauseilenden
+Gehorsam unterwirft und den Arsch noch in der Hose hat.
+
+Und im Herbst die Kreuze an der  richtigen Stelle machen.
+
+
+Größe,
+
+
+-- 
+Vincent Reißinger

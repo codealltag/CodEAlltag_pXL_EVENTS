@@ -1,0 +1,16 @@
+Und das macht Dich dann zum Spezialisten, der die Produkte umfassend  
+beurteilen kann. Ein recht naiver Standpunkt.
+
+
+a) Es gab schon vor MS erschwingliche Produkte.
+b) MS hat das Internet im wahrsten Sinne des Wortes verschlafen, ist also
+   keineswegs der von Dir behauptete Heilsbringer. TCP/IP kam erst mit
+   Integration des BSD-Stacks, anschließend wurde Netscape
+   nachprogrammiert und mit Marktmacht erdrückt.
+c) Ich arbeite schon seit über 30 Jahren mit Non-MS-Betriebssystemen,
+   die wenigen (erzwungenen) Kontakte zu MS-Produkten waren eher
+   unerfreulich, wobei allerdings die Kombination erzwungen und ungewohnt
+   sicherlich keine positive Erwartungshaltung gefördert hat.
+
+MfG
+        Serge

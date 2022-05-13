@@ -1,0 +1,41 @@
+Und nennen wir mal die Farben, auf die diese drei Rezeptoren am 
+stärksten anspringen doch einfach mal "Grundfarben", so wie es doch alle 
+tun und jeder meint. Ich erkenne darin nichts schadhaftes. Der Experte 
+weiß: Nicht Grundfarbe im Sinne von "da is nicht mehr". Und die Laie 
+weiß: Damit kann er alles was er als Mensch sehen kann derart 
+"nachbauen", dass er es genauso sieht wie es einst war.
+
+Beide haben recht, aber das wusste man doch schon.
+
+PS: Mensch sieht kein Ultraviolett. Ich habe auch eine Schwarzlichtröhre 
+und sehe kein Licht von ihr, außer die Anteile die im sichtbaren liegen. 
+Ich sehe allerdings die Stellen, an denen die ultraviolette Strahlung 
+auf Materie trifft und (Stichwort fluoreszierende Materialien!). Diese 
+leuchten selbst, je nach Material (meist Neonfarbige Materialien, aber 
+auch alles andere leuchtet scheinbar wahllos - Staub leuchtet wie weißes 
+Licht!).
+
+Dass das Glas der UV-Röhre (oder Plastik) so Violett bei Tageslicht 
+erscheint, sollte nicht täuschen und zeigt nur was das Ding selbst 
+absorbiert (oder nicht).
+
+Zudem ist da noch die Tatsache dass bildaufnehmende Geräte so einiges 
+verfälschen (man denke an Infrarot auf der anderen Seite des sichtbaren 
+Spektrums!). Keiner sieht Infrarot, ein Blick in die Fernbedienung ist 
+ungefährlich (naja, solange man sie nicht zu tief...).
+
+ABER es gibt auch Materialien, welche beim Auftreffen von IR-Strahlung 
+bis über 1000nm ein anderswelliges Licht zurückgeben (reflektieren, 
+umsetzen, was auch immer - hier egal). Diese Dinger nennen sich 
+IR-sensor cards. Ist nur viel unüblicher als bei UV-reagierende 
+Materialen, daher sagt keiner: "das sieht jetzt nach Infrarotanteilen 
+aus..." ^^ !
+
+Doch der Gedanke mit den Zäpfchen als Antennen klingt auch interessant. 
+Kann man über die Polarisation etwas sagen? Sieht Menschenauge abhängig 
+von der Polarisation eine Lichtwelle anders (außer dass ein Bild 90° 
+gedreht im Kopf ankommen würde, wobei Mensch aber halbwegs in der Lage 
+ist, zu kompensieren).
+
+Grüße.
+VERENA

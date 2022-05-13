@@ -1,0 +1,34 @@
+"Oliver Schellhase" schrieb
+
+[..]
+Das ist bekannt und ausdiskutiert.
+Aber darum geht es nicht.
+
+
+Falsch, zugegeben - aber üblich. Und es schadet niemandem.
+Die Subjektzeile im Header ist ja nicht "kaputt", wie Du weismachen willst. 
+Sie entspricht nur nicht den Regeln, nach denen Florences Reader arbeitet.
+Nur bei Florence verschwindet der Betreff bei einer Antwort, dabei ist das noch 
+inkonsequent programmiert, denn lesen kann sie den Betreff ja. Nicht einmal 
+bei ihr entsteht ein Schaden.
+
+Anders ist das, was Florence macht. Bei _allen_ fehlt danach die Betreffzeile! 
+Sie bzw. der Reader macht nichts falsch? Hallo, man muss ausgesprochen 
+verblendeter MS-Hasser mit Tele-Tunnelblick sein, um im Killen einer 
+Betreffzeile nichts Falsches zu entdecken. Warum nimmt er die Zeile nicht so 
+wie sie ist und ersetzt die nichtkonformen Zeichen durch Sonderzeichen? Das 
+wäre eine Informationsveränderung, immerhin, aber keine 
+Informationsunterschlagung!
+Und ich könnte dem OP schreiben, was er an seinem OE einstellen muss, damit 
+Florence glücklich ist. Aber solange Florence Postings ohne Betreff abschickt, 
+sage ich klar, wer das Problem verursacht, das ist Florence. Falsch kodierte 
+Betreffzeilen sind falsch kodiert, aber kein Problem. Fehlende Betreffzeilen 
+sind ein Problem.
+Besonders schlimm: Florence weiß das und tut es trotzdem.
+
+Wolfgang
+
+
+Und
+
+Wolfgang

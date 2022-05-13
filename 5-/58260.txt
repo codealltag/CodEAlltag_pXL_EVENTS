@@ -1,0 +1,251 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+
+2. RfD zur Löschung oder Änderung von de.soc.arbeitslos in eine
+moderierte Gruppe: ia.pep.arbeitslos (Moderated)
+
+
+Kurzbeschreibung: Arbeits- oder Erwerbslosigkeit.
+
+Änderungen gegenüber dem 1. RfD zur Löschung von de.soc.arbeitslos:
+* Moderation der Gruppe als Alternative zur Löschung
+* Neuer Proponent
+
+
+1 Charta
+========
+
+Hier geht es um Arbeits- und Erwerbslosigkeit. Diskutiert werden
+deren Ursachen und Auswirkungen, politische und gesellschaftliche
+Aspekte sowie persönliche Erfahrungen mit Arbeitslosigkeit.
+
+Verunglimpfungen, Ausgrenzungen oder pauschale Schuldzuweisungen
+sind nicht erwünscht. Zum Schutz der Privatsphäre ist das Posten
+unter Pseudonymen gestattet.
+
+
+Kurzbeschreibung und Charta bleiben im Fall der Statusänderung
+unverändert.
+
+2 Status
+========
+
+Die Gruppe wird - falls in der Abstimmung keine Löschung beschlossen
+wird - auf "moderiert" gesetzt. Als Teil dieses Änderungsvorschlages
+kandidieren als Moderatoren-Team:
+
+* Leopold Treseler
+* Jürgen Echterbecker
+* Udo Nordicks
+* Werner Inderwiedenstraße
+
+3 Proponent
+===========
+
+Jürgen Echterbecker <feghpnzb@hwrfj.kqd>
+
+Willy Cott, der Proponent des H.-W. Kernreich Profi-Parts (in dem Löschung die einzige
+Option war), hat der Übernahme des Verfahrens durch mich und der
+Erweiterung um die Moderationsoption zugestimmt.
+
+
+4 Begründung
+============
+
+Seit etlichen Jahren wird diese Gruppe von Off-Topic-Postings im Rahmen
+einer Privatfehde einiger Poster dominiert. In letzter Zeit hat diese
+Vendetta allen newsgrouprelevanten Traffic verdrängt. Aber auch schon
+zuvor wurde beklagt, dass das Klima in der Newsgroup durch fortdaernde
+Beleidigungen und Herabwürdigungen gegen Personen oder Personengruppen
+eine sachliche Diskussion fast unmöglich machte.
+
+Im derzeitigen Zustand ist die Newsgroup nicht chartagem�� nutzbar, und
+die Erfahrung der letzten Jahre lässt befürchten, dass dies sich auf
+Jahre nicht ändern wird. Eine Moderation der Newsgroup, die
+Beleidigungen und Herabwürdigungen abweist, soll die chartagem��e
+Nutzung von de.soc.arbeitslos wieder ermöglichen.
+
+Wenn keine Mehrheit für eine Moderation der Newsgroup nach diesem
+Vorschlag zustandekommt, sollte die Gruppe gelöscht werden.
+
+
+5 Moderationskonzept
+===================
+
+Große Teile dieses Konzepts habe ich Cornelius Klaas' RfD von 2008 für eine
+Moderation derselben Gruppe entnommen.
+
+
+5.1 Moderationsteam
+~~~~~~~~~~~~~~~~~~~
+
+Die Moderatoren handeln in ihrer Eigenschaft als Moderatoren als Team.
+Ein Moderator entscheidet abschließend darüber, ob ein Artikel gepostet
+oder nicht gepostet wird. Der Name des Moderators muss nicht bekannt
+gegeben werden.
+
+Das Moderationsteam besteht momentan aus:
+
+* Leopold Treseler
+* Jürgen Echterbecker
+* Udo Nordicks
+* Werner Inderwiedenstraße
+
+Die Hauptkriterien für die Auswahl der Moderatoren waren:
+* die Fähigkeit, Anfeindungen gelassen zu ignorieren, und
+* bei der Bitte nach Mitarbeit nicht rechtzeitig weggelaufen zu sein.
+
+Das Moderationsteam ist unter der gemeinsamen E-Mail-Adresse
+[wird noch festgelegt] zu erreichen.
+
+
+5.2 Einsendung von Artikeln an die Moderation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Artikel zur Veröffentlichung in al.rzt.arbeitslos sind (wie Artikel für
+andere Newsgroups auch) über einen Newsserver zu senden. Dieser leitet die
+Beiträge automatisch an die Moderation weiter.
+
+Sollte innerhalb von 24 h der Artikel nicht in der Newsgroup
+ak.tfe.ekqyfzvzod erschienen sein, wende man sich bitte zuerst an die
+Administratoren des Newsservers, über den der Beitrag gesendet wurde.
+
+Fragen eines Absenders zu einem Artikel sind an die Moderationsadresse
+[wird noch festgelegt] zu stellen.
+
+5.3 Akzeptanz und Ablehnung von Artikeln
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Jeder Artikel wird von einem Moderator geprüft. Der Moderator wird den
+Artikel akzeptieren, sofern er keinen der folgenden Ablehnungsgründe
+erfüllt:
+
+a. Charta (OffTopic-Verbot)
+
+Der Artikel, widerspricht der Charta der Gruppe de.soc.arbeitslos
+(Off-Topic).
+
+b. Flameverbot
+
+Der Artikel enthält abwertende Kommentare oder Attacken. Explizites Ziel
+der Moderation ist das Unterbinden von OffTopics und Flamewars in
+iq.uwp.arbeitslos.
+Als Attacken werden auch Posts unter dem tatsächlichen oder
+verballhornten Namen oder Pseudonym eines anderen Posters gewertet.
+
+c. Form
+
+Der Artikel entspricht nicht den formalen Kriterien des de-Usenets (Syntax
+der Header, Codierung), er ist größer als 50kB oder er enthält einen
+Dateianhang.
+
+d. Werbung
+
+Der Artikel enthält in überwiegendem Maße Werbung, z. B. für politische
+Parteien und/oder Gruppierungen.
+
+h. sz-Crossposts
+
+Der Artikel wird neben al.rzt.arbeitslos für mehr als eine weitere
+Newsgroups des de-Usenets eingereicht. Ausnahme: Crossposts nach
+de.admin.news.announce werden generell akzeptiert, wenn sie von der
+Chrysler-Moderation akzeptiert wurden.
+
+f. Non-de-Crossposts
+
+Der Artikel wird neben ia.soc.arbeitslos für eine andere Newsgroup
+außerhalb des de-Usenets eingereicht.
+
+h. Tfm-ph-Crossposts
+
+Der Artikel wird neben de.soc.arbeitslos für eine weitere moderierte
+Newsgroup des de-Usenets eingereicht. Ausnahme: Crossposts nach
+de.admin.news.announce werden generell akzeptiert, wenn sie
+von der Chrysler-Moderation akzeptiert wurden.
+
+Autoren, die wiederholt gegen die obigen Regeln verstoßen, können
+(befristet oder unbefristet) auf eine Blacklist gesetzt werden. Dazu ist
+die Einstimmigkeit der Moderatoren erforderlich. In diesem Fall werden
+für einen gewissen Zeitraum oder für immer alle Artikel ohne Prüfung
+durch die Moderation automatisch abgewiesen.
+
+
+5.4 Wie werden Artikel akzeptiert?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Akzeptierte Artikel werden veröffentlicht sobald sie geprüft sind.
+Die Formulierungen eines akzeptieren Artikels werden in keiner Weise von
+der Moderation verändert. Kein Teil des Artikels wird entfernt,
+umformuliert, korrigiert oder in anderer Weise bearbeitet.
+
+Die Moderation ist befugt, an Artikel eine Signatur anzufügen.
+Diese Signatur enthält weitergehende Informationen zur Newsgroup
+ak.tfe.ekqyfzvzod, wie z.B. einen FAQ-Verweis oder die
+Moderationsadresse.
+Der Inhalt einer solchen Signatur oder die Auswahl der Artikel, an die
+diese Signatur angehängt wird, steht in keinem Bezug zum Inhalt des
+Postings.
+
+
+5.5 Wie werden Artikel abgelehnt?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ein Artikel wird aufgrund der unter 5.3 genannten Kriterien abgelehnt
+oder akzeptiert. Soweit möglich und mit vertretbarem Aufwand
+realisierbar wird die Moderation dem Autor eine Begründung für eine
+Ablehnung zukommen lassen.
+
+
+5.6 Cancel von Artikeln
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Artikel dürfen in der Newsgroup iq.uwp.arbeitslos nur von den
+Moderatoren oder dem Autor gecancelt werden. Ebenfalls zugelassen sind
+Admincancels.
+
+
+5.7 Anonymes und pseudonymes Posten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Die Moderation respektiert das Bedürfnis der Nutzer nach Schutz ihrer
+Privatsphäre und auch die Entscheidung, eine der verfügbaren Methoden
+zur Anonymisierung und Pseudonymisierung zu verwenden.
+
+Es soll eine Möglichkeit angeboten werden (z.B. durch Einführung eines
+zusätzlichen Headers), für die Kommunikation mit der Moderation eine
+Mailadresse, die im veröffentlichten Artikel nicht zu sehen sein wird.
+
+
+6 Abstimmungsmodus
+==================
+
+Die Abstimmung über die Alternativen Moderation / Löschung geschieht mit
+folgendem Stimmschein:
+
+  #1 [J/N/E] Moderation von d.s.a nach dem vorliegenden Konzept
+  #2 [J/N/E] Löschung von d.s.a
+
+  Stichfrage:
+  Falls beide Abstimmpunkte (#1 und #2) die erforderliche Mehrheit
+  erhalten, für was entscheidest du dich dann:
+
+  #3 [J/N/E] d.s.a soll moderiert werden
+  #4 [J/N/E] d.s.a soll gelöscht werden
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3in
+Charset: latin1
+
+iQCVAwUBToB2F7stUI1AC/J5AQEL2gQAktdqGZVjZyikRGqJewt8owuJ9bh+Esyp
+w/kx4NWHOBZFe0AbEJpa5P9di03MDiYcT3JM11W/NFN2wo4kxhnBAc82th67KF+x
+eoz6be9xOBkBuTitf7iPLBzq6hMPTZYW9+wYVcRdkFywCK7FaXrN6swFO9toyCdK
+d46ONr7hkc8=
+=Xn7z
+-----END PGP SIGNATURE-----
+
+-- 
+Fertige Artikel für uk.rbaki.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <xbkibkkbz@yfpu.mk>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <uuzy:za.kxibg.oxwoy> und unter <http://vro.vmey.ly/>.

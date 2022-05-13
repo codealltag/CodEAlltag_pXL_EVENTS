@@ -1,0 +1,9 @@
+Plausibilitätskontrolle:
+
+Rentner mit 2499 Euro bekommt 14*2499 + 400 + 200 + 200 = 35786
+Rentner mit 2501 Euro bekomm  12*2501                   = 30012
+
+Welches Verfassungsgericht würde so etwas durchgehen lassen?
+
+MfG
+        Valerio

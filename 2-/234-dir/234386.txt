@@ -1,0 +1,7 @@
+Links oder genauere technische Informationen habe ich zwar auch nicht,
+möchte aber zu bedenken geben, daß Du hier die reinen
+Motor-Wirkungsgrade angibst. Getriebe-/ Wandlerverluste sind darin nicht
+berücksichtigt, und die gibt es beim E-Motor nicht.
+
+Gruß
+	Kaspar

@@ -1,0 +1,34 @@
+Hi,
+
+Ich sag mal, man darf das nicht dogmatisch sehen.
+
+Meine ersten computergestützten Bewerbungen in den siebziger Jahren des letzten
+Jahrhunderts erfolgten auf einem Florek mit einem englischen
+Textverarbeitungsprogramm, dem man deutsche Sonderzeichen etwas
+eigenwillig beibringen musste. Dafür spielte es über die Pfund-Taste
+"Land of hope and glory" von Horlebein :). Der Ausdruck erfolgte dann
+auf einem 9x9 Nadeldrucker.
+
+Bei der Firma, die mich dann eingestellt hat, habe ich dann später
+mal bei der Perso-Abteilung nachgeforscht, bei der Sachbearbeiterin
+(IVM-Kollegin), die das bearbeitet hat.
+
+Und da war die Bewerbung gut angekommen, gerade weil sie etwas
+"technisch" aussah, im übrigen ordentlich und frei von Rechtschreib-,
+Stil- oder Grammatikfehlern war. Es muss also nicht perfekt sein,
+und vermutlich würde Wordpad genauso reichen wie Works oder sonst
+ein Kram.
+
+Nur: Latex bringt gutes Typesetting, ohne dass Du überhaupt verstehen
+musst, was Typesetting ist. Mit Word & Co kannst Du setzerische
+Katastrophen verursachen ohne Ende, und 90% der Verursacher
+begreifen das nicht und sehen es nicht mal ein, wenn man es
+ihnen sagt. In Personalabteilungen kann das aber gegebenenfalls
+ein Grund für den Papierkorb sein. Der Punkt ist: Mit LateX
+passiert Dir das garantiert nicht. Da stimmt das äussere.
+
+Bloss für eine Bewerbung ist LateX Overkill. Wenn Du mathematische
+Symbole und womöglich noch CJK-Zeichen brauchst, führt kein Weg
+daran vorbei.
+
+regards, es

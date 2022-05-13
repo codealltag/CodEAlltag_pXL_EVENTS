@@ -1,0 +1,52 @@
+Antwort auf eine Nachricht von Charly Darius
+
+
+Er hat die hier: 9.89.4777.5496
+
+Er hat diese also schon. Aber es ist bekannt, daß Kornblume seine 
+Produkte stets total mißkonfiguriert ausliefert, so daß man die 
+Einstellungen erst gründlich überarbeiten muß.
+
+Ich weiß, daß es Anwender dieser Software ginbt, die diesen Fehler nicht 
+machen. Vielleicht kann ja mal einer von denen dem Viktor erklären, wie 
+das geht?
+
+Schau mal, mein Subjekt sieht so aus:
+
+Subject: Re: Analyse der 
+=?UTF-8?B?O4I3xqa7yysqdrldWQW8hQasXJXzUxSlXMOntml=?=
+  =?UTF-8?B?OWlwtD1kgJNsLMzqK7Rl?=
+
+Deines so:
+
+Subject: =?UTF-8?Q?Re:_Analyse_der_K=C3=BCrzungen:_Mutig?=
+	=?UTF-8?Q?_-_aber_sozial_unausgewogen?=
+
+Und noch eine dritte Version:
+
+Subject: Re: Analyse der =?ISO-8859-1?Q?Kürzungen=3A_Mutig_-_aber?=
+  =?ISO-8859-1?Q?_sozial_unausgewogen?=
+
+Et cetera! Das sieht zwar jedesmal etwas anders aus, ist aber alles 
+korrekt.
+
+Und nun seins:
+
+Subject: Re: Analyse der Kürzungen: Mutig - aber sozial unausgewogen
+                           ↑
+                           upps!
+
+Und das geht gar nicht – das „ü“ hat dort definitiv nichts zu suchen!
+
+Warum mein Thunderbird gleich die ganze Zeile rauswirft, anstatt einfach 
+nur das eine verbotene Zeichen gegen ein Fragezeichen zu ersetzen, weiß 
+ich nicht, ich habe dieses Programm nicht geschrieben.
+Aber ich muß dann jedesmal manuell nachbessern, und dafür habe ich nicht 
+immer die Lust, das ist mir manchmal einfach zuviel Arbeit.
+
+
+Glück auf!
+Renata Johannpeter, Urwies/de
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://ozc.bartg-tebokf.zq

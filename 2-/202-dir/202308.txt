@@ -1,0 +1,18 @@
+In der Gesetzesvorlage ist überhaupt nicht festgelegt, in welcher Weise  
+Seiten gesperrt werden. Daher sollte man zumindest mittelfristig von einer  
+Deep packet inspection seitens der Provider ausgehen. Dagegen hilft kein
+alternativer DNS. Wenn man das wirklich konsequent macht, bekommt der  
+Kunde nur ein 'Deutschlandnetz' zu sehen.
+
+
+Diese DNS-Sperrung wird doch nur deshalb propagiert, weil sich dann ein  
+guter Teil der kritischen Leute auf die Position "Ich kann es ja umgehen"  
+zurückzieht. Wenn dann mit chinesischer Technik geblockt wird, ist das  
+Gesetz technikneutral längst durch.
+
+
+Das würde aber zumindest Rudimente eines Intellekts voraussetzen.
+Für "Die Hexe soll brennen" reicht deutlich weniger.
+
+MfG
+        Theodor

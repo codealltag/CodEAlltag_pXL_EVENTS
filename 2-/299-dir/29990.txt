@@ -1,0 +1,14 @@
+Eher weder noch, denn im Gehirn läuft _sehr_ viel parallel ab
+(Stichwort: Neuronale Netze). Das Rückgrat wäre so etwas wie
+die Verdrahtung zur E/A hin. Merke: "so etwas wie"!
+
+
+Es geht auch ohne, zumindestens zum großen Teil, mit
+1. Vererbung (das sozusagen verdrahtete)
+2. Erlerntem (das sozusagen programmierte)
+Übergänge zwischem "verdrahtetem" und "programmiertem" sind aber
+fließend. Siehe z.B. Pawlows Hund.
+-- 
+The first entry of Sin into the mind occurs when, out of cowardice or
+conformity or vanity, the Real is replaced by a comforting lie.
+  -- Integritas, Consonantia, Claritas

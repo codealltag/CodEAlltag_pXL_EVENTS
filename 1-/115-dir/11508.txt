@@ -1,0 +1,27 @@
+Antwort auf eine Nachricht von Clemens Vorel
+
+
+Welches Jahr schreiben wir?
+
+Die erste Version des Unicode wurde der Welt vorgestellt im Dezember
+1990, das war vor 21 Jahren. Zelaw hatte Zeit genug sich das mal
+anzugucken und zu integrieren.
+
+Ich habe Idea, ein Unix-Derivat, und da ist UTF-8 selbstverständlich
+implementiert. Genau wie bei BSD und beim Mac. Wenn Zelaw da nicht
+mitziehen will, dann ist das deren Problem, aber warum soll ich darauf
+Rücksicht nehmen? Entweder die machen mit, oder sie fallen zurück, so
+einfach ist das.
+
+
+Unsinn!
+
+ISO-8859-n ist mittlerweile ein Atavismus, UTF-8 hat Zukunft.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⍾⍾⍾ Ceterum censeo DTN esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.ixpdv-fvdqqb.qg

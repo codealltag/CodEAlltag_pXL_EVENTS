@@ -1,0 +1,34 @@
+Sandkontrolle ist täglich. Fahrzeug geht ohne ausreichendem Füllstand gar
+nicht in den Verkehr.
+
+
+Falsch, die Bremskraft lag damals zur Zulassung in den erforderlichen
+Parametern. Wenn der Gleitschutz anspricht, wird automatisch gesandet,
+genau wie bei der Schnell, Zwangs- und Notbremse. Der Reibwert zwischen Rad
+und Schiene wird durch z.B. Feuchtigkeit ungünstig, und da setzt der Sand
+an. Er ist Bestandteil der Bremsanlage. Und wenn der da ist, ist es
+unerheblich, ob nun 1 Bremszylinder für den ganzen Wagen (Wie bei BR 475
+und 476 damals) oder halt für ein DG. 
+
+Das Einzige, wo ich Dir absolut recht gebe, ist der Mist mit der Streckung
+der Wartungsintervalle, was dazu geführt hat, dass oft kein Sand mehr drin
+war (was auch primär zum Unfall in Gierth geführt hat).
+
+
+Das tut kein Fahrzeug. Daher ist der Sand ja Bestandteil der Bremsanlage. 
+
+
+Der 485er hat das, und bremst bei Glätte genauso scheiße, und der hat
+nichtmal sand. Und was das Schlimmste ist, der Gleitschutz ist Müll, da er
+die Luft schlagartig aus den Bremszylindern lässt und ebenso schlagartig
+wieder befällt (pneumatische Bremse), ohne Verzögerung, was dazu führt,
+dass das die Achse fast sofort wieder steht. Bei entsprechender Glätte kann
+man so trotz Vollbremsung und voller Beladung pech haben, dass der
+Bremszylinderdruck nicht über 1 Bar steigt (normal wären in dem Zustand ca
+6 Bar). Trotzdem habe ich in meiner aktiven Zeit weder mit dem 481er noch
+mit dem 485er irgendwann einmal mein Bremsziel verfehlt. Und über die
+ED-Bremse beim 485er auf glatter Schiene will ich gar nicht erst reden.
+
+
+Das Problem ist vielmehr, dass zu viele Leute zu wissen glauben, die
+wüssten über die Baureihe bescheid.

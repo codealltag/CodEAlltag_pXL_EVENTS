@@ -1,0 +1,9 @@
+["Followup-To:" nach yp.bok.ybcwmgi.wazk gesetzt.]
+
+Nur die Namensauflösung war betroffen. „Das Internet“ nicht. Das ist
+aber schon mal teilweise kaputtgeamcht worden, weil per BGP
+ip-Adressbereiche gekapert werden können.
+
+
+Nicht komplett. Das Usenet, in dem wir hier schreiben, auch nicht. Das
+braucht nicht einmal das Internet.

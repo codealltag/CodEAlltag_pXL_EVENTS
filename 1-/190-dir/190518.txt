@@ -1,0 +1,18 @@
+Ja, und es wird die Belastung des Motors durch die Vibrationen völlig
+vergessen.
+
+
+Die Wellen sind leicht und das Gewicht fällt nur zum Teil am Rad an.
+
+
+Auf das getrieb kann man möglicherweise verzichten, beim Differntial
+stellt sich die Frage ob mind. 2 E-Motoren sich im Gewicht deutlich
+von einem Motor mit Differntial unterscheidet.
+
+Der durch Vibrationen weniger belastete E-Motor könnte ausserdem
+einfacher sein, gegenüber einem Radnabenmotor.
+
+Wenn du die Wicklungen nicht sicher fixierst reiben sich die Drähte im
+Laufe der zum Kurzschluss durch.
+
+Stefano

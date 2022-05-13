@@ -1,0 +1,10 @@
+Jérôme Iller:
+
+
+Geh mal mit dem Mauszeiger auf die Eingabemaske mit einer Ortsangabe
+links oben, dann wird links unten die Bildaufnahmezeit angezeigt.
+Z.B. Betzingen: 2000, Wingersdorf, wesentlich interessanter: 2006.
+
+-- 
+Kasimir
+Footer sind doof

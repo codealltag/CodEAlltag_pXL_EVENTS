@@ -1,0 +1,16 @@
+Nö, tuts nicht. Du hast nämlich nicht beachtet, daß vor jeder LED immer 
+auch ein Schutzwiderstand vorgeschaltet wird, der den Strom begrenzt. 
+Den habe ich hier in diesem vereinfachten Schaltbild zwar weggelassen, 
+was aber nicht bedeutet, daß der auch in einer realen Schaltung fehlst.
+
+Ich sach doch, Du hast keine Ahnung. Du hast zwar hier und da ein paar 
+Fachbegriffe aufgelesen und auswendig gelernt, aber wie's geht, weißt Du 
+deswegen noch lange nicht.
+
+
+Glückauf!
+Ingeborg Clemendsen (Ziemendorf/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://pbj.cxfjy-hybozq.md

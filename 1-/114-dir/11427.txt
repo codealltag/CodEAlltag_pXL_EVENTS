@@ -1,0 +1,21 @@
+Tatsächlich kann man das _nicht_.  Dieses Rauskürzen ist nämlich nichts 
+anderes als Dividieren durch Null, womit du das, was du eigentlich erst 
+noch zeigen wolltest, in den vermeintlichen Beweis schon reingesteckt 
+hast.  Das nennt man Zirkelschluss, und es ist einer der typischen 
+Fallen, in die Leute tappen, die Mathematik betreiben wollen, aber 
+keinen Schimmer einer Ahnung davon haben, wie das geht.
+
+
+Und da die für diese Haltung circa unendlichfach bessere Gründe 
+vorzuweisen haben als du, wirst du uns schon gestatten müssen, dass wir 
+nicht ausgerechnet dir die Hoheit darüber zugestehen, zu beschließen, 
+was Mathematik ist und was nicht.
+
+
+Das _hat_ er gerade eben erst getan.  Du bist nur leider ganz offenbar 
+vollständig unfähig (oder unwillig, was auf's selbe rauskommt) ein 
+korrektes mathematisches Argument selbst dann zu erkennen, wenn es dir 
+mit Anlauf ins Auge springt.
+
+Das ist zwar nicht wirklich eine neue Erkenntnis, aber es bleibt dennoch 
+irgendwie schade.

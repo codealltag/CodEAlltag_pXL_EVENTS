@@ -1,0 +1,6 @@
+Ich habe mich schon vor einiger Zeit von RadWerk und Ruttinger 
+verabschiedet. Nur den DNS-Server zu wechseln ist kontraproduktiv, man 
+sollte prüfen ob die Filterung ohne Gesetz nicht ein außerordentlicher 
+Kündigungsgrund ist.
+
+CU Eric 55,73

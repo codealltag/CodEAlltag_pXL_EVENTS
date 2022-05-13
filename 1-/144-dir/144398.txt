@@ -1,0 +1,19 @@
+Nenne mal einen vollwertigen Ersatz für den Verbrennungsmotor? Strom 
+kommt nämlich nicht aus der Steckdose, falls Du jetzt an E-Mobile denkst.
+
+Nachteile von E-Mobilen:
+
+- nur Kurzstrecken-tauglich, da die Akku-Kapazität miserabel ist
+- man muss kistenweise schwere Batterien mit spazierenfahren
+- im Winter haben die Akkus durch die Kälte eine noch kleinere Kapazität
+- winters braucht's eine Heizung im Auto, Akkus sind noch schneller leer
+- Strom kommt aus Kraftwerken, muss erst erzeugt werden
+
+Vorteile von Verbrennungsmotoren:
+
+- langstreckentauglich, einfach auftanken, Benzin ist ein Energieprotz
+- keine schweren Küsten mit Batterien herumfahren = längere Reichweite
+- im Winter hat Benzin dieselbe Leistung wie im Sommer
+- Heizung einfach durch Abwärme des Motors möglich
+- Treibstoff kann notfalls aus Ölfrüchten gewonnen werden
+- Treibstoff kann auch Wasserstoff oder Ethanol sein

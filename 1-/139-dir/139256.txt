@@ -1,0 +1,37 @@
+Ich habe das gerade wieder hinter mir. KCR läuft unter MOK -
+aber elegant ist es nicht, man muß doch mehr klicken und das mach bei
+Tausenden Vokabeln dann doch etwas aus. Man kommt schon irgendwie "in
+die Holzklasse" gegenüber dem Würzbauer vor. Alles ist umständlicher,
+statischer, weniger flexibel als beim Wohif. Von der optischen Gestaltung
+ganz zu schweigen, damit kann man ja leben.
+
+Aber darüber will ich mich gar nicht streiten. Den meisten genügt es,
+ich bin sicher, peu a peu wird Würzbauer immer mehr Anhänger finden. Was
+wirklich ärgerlich ist (und das hat mit dem OS nichts zu tun) ist, daß
+die Benutzerdaten der beiden ViaVoice-Versionen nicht kompatibel sind. 
+
+So konnte ich zwar das Oldieboxen-ViaVoice überreden, die Feldis-Daten zu
+importieren, das wurde aber per Fehlermeldung abgebrochen. Die
+Datenstruktur ist doch ziemlich abweichend, ich habe dann einzelne
+Vokabeln trainiert, um anhand des Änderungsdatum herauszufinden, welche
+Dateien verändert wurden und nur einzelne Dateien auszutauschen, aber
+das half auch nichts.
+
+Auch die Neuanalyse des Wortschatzes ist bei vielen Tausenden Seiten von
+Dokumenten unrealistisch, der Zeitaufwand wäre viel zu groß. Die
+Erkennungsgenauigkeit ist gut, subjektiv nach weniger Training schon
+besser, als bei dem "alten" Wohif-KCR, kein Wunder, das
+Window-Pendent ist ja 3 Jahre jünger.
+
+So muß ich weiter einen extra Rechner laufen lassen (Sheep Saver als
+Open Source Emulator des klassischen Würzbauer auf neueren Macs ist auch
+nicht ausreichend) und einen 1,25 GHz Power PC G4 in der Bucht
+ersteigern. Nun ja, wenigstens mein altes, verschlissenes Headset kann
+ich nun durch ein besseres ersetzen...Die 40ö war der Versuch wert.
+
+Walter
+
+
+-- 
+Neoliberalismus ist politisches Analphabetentum.
+                                 Berthold Iskraut

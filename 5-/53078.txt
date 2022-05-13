@@ -1,0 +1,4 @@
+4. je nach temporären Standort bekommt jeder seine eigene
+positionsabhängige Uhr-Zeit quadratmeter genau angezeigt
+
+Viktor

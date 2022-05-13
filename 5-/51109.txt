@@ -1,0 +1,7 @@
+Okay, ich konnte meinen IE doch noch überreden, o.g. Link zu öffnen.
+Sieht aus, wie der numerisch generierte Output eines Bahnelement-
+rechners. Vielleicht wurde beim Input vergessen, irgend ein Häkchen zu
+setzen;-) Wie dem auch sei, da man die Fehlerabschätzung der ersten
+Tabelle entnehmen kann, finde ich das auch nicht weiter tragisch. 
+
+Gruß Nino

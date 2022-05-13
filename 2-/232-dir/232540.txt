@@ -1,0 +1,38 @@
+Siehste!? :-) Hat es also geklappt.
+
+
+War auch nur so ein Gedanke. Aber hast Du mal die andere Geschichte geprüft?
+
+SM erlaubt es eine Codepage vorzuwählen, mit der eingehende Nachrichten 
+gelesen werden sollen, diese ist hier in Westeuropa vernünftiger 
+ISO-8859-1 oder Windows-1252. ISO-8859-15 geht auch.
+
+Und genau dort wo Du *das* einstellst, sollte es noch ein kleiner 
+Klickbutton sein, mit dem Du auch andere Codepages zulassen oder 
+verbieten kannst. Mein Tip: Du mußt es zulassen, sonst bekommst Du genau 
+die Probleme die Du hast.
+
+
+Wie willst Du das feststellen? Du siehst es doch gar nicht, wenn Du 
+nicht extra nachguckst.
+
+Menüfolge: Otions ==> Character Encoding ==> (Codepage)
+
+Am Text selbst kannst Du das nicht sehen.
+
+
+Ja dann weiß ich es auch nicht. Ich jedenfalls habe diese Probleme 
+nicht. Aber versuche doch auch mal die zweite Möglichkeit. Offne mal das 
+Men und guck mal was da angezeigt wird (wo das Sternchen ist), wenn Du 
+wieder mal eine unlesbare Nachricht von mir siehst. Wenn diese *nicht* 
+auf UTF8 steht, ändere es manuell, das müßte helfen.
+
+*HIER* natürlich nicht, diese geht ebenfalls in ISO raus.
+
+
+Glückauf!
+Friederike Wernitz (Imgenbroich/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mut Du gucken: http://jqe.vaxsr-nktpsg.wi

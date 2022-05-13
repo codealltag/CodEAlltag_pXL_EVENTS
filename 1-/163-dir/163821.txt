@@ -1,0 +1,28 @@
+So geht es den meisten Leuten, das hat mit Hörerfahrung und
+Hörgewohnheiten zu tun und auch damit, daß meist auf ziemliche
+schlechten Abhörmöglichkeiten nur in Hintergrundlautst�rke gehört wird.
+
+Unter guten Bedingungen hört man den Unterschied sehr deutlich: 128k:
+ziemlich grob und rauh, keine klare Ortung von Instrumenten,
+eingeschränkte Raumauflösung. Eigentlich nur als Hintergrundbeschallung
+geeignet.
+
+160k: hört sich etwas glatter und räumlicher an, akzeptable Qualität.
+
+192k und mehr: gute Qualität. Kaum Unterschiede zum Original.
+
+Das gilt für MP3 mit einem _guten_ Codec, nicht alle sind da
+gleichwertig. Für AAC verschieben sich die Charateristiken nach unten,
+da bringt z.B. 96k die Qualität von Mp3 128k.
+
+Ein weiterer Qualitätssprung kommt dann erst mit SACD und DVD-A sowie
+den neuen BD-Audioformaten, die ich aber noch nicht selbst getestet
+habe. SACD und DVD-A sind die bevorzugten Medien meiner Wahl, ansonsten
+lasse ich CDs auf 24 Bit hochskaliert rotieren.
+
+Hartwig
+
+-- 
+Neoliberales Grundgesetz der Bundesrepublik, Art. 1 (1):
+"Die Würde des Menschen ist eine Ware. Jedem Menschen steht 
+genau soviel davon zu, wie er bezahlen kann."

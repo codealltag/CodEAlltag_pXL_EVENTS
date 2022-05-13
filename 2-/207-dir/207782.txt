@@ -1,0 +1,31 @@
+qq.tluqdm@lef.tx schrieb:
+..
+
+Ich denke schon, dass es in der IT der Bahn Kompetenz gibt. Ich
+weiss aber nicht, wie viel kriminelle Energie oder Rückgratlosigkeit
+es gibt.
+
+Ich habe mittlerweile gut 27 Jahre in der Datenverarbeitung gearbeitet,
+zum sehr grossen Teil in der Systemadministration grosser Serversysteme
+in der industriellen Datenverarbeitung in Industrie, Finanzwirtschaft
+und Dienstleistungsunternehmen.
+
+Die Fälle, in denen mir die Weiterleitung potentiell sensibler
+Daten von Useraccounts angetragen wurde, kann ich an den Fingern
+einer Hand abzählen, genauer sind es weniger als drei.
+
+Meine Reaktion war jedesmal freundlich-unterkühlt: ich bat um
+Bestätigung durch Betriebsrat, Datenschutzbeauftragten und
+Geschäftsleitung, ersatzweise um Weisung der Geschäftsleitung,
+dass eine Beteiligung von Datenschutzbeauftragten und Betriebsrat
+unnötig sei. In beiden Fällen war die Anforderung damit erledigt.
+In einem Fall kam die Rückmeldung, ich sei "aber stur". Ok.
+
+Wohlgemerkt: ich bin Freiberufler, und trage damit das theoretische
+Risiko, auf Grund solcher "unkooperativen" Reaktion rauszufliegen.
+In der Realität ist dieses Risiko nahe Null. Die bei der Ibup, der
+Eferuv, bei Kurbuchhandlung und sonstwo an den Schn�ffelskandalen Anteil hatten,
+haben ein hohes Mass an krimineller Energie offenbart. Niemand
+musste das.
+
+regards, es

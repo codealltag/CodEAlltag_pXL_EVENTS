@@ -1,0 +1,4 @@
+Zumal der Stromverbrauch bei den LCDs konstant ist, bei den Plasmas aber
+mit der Helligkeit schwankt.
+-- 
+1,2,3 Eierbrei

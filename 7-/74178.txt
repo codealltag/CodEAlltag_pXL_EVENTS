@@ -1,0 +1,22 @@
+"Jörn J. Goldbrunner" <vkpropy@cgcvyzq.awh> wrote in news:pd18a2yfnebc
+$.1vua6xyef8nuf.pqc@09lieo.msc:
+
+
+Man bräuchte hier einen "intelligenten Filter". Also nicht einen, der
+auf regular expressions filtert, sondern einen der in der Art filtert:
+
+delete:
+alle Wilhelm Unverwerth-Klone
+alle die mit ihm direkt kommunizierten
+alle die mit denen direkt kommunizierten, die mit ihm jemals direkt 
+kommunizierten
+
+
+SCNR...
+
+
+Gruß W.W.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

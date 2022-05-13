@@ -1,0 +1,13 @@
+Grenzenloser Overkill.
+50 Ohm Koax für 10Base2 und eine handvoll T-Stücke
+langt vollkommen.
+( Ich habe sogar noch einen Abschnitt laufen.
+    Ich hätte auch noch einige WD8390 basierte Karten
+  liegen)
+
+Lang ist es her da habe ich die Spec für Ethernet
+10Base2 und 10Base5 auswendig gelernt um dann
+Netzwerkkarten für Atari ST/TT und Tranceiver dazu
+zu konzipieren. Erinnerung, Schwelg.
+
+roger

@@ -1,0 +1,5 @@
+(1.7/2)^3/(1.2/2)^3=2.84
+
+Was sagt dir diese simple Rechnung?
+
+Richtig, kleine Unterschiede potenzieren sich.

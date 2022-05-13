@@ -1,0 +1,40 @@
+Hallo,
+
+
+Das ist so nicht ganz korrekt. Entweder hast Du, über kurz
+oder lang ein verdaddeltes Subjekt oder musst es händisch
+reparieren. Beides ist hässlich.
+
+
+Auch den Regeln nach denen mein Newsreader arbeitet. Aber
+er versucht die Subjekte zu reparieren und ich spare mir
+idR die hündische Nacharbeit. Aber nach RFC ist es falsch.
+
+
+Doch, sie wird angepflaumt. Sie könnte das natürlich auch
+vermeiden und unnötige Zeit in die Reparatur unkodierter
+Subjektzeilen stecken.
+
+
+Nochmal: Es sollen keine unkodierten Umlaute ins Subjekt
+oder andere Teile des Headers. Also müssen die raus! Und
+da gibt es zwei Ansätze. Nadjas NR ist da etwas radikal,
+aber der Ansatz ist auch richtig.
+
+
+Nein, so kann ich es beim besten Willen nicht sehen.
+
+
+Ansichtssache ... Ich würde aber den Ansatz nach RFC
+bevorzugen und die falsch kodierten Zeichen ungern im
+Header sehen.
+
+
+Na ja, pädagogisch ist Nadjas Verhalten sicherlich etwas
+kontraproduktiv, aber durchaus nachvollziehbar.
+
+
+MfG
+
+
+Oliver Utermarck

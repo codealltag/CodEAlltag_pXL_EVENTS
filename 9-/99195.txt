@@ -1,0 +1,6 @@
+Das will ich nicht in Abrede stellen, aber es ist keine technische Begründung. Ich habe mal gelernt,
+dass die Synchron- als auch die Asynchron-Maschine im Generatorbetrieb problemlos abgeschaltet
+(Herunterfahren sagen nur Laien) werden können, wenn der Betriebsfall "Leerlauf" vorliegt.  Stimmt
+das denn nicht mehr?
+
+GARRELT

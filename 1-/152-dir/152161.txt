@@ -1,0 +1,46 @@
+Du siehst aber den Unterschied nicht. Wenn ich z.B. Regenerativstrom
+einspeise, der mittels geeigneter Leistungselektronik frequenzgewandelt
+wird, dann mache ich das vernünftigerweise nicht in Gigawatthappen.
+
+Es fallen also nicht 10MW an, sondern 10KW je MW, mal am einen
+Kombikraftwerk, mal am anderen Windpark. Wenn ich ein Laufwasser-
+kraftwerk ans Bahnstromnetz kopple, kann ich es gleich mit 16,66Hz
+laufen lassen, da braucht es keine Frequenzumrichter. Die sonstige
+Abwärme wird sich mühelos wegk�hlen lassen.
+
+überhaupt bin ich von der Qualität Deiner Beiträge in diesem
+Thread reichlich enttäuscht. Von Luft oder Boder erwarte ich nur
+Müll. Aber Dir sollte doch auffallen, dass ein AKW für Bahnstrom
+ein riesiger Single Point of Failure ist, der in gleicher Grösse
+(1GW el) Schattenkraftwerke braucht, da diese Leistung zu jeder
+Zeit unkontrolliert wegbrechen kann und in regelmässigen Abständen
+wegen Revision und Brennelementwechsel monatelang nicht zur
+Verfügung steht.
+
+Wer einmal ein Betriebshandbuch eines AKW (ja, früher, bevor die
+Spindoctors der Atommafia politisch korrekt "KKW" verordnet haben,
+hiessen die bis in die offiziellen Dokumente so) in der Hand
+gehabt hat, weiss, aus wie vielen Gründen, von denen die
+grosse Mehrzahl nicht nuklear und die noch grössere nicht im
+geringsten bedenklich ist, eine solche Anlage von jetzt auf
+gleich vom Netz gehen kann und das historisch auch recht oft
+getan hat. Das kann der Bahnbetrieb aber schlecht ab.
+
+Generell ist Bahnbetrieb extrem lastvariabel. Zum einen gibt es
+beim Stromverbrauch einen ausgeprägten Tagesgang, der auch
+starke Peakzeiten hat. Zum anderen kann der Lastgang aber auch
+stark und schwer vorhersagbar schwanken. Starre Erzeuger wie
+AKW sind da schlicht fehl am Platze, soviel "Grundlast" gibt
+es da nicht.
+
+Viel energietechnische Innovation hat es bei der BJR in der
+letzten Zeit nicht gegeben, da sie ja an die Börse musste.
+Vielleicht wird da in anderen Ländern was Sinnvolles entwickelt,
+was man dann mindestens kopieren kann.
+
+regards, es
+
+-- 
+Wenn ich tausend Zungen und tausend Muender haette, eine erzene Stimme,
+koennte ich doch alle Erscheinungen von Bloedheit nicht anfuehren oder alle
+Namen, unter denen Torheit auftritt, aufzaehlen (Remo Jungke,1509)

@@ -1,0 +1,34 @@
+Da wäre zu klären ob man das als "vernünftige Konfiguration" bezeichnen 
+kann. Ich wäre kein Anhänger davon, darum geht es aber nicht.
+Dann wäre zu klären, ob das weit verbreitete Windows XP unter diesem 
+Gesichtspunkt als "vernünftiges Betriebssystem" gelten kann, und da maße 
+ich mir an, gleich mit "Nein" zu antworten.
+
+Nun spielt aber auch das keine Rolle, denn Du schreibst:
+
+
+Du verlangst also vom Adminstrator, dass _er_ das System so konfiguriert, 
+dass technisch ausgeschlossen wird, dass er lesend oder schreibend auf 
+Benutzerdaten zugreifen kann...
+Dazu müsste er zunächst einen Auftrag vom Arbeitgeber haben, von allein 
+darf und wird er das nicht tun. Der Arbeitgeber muss dann jemanden 
+schicken, der die vom Administrator eingerichtete Konfiguration überprüft. 
+Der Prüfer braucht dafür natürlich allmächtige Administrator-Rechte, sonst 
+kann er nicht prüfen, er muss also überprüft werden... Eine Kette ohne 
+Ende.
+Und man muss sich überlegen, wie man vorgeht, wenn der Lesezugriff auf die 
+Daten des Benutzers doch nötig wird, eine Hintertür muss es also geben. 
+Diese Hintertür ist sogar bei der schärfsten Maßnahme, der Verschlüsselung, 
+eingebaut. Und wer konfiguriert diese Hintertür? Richtig, der 
+Administrator.
+Zu behaupten, man könne ein reales System so konfigurieren, dass die 
+Administratoren _technisch_ in ihren Möglichkeiten beschränkt werden, zeigt 
+zumindest Weltfremdheit, wenn nicht gar Unwissen.
+
+Man kann diese technischen Möglichkeiten allerdings durch Regeln 
+einschränken, an die sich Administratoren zu halten haben, sinnvollerweise 
+niedergeschrieben in einer Betriebsvereinbarung zwischen (kompetenten) 
+Betriebsrat und Arbeitgeber unter Mitwirkung des Datenschutzbeauftragten. 
+In vernünftig konfigurierten Firmen ist das Praxis.
+
+Noah

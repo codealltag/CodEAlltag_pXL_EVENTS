@@ -1,0 +1,12 @@
+Es existieren nur Regeln für den *ABLAUF* von Verfahren. 
+
+Was passiert bevor ein Verfahren bei der ZRL-Moderation
+eingereicht wird, ist völlig unreglementiert.
+
+
+CoBi
+-- 
+TM = ({DEFGIKMNOPQS}, {A}, {ABC}, T, D, {S})     C=[] R=+1 L=-1 H=0
+ T = (DADAR, DCECR, EAEAR, EBFBL, ECFCL, FAGBL, FCQBL, GAGAL, GCICL,
+      IAIAL, IBKBR, ICKCR, KADBR, KCNCL, QAQBL, QBMBR, MBNCL, NBNBL,
+      NCOCR, OBOAR, OCPCR, PAPAR, PBPAR, PCSCH)

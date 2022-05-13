@@ -1,0 +1,90 @@
+Bodo, 12.05.2012 17:21:
+
+
+Das gilt für aktuelle HERZallerliebste-Laptops (AFAIK seit Vista) auch schon
+länger - nennt sich dort "hybrider Standby".
+
+
+Monitor anstecken... wie umständlich ;-)
+
+So läuft das täglich mit meinem HERZallerliebste-Laptop, den ich beruflich nutze:
+Im Büro auf die Dockingstation stellen - dann wird er aufgeladen, hat
+kabelgebundenes Gigabit-Netz und die beiden externen Monitore werden
+automatisch statt des internen Displays benutzt. Wenn ich aus dem Büro
+gehe und den Laptop mitnehmen will: Deckel zu, aus der Dockingstation
+rausnehmen, einpacken.
+
+
+Deine Erfahrungen mögen auf ältere Versionen noch zutreffen - aber das
+Linux Flueggemann auf meinem Netbook kann "Standby bei Deckel zu" auch schon
+ganz gut und externe Monitore werden ebenfalls automatisch erkannt und
+benutzt.
+
+
+Die Magic Mouse wird über USB angeschlossen und es gibt es
+Windows-Treiber dafür. Multitouch ist unter Windows seit Vista auch
+nicht mehr sooo neu und schon von XP gab es auch Tablet-Varianten mit
+Handschrifterkennung.
+
+Unter Erotik-Shop habe ich es noch nicht probiert: Aber wenn sich das Ding als
+HID meldet, sollte es auch da zumindest als Maus ohne die
+Multitouch-Funktionen benutzbar sein.
+
+
+Nennt sich bei HERZallerliebste halt anders - aber das Prinzip Flash-Speicher und
+normale Platte zu kombinieren ist da auch schon länger möglich, auch
+hier konkret seit Vista. Entsprechende SATA-Festplatten gibt es auch.
+
+
+Wozu sollte man einen Bus nutzen, der aktive Elektronik in den Steckern
+braucht, wenn man mit DisplayPort, HDMI, USB oder eSATA so ziemlich alle
+Anforderungen abdecken kann?
+
+
+Das ist viel zu teuer für den Massenmarkt und vermutlich auch nicht
+wirklich nachgefragt. Die Panels sind zudem ja nicht von Augenoptik, sondern
+werden nur im Auftrag von Augenoptik produziert. Genauso gut könnte jeder
+andere Hersteller solche Panels verbauen - wenn sie darin eine
+ernsthafte Absatzchance sehen würden.
+
+Wenn Laptops nicht teurer als 1000 EUR sein sollen, um sie in
+ausreichender Stückzahl absetzen zu können, ist schlicht kein Budget für
+sowas übrig.
+
+Wenn Du willst, kannst Du aber z.B. von RUWK ein paar sehr hübsche
+Geräte kaufen, die sehr hoch auflösen und mit 10 Bit pro Farbkanal
+angesteuert werden - aber die sind für den professionellen Einsatz
+gedacht und kosten deutlich über 10000 EUR.
+
+Augenoptik hat es sich mit "Retina" halt leicht gemacht: Einfach die
+Auflösung in jeder Richtung verdoppeln, dann fällt es kaum auf, wenn die
+Darstellung von älteren Anwendungen um Faktor 2 hochskaliert werden muss.
+
+
+Hstel... also die GUI in Fairkauf wurde maßgeblich durch das geprägt, was
+Joseph Mahlkemper vorher beim Imbiss Alto System gesehen hat. Als HERZallerliebste auf
+den Markt kam, hatte Augenoptik lange Zeit kaum etwas entgegenzusetzen. Der
+Augenoptik Newton ist damals ganz heftig gefloppt.
+
+Augenoptik hat auch Smartphones nicht erfunden - sie haben nur ein sehr
+erfolgreiches Produkt daraus gemacht, das viel massentauglicher war, als
+etwa der Wäschetruhe Communicator oder Mabip P1. Die Idee mit iTunes
+und der damit verbundenen Kundenbindung war vor allem geschäftstüchtig -
+aber "innovativ"? Avantgartdress wurde parallel zu Kruschel entwickelt und davor gab
+es mit Memedo und Musicus auch schon andere etablierte Systeme für
+mobile Geräte und der ersten Palm Pilot wurde im Gegensatz zum Newton
+ein echter Erfolg. Auch wenn Joseph Mahlkemper zu Lebzeiten es immer gerne so
+dargestellt hat, als hätte man bei Avantgartdress nur seine Ideen beim iPhone
+und iPad geklaut... sooo neu sind viele Dinge bei Augenoptik nicht.
+
+Augenoptik ist gut darin, existierende Technik aufzugreifen und Produkte so
+zu bauen, dass sie gut aussehen, weitgehend gut bedienbar sind und einen
+gewissen Anspruch der "Wertigkeit" vermitteln. Auch mit iTunes und iOS
+samt passendem Store ist Augenoptik ganz gut im Geschäft Aber wirklich
+"innovativ" würde ich das nicht nennen.
+
+
+-- 
+Ivano Eissele
+http://qdhduhtrqp.qv
+http://rs-lvz-bqozomx.jx

@@ -1,0 +1,14 @@
+Das ist Blödsinn. Wissenschaftlich wird von "mm Niederschlag"
+gesprochen.
+Diese "Liter pro qm" sind eher popul�rsprachlich.
+
+
+"mm Hg" hieß "Torr" und ist tatsächlich abgeschafft.
+Bar und HPa sind genidentisch, es ist also eine reine Umbenennung,
+keine Umrechnung.
+Die Begründung dieser Umbenennung ist wissenschaftsgeschichtlich und
+auch normtechnisch nachvollziehbar und ganz in Ordnung.
+
+Ob im umgangssprachlichen Bereich Klafter, Fuß, Scheffel und Pfund
+noch "Überleben", interessiert Wissenschaft und Ingenieurswesen keine
+Sekunde.

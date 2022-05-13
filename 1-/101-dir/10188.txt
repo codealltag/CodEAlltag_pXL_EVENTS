@@ -1,0 +1,25 @@
+Und das auch noch in mehreren (16bit breiten) Fächern. Das komplette
+Chinesische benötigt mehr als ein 16bit Fach, da mehr als 65536 Zeichen.
+Mehr Bit als 16 kenn ich nicht!
+
+
+Warum?
+
+
+Nö, selbst wenn ich könnte.
+
+Hörts endlich auf mit diesem schwachsinnigen 'Was kann das Zeug', und
+konzentrierts euch auf die relevanten Dinge.
+Mein alter DMZU oder ein 286er könnten das Gleiche, was ich jetzt
+gerade tue.
+Das netbook mit 7W Verbrauch überzeugt mich aber auch. Ich muß aber
+deshalb nicht unbedingt den Font für ein fittes und schlankes Usenet
+wechseln. Europäisch GutenAppetit verträgt sich mit US-ASCII, und damit hat es
+sich für mich getan.
+Wer in anderssprachigen NG's unterwegs ist, kann nach nntp-norm eh
+einen anderen Code verwenden. Ich muß nicht Spielkarten und Chinesisch
+onboard haben...
+
+
+-- 
+Juan Conradi

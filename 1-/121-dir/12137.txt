@@ -1,0 +1,27 @@
+Das kann mein newsreader Bj. 97-07 aber auch alles. Noch dazu mit einer
+bequemen Default Einstellung fürs scoring (seperate Farben für postings
+von mir, postings an mich, postings von user mit gleichem Newsreader.
+In threads in denen man aktiv ist, werden alle news die in diesem
+thread erscheinen in blau angezeigt, mit Ausnahme der ersten drei
+Regeln. Alles andere (neutrale messages bzw. threads) bleibt schwarz.
+In meinem Fall grün auf schwarz, oder magenta auf schwarz, dunkelgrün
+auf schwarz - je nach Gemütslage und Lichverhältnisse.
+Editor und Reader zeigen Text von mehreren postern in einer geqouteten
+Nachricht, mit jeweils eigenen Farben an, sehr übersichtlich.
+
+Aber wie du schon sagtest, Paola versagt bei den Grundeinstellungen.
+Bei meinem Reader ist z.B. 'Show first line of message as subject' per
+default eingestellt. Sehr unübersichtlich ;-).
+Auch die Thread-orientierte Sortierung der Nachrichten und das in
+chronologischer Reihenfolge, muß ich selbst umstellen... und jedesmal
+wieder vertue ich mich dabei. Ein paar Neustart des Programms hilft
+auch immer weiter, und dann läuft's.
+Damit erlebte ich einmal einen Mega-Thread in sci.electronics mit
+mehreren tausend postings darin, ich wartete vergeblich bis das Teil
+einmal abstürzen würde (heute würde ich wahrscheinlich nicht mal
+merken, daß das Programm langsamer wird ;-)).
+Also relativ stabil auch. Plegebedürftig, aber folgsam dann...
+
+
+-- 
+Olivier Wittmer

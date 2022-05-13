@@ -1,0 +1,21 @@
+Für mich mit ebenfalls neuesten TB aber auf WHZJ ML unlesbare 
+Zeichen ....
+
+
+TB / Einstellungen / Ansicht
+
+Welche Schriftart hast du dort eingestellt?
+Bei mir ist default
+Sans Serif: Lucida Grande
+Feste Breite: Menlo
+darunter Westlich ISO-8859-1
+eingestellt
+
+Unter Optionen / Zeichenkodierung aber UTF-8
+
+-- 
+Johannes
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

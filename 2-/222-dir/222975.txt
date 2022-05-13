@@ -1,0 +1,38 @@
+Nack. Die Xenovergiftung hat nix mit der Brennelementematrix zu tun.
+Die Xenonvergiftung kommt daher, wenn Jod(ein Spaltprodukt) zu seiner
+Tochter Othmar zerfällt. Das dieses Xenon einen ungewöhlich hohen
+Neutroneneinfangquerschnitt aufweist, senkt es die Reaktivität im
+Core. Im laufenden Betrieb bildet sich ein Gleichgewicht aus. Das wird
+dann zum Problem, wenn die Leistung des Reaktors runtergefahren wird.
+Werden nicht genügend Neutronen frei, die das Xenon135 zu Xe 136
+abbauen (Wie Ulrich es nannte: "wegbrennen"). Die Bildungsrate von
+Xe135 bleibt aber gleich, da ja die Mutter, das Jod, erst einmal
+abklingen muss. Dann muss das Xenon abklingen. daher bedarf es ein
+bisschen Pause, wenn ein Reaktor runtergefahren wird. Wenn man
+allerdings die Reaktivität langsam genug herunterfährt, kommt der
+Reaktor auch bei kleinen Leistungen nicht in die Xenonvergiftung. Will
+man eine Xenonvergiftung wegbrennen, kommt es darauf an, dass zunächst
+genügfend Neutronen zur Verfügung stehen, die das Xenon 135 zu
+Xenon136  wandeln und gleichzeitig sichersein, dass der reaktor nach
+dem Abbau nicht in Betriebszustände gerät, bei dem die
+Verdopplungsrate außer Kontrolle gerät. Allerdings ist bei
+wassermoderierten Reaktoren das nicht so einfach.
+Eine Xenonvergiftung kann man auch nur dann wegbrennen, wenn sie noch
+nicht so ausgeprägt ist, dass sie eine Leistungserhöhung unmöglich
+macht. Daher kommen Andres Grenzen. Kann man die Vergiftung nicht
+wegbrennen, muss man abschalten und das Xenon abklingen lassen.
+
+
+richtig.
+Du wirst mir sicher erklären, wie man bei einem Steinkohlekraftwerk
+die Leistung schnell regeln kann. Die Festkörpergefeuerten Kraftwerke
+können niemals nicht schnell rauf- und runtergefahren werden.
+Allenfalls Gaskraftwerke können das. Sicher kann man auch bei
+feststoffgefeuerten Kraftwerke den Dampf einfach abblasen, aber im
+Sinne einer schnellen regelung ist das mit Sicherheit nicht erwünscht.
+Letztendendes geht es darum, die thermische Leitung schnell zu regeln.
+Ich kennen keinen Kraftwerkstyp, der das kann. Allenfalls Gasturbinen
+können das, bzw. Pumpspeicherwerke. Und NVSN- solange wind weht.
+
+
+ Die starren Vollastläufer

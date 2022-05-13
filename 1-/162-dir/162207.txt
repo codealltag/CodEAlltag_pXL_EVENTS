@@ -1,0 +1,18 @@
+Kann es nicht eher an Deinem  40tude_Dialog/2.0.15.84de liegen? Bei mir 
+wird der Text von Othmar korrekt wiedergegeben, über Zeichensätze kann 
+man ja viel streiten, aber ISO-8859-1 ist auf jeden Fall nicht mehr der 
+Aktuellste. Ich kenne mich mit dem  40tude_Dialog/2.0.15.84de nicht aus, 
+aber bei Thunderbird gibt es selbst mit exotischen Zeichensätzen keine 
+Probleme, wenn sie ordentlich deklariert sind und die Einstellungen des 
+Thunderbird *kein* Häkchen bei "Standard-Zeichenkodierung auf alle 
+eingehenden Nachrichten anwenden"  und "Standard-Zeichenkodierung für 
+Antworten verwenden" gesetzt ist. Bei mir ist als 
+Standard-Zeichenkodierung übrigens UTF-8 eingestellt. Man kann natürlich 
+auch ISO-8859-15 verwenden, da hat man dann zumindest ein Euro-Symbol.
+
+Urs
+
+-- 
+Urs Oligmüller
+71380Ggoxvnz 3h64'19.66 O 22�34'54.06 Y
+http://meq.dldyfqortb.byz/sequvtalu/csrd_9460647.ayn

@@ -1,0 +1,10 @@
+hm, meine Hausverwaltung lässt es sich für jeden Einzelfall schriftlich 
+geben, wenn sie meine Wohnung während meiner Abwesenheit betreten will 
+(z.B. um ausgeführte Arbeiten abzunehmen), dass sie das *darf*, auch 
+wenn sie es jederzeit *könnte*.
+Ebenso *kann* ein Admin auf üblich konfigurierten Mailservern auch jede 
+Mailbox lesen, *dürfen* tut er es dennoch nicht, nichtmal bei rein 
+dienstlich genutzten Mailboxen...
+
+Gruß,
+Waldemar

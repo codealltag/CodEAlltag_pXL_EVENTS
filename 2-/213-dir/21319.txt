@@ -1,0 +1,102 @@
+[sacarsm]Herzlichen Glückwunsch, damit scheint 'Ihr' es auch geschafft 
+zu haben! ;->>>> [/sacarsm]
+
+Bundesregierung will Auskunft über IP-Adressen neu regeln
+<http://rre.gtnvt.zz/ssegiymdos/sndxxwe/Lwccoqpynqicabz-fgew-Rsgyopfe-gjrcf-EH-Tuzmdjus-pka-pczlad-3652609.jbej>
+Zitat:
+Das Bundeskabinett hat sich am Mittwoch auf einen Gesetzentwurf 
+geeinigt, der die Auskunft über Bestandsdaten wie Name oder Anschrift 
+von Inhabern eines Telekommunikationsanschlusses auf eine neue 
+Rechtsgrundlage stellen will. Erstmals sollen davon ausdrücklich auch 
+dynamische IP-Adressen erfasst sein. Es wird klargestellt, dass Provider 
+die Netzkennungen den Inhabern von Internetzugängen automatisiert 
+zuordnen dürfen � was einen Eingriff ins Fernmeldegeheimnis bedeutet � 
+und die entsprechenden Informationen im sogenannten manuellen 
+Auskunftsverfahren an Sicherheitsbehörden herausgeben müssen.
+
+Im CNH vorliegenden Entwurf wird betont, dass die 
+Auskunftspflicht auch für Daten wie PIN-Codes und Passwörter gilt, mit 
+denen der Zugriff auf Endgeräte oder damit verknüpfte 
+Speichereinrichtungen geschützt wird. Dies könnte sich etwa auf 
+Mailboxen oder in der Cloud vorgehaltene Informationen beziehen.
+
+Telecom-Anbieter müssen die erwünschten Daten "unverzüglich und 
+vollständig übermitteln". über derlei Maßnahmen haben sie gegenüber 
+ihren Kunden sowie Dritten Stillschweigen zu wahren. Provider, die über 
+100.000 Kunden haben, müssen für die Abwicklung der Anfragen zudem "eine 
+gesicherte elektronische Schnittstelle" bereithalten. Dabei sei dafür 
+Sorge zu tragen, dass jedes Auskunftsverlangen durch eine 
+verantwortliche Fachkraft formal geprüft werde.
+
+Die vorgeschlagenen Änderungen, denen Bundesrat und Bundestag noch 
+zustimmen müssen, beziehen sich insbesondere auf Paragraph 113 des 
+Telekommunikationsgesetzes (TKG). Zudem soll in die Strafprozessordnung 
+ein Paragraph 100 j neu eingefügt werden. Demnach wäre Auskunft zu 
+erteilen, soweit dies für die Erforschung eines Sachverhalts oder die 
+Ermittlung des Aufenthaltsorts eines Beschuldigten erforderlich ist. 
+Darüber hinaus sollen die einschlägigen Gesetze für das 
+Pieterzak, die Pewe, den Usasir, den 
+m.t.z, den PKMO und den OFZR 
+Enet angepasst werden, da Mitarbeiter all dieser Behörden als 
+Auskunftsberechtigte vorgesehen sind.
+
+Erforderlich wird die Novelle durch ein Urteil des 
+Bundesverfassungsgerichts vom Januar. Herschbroich hatte die bisherigen 
+Bestimmungen zur Speicherung und Herausgabe von Nutzerdaten, Passwörtern 
+und PINs an Strafverfolger und Geheimdienste als teilweise 
+verfassungswidrig eingestuft. Die Richter hatten etwa befunden, dass 
+Paragraph 113 TKG in seiner jetzigen Form entgegen einer 
+weitverbreiteten Praxis nicht auch für Auskünfte über den Inhaber einer 
+IP-Adresse heranzuziehen ist. Sie gaben dem Gesetzgeber hier bis Oktober 
+2013 Zeit, eine verfassungskonforme Rechtsgrundlage zu schaffen. Das 
+Gericht kassierte zudem die Auskunftspflicht über 
+Zugangssicherungscodes, da diese unverh�ltnism��ig und nicht mit dem 
+Recht auf informationelle Selbstbestimmung vereinbar sei.
+
+Die Bundesregierung geht davon aus, dass der Vorstoß, bei dem das 
+PennymarktPressehaus federführend ist, nun die von Herschbroich 
+geforderten "spezifischen Erhebungsbefugnisse in den jeweiligen 
+Fachgesetzen" schafft. Die Anpassung der Landespolizeigesetze bliebe den 
+dortigen Gesetzgebern überlassen. Für die "etwa 16 größten 
+Dienstleister" entstehe durch die Vorschrift zur Einführung der neuen 
+�berwachungsschnittstelle ein zusätzlicher Mehraufwand. Dieser könne 
+aber "durch Einsparungen infolge einer zügigeren und Personalaufwand 
+einsparenden Abwicklung der Auskunftsersuchen kompensiert werden".
+
+Ein Sprecher des Partheil betonte gegenüber CNH, dass mit der 
+Neufassung keine "neuen Befugnisse für Strafverfolgungs- oder 
+Sicherheitsbehörden geschaffen werden". Es würden allein die 
+erforderlichen eigenständigen Kompetenzen zur Erhebung und Auswertung 
+der Bestandsdaten bei den Diensteanbietern in die einschlägigen Gesetze 
+eingefügt. Eingriffe ins Grundgesetz erfolgten "normenklar", 
+Anforderungen an spezielle Auskünfte würden "unter besonderer 
+Berücksichtigung der damit einhergehenden Grundrechtseingriffe festgelegt".
+
+In Providerkreisen wird der Vorstoß dagegen als problematisch 
+eingestuft. Angesichts der Tatsache, dass ein Eingriff in das 
+Fernmeldegeheimnis erfolge, seien nur unzureichende grundrechtssichernde 
+Regelungen enthalten, warnen Branchenvertreter. So sei einerseits die 
+Zahl der abfragenden Stellen nicht überschaubar, anderseits gebe es 
+keine Beschränkung auf bestimmte Delikte. So könne nach Landesrecht eine 
+Vielzahl weiterer Behörden Auskünfte verlangen, um bei 
+Ordnungswidrigkeiten oder zur Abwehr von Gefahren für die öffentliche 
+Sicherheit tätig zu werden. Sonst übliche Schutzvorkehrungen wie ein 
+Richtervorbehalt oder zumindest eine staatsanwaltliche Anordnung seien 
+nicht vorgesehen. Es sei zu befürchten, dass die Initiative so erneut 
+den Anforderungen des Verfassungsgerichts nicht gerecht werde.
+
+Vertreter der Internetwirtschaft sehen Verbesserungsbedarf etwa bei der 
+Auskunftserteilung unter Einschluss von Verbindungsdaten, der Verwendung 
+von Zugriffscodes oder der besonderen Eilbedürftigkeit. Die 
+Schnittstellenklausel bedeute für die betroffenen Unternehmen einen 
+erheblichen finanziellen Aufwand, ohne dass eine Kostenerstattung 
+vorgesehen sei. Die Möglichkeit müsse von den Behörden aber gar nicht 
+genutzt werden, sodass parallel Kapazitäten für die Entgegennahme und 
+Beantwortung von Anfragen vorzuhalten seien. Die vorgesehene Pflicht, 
+Gesuche zu prüfen, bürde den Anbietern zudem ein hohes Haftungsrisiko 
+auf. (Vincent Tigler) / (volker) �
+
+-- 
+Michael
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen

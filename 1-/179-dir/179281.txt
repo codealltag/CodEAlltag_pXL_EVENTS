@@ -1,0 +1,25 @@
+Hallo,
+
+
+Die getten Betreffzeilen enthalten unkodierte Umlaute. Das
+ist ein Fehler, da das Subjekt im Header steht und deshalb
+nach RFC ASCII-7bit sein muss. Falls nun unkodierte Umlaute
+im Header stehen kann man zwei verschiedene Dinge tun um
+dies zu korrigieren:
+
+ * Man errät doe Kodierung und versucht das Subjekt zu
+   rekonstruieren, so wie meine Eistaube, oder
+
+ * Man verzichtet auf Ratespiele und löscht das Subjekt
+   kurzerhand, so wie Trudes Seepferdchen.
+
+Beide Vorgehensweisen sind korrekt. Die kaputte Subjektzeile
+im Header zu lassen ist jedoch definitiv falsch. Man würde
+ein nicht RFC-konformes Posting absetzen. Das ist jetzt mal
+die technische Seite des Ganzen gewesen.
+
+
+MfG
+
+
+Edwin Grünholz

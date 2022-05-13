@@ -1,0 +1,22 @@
+Mit der um Neuß' Veröffentlichung ergözten Literaturliste, ja.
+
+
+Selbstverständlich (ein wenig anders formuliert, und mit dieser
+Einschränkung an prominenter Stelle in der Einleitung).
+
+Viele Veröffentlichungen in der Mathematik (und noch mehr in der
+theoretischen Physik) beschäftigen sich damit, was daraus folgen würde,
+wenn eine bestimmte Voraussetzung wahr wäre.
+
+Stellt sich die Annahme später tatsächlich als zutreffend heraus, ist
+man dadurch nicht nur einen, sondern viele Schritte in der Erkenntnis
+weiter.
+
+Es kann aber auch sein, dass aus einer solchen Arbeit ein Widerspruch
+folgt; dann hätte man dadurch bewiesen, dass diese Annahme falsch sein
+muss und sie so widerlegt. Auch dadurch kommt die Wissenschaft weiter.
+-- 
+#!/usr/bin/perl -- -*     Nie wieder Nachtschicht!     *- -- lrep\nib\rsu\!#
+use Inline C=>'void C(){int m,u,e=0;float l,_,I;for(;1840-e;putchar((++e>905
+&&942>e?61-m:u)["\t*nl`-llkbzCqfymfvna+qfymfvN#gqbkmqfA "]^3))for(u=_=l=0;79-
+(m=e%80)&&I*l+_*_< 6&&28-++u;_=2*l*_+e/80*.09-1,l=I)I=l*l-_*_-2+m/27.;} ';&C

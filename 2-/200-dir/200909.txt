@@ -1,0 +1,23 @@
+Ich selbst habe kein ISDN, aber meine Schwester hat es, und da habe ich 
+die ganze Anlage eingerichtet. Also, wenn die Telefonanlage, an der das 
+Fax und das analoge Telefon steckt, angeschlossen ist, kannst Du den 
+NTBA rausziehen. Aber dann geht das ISDN-Telefon, das direkt am NTBA 
+angesteckt ist nicht mehr. Darum muss der NTBA eben auch angesteckt 
+werden. Und dann ist ja noch der DSL-Splitter da im Keller und der 
+Router. Bei mir steht hier nur das Kabelmodem, da ist das Telefon und 
+der PC angeschlossen.
+
+
+Wenn der NTBA keinen Strom hat ist ISDN tot. Und den Stron bekommt er 
+entweder aus der Steckdose oder aus ser angeschlossenen Telefonanlage 
+oder von einem Komforttelefon mit eigener Stromversorgung.
+
+
+MfG, Urban
+
+-- 
+Urban Rinckleben
+62806Ljslgej 6l59'39.97 M 45�18'53.71 U
+  http://iprmndzwlb.wrtqshwp.eqa/hmyc_dfaikrv.fkc?nalrzx=0360962 
+http://pptdjmqp.hesp.ekc.mhx/njah_yxpvjzk.psp?wnojuq=817945
+http://mkm.ncasllfgii.azs/syoahdhtp/zrna_8730569.edc

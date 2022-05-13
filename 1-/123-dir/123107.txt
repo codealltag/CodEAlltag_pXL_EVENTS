@@ -1,0 +1,60 @@
+Halllo,
+
+
+Grafiker, Redakteuer, Wissenschaftler und ähnliches
+sollten saubere Bewerbungen abgeben.
+
+Schlechtes Kerning, zerrupfter Satz ...
+
+
+OO hat ein besseres Kerning und einen besseren Satz.
+
+
+Professionelle DTP-Programme wie sie in z.B. der Grafik
+(InDesign) oder beim Buchsatz (LaTeX) verwendet werden.
+
+
+Probiere es einfach aus und sehe Dir die Resultate an.
+Der Unterscheid ist teilweise augenfällig. Spätestens
+beim Lebenslauf wird es aufwändiger mit einfach)st)en
+Programmen zu arbeiten.
+
+
+Also keine echte Praxiserfahrung. Die ersten zwei/drei
+Jahre sind zäh, nach zehn Jahren hat man es soweit raus,
+dass man mit LaTeX idR schneller ist.
+
+
+Genau diese Aussage ist eindeutig falsch. Alleine die
+Möglichkeit zur Automatisierung bringt schon viel.
+
+
+Das ist übrigens vielen WinDAUs gar nicht bekannt.
+
+
+Das ist auch unter Word eine hässliche Arbeit. Es geht
+durchaus, aber es frisst einiges an Zeit und ist dazu
+noch sehr unzuverlässig bzgl. des Upgrades.
+
+
+Aber kostenpflichtig im Sinne: Mit Geldausgabe verbunden.
+Hier ist es der neue Rechner.
+
+
+Die Möglichkeiten von LaTeX kannst Du auch bei keinem
+Bewerbungsschreiben voll ausnutzen. Aber bei Word kommst
+Du schneller an Grenzen als bei LaTeX.
+
+                         ^^^^^^^^^^^^^
+Keine Bange, ich werde Dir Deine Nische in dieser NG
+nicht vor der Nase wegschnappen.
+
+
+Z.B. der Umbruchalgorithmus von Serge Neven (?) ist
+immer noch ungeschlagen bzgl. des sauberen Satz. Die
+Funktionen sind idR da, aber zu schlecht implementiert
+und die Versions-Kompabilität ist mangelhaft.
+
+MfG
+
+Detlef Riedmeyer

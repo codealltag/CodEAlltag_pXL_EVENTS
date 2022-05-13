@@ -1,0 +1,22 @@
+Laure Reinbacher <dummy@invalid> wrote in
+news:ejv1qi$sch$46$2@infk.s-lanrar.xmh: 
+
+
+Vorschläge! Keine Normen!
+
+Und wer in alles in der Welt zwingt dich zu UTF-8 ???
+
+Vielleicht solltest du dir einen anderen Newsreader zulegen, wenn dein
+Seamonkey bei Sachen, mit denen er nicht zurechtkommt, einfach gar nix mehr 
+macht.
+
+Und wenn schon kleinkariert, dann aber richtig:
+Eigentlich dürften deine Postings gar nicht weitergeleitet werden,
+weil schon deine Email-Adresse per regexp not valid wäre!
+
+
+Gruß R.V.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

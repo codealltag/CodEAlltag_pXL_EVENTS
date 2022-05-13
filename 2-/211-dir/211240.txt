@@ -1,0 +1,26 @@
+Hallo,
+
+
+...[...]...
+
+
+UTF-8 ist nach meinen aktuellen Kenntnissen nicht falsch.
+Auch wenn ich eher die ISO-Latin-Zeichensätze benutze, ist
+mir kein hartes Ausschlusskriterium für UTF-8 bekannt, dass
+aktuell noch Bestand hat. Irgendwo und -wann, spätestens um
+2005, war UTF-8 IIRC auf der ,,nutznetzkonformen'' Seite.
+
+...[...]...
+
+
+IIRC hat Bettina ECS 1.1? Dann läuft sie erst mal auf CP850?
+Und jetzt sollten wir diese Diskussion lassen. Bringt nicht
+mehr viel. Einzig und alleine ein Hinweis auf die technischen
+Gründe warum UTF-8 (noch?) nicht verwendet werden soll. Für
+mehrsprachige EMail ist UTF-8 in vielen Fällen notwendig.
+
+
+MfG
+
+
+Sebastian Doeppenbecker

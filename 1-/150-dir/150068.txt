@@ -1,0 +1,103 @@
+Auszug :
+
+Zur Strafbarkeit des Ankaufs
+
+Mittlerweile hat sich herumgesprochen, dass der Erwerb der CD nach
+bundesdeutschem Strafrecht keine Hehlerei ist. Denn die CD, auf der
+die Daten sich befinden, wurde wohl nicht gestohlen. Nur die Daten
+selbst wurden unbefugt erlangt, doch bezieht sich der Tatbestand der
+Hehlerei =A7 259 StGB nur auf Sachen, das sind körperliche Gegenstände.
+Hehlerei an den Daten kommt daher nicht in Frage. Man darf die
+Vorschrift auch nicht über ihren Wortlaut hinaus ausdehnen, da dies
+gegen das grundgesetzliche Analogieverbot verstieße. Es leuchtet ein,
+dass man nur bestrafen können sollte, was schon vor der Tat eindeutig
+als strafbare Handlung festgelegt war.
+
+--------------------------------------
+
+Anwalt Burkhard Karl- Hehlerei
+
+Problemüberblick zu Hehlerei
+Flußbach. Im Strafrecht wird eine Handlung übereilt als Hehlerei
+bestimmt. Kann der Tatbstand der Hehlerei tatsächlich so schnell
+angenommen werden?Nachstehend wird die Hehlerei an zwei Beispielen
+erörtert und auf Probleme hingewiesen. Der Straftatbestand der
+Hehlerei ist umfassend, so daß zwei genannten Beispiele Anlaß zum
+Nachdenken geben sollen, aber nicht die Hehlerei abschließend
+behandeln.
+
+
+1. Sachverhalt: Derzeit werden täglich Pressemitteilungen bekannt
+gegeben,daß weitere Fälle von Steuerhinterziehung ermittelt worden
+sind oder Ermittlungen wegen Steuerhinterziehung laufen.
+
+Konkret ist auf den bekannten Fall einzugehen, bei welchem mutmaßlich
+Bundesbehörden Informationen gekauft haben, welche möglicherweise
+unter Mißachtung von geltendem Rechtin einem anderen Staat erlangt
+worden sind. Kurz: Daten, gespeichert auf Datenträgern, sind aus dem
+Ausland nach Deutschland verkauft worden.
+
+Erst auf Grundlage der erworbenen Daten, kann die Strafverfolgung
+beginnen, da ein Anfangsverdacht durch die Ermittlungsbehörden bejaht
+werden kann.
+
+Insoweit muß der Sachverhalt als feststehend betrachtet werden, da
+andernfalls Unwägbarkeiten bestehen, welche zu keinem sicheren
+Ergebnis führen.
+
+
+2. Rechtliche Würdigung a) Täter kann nur eine natürlich Person sein.
+Bei der Bundesrepublik Deutschland handelt es sich gerade nicht um
+eine natürlich Person sondern um eine juristische Person, die durch
+ihre Organe handelt. Hier wären allenfalls "taugliche" Täter, also
+natürlich Personen, zu finden.
+
+
+b) Bei den angekauften Daten, müßte es sich um eine Sache handeln.
+Zweifelsfrei ist das Speichermedium eine Sache. Es soll an dieser
+Stelle davon ausgegangen werden, daß der Datenträger
+rechtsgeschäftlich erworben worden ist und nicht aus einer
+rechtswidrigen Tat herrührt.
+
+
+Die Hehlerei gem. =N1100 Abs. 1 StGB setzt voraus, daß eine Sache, die
+einem anderen gestohlen oder sonst durch eine gegen fremdes Vermögen
+gerichtete Tat erlangt worden ist, ankauft oder sonst sich oder einem
+Dritten verschafft, sie absetzt oder absetzen hilft, um sich oder
+einen Dritten zu bereichern.
+
+Der Informant/ Verkäufer muß also eine Straftat gem. den =A7=A7 242 ff.
+StGB verwirklichen, was bezüglich des Begriffs der "Sache" im
+strafrechtlichen Sinn problematisch erscheint.
+
+Eine Sache ist ein körperlicher Gegenstand unabhängig von ihrem
+Aggregatzustand. Der Sachbegriff im strafrechtlichen Sinn weicht von
+dem zivilrechtlichen Sachbegriff ab. Tiere sind Sachen; ein Diebstahl
+an der Nachbarkatze wäre möglich.
+
+Wie verhält es sich aber bei Daten?
+
+Die "Computersprache" basiert letztlich auf dem Binärsystem. Der PC
+kennt zwei Zeichen; Strom fließt oder fließt nicht. In der Kombination
+dieser Zeichen lassen sich letztlich komplexe Programme entwickeln.Nun
+läßt sich Strom nicht unter den typischen Sachbegriff subsumieren, so
+daß der Diebstahl gem. =A7 242 StGB ausscheidet. Wer aber Strom aus dem
+öffentlichen Stromnetz unberechtigt abzweigt, macht sich jedoch unter
+Umständen strafbar; hier käme =A7 248 c StGB in Betracht.
+
+Einer Unterschlagung durch den Bankangestellten als taugliche Vortat
+zu der Hehlerei kommt ebenfalls nicht in Betracht. Wie der Diebstahl
+setzt die Unterschlagung eine fremde bewegliche Sache voraus. Wie
+zuvor festgestellt, sind Daten keine Sachen.
+
+An dem Zahlenmaterial (z.B. Kontenübersicht) selbst ließe sich ein
+Diebstahl oder eine Unterschlagung nicht konstruieren. Wenn das
+Zahlenmaterial zur Einsicht übergeben wird, scheitert es beim
+sinnlichen Erfassen der Zahlen wiederum an dem Sachbegriff. Das
+abgedruckte Papier ist legal erworben worden, was zu unterstellen ist,
+so daß auch hieran kein Diebstahl bestehen kann.
+
+c) Nach Auffassung des Verfassers ist eine Strafbarkeit wegen Hehlerei
+von Amtswaltern der Bundesrepublik Deutschland nicht gegeben, wenn
+diese elektronische Daten kaufen, um damit einen Anfangsverdacht von
+Straftaten zu bejahen und Ermittlungen .....

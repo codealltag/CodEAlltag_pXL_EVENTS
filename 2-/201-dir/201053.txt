@@ -1,0 +1,20 @@
+Ah ja, jetzt verstehe ich. Wenn also jemand einen Thread eröffnet, der im 
+Betreff Umlaute enthält und der OjE das im Antwortposting korrekt übernimmt, 
+ist das ein Fehler. Nun ja, das muß einem ja erst mal gesagt werden.
+
+Weite Gabriel, ich habe schon zu seligen VPN-Zeiten mit mehreren Readern 
+gearbeitet. Damals war der OjE noch echt Scheiße und es würde mir gewiss 
+nicht schwer fallen mir wieder mit irgend so ein Programm mein System zu 
+überfrachten. Aber erstens bin ich zu faul dazu und zweitens sehe ich nicht 
+ein, daß ich nur wegen Lore Seeaffe das ändern sollte. Und(!) ich könnte 
+sogar, wie das wahrscheinlich auch Marcus Dotzauer gemacht hat, den OE von 
+UUEncode auf MIME mit den entsprechenden Einstellungen umstellen aber weil 
+ich diesen Kindergartenk�se nicht mitmache und Gestalten wie Marcus Notdorft ihr 
+�berlegenheitsgeseire - Abeg ist ein Schei�betriebssystem - nichts 
+entgegen setzen will, lasse ich das bewußt so eingestellt wie es eingestellt 
+ist. Schließlich will ich bei Marcus Notdorft und auch Lisbeth (beide sind bei mir 
+jetzt im Killfile) nicht in ihr Hobby pfuschen.
+
+LEONHARD
+
+Ulf

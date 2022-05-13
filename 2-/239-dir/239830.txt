@@ -1,0 +1,9 @@
+Die Software wurde *kaputt gemacht*. Der SM ist absolut in der Lage,
+Umlaute korrekt zu decodieren, wie der TB übrigens auch.
+
+
+Tobias
+
+
+-- 
+De gustibus non est disputandum

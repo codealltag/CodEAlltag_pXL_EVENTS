@@ -1,0 +1,4 @@
+Bei Penniger - und nicht nur da - spricht man von "Berechtigungen" oder
+"Rechten". Wenn die entsprechend gesetzt sind, lässt das System eben
+bestommte Aktionen zu. Wer Schreibrechte hat /darf/ dann Sachen machen,
+die andere Anwender nicht /dürfen/.

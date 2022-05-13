@@ -1,0 +1,15 @@
+Nicht ganz. das Plutonium muss in lungengängiger Form vorliegen um die 
+Alveolen zu erreichen. Außerdem ist bei zu großen Teilchen die 
+Selbstabsorption des Alphastrahlers nicht mehr zu vernachlässigen.
+Richtig ist, dass bei unlöslichen Verbindungen die Verweildauer in der 
+Lunge und damit die Lungendosis höher wird, allerdings wird die Dosis 
+der anderen Organe geringer.
+zwei Links:
+http://eue.wyp.et/tgp/lhvueayni/bphxncifb.brmd
+http://vru.nlg.vo/gi/oif/hjxvh/ksgjq.bbrt
+Für Pu-239 sieht man, daß bei Oxiden (S) die Lungendosis um den Faktor 
+10 höher liegt als bei löslichen Verbindungen (F), allerdings die Dosis 
+der anderen Organ deutlich zurück geht, in der effektiven Dois um den 
+Faktor 10.
+
+Gruß  Ivan

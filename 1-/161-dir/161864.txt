@@ -1,0 +1,38 @@
+Nein, sondern es heißt, dass _irgendeine_ Software / Scriptware /
+Makroware / Backdoorware keinen Schaden anrichten kann, weil das
+Betriebssystem sie nur in einer Art Sandbox virtuell ausführt.
+
+
+Für ein sicheres Betriebssystem sind VMs genauso Softwares wie normale
+Anwendungssoftwares auch. VMs wären überflüssig, weil des
+Betriebssystem selbst die Virtualisierung erzeugt.
+
+
+Auf Betriebssystemebene sind die User-Aktionen so zu behandeln wie
+jede andere Software auch. Das Betriebssystem selbst hat sich vor dem
+User genauso zu schützen wie vor jeder Software.
+
+Anders ist es mit den Anwendungsdaten des Users. Nur der User kann
+entscheiden, was er aus dem privaten Bereich freigibt für a) Heimnetz,
+b) Firmennetz oder c) Internet. Wenn ein User zu blöd ist und zu viel
+explizit freigibt, dann kann das Betriebsystem die Privatheit der
+schon freigegebenen Daten (bis auf Widerruf) nicht mehr garantieren,
+also den User nicht vor sich selbst schützen. Gleiches gilt für
+Internetprogramme: Programme, die einmal als Internetprogramme
+freigegeben sind, kann das Betriebsystem anschließend nicht mehr als
+nur lokal kommunizierend behandeln. Zu einer semantischen Verifikation
+des Betriebsystems gehörte aber auch, dass eben gerade nur genau
+diejenigen Programme mit dem Internet kommunizieren dürfen, die der
+User dafür freigegeben hat, und dass sie nur fürs Internet
+freigegebene Anwendungsdaten bearbeiten darf. Es gibt in so einem
+Konzept genau 1 Software-Backdoor: die aktive, interaktive
+Entscheidung des Users, Daten oder Software für freigegebene Daten
+freizugeben.
+
+Auch die dümmsten User kann ein gutes Betriebssystem belehren: Durch
+kurz und leicht verständliche Zusammenfassung der freigegebenen
+Aktivitäten. 
+
+
+Sehr schwierig in der Tat. Wird noch ein paar Jahrzehnte der Forschung
+und Finanzierung bedürfen.

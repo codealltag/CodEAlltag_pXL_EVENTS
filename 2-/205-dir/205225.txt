@@ -1,0 +1,17 @@
+- Sandro Neddermeyer
+
+
+Die von ooo exportierten Pdfs enthalten eingebundene
+Schriften, damit das Ausgabegerät 1:1 arbeiten kann.
+
+Wenn man jetzt versucht, Font-Klassen einzubinden,
+die die Version des Export-Utility noch nicht kennt,
+dann gibt das ähnliche Probleme wie der Versuch, mit
+Word 2000 'docx' lesen zu wollen.
+
+Bei der Einführung neuer Datenformate gibt es solche
+Unverträglichkeiten zwangsläufig, das ist kein Mangel.
+
+
+-- 
+no sig

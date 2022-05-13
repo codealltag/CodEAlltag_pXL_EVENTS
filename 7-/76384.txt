@@ -1,0 +1,47 @@
+Antwort auf eine Nachricht von Guy
+
+
+Korrekt! Auf der Sekundärseite werden die Informationen abgegriffen, die 
+erforderlich sind, auf der Primärseite zu regeln. Gehe doch einfach mal 
+davon aus, daß mir das Prinzip bekannt ist.
+
+
+Na!?
+
+Stellen wir uns doch mal ganz dumm. Stellen wir uns mal vor, wir wollen 
+eine 12V-Lampe an einer 24V-Stromquelle betreiben. Schließen wir sie 
+einfach an, machts „PLING!“, und die Lampe ist im Arsch.
+
+Die einfachste Methode ist ein Vorwiderstand, der in diesem Beispiel 
+exakt denselben ohmschen Wert hat wie die Lampe. Die Spannung teilt sich 
+an dieser Reihenschaltung auf, an beiden Bauteilen liegt eine 
+Teilspannung von 12V an. Einfacher geht es wirklich nicht, aber der 
+Nachteil ist, daß am Widerstand genausoviel Leistung „verbraten“ wird 
+wie an der Lampe, will sagen, diese Schaltung ist so doof wie „Knut“.
+
+Ich kann aber auch einen verdammt schnellen Schalter einbauen, der die 
+Stromzuführung gaaaaanz schnell ein- und ausschaltet. Hinter dem 
+Schalter kann (und werde) ich noch eine Siebdrossel in Reihe und einen 
+Ladekondensator gegen Masse einbauen, damit der Strom an der Lampe 
+wieder geglättet ist. Wenn es mir jetzt noch gelingt, für den wahnsinnig 
+schnellen Schalter die passende Taktfrequenz zu finden, dann brennt die 
+12V-Lampe, und brennt sogar akkurat mit ihrer richtigen Nennleistung.
+
+Vorteil: anders als am doofen Vorwiderstand, der _immer_ einen 
+„Spannungsabfall“ hat, und somit Verlustleistung aufnimmt, fällt an 
+einem Schalter eine solche Verlustleistung eben nicht ab.
+
+Das ist der Grund, warum ein Schaltnetzteil immer einen besseren 
+Wirkungsgrad hat, er kann gar nicht anders. ;-)
+
+
+Gib mir Deine Eule, ich geb Dir meine! ;-) Um den „Knut“ aber mach Dir 
+mal keine Sorgen, der kapiert eh nix. 8-)
+
+
+Glück auf!
+Hertha Fiedeldei
+
+-- 
+
+http://pxp.gsspi-hibgng.hc

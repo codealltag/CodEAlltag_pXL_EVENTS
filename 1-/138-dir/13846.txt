@@ -1,0 +1,22 @@
+Es sind Sieben vs. Zwei, die schließenden Tags nicht vergessen!
+
+
+Weil das orthographisch korrekt auch "*Fett*!" heißt.
+
+
+UDIAGS, sowas tut man auch nicht. Die Schriftauszeichnung dient dazu
+einzelne Wörter oder Satzteile hervorzuheben, und nicht ganze (Ab)Sätze.
+Notfalls *schreibt* *man* *das* *halt* *so*.
+
+
+Ja, aber es behindert massiv den Lesefluss, wenn es der Newsreader nicht
+umsetzen kann. Die Usenet-übliche Auszeichnung ist im Gegensatz dazu
+auch ohne gesonderte Interpretation durch den Newsreader als solche
+erkennbar. Und, wie Reinhold schon erwähnt hat, es ist weniger
+einzutippen, selbst bei drei auszuzeichnenden Wörtern:
+
+[b]Das ist fett[/b].
+*Das* *ist* *fett*.
+
+-- 
+rs

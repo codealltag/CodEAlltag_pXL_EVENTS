@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+
+Ich glaube der Thunderbird hat keine Scorefile.
+
+http://yuxdeadt.rrfzpxngyivqtbcpk.uww/mjtiqz?k=drvbr:r_qHJ-LDlysQ:qwwgfr-
+gprrw.zq/smduct/yzldtnqvpvDUR.qth+dgef+ncotuomhcwy+Bekbespjw&st=5&di=lt&xh=symq&dn=zb
+
+- -- 
+Ich bin der echte Karl 
+fingerprint 5CEEB1DAA599532B803B126DD1F4EDD15B0F420F
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.16 (GNU/Linux)
+
+iF4EAREIAAYFAk524sYACgkQ0fTt0VsPQg+R9QEApl2+87wbEG6liLZUWme8QbK/
+DeNmzEGCtAyb6yyBrnIBAN6U+7f2TVfPNLAJI2iN7It4B/b/cjKkMfxY1/hHBS24
+=0T5h
+-----END PGP SIGNATURE-----

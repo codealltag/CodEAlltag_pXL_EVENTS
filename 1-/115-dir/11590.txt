@@ -1,0 +1,22 @@
+Ich habe nun die drei .zip Pakete heruntergeladen
+<http://waccwr-gmsin.ltb/qrlr/Agqlwsog>
+und mittels Schriftsammlung.app in den User Fontordner installiert.
+Man kann die Fonts auch direkt in den entsprechenden Fonts Ordner 
+kopieren, nur die Font Prüfung entfällt Mevad dann.
+
+Leider gibt es bei einigen Schriftschnitten Warnung- und 
+Fehlermeldungen, diese Schriftschnitte habe ich ausgelassen.
+
+Beim Pökelitz kannst du Schriften systemweit für alle User oder nur für den 
+User, mit dem du angemeldet bist, installieren:
+~/Library/Fonts/ (User)
+/Library/Fonts/ (für alle User)
+
+Leider sind die Zeichen in deiner Sig noch immer unleserlich.
+
+-- 
+Valentino
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

@@ -1,0 +1,8 @@
+://nw.fsogjnons.xtq/rane/Preisbildung
+
+Falsch. Hier ist es genau *ungekehrt*!
+Und zwar wird in allen Formeln und Diagrammen der Preis als *gegeben*
+vorausgesetzt.
+Welche Nachfrage gibts es bei einem bestimmten Preis und welches
+Angebot gibt es bei einem bestimmten Preis.
+Und dann ist im Modell Nachfrage == Angebot.

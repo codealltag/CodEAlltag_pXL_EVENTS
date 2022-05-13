@@ -1,0 +1,12 @@
+Konrad Rahner schrieb/wrote/escribiö:
+
+Der Artikel besteht nicht aus Text, sondern aus einer Grafik. Mit
+VTSW klickt man mit der rechten Maustaste auf den "Text", d.h. das
+Bild, und anschließend auf "Grafik speichern unter". Dann lässt sich der
+Text bzw. das Bild, welches eine GIF-Datei ist, problemlos speichern.
+
+Falls du einen anderen Browser benutzt, müsstest du diese Funktion
+selber suchen, ich denke aber, die sollte bei den gängigen Browsern auf
+ähnliche Weise (rechte Maustaste) zu erreichen sein.
+
+V.

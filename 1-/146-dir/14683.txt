@@ -1,0 +1,8 @@
+Auf 30 Stellen gerechnet: 0.99999999999999570736861090424066252945, wo
+ist das Problem?
+
+
+Du hast das falsche System 8-) KCalc rechnet auf Wunsch mit so vielen
+Stellen, wie du in der Anzeige auf dem Bildschirm unterbringen kannst.
+
+Timo

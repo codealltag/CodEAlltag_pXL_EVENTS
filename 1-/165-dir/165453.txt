@@ -1,0 +1,3 @@
+Der Hinweis wird ihm nicht reichen.
+Es fehlt der Hinweis, dass mit dem Einschaltknopf das Gerät auch 
+ausgeschaltet werden kann.

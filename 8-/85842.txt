@@ -1,0 +1,63 @@
+Fredi gab zu Bedenken:
+
+
+Das ist ein Siedewasserreaktor.
+ der Primär dampf treibt keine Turbine an sondern nur einen Wärmetauscher .
+dort wird dann der ungefährliche  Dampf für die Turbine gemacht.
+ keine Ahnung ob das alles noch intakt.
+2. Problem.
+ die großen Maschinen zur Stromversorgung ( also die Hauptgeneratoren) haben 
+eigene <Trafos, und die Maschinen müssen erstmal erregt werden und wen da 
+was beschädigt ist hast du auch keinen Saft auf der Eigenbedarfsschiene.
+
+Unabhängig davon existiert nur die Notstromversorgung.  Aber die hat meist 
+völlig andere Spannungsebene.
+
+ Nur mal Kurz paar Einwände ohne die Anlage da genau zu kennen.
+
+
+ Ist aktiv geworden bis die Batterien alle waren.
+ ist hier auch so
+ Ausfall normal 
+Alles geht in Notfallzustand von Batterie.
+Gleichzeitig bekommen mit der Umschaltung die Notaggregate den Startbefehl 
+zum anlaufen.
+Sobald die angelaufen sind  übernehmen die die Notversorgung und laden die 
+Batterien wieder auf.
+( Alles nur in Stichpunkten)
+Oh ander auch .
+ In de sind  3 Vorgeschrieben unabhängig voneinander . ich kenne auch nicht 
+die dortigen vorschriften.
+
+
+Völlig andre Spannungsebene .  du kannst eine 240 Volt Glühbirne auch nicht 
+mit 10 KV betreiben.
+
+Deine Idee Funktioniert nur wen intern alles OK.
+Aber das war es wohl nicht.
+
+
+Das ist wohl war  aber ohne genaue Kenntnis der Anlage nur  Kaffesatztlesen.
+
+Sollte man annehmen.
+ Aber das ist hier nicht anders.
+
+Das Problem sind immer die Chefs.
+ man macht für die Ökonomen immer alles so das es billig bleibt.
+ seltene Ereignisse die  eventuell überhaupt nicht eintreffen  werden dann 
+einfach weglassen.
+ Und das ist nicht nur bei Kraftwerken so.
+ schau dir mal in DE z.B: die Bahn an . was das alles eingespart wurde. kaum 
+paar Schneeflocken und schon geht nichts mehr.
+ im Prinzip ist das da auch so.
+Die Kühlung von einigen Bundesdeutschen Meilern soll ja angeblich!! auch nur 
+bis 40 grad C ausgelegt sein.
+( übrigens der angeblich ganz gefährliche Meiler, aus dem Osten, in 
+Landl, der schon abgebaut ist wurde für max 60 Umgebungsluft  
+projektiert.)
+
+
+Eben aber der Haken liegt ebnen oft im Detail.
+
+MFG
+g.n.

@@ -1,0 +1,5 @@
+Also meine Medienmaschine vermisste unter YBBSITZ ein paar Codecs und unter Lengnau 
+ein wenig Speed...da der Speicher und der Prozessor bei letzterem nicht mal 
+zu 50 % ausgelastet waren, vermute ich Programmierfallen.
+
+Ivan Ohlthaver

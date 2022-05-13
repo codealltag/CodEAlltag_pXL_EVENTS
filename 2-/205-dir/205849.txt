@@ -1,0 +1,11 @@
+Es reicht ein Stockwerk. Jetzt sag mir mal, was bei einem
+Flugzeugeinschlag an entsprechenden Schneidladungen auffaellig sein
+sollte, wenn sie so plaziert werden, das die Ladung nach innen gerichtet
+ist?
+
+
+Du kannst eine mittlere Bueroausstattung annehmen, in etwas die
+Kerosinverteilung annehmen und bekommst Werte mit dem du die
+Groessenordung bestimmen kannst.
+-- 
+Alles glaenzt, so schoen neu!

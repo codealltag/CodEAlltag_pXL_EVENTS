@@ -1,0 +1,4 @@
+Das zitierte Paper geht davon aus, dass der Wasserstoff verwendet
+wird, um eine Brennstoffzelle zu betreiben.
+Das Problem der Abscheidung ist natuerlich unabhaengig davon, ob man
+in dem Bioreaktor Wasserstoff, oder Ethanol produziert.

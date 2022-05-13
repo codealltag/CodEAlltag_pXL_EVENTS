@@ -1,0 +1,21 @@
+Die Adresse muß aber eine gültige Syntax besitzen, was bei der Adresse von
+Ignaz Justenhoven definitiv nicht der Fall ist. Das ist noch schlimmer, als eine
+Adresse zu fälschen. Das heißt, er nimmt billigend Bounces in Kauf und
+belastet durch sein Verhalten die Infrastruktur von Mailservern, die
+andere für ihn betreiben. über die Gültigkeit seines Realnamens will ich
+nicht mal spekulieren. Es zeigt sich in diesen Fällen jedenfalls immer
+wieder, daß asoziales Verhalten im Netz mit ungültigen oder gefälschten
+Adressen und/oder Realnamen verdeckt wird, was auch noch feige ist. Er
+kann sich nicht nur nicht benehmen, sondern hat noch nichtmal die Eier,
+dazu zu stehen.
+
+übrigens ist es wirklich kein Problem, eine Mailadresse für Usenet zu
+haben, da jeder halbwegs vernünftige Provider schonmal 99% des Spams
+beseitigt. Wenn ich in meine Logs gucke, kommt an meiner JABH-Adresse
+weniger Spam an, als an meiner Hauptadresse. Und ich poste recht viel.
+
+Größe,
+
+
+-- 
+Maximilian Uhrmacher

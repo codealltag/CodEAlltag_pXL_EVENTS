@@ -1,0 +1,7 @@
+Der Wirkungsgrad mechanischer Getriebe liegt bei 99%
+der Gesamtwirkungsgrad ist also bei 0,99*0,45.
+
+Wandler gibt es nur bei Automatikgetrieben.
+
+Auch ein Elektrofahrzeug benötigt ein Getriebe, ggfls
+eins mit nur einem Gang.

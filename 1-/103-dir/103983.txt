@@ -1,0 +1,10 @@
+On 13 Jul., 20:15, "Philipp Ziehmer" <qjceyq...@ebbvy.kj> wrote:
+
+Ist bei der Bahn auch mit dem Primärenergiebedarf gerechnet? Ich hab
+nur was von der Traktionsenergie plus Aufschlag für sekundäre
+Verbraucher gelesen.
+
+Die Energieverteilung in elektrischen Stromnetzen ist mit erheblichen
+Verlusten verbunden.
+Bei Haushaltsstrom kommem angeblich nur ca 30% der erzeugten Leistung
+beim Verbraucher an.

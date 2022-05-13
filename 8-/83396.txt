@@ -1,0 +1,7 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+
+Es gibt noch etwas, was viel weniger zu beherrschen ist: Betriebswirte.
+Da wird schon mal jahrelang eine Komponente nur auf dem Papier geprüft.
+Mit zunehmendem "Kostendruck" ist es nicht auszuschließen, dass gewisse
+Sicherheitsvorkehrungen und Redundanzen nur auf dem Papier eingebaut
+sind.

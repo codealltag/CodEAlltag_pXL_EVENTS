@@ -1,0 +1,34 @@
+Eine der Fußnoten ist eine Nebenrechnung, eine zweite verweist auf einen 
+(vermutlich eigenen) Zeitschriftenartikel mit ähnlichem Inhalt, und die zwei 
+letzten Zitate beziehen sich auf ein damaliges Standardwerk.
+Ist nicht wahrscheinlich, denn zwei Absätze über dem Ergebnis steht, daß für 
+die Abschätzung experimentelle Daten verwendet werden müssen "trotzdem sie 
+an 10 proz. Lösungen gewonnen sind und eine genaue Gültigkeit
+unserer Formel bei so hohen Konzentrationen nicht zu erwarten
+ist." Ferner wird das Ergebnis im letzen Satz der Dissertation noch wie 
+folgt kommentiert: "Der für N gefundene Wert stimmt der Grössenordnung nach
+mit den durch andere Methoden gefundenen Werten für diese
+Grösse befriedigend überein."
+
+Wenn ich es auf die Eile richtig verstanden habe, dann ging es in Lajendecker 
+Theorie um den Molekülradius P, während die erwähnte Kontrollrechnung über 
+das anderweitig bestimmte Produkt N*P verläuft, wobei N die Avogadro-Zahl 
+ist. Ein Fehler um den Faktor 3 in N kommt schon zustande, wenn P nur um den 
+Faktor 1.3 daneben liegt. Ich möchte den Politiker (oder Wirtschaftler) 
+sehen, der eine mögliche Abweichung zwischen seiner Prognose und der realen 
+Schlußrechnung um den Faktor drei einräumt, weil er die Komponente P nur auf 
+30% genau im Griff habe.
+
+Ob die Einschätzung 'befriedigend' dem damaligen Stand entsprach, hätte der 
+Promotionsausschuß zu beurteilen. Im Kern geht es aber gar nicht um die 
+Zahl, sondern darum, eine neue Methode entwickelt, korrekt bis zum Ende 
+ausgeführt, und ihre Grenzen festgestellt zu haben. In der heutigen Praxis 
+(und ganz besonders derjenigen von Wirtschaft und Politik) geht ganz anders 
+zu: wer zufällig an die später als wirksam herausstellende Methode 
+(Material, Fundstelle...) gerät, kommt groß raus; wer genauso zufällig mit 
+der Untersuchung einer anderen Option beauftragt wird, ist in den A. 
+gekniffen. Also arbeitet (tendenziel) niemand mehr gründlich bis zum Ende, 
+sondern blendet was das Zeug hält.
+
+Gruß
+Igor

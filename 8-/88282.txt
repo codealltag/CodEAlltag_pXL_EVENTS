@@ -1,0 +1,41 @@
+Aber doch nicht wörtlich. Wenn der Originalartikel bestimmte 
+Schreibkonventionen einhält (etwa den Gebrauch von lateinischen und 
+griechischen Buchstaben in Formeln), die von meinen abweichen, werde ich 
+das selbstverständlich ändern -- meine Arbeit soll lesbar bleiben.
+Ich werde daher *nicht* wörtlich zitieren, sondern so schreiben, wie es in 
+meine Arbeit passt.
+
+Also wird der Originalautor mit Literaturstelle genannt, aber nicht 
+abgeschrieben, z.B.
+
+  Definition 3 (nach [BD03], dort Definition 7): {Rest so formuliert, dass 
+  es für meine Arbeit passt, nicht für die des Originalautors}
+
+Gut, bei einem Axiomensystem kann es sein, dass man den Text 1:1 
+übernimmt, weil Axiom ist Axiom. Vielleicht ist aber auch der Zweck des 
+Axiomensystms ein ganz anderer, etwa beim Originalautor der Beweis, dass 
+drei verschiedene Axiomatisierungen Äquivalent sind, bei mir aber die 
+Definition der Strukturen, die ich untersuchen will -- da ist eines genug. 
+Oder mir passt eines seiner Axiome nicht ins Konzept, und ich ersetze es 
+drch ein anderes ähnliches. Dann werde ich meist (außer wenn diese 
+Änderung den *wesentlichen* Teil meiner Arbeit bildet) meine Version 
+vorstellen und dazuschreiben, dass, wie und ggf. warum sie von der des 
+Vorgängers abweicht, nicht aber den Vorgänger wörtlich zitieren und 
+drunterschreiben "April, April! So kann ich es gar nicht brauchen und es 
+geht anders weiter!".
+
+Der Originalautor hat seine Arbeit geschrieben, ich schreibe meine. Ich 
+zitiere ihn, damit ich mich nicht mit seinen Federn schmücke. Zweck des 
+Zitats ist auch in diesem Fall aber nicht, sich mit dem Inhalt 
+auseinanderzusetzen, sondern ihn zu übernehmen: Nicht "X schreibt 
+dasunddas, ich aber schreibe dasunddas", sondern "X geht diese Schritte, 
+und ich mache da weiter, wo er aufgehört oder anders weitergemacht hat". 
+Mein Originalbeitrag erweist sich nicht in der Abgrenzung vom Vorgänger, 
+sondern in der Fortsetzung -- abweichen *kann* ich ja gar nicht, wenn der 
+Vorgänger sein Zeug bewiesen hat.
+
+Es ist wirklich etwas anderes, und in der Tat findet man wirklich 
+höchstens ganz vereinzelt Zitate in dem Sinn wie hier diskutiert.
+
+-- 
+Pascal Verner

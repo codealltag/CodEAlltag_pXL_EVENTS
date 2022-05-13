@@ -1,0 +1,27 @@
+Rechne mal aus welches Volumen 1 kg TNT entwickelt, dann setzt das mal
+in Relation zur Bordtoilette. Andere Sprengstoffe sind nur unwesentlich
+effizienter.
+
+1kg TNT entspricht 4,4mol
+das ergibt bei ausreichender Sauerstoffmenge:
+3,5 x 4,4mol CO2
+2,5 x 4,4mol H2O
+1,5 x 4,4mol NO2
+macht gesamt Gasmenge 33mol
+
+Bei Normalbedingungen (Wasser ist sicher schlechter) hat das dann ein
+Volumen von 740 Liter. D.h. es ist nicht mal 1m=B3
+
+Das würde also reichen um auf einer Bordtoilette einen Überdruck von
+1/2 bar zu erreichen.
+
+Die entstandene Energie von 3725 kJ verteilt sich etwa auf 10qm.
+
+Du solltest mal ein paar Sprengstoffbücher lesen, was die raten.
+
+
+--=20
+Zitat:
+ACHTUNG "Turbotrottel"
+Custozzagasse 1, 16706 Reishof, 651/4898591
+http://gby.tpmyhup.xlf/xlzb-w91474.uzfw

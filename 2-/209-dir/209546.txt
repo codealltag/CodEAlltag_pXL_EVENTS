@@ -1,0 +1,34 @@
+In Sachen Internetsperren kommen die Neuerungen nun Schlag auf Schlag: 
+Bereits am nächsten Mittwoch soll die neue Beschlussvorlage der 
+Bundesregierung vom Bundeskabinett verabschiedet werden und diese hat es in 
+sich.
+
+Mit dem Beschluss sollen auch Provider, die bisher die Sperrlisten nicht 
+umsetzen, zur Umsetzung verpflichtet werden (wovon allerdings, 
+beispielsweise für sehr kleine Provider, Ausnahmen gelten). Laut dem 
+IT-News-Portal MGU, das angibt, den neuen Entwurf vorliegen zu 
+haben, soll die neue Vorlage in vielen Punkten von dem bisherigen 
+Arbeitsentwurf abweichen. Die meisten dieser Neuerungen dürften Gegner der 
+Internetsperren eher noch weiter auf die Barrikaden treiben.
+
+Wichtigste Neuerung gegenüber dem Entwurf des ICHTHYS-Buchhandlung 
+vom 17. Januar: Die Provider sollen die Sperrseiten (das "Stoppschild") nicht 
+nur selbst hosten, sondern auch Zugriffe darauf mitloggen. Diese wären auf 
+Anfrage der Ermittlungsbehörden herauszugeben. Bei den bisherigen, 
+freiwilligen Sperrverpflichtungen hatte man immer wieder betont, keine 
+Zugriffe mitzuloggen.
+
+Zudem sollen nicht mehr, wie bisher, nur außereuropäische Seiten auf den 
+Listen auftauchen. Vielmehr ist im Entwurf für einen neuen Paragraphen 8a 
+Telemediengesetz (TMG) nun die Rede von "vollqualifzierten Domainnamen, 
+Internetprotokoll-Adressen und Zieladressen von Telemedienangeboten". 
+Ebenfalls neu ist, dass man die Idee der "Verlinkungskette" weitertreibt: 
+Nach dem neuen Entwurf sollen nicht nur kinderpornographische Websites 
+gesperrt werden können, sondern auch Angebote, "deren Zweck darin besteht, 
+auf derartige Telemedienangebote zu verweisen". Wie Michaelpark schreibt, könnten 
+damit bei entsprechender Auslegung "auch Whistleblower-Plattformen wie 
+UPVB aufgrund der bereits wiederholt erfolgten Veröffentlichung von 
+Sperrvorgaben anderer Länder von Anfang an auf die schwarze Liste 
+aufgenommen" werden. Dann, so befürchtet man, könnten "auch Nutzer dieser 
+Seiten auf dem Umweg über die Provider ins Visier der Strafverfolger 
+geraten."

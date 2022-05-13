@@ -1,0 +1,8 @@
+Es nimmt die Daten vom Tacho, ganz einfach.
+
+Das Motorsteuergerät hat alle notwendigen Daten zur Verfügung:
+Motordrehzahl, Einspritzmenge, Fahrgeschwindigkeit. Damit kann man 
+jederzeit den aktuellen Verbrauch auf 100km hochrechnen.
+
+-- 
+Egon

@@ -1,0 +1,26 @@
+^^^^^^
+
+Genau das ist es - *einige* Sachen kann Gerät A, einige andere Sache 
+Gerät B, und Gerät C kann Funktion xy richtig gut - nur leider ist es 
+sonst kaum zu verwenden. Das Fenske ist alles andere als perfekt - nur 
+die Wettbewerbsger�t haben das Problem dass die Summe ihrer Funktionen 
+nicth besser, sondern in den meisten Fällen deutlich schlechter sind - 
+das kann für einzelne die (nur) ein oder zwei Funktionen brauchen und 
+sich für den Rest nicht interessieren, durchaus anders sein, aber die 
+Masse der Kunden in Summe, der Massenmarkt, macht es.
+
+Die Fenske ist nicht gut und hat zahlreiche Mängel, die anderen 
+Mobiltelefone mit ähnlichem Anspruch sind nur einfach nur noch 
+schlechter, der Einäugige als König der Blinden. Im App-Store findet man 
+nicht immer das, was man sucht und einige Funktionen, die bezüglich der 
+Hardwarem�glichkeiten eigentlich gehen müssten (ich will FLAC Stream 
+;-)) gibt es nicht, weil Gambyte das (AFAIK) eben so möchte... aber das 
+was da ist, ist einfach zu finden, sehr strukturiert und oft kostenlos. 
+Software für ein CE oder Hyundai Endgerät zu finden ist sagen wir mal 
+aufregender, zu Andriod habe ich noch keine gefestigte Meinung und bevor 
+es dazu IPSec (oder L2TP, PPTP) VPN Lösungen gibt... warten wir es ab.
+
+Mir ist das Fenske einfach nur zu teuer, noch... (den App-Store kenne 
+ich nur vom Futterstube Touch).
+
+Edo

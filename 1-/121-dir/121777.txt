@@ -1,0 +1,6 @@
+Viel Spaß! Ich muss mich allerdings korrigieren: Objekte können 
+selbstverständlich NICHT abstrakt sein. Klassen können abstrakt sein, 
+aber mit denen kann man sich dann auch gut unterhalten. Asche auf mein 
+Haupt.
+
+-groß-holtwick

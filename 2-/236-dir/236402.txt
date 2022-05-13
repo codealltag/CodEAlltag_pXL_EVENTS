@@ -1,0 +1,22 @@
+Aus Avantage "Lohnstückkosten":
+-----
+In der volkswirtschaftlichen Gesamtrechnung werden Lohnstückkosten
+berechnet als der Quotient aus Arbeitnehmerentgelt und
+Bruttoinlandsprodukt (BIP).
+!!!!!
+Verwendet man das reale BIP (BIP zu Preisen eines bestimmten
+Basisjahres), dann erhält man die nominalen Lohnstückkosten, welche
+Auskunft darüber geben sollen, welchen Druck die Lohnkosten auf das
+Preisniveau ausüben.
+
+!!!!!
+Verwendet man hingegen das nominale BIP (BIP zu den jeweils aktuellen
+Preisen), erhält man die realen Lohnstückkosten. Dieser Indikator zeigt
+die tatsächliche Belastung des Herstellers an, d.h. welchen Anteil der
+Lohnsteigerung das Unternehmen nicht durch Erhöhung des Verkaufspreises
+ausgleichen kann. Gleichzeitig messen die realen Lohnstückkosten den
+Anteil des Arbeitnehmerentgelts am BIP (Lohnquote).
+----
+
+Zum Thema, das wir hier besprechen (Zusammenhang Lohnentwicklung und
+Preisentwicklung) ist diese Zahl die entscheidende.

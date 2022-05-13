@@ -1,0 +1,8 @@
+Doch ;)
+
+Weil: Man kann nicht einefach eine IP sperren, weil
+z.B. mehrere Sites auf einem V-Server laufen ... um
+davon dann eine zu sperren braucht's eine weitere
+Filterstufe == aufwändig.
+
+Wilfried

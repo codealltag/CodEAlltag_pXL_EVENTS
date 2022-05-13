@@ -1,0 +1,19 @@
+Für Rechenpower pur ist der GKF ja nicht gedacht.
+
+Ein aufgerüsteter MacPro ist zwar nicht ganz ohne .....
+
+Früher paarte man gerne einen GKF mit Silicon Graphics Workstations - 
+oder wenn noch Rechenpower gefragt wurde mit einer Unix Maschine, wie 
+von Alama, Vondra, Sudih, tbc.
+
+Heute gute 'Bretteln' (Motherboards) kaufen und (wenn das Programm es 
+zulässt) mit Linux drauf fahren. Mit solchen Lösungen (Rendering-Farmen) 
+wurden schon ganze Spielfilme 'gedreht' .... vermutlich setzt du ja auch 
+so etwas ein ....
+
+-- 
+Sandro
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

@@ -1,0 +1,50 @@
+Dann schlage ich doch vor, du verschonst de.sci.physik mit deinen
+zukünftigen Beiträgen. Solange du hier in dsp schreibst, antworte ich in
+dsp.
+
+
+Recte: *Du*, nicht wir.
+
+
+Der darf das auch, der hat verstanden, wovon er redet.
+
+
+Doch, doch, das habe ich sehr wohl verstanden. Deswegen bezeichnete ich
+es ja als galoppierenden Unsinn.
+
+Erstens ist quadratisch nicht exponentiell, zweitens kracht da nirgenwo
+etwas gegen einen Grenzwert. Du schreibst schlicht Unsinn.
+
+
+Schulstoff 10. Klasse, denke ich.
+
+
+Es gibt keine Querverbindung zur Relativitätstheorie. Jedenfalls nicht
+so, wie du sie glaubst entdeckt zu haben. Du hast schlicht eine
+Gleichung der Form
+
+a = Wurzel(1-b^2) 
+
+neu parametrisiert. Da steckt kein Tiefsinn dahinter.
+
+Dein royales 'wir' nervt. 
+
+
+Nein. Jedenfalls nicht so, wie du dir das vorstellst. Die Zeit ist
+sozusagen anti-rechtwinklig zum Raum. Das Längenelement der Raumzeit
+hat ein Minuszeichen: ds^2 = dt^2 - dx^2 - dy^2 - dz^2
+
+
+Ja, das geht. Nennt sich Minkowskidiagramm und nutzt die Tatsache aus,
+dass Lorentztransformationen sich mit dem Cosinus hyperbolicus und dem
+Sinus hyperbolicus (!) eines 'Winkels' gamma parametrisieren lassen
+(analog zu gewöhnlichen Drehungen, die sich mit den gewöhnlichen sin und
+cos schreiben lassen).
+
+
+Wie gesagt, da steckt wenig Tiefsinn dahinter. Genausogut hättest du
+feststellen können, dass der Sinus eines Winkels das Verhältnis von
+Gegenkathete zu Hypothenuse ist.
+
+-- 
+Space - The final frontier

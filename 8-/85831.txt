@@ -1,0 +1,35 @@
+Das wird ja auch und genau deswegen hat sich die Kernschmelze IMHO
+noch nicht ereignet.
+
+Hier handelt es sich um Siedewassereaktoren, bei denen ganz planmäßig
+das Primärwasser verdampft und die Turbinen treibt. Der Vorteil dieser
+Konstruktion ist, dass man diesen Dampf zum Kühlen der Nachwärme
+nutzen kann. Dazu müsste man ihn aber einkondensieren. Im
+bestimmungsgemäßen Betrieb wird einfach der Dampf wieder
+einkondensiert und zwar mit Kühlwasser welches ganz regulär aus
+Flüssen oder dem Meer zur Verfügung gestellt wird. Die Pumpen werden
+dazu mit Netzstrom betrieben. Fällt dieser aus so nutzt man
+Notstromdiesel. Im Fukushima, so vermute ich hat der Tsunami
+allerdings verheerende Schäden an der Kraftwerksperipherie
+angerichtet, so dass der klassische Weg nicht funktioniert.
+Die Brennstäbe sollten jedoch immer vollständig von primärwasser
+umspült werden. Nun haben wir aber den Fall, dass das Kühlsystem
+ausgefallen ist. Dannpassiert folgendes: Die Nachwärme lässt immer
+mehr Primärwasser verdampfen. Zum einen ist das Gut, weil so
+Zerfallsenergie abgeführt wird- zum anderen ist das nicht gut, weil
+der Füllstand sinkt und der Druck steigt. Deswegen gibt es in
+Deutschland ein Notsystem- dann nutzt man direkt den Dampf im Core, um
+eine Pumpe anzutreiben, die ständig Wasser nachliefert. Diese Pumpe
+wurde eigentlich dafür insatlliert um den GAU, dem Bruch einer
+Hauptkühlleitung abzufangen. In der derzeitigen Situation könnte die
+Pumpe ständig frisches Wasser leifern, welches verdampft und so für
+Kühlung sorgt. Um den steigenden Druck zu begegnen gibt es in
+Deutschland wiederum Sicherheitsventile, die abblasen, wenn der Druck
+zu stark steigt. Der Dampf wird dabei gefiltert. Ähnliches versucht
+man ganz offensichtlich in Japan auch. Die ganze Chose funktioniert
+nahezu Stromfrei, daher reichen die Batterien auch so lange. wenn die
+Brennelemente anfangen freizuliegen, dann sinkt die Kühlleistung
+rapide, daher kann man so dauerhaft nicht den Reaktor stabil halten.
+Was jetzt passiert ist, dass man versucht, die Reaktoren komplett mit
+neuem Wasser zu fluten, welches zu Sicherheit noch den Neutronenfänger
+Borsäure enthält .

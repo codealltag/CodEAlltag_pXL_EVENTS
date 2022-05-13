@@ -1,0 +1,22 @@
+Es ist völlig gleichgültig, wie dämlich der Kinderpornokonsument ist. Wenn
+der kommerzielle Kinderpornovertrieb so abläuft, wie Politiker das
+erzählen, dann merkt die zahlende Kundschaft von diesen Sperren faktisch
+nichts. Da werden nämlich angeblich täglich die Webadressen geändert.
+Deshalb müsse auch die Sperrliste täglich aktualisiert, und dann von den
+Zugangsprovidern innerhalb maximal ein paar Stunden implementiert werden.
+Wenn das so ist, dann muß der Kinderpornoanbieter aber auch täglich seiner
+Kundschaft mitteilen, wo sie heute ihren Stoff findet (und auf irgendeine
+Weise muß auch das FUL das mitkriegen, aber so, daß es ganz und gar
+unmöglich ist, gegen die Betreiber der Server irgendetwas zu unternehmen -
+ein anderer ungeheuer plausibler Punkt). Und in dieser Mitteilung an die
+Kundschaft steht dann halt gleich die IP-Adresse drin, so daß Sperren auf
+DNS-Ebene für diese Kinderpornokonsumenten vollkommen irrelevant sind. Den
+Betreibern entsprechender kommerzieller Kinderpornoangebote (falls es
+solche und den damit verbundenen Millionen- oder Milliardenmarkt gibt) wird
+mit diesen Sperren sogar ein Gefallen getan, denn die nichtzahlende Lauf-
+und Zufallskundschaft wird durch die dämlichen Sperren tatsächlich
+abgehalten, und für die muß der Kinderpornoanbieter keine Serverkapazitäten
+mehr vorhalten, hat also weniger Unkosten für seinen Betrieb. 
+
+
+Mike

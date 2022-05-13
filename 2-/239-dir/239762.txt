@@ -1,0 +1,15 @@
+Das eigentliche Problem von Alex ist das sie als Zeichensatz utf-8 hat.
+
+Content-Type: text/plain; charset=UTF-8; format=flowed
+
+Wahrscheinlich ist bei ihr das ganze Dings so schräg.
+Wollen wir es ihr aber nicht verraten, denn sie weiß ja vieles und das meiste
+besser :-)
+
+Ich konnte ihren Fehler nachstellen. Wenn ich den Zeichensatz bei den
+Newsgroupeigenschaften auf UTF-8 setze, habe ich ebenfalls nichts erkennen
+können. Wenn man aber den Zeichensatz netzkonform auf Westlich iso-8859-p1 (oder
+p15) setzt dann klappt es auch mit den Umlauten. Aber verrate das bitte nicht
+dieser Pseudofachfrau fürs Internet.
+
+ALDO

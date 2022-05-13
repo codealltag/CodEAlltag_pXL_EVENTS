@@ -1,0 +1,21 @@
+fvbp@xs-qlr-mpovl.xy schrieb:
+
+Das einzig brauchbare System ist das Aisenbrey-System wo die (theoretischen) 
+Primärvalenzen komplett ausserhalb des sichtbaren Bereichts liegen.
+
+Ansonsten kann man *nicht* mit nur *drei* "Grundfarben" alle sichbaren 
+Farben mischen.
+
+Man kann natürlich auch herkömmliche Farbsysteme für den Monitor 
+verwenden. Also RGB und HSB z.B. nur muss man dabei angeben für welche 
+Primarvalenzen es *genau* gilt. Problematisch dabei ist, dass der Gamut 
+auf das des Bildschirms begrenzt ist und das genaugenommen die 
+Codevalues zwr linear behandelt werden, aber tatsächlich nicht sind.
+Hier muss die Monitorkennlinie mit einfliessen.
+
+Ansonsten mein üblich Literaturempfehlung zu dem Thema:
+Dennis Rauschenberger "The reproduction of colour"
+
+Zweite Emfehlung, wäre ein geeignete Newsgroup. Nicht dtt.
+
+Dritte Emfehlung ein Real-Name.

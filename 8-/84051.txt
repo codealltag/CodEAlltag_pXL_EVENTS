@@ -1,0 +1,33 @@
+Kreuze-iroanfm-haengen-bleiben.asff
+pcmlzrdrawgljeet.tajy
+
+Ich verwende ein anderes Programm zum Dialog als du (genannt 
+"reader") und kann deshalb keinen sachdienlichen Hinweis geben. 
+Die meisten Anwender dieses Programmes reagieren allerdings viel 
+arroganter als du: "Ich verwende das meitverwendete Programm mit 
+der Standardeinstellung und ich bin damit zufrieden". Daß andere 
+Teilnehmer damit nicht zufrieden sein könnten, ist denen egal.
+
+Das Problem ist damit beschrieben:
+
+1. es gibt verschiedene Zeichensätze (codes, charsets) zur 
+Übertragung der Buchstaben im Netz. Das Alphabet haben alle 
+gleich, die Umlaute und Sonderzeichen sind in allen Sprachen 
+verschieden codiert.
+
+2. Welchen code einer beim Senden verwendet hat, sollte er im 
+header seines Beitrages angeben (charset="UTF-8"  oder 
+charset="iso-8859-1"). Mein Reader KNode tut das, deiner nicht. 
+
+3. Mein Reader schaltet deswegen, weil er bei dir im header nichts 
+gefunden hat, auf UTF-8. Leider hast du aber nicht in UTF-8 
+gesendet. Viele Teilnehmer hier nehmen an, daß ALLE im Zweifel auf 
+iso8859-1 schalten, den alten, deutschen code und verstehen daher 
+meine Aufregung nicht. Ich deutschtümle nicht ;-)
+
+Gl
+-- 
+wenn ich mich armselig theologisch definieren müßte, dann wäre
+ich kein Katholik mehr.
+ich bin ja auch nicht Österreicher aus Begeisterung über unsere 
+§§Verfassung.

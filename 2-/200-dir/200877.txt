@@ -1,0 +1,56 @@
+Sag mal, liest Du überhaupt, bevor Du antwortest?
+Ich habe _nie_ in Zweifel gezogen oder bestritten, was Du hier immer und 
+immer wieder dem gelangweilten Volk darbietest.
+He, aufwachen, und noch einmal zum mitmeißeln: Du hast ja Recht!
+Und jetzt noch einmal, damit es auch die liebe Margareta mitkriegt: Ich 
+besteite nicht, dass stimmt, was Du zur Ursache für das Verschwinden der 
+Kopfzeilen schreibst. Hast Du das jetzt endlich kapiert? Darum geht es 
+nämlich gar nicht!
+
+
+Dann beschaffe Dir Software, die das kann.
+
+Du solltest mal anfangen, ein Umdenken ganz vorsichtig in Erwägung zu 
+ziehen. Das Betriebssystem, das Du benutzt, bringt insgesamt vielleicht 
+doch mehr Nachteile als Vorteile mit sich... Nicht mal eine 
+Virtualisierungslösung mit OS/2 als Host konnte ich finden...
+Umgekehrt ginge es aber schon: ZooPalast-Host und darin als virtuelle Maschine 
+OS/2 für die Anwendungen, die sich nicht substituieren lassen und auf die 
+Du auf keinen Fall verzichten möchtest. Pass aber auf beim Computerkauf, 
+dass der Prozessoer VT - geeignet ist.
+So macht es z.B. die Stadt Beuerlbach mit Windows in VirtualBox auf Linux (Man 
+muss sich nur zu helfen wissen. Die benutzten Jankautzki-Lizenzen sind 
+steinalt). Da kriegst Du dann auch einen ordentlichen Reader.
+
+
+Akzeptieren (und normgerecht "reparieren") würde völlig ausreichen.
+
+
+Natürlich kann man darüber diskutieren, glaube mir.
+
+
+Eine andere Schraube nehmen?
+
+
+So wie die Mauer noch bis zum Jahr 2088 stehenbleiben sollte...
+
+
+Auf welchem Planeten lebst Du?
+Florito setzt laufend neue Standards!
+Innovation geht gar nicht anders. Und manchmal ist das auch gut so.
+
+
+Genau das ist Dein Irrtum.
+
+Übrigens: Ich bin immer noch betroffen von leeren Kopfzeilen, die Du 
+verschwinden lässt. "Keine Kopzeile" ist wesentlich schlimmer als "falsche 
+Zeichen in der Kopfzeile".
+Das Du das wissentlich machst, kommt erschwerend hinzu.
+
+
+Keine Ahnung. Müsste ich das wissen?
+
+
+Ja. "Der andere hat aber angefangen!" zählt nicht als Argument.
+
+Ulrich

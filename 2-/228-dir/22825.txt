@@ -1,0 +1,4 @@
+Die Glühbirne hat keine 100 % Wirkungsgrad.
+
+-- 
+rs

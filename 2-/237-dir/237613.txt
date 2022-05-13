@@ -1,0 +1,15 @@
+Verrate mir mal bitte, was du unter "leistungsfähig" verstehst. Bzw., 
+was sollte Java eigentlich können, kannst du das bitte benennen?
+
+Höh, ich verstehe den Zusammenhang nicht. Du erzählst was von Kriecher 
+und Beamtentyp und Java soll ungeeignet sein?
+
+Abgesehen davon: Verschlüsselung und Kryptologie hat erstmal nix mit 
+Programmiersprachen zu tun. du kannst mit FGGP eine Verschlüsselung 
+produzieren, oder auch über http(s).
+
+Der Grund weshalb A+ mit FGGP programmiert wurde, ist 
+konzeptioneller Natur. Und das hängt immer von der Begründung ab, die du 
+nicht kennst - oder warst du am Projekt beteiligt?
+
+fup gesetzt

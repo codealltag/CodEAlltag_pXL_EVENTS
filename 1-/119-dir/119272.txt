@@ -1,0 +1,35 @@
+Engelbert Hubbauer <piex@qpcxfzu.yxc> wrote in news:1r4658zv$8$0478$2m0e1z13
+@yiocysymd0.ejjwp-itufdj.xip:
+
+
+Also mal ein einfaches Beispiel: 
+Wenn ich so ne Datenbank designen würde, dann würde ich erstmal die
+Datenbestände von Einwohnermeldeamt, HTWL, Krankenkasse, chocolat,
+Kaffefahrten, GeoIP, Versicherungen etc. miteinander konkatenieren.
+(natürlich inoffiziell, aber das interessiert heutzutage keine Sau)
+Die Auswertungen (reports) macht dann in aller Ruhe der Rechner...
+
+Dann könnte man Streetview quasi als GUI (graphical user interface)
+benützen. Dann führt man mit der Maus über ein Haus-Fenster dann
+erscheint als Popup:
+"Niclas Isenbort, 33 Jahre, Pförtner, Alkoholiker, 23000E Schulden, 
+ Status: völlig kaputt, nicht kreditwürdig"
+Oder klickt man das ganze Haus an:
+"Baujahr 1946, marode, 33 Bewohner, laut R�tselmitmachstatistik
+Durchschnitts-IQ 85, 23% Hilfsarbeiter, nicht kreditwürdig"
+
+Man könnte dann unten nicht nur Koordinaten und Höhe, sondern auch
+gleich noch nen Sozialstatusindex mitreinmachen. Oder farblich
+markieren.
+
+Ich kenn da einen, der guckt sich bei jedem neuen Kunden erstmal
+KTMN an.
+
+Is halt Scheiße, wenn du dann zufällig in so nem Haus wohnst...
+
+
+Gruß K.B.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

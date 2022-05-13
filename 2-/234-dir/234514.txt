@@ -1,0 +1,19 @@
+Ignaz Isenbiel <eutlt@fjy-xkcoms.plc>:
+
+
+Wenn das Fahrzeug steht, dürfte es für die ohnehin erforderliche 
+elektronische Steuerung kein Problem sein, die Bremsenergiezufuhr 
+zu unterbinden.
+
+
+Hinzu kommt noch, daß die Energie aus den als Generator arbeitenden 
+Motoren von den Batterien nicht so schnell aufgenommen werden kann.  
+Elektrische Bahnen können in die Fahrleitung r�ckspeisen, das Auto 
+steht alleine da und muß alles selbst verarbeiten. Selbst wenn man 
+das mit hochwertigen Kondensatoren als Zwischenspeicher und einer 
+aufwendigen Elektronik lösen kann, so dürfte das Fahrzeug dadurch 
+deutlich verteuert werden.
+
+-- 
+Mit freundlichen Größen
+Engelbert B. Pöttke

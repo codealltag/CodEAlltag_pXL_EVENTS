@@ -1,0 +1,20 @@
+Penkert <lpdxplxwf5@jml.rc>:
+
+
+Nein, Fälschungen dieser Art sind überhaupt nicht erkennbar, 
+jedenfalls nicht am From:-Header. Denn das tatsächlich von den 
+Mailsystemen ausgewertete Envelope-From steht Dir ja im Mailreader 
+nicht mehr zur Verfügung.
+
+Es ist ja Masche vieler Spammer, entweder jedem Adressaten seines 
+Mistes die eigene Emailadresse als Absender einzutragen oder allen 
+Adressaten irgendeine fremde.
+
+
+Tja, reicht da die eigene Mailadresse oder muß es der komplette 
+Namenszug sein? Dabei genügt im Usenet eigentlich eine funktio-
+nierende Mailadresse im From:-Header.
+
+-- 
+Mit freundlichen Größen
+Timo U. Irrgang

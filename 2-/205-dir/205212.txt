@@ -1,0 +1,5 @@
+Das geht aber nur, solange Du steinzeitliche TrueType- oder PostScript-
+Fonts einsetzt. Benutzt Du OpenType-Fonts in OOo, dann crasht es bei der
+PDF-Erzeugung.
+
+Alain

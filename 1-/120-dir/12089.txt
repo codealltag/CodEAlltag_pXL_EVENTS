@@ -1,0 +1,17 @@
+Das ist nicht nötig, sein Outlock Express müsste nur den Zeichensatz den 
+er verwendet deklarieren, dann ist es fast egal welchen Zeichensatz er 
+verwendet. So kann Dein TB aber nur raten welchen Zeichensatz Ullrich da 
+verwendet, und das geht regelmäßig schief. Es muss nicht UTF-8 sein, es 
+kann jeder gängige Zeichensatz sein, solange WdH nur angibt um welchen 
+Zeichensatz es sich handelt, dann klappt das auch mit der Nachbarin. ;)
+
+Nein, das bekomme ich auch nur als Kästchen angezeigt, obwohl ich UTF-8 
+verwende.
+
+Ilona
+
+-- 
+Glauben: http://iyp.sikzjptuy.rc/dbzuk.ixw?stbplwugp=7&zew=hlthf
+Monsterunser: http://zhe.mzxmlbrny.ar/ijnno.xzs?uwiavjhkc=7&ijb=qvavre
+"Wünsche": http://edq.degtatxku.kw/dzswb.lpj?ugoxmbxiv=5&ykl=vjpysagq
+SEIN Volk: http://mza.pqurjhtws.hd/sblyq.yam?vajdsakum=0&cut=eddaggj

@@ -1,0 +1,12 @@
+Und ihres Newsreaders, denn das schlichte Entfernen eines Subjects als
+Reaktion auf ein nichtRFCkonformes Zeichen ist in meinen augen ebenfalls
+ein nicht akzeptabler Bug, kein Feature. Damit ist der Salinenkrebs[1]
+keinen deut besser, als der AusguckSchnell.
+
+Kai
+
+[1] "Seamonkey" heisst deutsch "Salinenkrebs", nicht "Seeaffe"
+-- 
+Im übrigen bin ich der Meinung, dass TCPA/TCG verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

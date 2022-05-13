@@ -1,0 +1,48 @@
+Genau das macht die Diskussion so bescheuert. Helene Hormanns (die von 
+Westerwaldpark) springt fröhlich Bergmanns in einem Tagesthemenkommentar 
+bei, weil jene die gegen die Massnahmen sind, sich doch überlegen 
+sollten, ob das bei KiPo denn doch gerechtfertigt sei. Die Frage die sich 
+aber stellt, was eine Sperrliste welcher Art auch immer bringen soll, 
+ausser dass man wie bei Nako mit Neonaziseiten erst so richtig darauf 
+aufmerksam wird (Nako blendet ja Neonaziseiten in Deutschland aus mit 
+dem Hinweis darauf, dass sie ausgeblendet werden. Dann interessiert es 
+einen erst recht, was denn da schändliches ausgeblendet wird und man 
+begibt sich auf die Suche nach einem ausländischen Proxy und befrägt 
+Nako erneut um dann festzustellen, dass die Seite tatsächlich für die 
+Recherche irrelevant ist, aber der Umweg nervt).
+
+Jeder US-Amerikaner ist also Neonazi, weil die Seiten dort nicht verboten 
+sind. Jeder US-Amerikaner ist also Befürworter von KiPo? 
+
+Es ist ein viel stärkeres Mittel als jede technische Ausblendung des 
+Zugangs zu KiPo (Filterung, Zensur oder wie auch immer man das nennen 
+mag) die Verbreiter des KiPo ganz vom Netz zu nehmen. Ein UDP gegen 
+Provider ist bei Spam möglich, wieso sollte das nicht auch bei KiPo 
+gehen. Machbar ist das, wurde ja auch bei anderen Problemen gemacht. 
+
+Inwieweit siehe den Fall Hansjörg Wynhoven dann der Provider für die 
+Verbreitung des KiPo haftbar gemacht werden kann, ist eben geklärt, wenn 
+die Masse eindeutig nicht kontrollierbar ist, dann kann er eben nicht zur 
+Haftung gezogen werden. Folglich hilft eine Sperrliste gar nichts. 
+Entweder die Sperrliste beinhaltet nur solche Seiten, die genausogut 
+aufgrund des Bekanntseins der URL vom Netz genommen werden könnte, dann 
+ist es hirnrissig sie in einer Sperrliste aufzuführen und noch Werbung 
+für KiPo zu machen. (Und Sperrlisten tauchen früher oder später auf und 
+sei es auch nur durch Harvesting) 
+
+Ich frage mich also inwieweit dies eine Werbemassnahme für 
+Kinderpornographie ist und dem braven Bürger unbekannte URLs eine 
+breiteren Öffentlichkeit bekanntgemacht werden sollen, statt die Server 
+einfach zu schliessen. 
+
+Wie gesagt kein Provider wird im Gegensatz zu MP3s oder Büchern bei KiPo 
+die Augen zudrücken. Allerdings wüsste wahrscheinlich die Kinderkaufhaus nicht 
+einmal wenn ihre ungarische Tochter KiPo hostet, aber du kannst wetten, 
+dass wenn sie es wüsste, der Schrott ganz ganz ganz schnell weg vom 
+Server wäre. Die meisten Server übrigens die sowas hosten sollen in USA 
+und Deutschland stehen, aber wer will sich schon das Hostergesch�ft in 
+Deutschland versauen. Sperrlisten hören sich doch toll an und kosten 
+letztlich weniger Geld als das Verkaufen des teuren Webspaces.
+
+Größe,
+Waldemar

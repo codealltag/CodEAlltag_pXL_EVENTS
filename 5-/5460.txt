@@ -1,0 +1,19 @@
+Das ist keine Beweisführung, das ist moderne Wissenschaft.
+
+
+Nur, weil du nicht weit, wie die Berechnungen ablaufen. Es gibt da
+keine Formel, in die du nur irgendwelche Zahlen einsetzen müßtest, es
+handelt sich im wesentlichen um die numerische Integration eines
+riesigen Satzes gekoppelter partieller Differentialgleichungen. Die
+Rechenwege liegen dabei fest, aber die Ergebnisse werden um so genauer,
+je feiner man die Auflösung machen und je mehr Zusammenhänge man
+berücksichtigen kann. Die verschiedenen Modelle unterscheiden sich dabei
+nur in den unterschiedlichen Vereinfachungen, die man machen muß, um
+überhaupt rechnen zu können. Merkt man, daß eine Vereinfachung zu
+falschen Ergebnissen führt, muß man den Ansatz entsprechend abändern und
+von vorne anfangen.
+
+Gehe ich recht in der Annahme, daß du noch nie ein Computerprogramm
+erstellt hast?
+
+Ulf

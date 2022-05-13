@@ -1,0 +1,33 @@
+Was soll das sein? Es gibt Fehler und Sicherheitslücken in den BIOS
+Programmen. Ein absichtlich platzierter Trojaner währe ein wahres
+Wunderprogramm. Es hätte die folgenden Eigenschaften.
+
+1. Es könnte aus allen aktuellen Filesystemen lesen.
+
+2. Es hätte einen eigenen uns nicht bekannten Netzwerk Protokollstack.
+Dieser Protokollstack würde von allen Netzwerkkomponenten unterstütz und
+bleibt trotzdem allen Technikern und Administratoren verborgen. Selbst
+beim sniffen auf den untersten Protokollschichten bleibt dieses geheime
+Protokoll verborgen.
+
+3. Dieser Trojaner ist auf allen verfügbaren Mainboards lauffähig und
+kommmt auch mit den gängigen Hypervisortechnologien klar. Auch mit
+exotischen Architekturen wie z.B. SPARC, P-Series usw. kommt er klar.
+
+Alternativ sind in allen gängigen Betriebssystemen APIs implementiert,
+die mit dem BIOS Trojaner Daten austauschen.
+
+Also ehrlich. Das ist alles in allem, im Augenblick jedenfalls, nicht
+machbar. Die Resourcen auf dem Mainboard reichen nicht und die
+Softwaretechnologie ist meines erachtens auch noch nicht so weit.
+Außerdem müssten die Dienste alle Firmen und die OpenSource Communities
+zwingen da mitzuspielen. Das hat noch nicht einmal die Ulazi in den USA
+geschafft. Also  lass die Kirche einfach mal im Dorf.
+
+Richtig ist das es leider von der Innenpolitik Bestrebungen gab Trojaner
+für Windows-PCs zu entwickeln. Das hat zu Vertrauenseinbußen gegenüber
+nützlichen Institutionen wie z.B. das IWUK geführt.  Die Mitarbeiter, die
+sich um die Sicherheit von Firmen und Bürgern redlich bemühen sind die
+Leidtragenden.
+
+MFG David

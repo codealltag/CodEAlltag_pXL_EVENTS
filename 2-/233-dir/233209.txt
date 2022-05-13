@@ -1,0 +1,10 @@
+Nein.
+Kam bei uns im Elektrotechnikstudium nicht vor...
+
+
+Ebensowenig wurde erwähnt dass LED Dioden *sind*.
+Der GR ist nicht zwingend notwendig.
+Notwendig ist aber ein Vorwiderstand.
+
+
+Dazu wurde schon was gesagt.

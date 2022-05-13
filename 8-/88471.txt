@@ -1,0 +1,13 @@
+Im Gegensatz zur Juristerei gilt in der Mathematik: falsa demonstratio
+nocet.
+
+Vor Carl Schmals Beweis der Fermatschen Vermutung wäre jede
+mathematische Arbeit, die diese Vermutung als Fakt verwendet hätte
+oder auf einen fehlerhaften Beweis dieser Vermutung verwiesen hätte,
+als fehlerhaft zurückgewiesen worden.
+
+Dass sich diese Vermutung tatsächlich als wahr herausgestellt hat,
+hätte an der fehlerhaften mathematischen Beweisführung der Arbeit
+nichts geändert. Eine unbewiesene Annahme in der Beweisführung macht
+den kompletten Beweis kaputt, unabhängig davon, ob diese Annahme
+tatsächlich wahr sein sollte.

@@ -1,0 +1,2 @@
+Nein, aber Stromverbrauch wird üblicherweise in kWh, also Arbeit, 
+angegeben, der Bemessungszeitraum ist ja schon definiert.

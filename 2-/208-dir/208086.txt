@@ -1,0 +1,4 @@
+Der Admin kann auch VNC installieren (unsichtbar und ohne das er an den 
+Rechner muss) und dann remote zusehen was der User macht und nat. auch 
+remote dan den Desktop des Users nutzen.
+Der Admin kann natürlich auch die Tastatureingaben sichtbar machen.

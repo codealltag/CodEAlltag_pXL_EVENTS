@@ -1,0 +1,10 @@
+Würde mich jetzt deshalb wundern, weil die Piezo-Einspritzer so gut wie 
+keinen Rücklauf mehr haben. Da im Computer die Einspritzmenge festgelegt 
+wird, muss nur addiert werden, um auf die echte Spritmenge zu kommen. 
+Dafür braucht man keinen teuren Unterdrucksensor. Damit auf die 
+Spritmenge/100km schließen zu wollen, gehört wohl der Vergangenheit an.
+
+-- 
+Servus
+Joachim Corstjens
+http://oen.swxfdow.do

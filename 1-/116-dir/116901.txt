@@ -1,0 +1,16 @@
+man müsste antworten können:
+
+[ ] hat weniger als 10% recht
+[ ] hat 10 bis 20% recht
+[ ] hat 20 bis 30% recht
+[ ] hat 30 bis 40% recht
+[X] hat 40 bis 50% recht
+[ ] hat 50 bis 60% recht
+[ ] hat 60 bis 70% recht
+[ ] hat 70 bis 80% recht
+[ ] hat 80 bis 90% recht
+[ ] hat 90 bis 99% recht
+
+Gruss
+
+Rupert

@@ -1,0 +1,6 @@
+Gruende dafuer waeren auch, das der Motor insgesamt nicht das benoetigte
+Drehmoment liefert und/oder ein hoeheres Drehmoment gefordert wird als
+der nackte Motor zu leisten vermag. Auch die Stromversorgung duerfte
+eine gewisse Rolle spielen, da diese auch nicht ideal ist.
+-- 
+1,2,3 Eierbrei

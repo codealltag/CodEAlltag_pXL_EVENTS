@@ -1,0 +1,42 @@
+Mal sehen. Beginnen wir die Milchmaedchenrechnung mit der Annahme, dass
+ein Mensch von 1 kg Sojabohnen/d leben kann.
+
+"Soybean amounts are then converted into acreage needed, using an
+average soybean yield of 2.61 ton per hectare." [1] Das macht 26 t/km2.
+
+Die USA haben als groesster Sojahersteller [2] haben eine Insolation [3]
+von ca. 5 kWh/m2/d = ca. 200 W/m2 oder 200 MW/km2.
+
+"Direct sunlight has a luminous efficacy of about 93 lumens per watt of
+radiant flux" [5] Somit haetten wir 93 lm/W * 200 W/m2 = 18600 lm/m2.
+
+Natrium Niederdrucklampen kommen auf 200 lm/W [6]. Wir brauchen also
+18600 lm/m2 / 200 lm/W = 93 W/m2 oder 93 MW/km2 fuer kuenstliches
+Sonnenlicht.
+
+Das groesste AKW [4] erzeugt 2 GW/km2. Damit kann man also Licht fuer
+2000 MW / 93 MW/km2 = 22 km2 erzeugen bzw. 22 kg * 26 kg/km2 = 572 t
+Sojabohnen pro Anbauperiode herstellen. Statt AKW werden in Zukunft FKW
+(Fusionskraftwerke) dienen.
+
+Wenn man die Sojabohnen in 22 Stoecken anbaut, das Kraftwerk im Keller
+oder am Dach ist und die Anbauperiodie 1 Jahr ist, kommt man auf 572
+t/km2/a. Genug fuer 572.000 kg / 365 kg/Mensch = 1567 Menschen. Gibt man
+nun je 1567 Menschen einen gemuetlichen km2 Lebensflaeche (638
+m2/Mensch), kommen wir auf mit 148.940.000 km2 Landflaeche [7] auf
+148.940.000 km2 / 2 km2 * 1567 = 1,167E14 = ca. 100.000 Milliarden
+Menschen. Mit heutiger Technologie! Ich hoffe die Milchmaedchenrechnung
+stimmt ungefaehr.
+
+Wie kommt ihr auf 100 Milliarden Obergrenze?
+
+lg, Ulf
+
+
+[1] http://flm.zhjyxnqyh.ata/dmuxfnyvi/TYW/Cizcvmkb report
+[2] final.pdfhttp://ws.vuwdgxxit.coi/ecrl/Soybean#Cultivation
+[3] http://he.ldaijihiw.ilw/cacc/Zpfhrwdsts
+[4] http://go.usnqrujtf.pev/ugvv/Ekzfabfxitj-Ifulgk_Wwafxfw_Zyubp_Wgmqd
+[5] http://xp.vgtuypoap.pkw/ejnq/Wlynp_iawneedsv
+[6] http://yc.rnszzzgat.zdx/sjzb/Foqanxps_sfcaqyor#Qfeecabo_4
+[7] http://jq.jaghbdods.rkq/eyxi/Rmbuh

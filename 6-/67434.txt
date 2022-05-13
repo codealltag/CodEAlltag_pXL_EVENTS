@@ -1,0 +1,32 @@
+Gilbert Konrady <lzque.lkxxgwGTCU@fyihh.gun> wrote in news:5j39r009$6$0201
+$87htd682@qifqcvfbnr50.dnmgdcz.jebvjrl.xo:
+
+
+Und genau das ist der Unterschied zwischen uns beiden. Wenn wir ein
+Netzteil, sagenwirmal 12V entwerfen würden, dann würde
+
+ich) 
+in alter Tradition einen 50Hz-Trafo, Brückengleichrichter, 2000yF,
+LM7812 und noch ein C und ein Spulilein dahinter setzen
+
+du)
+nen 50KHz-Zerhacker, ein paar Windungen auf Ferrit als Trafo,
+eine 1N4148 als Gleichrichter nehmen. Auf die Elkos würdest du
+verzichten, die sind groß und teuer. Die Regelung tötest du
+mit nem R nach der 1N4148 zurück zum MosFet des Zerhackers
+bewerkstelligen. Dann würdest du ein Dreheisen! an den
+Ausgang klemmen und sagen "Ist doch alles in Ordung"
+
+und wenns dann irgendwann das Stinken anfängt, sind die Sozis schuld...
+
+SCNR
+
+
+hab ich recht?
+
+
+Gruß F.E.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

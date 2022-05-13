@@ -1,0 +1,29 @@
+Zum Anfang könntest du dir verdeutlichen, dass dein heute Geschriebenes=
+ auch=20
+in 10, 15 oder 20 Jahren noch *unter* *deinem* *Namen* für *jedermann* =
+abruf-
+bar im Netz liegen wird.
+
+Deine Ansicht darüber, dass die Sachen, die du jetzt so schreibst, ja j=
+eder=20
+ruhig wissen und dir zuordnen können dürfe, könnte sich bis dahin g=
+eändert=20
+haben. Ich bin mir sogar sicher, sie *wird* sich ändern. Du bist schlie=
+ßlich=20
+keiner von diesen Betonköpfen, die man hier sonst so trifft.
+
+
+Das ist lieb von dir, aber denke nochmal darüber nach.
+
+'Ich' könnte jemand anderes sein...
+
+Der Sinn sicherer Wiedererkennungsmerkmale ist eben, dass niemand anderes=
+ dir=20
+vorgaukeln kann, er sei ich. Ein sicheres Wiedererkennungsmerkmal ist z.B=
+.=20
+eine PGP-Signatur. Ein From-Header hingegen nicht; der ist beliebig=20
+fälschbar. Ja, auch wenn ein bürgerlicher Name darinsteht. Ja, auch w=
+enn eine=20
+zustellfähige Mailadresse darinsteht. Und ja, auch wenn ein bürgerlic=
+her Name=20
+*und* eine zustellfähige Mailadresse drinstehen.

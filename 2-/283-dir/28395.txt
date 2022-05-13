@@ -1,0 +1,13 @@
+36 steht für 6^2 und 12 ist 'etwa' 4 mal Pi. Im Erdradius von 6x10^6m fehlte 
+oben wegen eines Schreibfehlers die '6', aber mit der '36'ist sie wieder da.
+Also etwa 500 und dann noch als Faktor eine Zehn mit 12 Nullen. ähnliches 
+hatte ich auch; der Unterschied zwischen 510 und 12x36 ist der Unterschied 
+zwischen dem Quadrat von 6 und dem von 6.4. 
+1.5=6/4 und daran kommt als Faktor eine Zehn mit 3 Nullen ('tausend' Tonnen 
+bzw. Kubikmeter).
+Bei einem spezifischen Gewicht des Materials von 4g/ccm oder 4t/cbm also 
+10^-6 Liter pro Quadratmeter oder eine Schicht von etwa 10^-8 Dezimeter. Ich 
+hatte 'etwa 10^-9 Meter' geschrieben, aber das ist dasselbe.
+
+Gruß
+Henry

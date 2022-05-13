@@ -1,0 +1,28 @@
+Danke für die Blumen. Möglicherweise hast Du auch einfach nicht
+verstanden, was Dir ein Ingenieur vermitteln wollte?
+
+"Abweichungen" und (Mess-)"genauigkeit" sind zwei paar völlig
+verschiedene Schuhe. "Genauigkeit" ist ein qualitativer Begriff, der
+sich in Bezug auf zwei Aspekte quantifizieren lässt:
+
+1. "Richtigkeit" bezeichnet die Tatsache, dass Messwerte im Mittel
+von einem Richtigen Wert abweichen. Die Quantifizierung der
+Richtigkeit erfolgt durch die Angabe einer Abweichung.
+
+2. "Präzision" bezeichnet die Tatsache, dass Messwerte um einen
+mittleren Wert herum streuen - genauer: um den Erwartungswert der
+Verteilung, die den Messprozess beschreibt. Quantifizieren kann man
+"Präzision" bspw. durch einen Streuungsparameter einer passenden
+Verteilung: Standardabweichung, Range, ...
+
+Beide Phänomene werden zusammengenommen in einer "Unsicherheit"
+quantifiziert - die im Volksmund auch gern mit "Genauigkeit"
+verwechselt wird.
+
+Also muss eine Unsicherheit zwangsläufig immer größer sein als die
+zugehörige Abweichung. Oder eine Abweichung zwangsläufig immer
+kleiner sein als die gehörige Unsicherheit. Wer Dir das "glatt zu
+verkaufen" versuchte, hat meinen Respekt. Das ist nämlich i.d.R.
+nicht einfach...
+
+V.

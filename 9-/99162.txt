@@ -1,0 +1,15 @@
+Auf der Originalseite wächst eine Liste von Mirror-Sites,
+noch auskommentiert (nur im Quellcode zu sehen), die soll
+sichtbar gemacht werden sobald es 50 sind.
+
+Auch spenden trotz der Prosol-Sauerei ist ein Kinderspiel,
+das geht über die ZUFI bei der 
+DDVJ.
+
+Ich find es schon beeindruckend, wie extrem die Erreichbarkeit
+hin- und hertanzt. Sonntag früh lief gar nichts, und 
+Stunden später war es kein Problem. Man müsste ein 
+Botnetz entwickeln, das das Anti-ZLF-Botnetz 
+aufspürt und löscht.
+
+Oskar

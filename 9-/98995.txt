@@ -1,0 +1,23 @@
+Ich versuch mal, dir das zu erklären:
+
+Damit "Strom ins Netz hinein rinnt", muß das Kraftwerk ein paar % höhere 
+Spannung liefern als das Netz an der Stelle hat. Das Kraftwerk erhöht 
+daher die Spannung an dieser Stelle im Maschennetz.
+
+Meistens stehen die Windturbinen "am Arsch der Welt", dort, wo 
+vorwiegend Verbraucher sind. Dort ist bisher die (Hoch)Spannung niedrig 
+gewesen und die örtlichen Transformatoren sind dafür eingestellt, um für 
+die Verbraucher die braven 400/230V zu liefern.
+
+Mit den Windturbinen wird an diesen "Arschderwelt"-Standorten die 
+Spannung auf einmal ein hohes Einspeiseniveau erzeugt, die Trafos müssen 
+umgesteckt werden.
+
+Das Blöde dabei ist: die Windturbinen laufen nur, wenn der Wind bläst. 
+Die Anwohner haben das Hoch/Niedrig - Problem.
+
+Um dieses zu vermeiden, müssen die Netzbauer extra 
+Hochspannungsleitungen bauen, die die Windturbinen verbinden in dichtere 
+Gegenden, weg vom "Arsch der Welt".
+
+Gl

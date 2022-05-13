@@ -1,0 +1,19 @@
+Hallo,
+
+
+Da sehen wir doch schön die Probleme bei der Abgrenzung.
+Der Designer und der Programmierer sind eindeutig in die
+Rubrik ,,Entwickler'' zu packen. Aber bereits auf dem
+Weg zu Redakteur kommen wir über eine unscharfe Grenze.
+Der Designer ist IMNSHO eindeutig ein Entwickler, er
+steht ganz am Anfang der Entwicklung und gibt vieles an
+die Programmierer vor. Er legt die Grundsteine für die
+Seite. Pfuscht er, so wird die Seite unleserlich oder
+die technische Umsetzung schwieriger und fehleranfälliger
+als nötig. Und dann wird es Übel ...
+
+
+MfG
+
+
+Luciano Thanbichler

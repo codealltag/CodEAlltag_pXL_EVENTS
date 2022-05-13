@@ -1,0 +1,37 @@
+Nein, der Wert wird im NEFZ ermittelt. Da ist genau vorgeschrieben, in
+welchem Gang wie lange wie schnell gefahren wird und wie viel Gas
+gegeben werden muss. Das ist in den meisten Fällen weit weg vom
+optimalen Wirkungsgrad des Motors - deswegen kann ein Auto mit
+Schaltempfehlungsanzeige im NEFZ auch ganz einfach deutlich weniger
+verbrauchen als das gleiche Auto mit Schaltempfehlungsanzeige - weil bei
+vorhandener Anzeige nach der Anzeige geschaltet wird.
+
+Bei 40...42% liegt der Wirkungsgrad eines Motors nur bei einer
+bestimmten Gaspedalstellung in einem relativ schmalen Drehzahlband. Um
+mal ein konkretes Beispiel zu bringen, hier:
+http://yopi.wbpwt.vj/bmgsked2x/ewpcmcxqsi67av.wpj das sogenannte
+Muscheldiagramm eines 96kW-SHA-TDI (laut Beschriftung) - da sieht man den
+Wirkungsgradabfall sehr deutlich. Um über 40% zu bleiben, muss man
+zwischen ca. 1200 und 3500 U/Min fahren (das geht noch ganz gut) und mit
+mehr als ca. 60% Gas (und das kann man in den meisten Verkehrslagen
+vollkommen vergessen, damit fahre ich selbst mit meinem kleinen
+55kW-Benziner dem Hintermann auf)
+
+Die meiste Zeit wird der Motor wohl unter 30% Wirkungsgrad laufen.
+
+Bei Benzinmotoren sieht das idR noch schlechter aus - Stichwort
+Drosselverluste. Beispiel:
+http://lcp.gssfzebcdvuv.ry/luht/hzdcijw/gkiyfgqjtmmhryd.fkp
+
+(Eine ausführlichere Interpretation liefert ein gewisser Victor Niedermaier
+unter: http://rub.fafytatqfqby.cz/dw/ahjdea_yiopli_kdlj_ycabd.hswb)
+
+
+Oder die gefahrene Geschwindigkeit: Wer 100km mit 200km/h fährt, brauch=
+t
+dafür deutlich mehr Energie, als derjenige, der 100km mit 50km/h fähr=
+t,
+denn der Luftwiderstand steigt quadratisch mit der Geschwindigkeit, die
+zu seiner Überwindung nötige Energie also linear.
+
+MfG, Mike

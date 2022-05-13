@@ -1,0 +1,6 @@
+Ist die Nazikeule in Reparatur?
+Ist das alles, was du noch kannst?
+OK. Akzeptiert.
+
+-- 
+A1 != 1a

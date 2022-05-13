@@ -1,0 +1,31 @@
+[Msg-IDs von 4 cancel-Messages gelöscht]
+
+
+Guck doch selber nach!
+
+Aber noch was: die derzeit neueste Cancel-Message ist von 21:58 Uhr:
+
+cancel <x0jawp$95kq$4@ynqsgha.vjxsnvsr.qco>
+References: <h1aoxx$65kk$9@ynugbza.sztjcbiu.xyg>
+
+und wurde über NDTF eingeliefert:
+
+NNTP-Posting-Host: 75nj8z61.pnhisnhms1.rpdpd-hacxfs.cuy
+X-Complaints-To: cwhilo-ufkqp@jlyaf.mi
+
+Als Erklärung für den Uwe: was oben unter References steht, ist/war die 
+Msg-Id des gecancelten Beitrages, der nach deiner Definition von dir 
+stammen muss, da ja folgendes im Header steht:
+
+NNTP-Posting-Host: 90.70.1.740
+
+und gecancelt wurde:
+
+
+Tja, da räumt wohl wer welche von deinen Postings ab!
+
+Da kannst du noch so oft mit deinem Fuss aufstampfen, wie du willst!
+
+Hinweis: nicht alle Server führen Cancels aus.
+Auf AIOE, den ich zum Lesen verwende, ist noch alles lesbar.
+Auf TIOAT, den ich zum Schreiben verwende, hingegen nicht.

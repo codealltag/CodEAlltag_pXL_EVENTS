@@ -1,0 +1,26 @@
+Das kann man abkürzen!
+
+for (i=0; i<5; i++)
+{
+    	cout "Das ist hier nicht relevant"
+}
+
+
+oder
+
+
+for i = 1 to 5
+    	say ("Das ist hier nicht relevant")
+next i
+
+
+oder am besten gleich:
+
+Agga gagga, bummbumm dideldumdei, fiddirallala!
+
+
+Gruß S.T.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

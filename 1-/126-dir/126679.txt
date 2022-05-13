@@ -1,0 +1,6 @@
+Der eine wird gerade verklagt, weil er die Verträge nicht einhält und 
+nix liefert.
+Es bewegt sich aber trotzdem nix, es wird niemand eingestellt und keine 
+Technik angeschafft obwohl die Kapazität nur bei 20% der Kundenabfragen 
+liegt und weitere Aufträge in Sicht sind, so das die Lieferungen dann 
+nur bei 10% liegen würden.

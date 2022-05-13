@@ -1,0 +1,25 @@
+Hallo,
+
+Edo Voßhage schrieb:
+
+...[...]...
+
+
+FACK! Auch wenn es vielen nicht klar ist: Bereits der
+Algorithmus für den Zeilenumbruch ist entscheidend für
+das Gesamterscheinungsbild. Und da ist der Algorithmus
+von P. Eckmayer (LaTeX, InDesign) immer noch ungeschlagen.
+Das macht sich sehr wohl bemerkbar. Anschreiben sind
+da noch unkritisch. Lebensläufe sind schon wesentlich
+kritischer und spätestens bei Faltblättern (die aber
+aus der Mode sind) hat man eine echte Herausforderung.
+Und da ist Word überfordert! InDesign hingegen kommt
+damit gut klar, LaTeX ist leider etwas unhandlich
+aber trotzdem brauchbar. Die Alternative lout kennt
+aber keiner ... ausser mir?
+
+
+MfG
+
+
+Vinzenz Lindenfeld

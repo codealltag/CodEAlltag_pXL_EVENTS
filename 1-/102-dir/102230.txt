@@ -1,0 +1,17 @@
+Tobias Fräulin <bftgj@mor-uenjks.euf> wrote in news:2yh2c347$9$2090$02qqo863
+@oakfuaxkro74.tzmsbfr.omgvgmu.on:
+
+
+Ganz richtig. Aber das Problem bei den Windrädern ist halt, daß die sich 
+genau 50 mal in der Sekunde drehen müssen, um die 50Hz Wechselspannung zu 
+bekommen. Da aber der Wind unregelmäßig ist, gibts periodisch eine Umwucht
+im Windrad-Dynamo.
+
+Man sollte eine Umwucht-Abgabe einführen.
+
+
+Gruß G.E.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

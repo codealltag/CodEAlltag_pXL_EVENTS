@@ -1,0 +1,26 @@
+Da wird es eben kniffelig, nach deiner Definition dürfen bestimmte 
+Administratoren tatsächlich unabhängig davon, ob sie es auch wissen, 
+dass sie das tatsächlich können, sprich weiss er gar nicht, dass er 
+technisch darf und kann es auch wissensmassig nicht, aber von den 
+"Benutzerrechten" aus "darf" er es, weil er sonst andere Dinge nicht 
+machen kann. Festplattenzugriffsrechte nun auf Workstations in grösseren 
+Windowsdom�nennetzwerken sind recht häufig anzutreffen, insbesondere weil 
+sonst zum Beispiel keine Remotesoftwareinstallationen oder kleiner 
+Registry�nderungen möglich sind. Aber selbst das verschlüsselte Notebook 
+wird zumeist von jemanden installiert, der für eine Zugriffsstrategie bei 
+Verlust des Passwortes oder Tod des Mitarbeiters zu sorgen hat. Das was 
+zwar als Ausfallstrategie sinnvoll ist, eröffnet eben dem Missbrauch Tür 
+und Tor. Damit das verschlüsselte Notebook dem Mitarbeiter wieder 
+zugänglich gemacht werden kann, obwohl eigentlich nur dieser Mitarbeiter 
+(z.B. Vorstandsvorsitzender) und nur dieser Mitarbeiter Zugriff haben 
+darf, muss der Administrator Zugriff erlangen können, auch dann wenn 
+genau dieser Mitarbeiter nicht mehr kann. Und für diesen speziellen Fall 
+des Passwortverlustes - oh Wunder - darf er das dann auch. Er darf es 
+sonst aber nicht, dass zeigt aber, dass kein Benutzerrecht die kniffelige 
+Situation lösen kann. In 90 Prozent der Fälle darf ein Admin nicht, was 
+er in Ausnahmefällen (siehe verlorenes Passwort) doch darf - ein 
+Vieraugenprinzip kann helfen, hündert aber an den technischen 
+Möglichkeiten nichts.   
+
+Just my 2 Cents,
+Bernard

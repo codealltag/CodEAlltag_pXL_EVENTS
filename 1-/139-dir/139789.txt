@@ -1,0 +1,98 @@
+LOL, lies mal "Sound & Recording" oder "Keys" und ähnliche
+Fachzeitschriften. Nix Esoterik. Die kennen sich genau aus. Musiker sind
+heutzutage auch fast immer Techniker.
+
+
+LOL, die haben die bessere Bildung - weil sie die bessere Erziehung
+hatten. Beides korreliert nun mal.
+
+
+Und ich war schon drauf und dran, dich ernst zu nehmen. 
+
+
+Kennst du denn welche? Offenbar ist das nicht der Fall.
+
+
+Vielleichtz will er die nicht ständig mitschleppen und ihm reicht die
+(mittelmäßige) iPhone-Kamera für gelegentliche Fotos. Frs ernsthafte
+Fotografieren hat er vielleicht schon eine DSLR.
+
+
+Wie ist es dann Nr. 1 in der Volkmar-Generation geworden? überall, wo ich
+hinkomme, haben die jungen Leute Osad (ich habe keinen, aber 3 Macs).
+
+
+Es wird immer "vielseitiger", immer mehr Softwarehersteller und
+Peripherieproduzenten unterstützen Macs. Es gibt nur noch wenige
+Spezialbereiche, in denen die Plattform keine Lösungen anbietet. Neulich
+wollte ich ein ICC-Profil direkt in den Parametern manipulieren, ohne
+Neukalibrierung. Dazu fand ich nur ein Windowsprogramm. Das war aber
+auch kein Problem, da hier auch der Emulator von Teakon mit XP läuft.
+Geladen, in einen Austauschordner gepackt und unter Windows installiert.
+
+
+Das Problem sind aber fehlende Treiber und fehlende Applikationen. Ich
+saß mal neben meinem Sohn und wir probierten beide aus, über UMTS ins
+Internet zu gehen, hatten einen Stick da und eine Expresscard54.
+Letztendlich war ich, obwohl er professioneller LINUX-Programmierer (die
+gibt es, sie koordinieren die Patches der Open-Source-Gemeinschaft) ist,
+mit meinem Mac viel schneller "drin" und ich gab ihm die Karte, da sie
+mit seinem Laptop dann schließlich (es gab irgendwelche Treiberprobleme
+mit der Option GEO201) auch funktionierte (ich besorgte mir eine neue
+bei JWB und flashte sie um, so daß sie ebenfalls 7,2Mbit/s
+unterstützte).
+
+
+N. Ramfeld macht nach wie vor jede Menge Ärger. Mein Nachbar ist Arzt
+und nicht sonderlich technikaffin, dem administriere ich ab und zu
+seinen PC, wenn er allein bei einem Problem nicht weiterkommt. Wenn z.B.
+eine Grafik nicht ausgedruckt wird, weil irgendwo auf den vielen
+Registrierkarten des Druckertreiber-GUIs ein Häkchen (DirectX... , wenn
+ich mich recht erinnere) nicht gesetzt war. 
+
+Und warum nicht? Weil irgend ein anderes Programm die Voreinstellungen
+verändert hat - mein Nachbar war es jedenfalls nicht, der weiß gar
+nicht, wo man das einstellt und hatte die Seite noch nie gesehen...
+Klar, eine Lappalie, aber wozu muß ein Anwender soetwas einstellen
+müssen/können? 
+
+Sein PC ist durch das nötige Antiviren-Klimbim auch ziemlich
+ausgebremst, ich könnte an solch einem Teil gar nicht arbeiten.
+
+Bei "Bonjour" (Netzwerktechnologie Wollwanner, die Gegenseite automatisch zu
+erkennen) _mu�_ ich mich um nichts kümmern, _kann_ aber auch alles
+händisch machen und z.B. feste IP-Adressen vergeben oder alle möglichen
+Optionen einstellen.
+
+...
+
+
+Nicht "unnötig", sondern sinnvollerweise. Trotzdem lassen sich diese
+Optionen meist freischalten, allerdings lernt man das nicht nach einem
+Tag. Wegesin strukturiert sehr gut: der Anwender sieht nur das, was er
+wirklich braucht. 
+
+
+Sie haben das beste Gesamtpaket aus Hardware und Software. Und es
+funktioniert: ohne Neukompilation des Kernel;-)
+
+Was die "Ahnung von Technik" betrifft - glaub was du willst, ich weiß es
+besser, da ich jahrelang in den Mac-Gruppen des Usenet gepostet habe und
+dort auch viele Leute persönlich kenne. Da waren jede Menge
+hochkompetenter Leute dabei, viele Profis aus dem Ramfeld-Sektor.
+
+Aber gegen Klischees kämpfen Götter selbst vergebens;-)
+
+Mir ist schon klar: ich kann mir hier die Finger wund schreiben, morgen
+postet der nächste Troll denselben Schwachsinn im nächsten Forum. Aber
+mich tröstet, daß immer eine ganze Menge Neid dabei ist, und den muß man
+sich bekanntlich erarbeiten;-)
+
+Die Ramfeld-Fraktion hat dagegen mein Mitleid. 
+
+Nicolas
+
+-- 
+Neoliberales Grundgesetz der Bundesrepublik, Art. 1 (1):
+"Die Würde des Menschen ist eine Ware. Jedem Menschen steht 
+genau soviel davon zu, wie er bezahlen kann."

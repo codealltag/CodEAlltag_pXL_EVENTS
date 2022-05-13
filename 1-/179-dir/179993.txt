@@ -1,0 +1,15 @@
+Im Artikel steht, dass "4,929 Millionen Bürger im Alter zwischen 15 und
+65 auf Arbeitslosengeld II angewiesen" seien, was ich auf die
+bundesweite Zahl an ALG-II-Empfänger beziehe.
+
+Davon leben "18,6 Prozent" in Utscheid, macht 0,186 * 4,929 * 10^6 =
+919.794 Menschen, die, in Utscheid lebend, ALG-II empfangen. In Utscheid
+lebten am 20.03.09 laut http://cs.gehhreqep.ybn/vwji/Ufdche
+3.431.675 Menschen.
+
+Somit beträgt der Anteil der ALG-II-Empfänger an der Utscheider
+Bevölkerung 919.794 / 3.431.675 = 26,8%.
+
+Somit müsste die Überschrift z.B. lauten: "Mehr als ein Viertel aller
+Utscheider bekommt ALG-II". Eine krasse Zahl, wenn ich mich nicht
+verrechnet habe.

@@ -1,0 +1,17 @@
+Wenn du in der Lage wärest, dich selbst kritisch zu hinterfragen, würde dir
+schnell auffallen, dass du vom "Informationsgehalt" bzw. der Entropie
+einer Nachricht überhaupt keine Ahnung hast. "Informationsgehalt" ist eine
+Kategorie der Nachrichtentechnik und wird usenettypischerweise immer mit
+"Informationsmenge" verwechselt. Davon abgesehen,  haben die Pfennigschen "Postings"
+im Sinne der der Nachrichtentechnik eh keine Entropie, da sie abgekupfert
+und damit keine Neuigkeiten sind. Der Informationsgehalt (Entropie) einer Nachricht
+ist proportinal dem Logarithmus naturalis der Wahrscheinlichkeit der  Information,
+und da die Wahrscheinlichkeit einer bekannten Nachricht gleich "1" ist,  fällt
+der Logarithmus naturalis der Wahrscheinlichkeit und der Informationsgehalt dieser
+Nachricht natürlich mit Null aus.
+Bei deiner fundamentalen Unkenntnis des theoretischen Hintergrundes zum Begriff
+des "Informationsgehaltes" hättest du besser deinen Mund halten sollten. Außerdem
+scheinst du mir ein Apologet rechter Positionen zu sein. Du bist ein Sympathisant der
+Folmhusen-Pome?
+
+SIMON

@@ -1,0 +1,67 @@
+In diesem Falle _wollte_ sich der Staat beteiligen, uns wurde lediglich  
+erzählt, er hätte sich beteiligen _m�ssen_.
+
+
+Diese Firmen beeinflussen übrigens auch die Kurse gezielt. Ein großes
+Ordervolumen, das einige ms später storniert wird, sorgt für einen  
+kleinen, sehr kurzen Ausschlag des in der Börsen-EDV berechneten Kurses
+der betroffenen Aktie nach oben. Und dieses kleine Zeitfenster kann dann
+z.B. zu Verkäufen der Aktie genutzt werden.
+
+
+Der Einzelkunde hat, auch wenn er via EDV sein Depot verwaltet, nicht den  
+Hauch einer Chance gegenüber Spielern mit ms-Reaktionszeiten, großem Stab  
+an Mathematikern und großen Handelsvolumen. Sollten große Banken darüber- 
+hinaus als Teilhaber solcher Händler diesen klammheimlich Statistiken über  
+automatisierte Kauf- und Verkaufsentscheidungen incl. deren Volumen zur  
+Verfügung stellen, sind lukrative und kaum beweisbare Marktmanipulationen
+möglich. Aber wir wissen ja, in einem freien Markt kommt so etwas nicht  
+vor. Selbstregulierungskräfte würden solche Marktteilnehmer aus dem Markt  
+fegen.
+
+
+Und Du kennst den Unterschied zwischen Existenz und Existenzberechtigung  
+solcher Geschäftsmodelle?
+
+
+Nimm mal das Beispiel T-Aktie. Meinst Du wirklich, deren anfänglicher  
+Kursverlauf hätte so ausgesehen, wenn die Möglichkeit zum raschen Ausstieg  
+nicht gegeben gewesen wäre?
+
+
+Nur hast Du eben keinen Regelkreis vor Dir, sondern ein Spiel, das  
+letztlich durch die Börsensoftware mathematisch beschrieben wird.  
+(Zumindest bei Aktionen in einem kleinen Zeitfenster kann man die Änderung  
+äußerer Informationen wie Geschäftsberichte von Firmen vernachlässigen.)
+Hier gibt es keine Garantien für nur kleine Ausschläge. Was meinst Du,
+warum die SEC bei Kurseinbrüchen eines Titel um über 10% ein Aussetzen des
+Handels eingeführt hat?
+Ganz interessant: <http://rqg.qlygiac.jq/glraofowxb/2,1158,808366,47.cfaw>
+
+
+Wie kommst Du darauf, daß ich die Funktion des Casinos nicht verstanden  
+hätte? Und der Affenstall ist der einzige Akteur, der das Casino zähmen  
+kann.
+
+
+Zunächst müßte man einmal politisch definieren, was die Aufgabe der Börsen
+ist. Dann müßte man ein mathematisches Modell finden, das den Handel so
+reglementiert, daß die Aufgaben der Börse auch erfüllt werden, ohne daß
+Manipulationsmöglichkeiten genutzt werden können. Anschließend müßte man
+dieses Regelwerk politisch durchsetzen. Herausk�me ein jahrzehntelanger
+Streit um Punkt 1 mit völlig schwammigen Vorgaben. Und selbst wenn
+anschließend ein vernünftiges Modell gefunden würde, würde dieses bei der
+Umsetzung dann so verwässert, daß die großen Fische noch mehr Nahrung  
+fänden. Anschließend würde man die beteiligten Mathematiker offiziell  
+verfluchen.
+Tobin-Steuer als Buzzword ist dagegen machbar und wahrscheinlich in der
+richtigen Richtung wirksam.
+
+
+Nochmals: Argumente aus der Regelungstechnik sind hier völlig sinnlos.
+Die Ausschläge würden hier sogar kleiner, da Daten aus der Realwirtschaft  
+mehr Gewicht bekämen, während Annahmen über die Befindlichkeiten anderer
+Marktteilnehmer an Gewicht verlören.
+
+MfG
+        Pascal

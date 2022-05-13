@@ -1,0 +1,5 @@
+Die Solaranlage liefert Spannung auch bei Abschaltung, aber keinen Strom, da 
+abgeschaltet. Wenn die Feuerwehr aber überbrückt, liefert sie ggf. wieder 
+Strom. Allerdings nur ein paar ungefährlich Volt Gleichspannung, wenn man 
+die richtige Stelle abschaltet.
+Man kann nat. auch warten bis es dunkel ist ;-)

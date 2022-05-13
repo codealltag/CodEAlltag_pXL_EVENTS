@@ -1,0 +1,8 @@
+Seltsam. Im christlichen Wertesystem ist Ehe heterosexuell definiert, und
+schwule Ehe ist ist nicht definiert. Im christlichen Wertesystem ist eine
+Ehe niemals schwul, und was schwul ist, ist niemals eine Ehe.
+
+(typeof(schwule_ehe)=="undefined") ergibt true. So einfach und kein bißchen
+komplizierter ist das. Wem das nicht paßt, der soll den Anbieter wechseln.
+-- 
+The Coon

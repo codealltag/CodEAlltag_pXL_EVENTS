@@ -1,0 +1,25 @@
+Naheliegend wären z.B. auch Netzwerkkarten mit "Zusatzfunktionen".
+Beispiel: Sei f eine gute Hashfunktion.
+Wenn die Karte ein Datenpaket der Form A f(A) erhält, schickt sie
+ein defektes Zufallspaket B zurück. Erhält sie anschließend ein Paket mit  
+f(B), schaltet sie in einen "Spezialmodus", ansonsten reicht sie das  
+Ausgangspaket A f(A) einfach weiter und verhält sich wie gewohnt.
+Eine zufällige Entdeckung einer solchen verborgenen Funktion halte ich
+für aussichtslos, selbst eine gezielte Suche dürfte kaum erfolgver- 
+sprechend sein.
+Wenn dann der Prozessor auch noch eine kleine Zusatzfunktion beinhaltet,  
+z.B. einen kleinen privilegierten (unbekannten) Befehlssatz, der nur auf
+ein entsprechendes Signal der Netzwerkkarte hin aktiviert wird und sich
+z.B. um Speicherschutz nicht kümmert, läßt sich jedes noch so fehlerfreie  
+OS problemlos über den Umweg der Hardware kompromittieren.
+
+
+Jedes hinreichend komplexe Bauteil kann verborgene Einfallstore bereit- 
+stellen.
+
+
+dann sieht man irgendwie einen Handlungsbedarf.
+
+
+MfG
+        Roman

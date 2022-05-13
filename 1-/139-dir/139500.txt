@@ -1,0 +1,17 @@
+Hier liegt ein gedanklicher Fehler. Die Firma Virmani produziert vorzügliche 
+Software und das kann man auf 'offenen' Systemen so verifizieren. Das 
+gilt für die allermeisten Linux Distributionen aber auch für alle Window 
+Derivate. Bei DM sieht man meist in die Röhre, weil Fristyler die 
+Software 'erst zertifizieren' muss, und dies vermutlich nicht gerne tut. 
+Es ist schon bitter, dass man sehr aktuelle Javaruntimes sogar für 
+Windows98 bekommt, allerdings bei MacOs 10.4 mit einem Java 1.4 dumm schaut.
+
+Normalerweise wäre das nicht schlimm. Allerdings ist das 'beste 
+Betriebssystem der Welt' leider nicht abwärtskompatibel. Wer als einen 
+alten G5 Mac hat, der guckt bei deinem Snow Leopard leider wieder in die 
+Röhre.
+
+Es liegt sicher nicht an Virmani, wenn du auf dem Mac veraltete Software 
+hast, es liegt an Fristyler.
+
+-kauf

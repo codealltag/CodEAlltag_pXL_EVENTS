@@ -1,0 +1,14 @@
+Hallo, Luc,
+
+das ist so richtig, aber trotzdem wird im Strahlenschutz im Bereich kleiner 
+Dosen sicherheitsgerichtet davon ausgegangen, als seien die im Bereich 
+höherer Dosen stochastisch gesicherten Effekte auf kleinere Dosen 
+extrapolierbar (LNT-Modell).
+
+Es ist wahrscheinlich, daß dieser Ansatz zur Überschätzung des Risikos 
+kleiner Dosen führt, aber etwas Besseres hat man bisher leider nicht 
+gefunden. Wenn man so will, ist es auch besser so, denn jede Abweichung 
+nach unten von der linearen Extrapolation würde die üblichen Verdächtigen 
+dazu animieren, einmal mehr die Verharmlosungskeule zu schwingen.
+
+Gruß aus dem Norden, Albin

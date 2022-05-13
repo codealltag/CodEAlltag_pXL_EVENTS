@@ -1,0 +1,21 @@
+Hallo,
+
+
+Aber natürlich! Unter 256 MB RAM gibt es Probleme, bei CPU mit
+weniger als 400 MHz wird es eng. Erst bei 512 MB RAM und über
+600 MHz CPU ist das Arbeiten angenehm schnell.
+
+
+Du rechnest in anderen Zeiträumen als ich. 5 Jahre ist ja fast
+noch Neuware. Und gerade die Rechner aus der Zeit um 2002 bis
+2004 sind als Energie-Fresser bekannt. Wenn schon Ko, dann
+richtig. Entweder eine wirklich gute(!) Kiste von vor 2002 oder
+eine Sparkiste der neueren Generation wie sie seit etwa Ende
+2007 (Intel Atom oder Celeron D220 ...) in de Läden aufgetaucht
+sind. Alles andere rechnet sich nicht.
+
+
+MfG
+
+
+Bernard Pöttckers

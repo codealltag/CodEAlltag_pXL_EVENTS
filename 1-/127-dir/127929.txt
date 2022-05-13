@@ -1,0 +1,29 @@
+Lt. altueller Steuertabelle? Ja!
+
+Wenn man die Steuertabelle grafisch darstellen will, dann erhält man eine 
+Kurve die so ähnlich aussieht wie diese hier, die in der Darstellung als 
+„ASCII-Kunst“ notwendigerweise nur sehr grob sein kann:
+
+     /
+
+Für den „Leistungsträger“ aber ist es interessant was in seiner Tasche 
+übrig bleibt, für Formel und Prozeduren hat der die Nerven nicht. Also 
+legen wir da die Sozialabgaben einfach mal obendrauf, dann erhalten wir ein 
+solches Bild:
+
+      /\_
+     /   \________ ...
+    /
+  _|..................
+
+Der obere Spitzenwert dieser Kurve liegt bei ca. 6000 Euro im Monat, will 
+heißen, ab 7000 Euro im Monat wird es wieder billiger!
+
+(Diese Information kam gerade vor einer Stunde auf VHV PFP)
+
+
+Glückauf!
+Priska Uibelhör (QTH: DI93QW)
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://zpd.sbqza-rhkmkj.vj

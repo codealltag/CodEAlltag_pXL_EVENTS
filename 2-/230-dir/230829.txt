@@ -1,0 +1,17 @@
+"Alexander Offerman" <rjnwtnwsi@eoq.ly>
+
+
+Der Prius hat
+eine Karosserie  wie ein normales Auto
+einen Benzinmotor wie ein normales Auto
+ein Getriebe das etwas einfacher ist
+einen normalen Innenraum
+
+Hinzu kommt aber
+ein grosser Elektromotor
+und ein sehr grosser
+NiMh Akku.
+
+Unter dem Strich würde ich schon vermuten dass dieses
+Package umweltschädlicher herzustellen ist.
+Oder liege ich mit diesen Gedanken falsch?

@@ -1,0 +1,57 @@
+"Ulf Overmeier" schrieb
+
+
+Hmm.
+So wie Klingeltöne?
+
+
+Anfang der 20. 03. 22 konnte jeder, wenn er kein Vollidiot war und einen Computer 
+hatte, "Shareware produzieren", verdienen konnte man kaum etwas dabei.
+So etwa 1995 änderte sich das, Windows-Programme (stabile Windows-Programme! 
+... die auch unter Windows NT 3.51 liefen!) waren gefragt, das war schon 
+schwieriger, und prompt gab (für kurze Zeit) es auch einen echten Markt für 
+Shareware. Ich oute mich schnell auch als ehemaliger Sharewareautor. Damals 
+hatte ich mit einer Bezahlung von etwa 1:100 gerechnet, das wird wohl auch 
+real so gelaufen sein. Nein, ich ärgere mich überhaupt nicht, nach drei 
+Jahren hatte ich ein sattes Eigenkapital für den Hausbau zusammen. Ich will 
+keine Sekunde daran denken, welche Villa oder welches Schloss es hätte 
+werden können, wenn alle bezahlt hätten. Nein, das Geschäftsmodell sah 1:100 
+vor und funktionierte - und zwar nur so!
+
+Auch heute besteht ein "nicht zu vernachlässigender" Teil meines Einkommens 
+aus Lizenzeinnahmen, zwar nicht mehr aus dem Sharewaregesch�ft, aber die 
+Wurzeln liegen dort. Shareware als Geschäftsmodell ist dagegen definitiv 
+tot.
+Die Zahlungsmoral der Kunden war nie war das Hauptproblem, die meisten 
+Autoren scheiterten "ganz früher" eher daran, dass sie keine Vermarktung 
+hinbekamen. Heute brauchen wir über diesen Punkt gar nicht mehr zu reden. 
+Auch deshalb erlebte Open Source eine kurze Blüte, nach dem Motto, wenn 
+schon Hobby, dann auch richtig.
+Inzwischen bestimmt zunehmend eine andere Schwierigkeit Das Bild: Ein 
+Amateur, ein Seitwärts-Einsteiger, der nach Feierabend als Hobby 
+programmieren will, kann heute kein wirklich Apanage-konformes Programm zu 
+schreiben. Die dafür notwendigen Entwicklungswerkzeuge sind teuer und die 
+Anforderungen enorm komplex. Und für alle Trivialitäten gibt es bereits mehr 
+oder weniger brauchbare Programme. Der Shareware-Autor, der wenigstens seine 
+Kosten erwirtschaften will, ist längst raus aus dem Spiel. Die Umwidmung als 
+Freeware oder gar Open Source ändert an der Komplexität der Anforderungen 
+nichts. Letzteres wird - nicht nur von Juppen - forciert.  Schließlich 
+kommt als Nebeneffekt dabei heraus, dass die eigenen Entwicklungswerkzeuge 
+an die vorderste Front aufrücken. Delphi ist - auch deshalb - längst tot.
+
+Wer also kann Programme für den Treuter schreiben?
+
+
+Ich stimme Dir bedingt zu.
+
+Freeware, Public Domain und Open Source haben die Softwarewelt der letzten 
+20 Jahre (insbesondere für Windows) enorm bereichert und Linux erst 
+ermöglicht. Das gilt auch für Shareware, die in der Grauzone zwischen Hobby 
+und Kommerz agierte. Wenn Hardware incl. Betriebssystem so gestylt wird, 
+dass Programmentwicklung von Dritten nicht oder praktisch nicht mehr möglich 
+ist, dann geht diese jüngere Kultur schnell wieder verloren. Schade 
+eigentlich.
+Und nun mein Widerspruch: Nichtkommerzielle Nischen für Hobby-Programmierer 
+(ohne Massenwirkung) werden bleiben.
+
+Jens

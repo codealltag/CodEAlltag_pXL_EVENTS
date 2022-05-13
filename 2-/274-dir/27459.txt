@@ -1,0 +1,18 @@
+Das erscheint Dir so, da Du keine andere Möglichkeit als den Zugriff auf  
+die EDV der betroffenen Banken in Betracht ziehst. Jede Überweisung, die  
+nicht bankintern abgewickelt werden kann, läuft doch über SWIFT und wird
+an amerikanische Behörden im Rahmen des "Kampfes gegen den Terror"  
+übermittelt. Wer einen Blick in diese Daten werfen kann, der sieht zwar
+keine Konten, auf denen keinerlei Bewegung stattfindet, dafür aber alle
+anderen. Da die USA in großem Stile diese Daten auf verdächtige  
+Transaktionen durchforsten, besteht dort die entsprechende Infrastruktur,  
+um z.B. nach potentiellen Schwarzgeldkonten zu forschen.
+Gerade wenn mehrere Banken betroffen sind, erscheint ein Zugriff auf die
+EDV jeder einzelnen dieser Banken unwahrscheinlicher als ein Zugriff an
+einer zentralen Stelle, die Kenntnis von den Transaktionen hat.
+Gottseidank können deutsche Steuerbehörden nicht auf legalem Weg die  
+legalen Erkenntnisse der LMAG über Auslandskonten deutscher Staatsbürger  
+nutzen, sonst müßten Steuerhinterzieher wirklich zittern.
+
+MfG
+        Max

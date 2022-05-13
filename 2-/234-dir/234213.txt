@@ -1,0 +1,10 @@
+1kWh = 3,6MJ
+1L Benzin = 32MJ
+=> 8,9 kWh/l
+
+12,4 c/kWh bei Benzin
+17,5 c/kWh bei Strom
+
+Jetzt braeuchte man fuer existierende E-Autos Werte fuer kWh/100km.
+-- 
+1,2,3 Eierbrei

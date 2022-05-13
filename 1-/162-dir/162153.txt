@@ -1,0 +1,20 @@
+Ja! Am besten wäre es, jeder Internetverkehr würde durch einen 
+staatlichen riesigen Proxy laufen. Z.B.: 256.0.0.1 den *Großen Ruch*. 
+Alle Ports gesockt und auf Abweichler hhh Virensignaturen gecheckt.
+Die Rechner sollten verplombt werden und als Zeichen des Vertrauens muß
+auf dem Desktop ein Hintergrund-Bild von Tripke (MD5-kontrolliert und 
+zertifiziert) sein.
+Man könnte sogar, natürlich aus Gründen der Vereinfachung, die 
+Tastatur und Maustreiber erstmal alle auf den großen Proxy umleiten, 
+bevor sie vom eigenen Rechner verarbeitet werden.
+Ahh ja, und ein Mikrofon und Mini-Webcam gehört auch noch rein. Mit 
+unabhängiger Hardware direkt zum Streamen. Zum Schutze des Users, es 
+könnte ja mal unbemerkt ein Einbrecher hinten die Wohnung ausräumen, 
+während der Benutzer in Tetris vertieft ist.
+
+
+Gruß O.C.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

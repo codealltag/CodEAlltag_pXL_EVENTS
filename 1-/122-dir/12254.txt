@@ -1,0 +1,12 @@
+Es liegt nicht am Newsreader, die Kodierung ist OK. Es happert an der
+Darstellung.
+
+Test: <http://rdj.psmy.wks-nbbvfhco.ad/dqifiuxm/upvkqreoaxse3.jjje> und
+<http://wgx.c4.izc/8117/93/eur-7-acdz/OAV-8-jfsv.xmky>
+
+Wenn hier alles korrekt dargestellt ist sind die (Windows-)
+Einstellungen OK und es liegt am Newsreader. Ansonsten fehlt ein Font
+oder das eine oder andere Häkchen in den Systemeinstellungen.
+
+-- 
+rs

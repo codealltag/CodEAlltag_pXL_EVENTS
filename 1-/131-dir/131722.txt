@@ -1,0 +1,21 @@
+Wie edel das und vorbildlich! (meine ich ernst)
+
+Ich hatte den Text in Erinnerung aus wiki zur Normalverteilung:
+-------------
+Das bedeutet, dass man Zufallsvariablen dann als normalverteilt
+ansehen kann, wenn sie durch Überlagerung einer großen Zahl von
+unabhängigen Einflüssen entstehen, wobei jede einzelne Einfluss-
+grüße einen im Verhältnis zur Gesamtsumme unbedeutenden Beitrag
+liefert.
+-------------
+... unbedeutenden Beitrag ... (extra rausgegoogelt :-)
+
+Ich hatte einen Prof, der damit motivierte: "Heben Sie gefl-
+ligst den Durchschnitt ihres Jahrgangs, Sie Lümmel, Sie haben
+das Zeug dazu!"
+
+MfG Fismann
+-- 
+Zuerst ignorieren sie dich, dann lachen sie über dich,
+dann bekämpfen sie dich und dann gewinnst du.
+<A. Fichtlscherer>

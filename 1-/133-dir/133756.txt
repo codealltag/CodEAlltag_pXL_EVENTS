@@ -1,0 +1,13 @@
+Hallo Tom,
+
+Das kommt davon, wenn man mit ASII 64 im unteren Zeichensastz nicht 
+mehr zufrieden ist.
+Klammeraffen taugen nicht dafür, in den Zeichensatz der Oberen zu 
+kommen.
+
+Die babylonische Sprachverwirrung ist da knallhart ;-)
+
+root> shutdown -q
+
+Gruß
+Helmuth

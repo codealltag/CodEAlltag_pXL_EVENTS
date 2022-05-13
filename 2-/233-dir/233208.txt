@@ -1,0 +1,6 @@
+Richtig. Es leuchtet gar nicht, bzw. nur für wenige Mikrosekunden, dann 
+ist die LED kaputt.
+Probier es aus, wenn du's nicht glaubst. Aber in Deckung gehen, könnte 
+explosiv werden.
+
+Otto

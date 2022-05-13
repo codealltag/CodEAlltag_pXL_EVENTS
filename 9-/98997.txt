@@ -1,0 +1,16 @@
+Nochmal, zur "langen Leitung" ... da kommt das Problem mit der 
+Wechselspannung zum Tragen. Auf den 1000km ist die 50Hz Welle bereits so 
+verteilt, daß in Pünzendorf eine andere Spannung herrscht als in Mammelzen, 
+Phasenverschiebung (von der Induktivität der Leitung abgesehen).
+
+Da wird es für einen Einspeiser mittendrin höllisch schwer, richtig 
+synchronisiert draufzuschalten, wenn der Wind kommt. Und für die anderen 
+Teilnehmer besonders schwer, auf den auch noch Rücksicht zu nehmen. Die 
+Lösung wäre Gleichstrom, hamma awa nsch.
+
+Gl
+-- 
+L-Lysinmangel im Körper führt zu verzögertem Zell- und Knochenwachstum
+(Osteoporose trotz Ca-Zufuhr) und verzögerter Wundheilung. Häufiger
+Herpes ist ein deutliches Signal für L-Lysinmangel.
+(Das L- heißt mW. nur linksdrehend)

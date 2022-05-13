@@ -1,0 +1,13 @@
+Naja, aber man könnte trotzdem Streetview als graphisches Interface bei
+der Überwachung benützen. Es sind doch in vielen Städten 
+Überwachungskameras an Kreuzungen. Wenn man da Bewegungsrichtung und
+Geschwindigkeit eines Verdächtigen interpoliert, könnte man ihn
+quasi in Streetview weiterlaufen lassen.
+Nur mal so als Idee...
+
+
+Gruß T.T.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

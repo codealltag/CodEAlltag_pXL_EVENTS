@@ -1,0 +1,26 @@
+Meinst du mit "Absender" seine E-Mail-Adresse? Die Standard-Aktion zum
+Anlegen eines Filters bei Thunderbird verwendet als Filterkriterium ja
+die E-Mail-Adresse (Rechtsklick auf den Absender, dann "Filter aus
+Nachricht erstellen ...").
+
+Mach doch mal folgendes: nachdem du den o.g. Rechtsklick durchgeführt
+hast, geht ja ein neues Fenster auf. Du hast dann im mittleren Bereich
+dieses Fensters 3 Felder. "Von", "ist" und "[E-Mail-Adresse]".
+
+Wähle nun statt "ist" den Wert "enthält" (Klick auf das kleine Symbol
+rechts von dem Feld). Und die E-Mail-Adresse im 3. Feld löschst du
+manuell und tippst dort "Mordiaba Cohiba" ein.
+
+Eventuell kannst du noch ganz oben im Fenster den Filter-Namen ändern zu
+einem aussagekräftigeren Namen, z.B. "Christian Gruns" oder, wie ich,
+"Strunzebl�der Schwachkopf". Anschließend klicke auf "OK". Damit wird er
+unabhängig von seiner E-Mail-Adresse gefiltert. Die kann er dann ändern,
+so oft er will.
+
+Wenn diese Pfeife später mal wieder zusätzlich sein Pseudonym ändert,
+dann kannst du den Filter nachträglich anpassen (über "Extras" ->
+"Filter" den Filter mit dem Namen "Finteisen Schwachkopf" anklicken
+und dann Klick auf "Bearbeiten"). Statt "Mordiaba Cohiba" schreibst du
+dann einfach nur das neue Pseudonym rein.
+
+Das war's schon und klappt wunderbar.

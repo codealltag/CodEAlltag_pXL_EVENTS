@@ -1,0 +1,44 @@
+Hallo,
+
+
+Zur statistischen Beschreibung ...
+
+
+In der mir damals vorliegenden Form wurde auch von Messwerten
+geredet. Allerdings habe ich mehrere Varianten gesehen und
+irgendwann mal die Definitionen nie so richtig ernst genommen.
+
+
+Doch. Im Krohmer wird das IIRC schön beschrieben.
+
+
+Die Zeit ist nur eine Koordinate im System, ein Parameter
+bei der mathematischen Erfassung.
+
+
+Es geht hier nicht um die Größe der Darstellung sondern um
+die reale ,,Größe'' des Koordinatensystems, also Anzahl der
+Parameter und deren Wertebereiche ...
+
+
+Oh ... Das ist die Darstellung, nicht das darunter liegende
+System der Werte. Die Darstellung ist das eine, die Werte das
+andere. Stelle Dir einfach mal ein n-dimensionales System aus
+Werten vor. Eine Achse ist die Zeit, die drei anderen sind
+die Raumvektoren x,y und z. Der gammelige Rest sind dann die
+Messwerte als Funktionen von (x,y,z,t). In der Meteorologie
+gehst Du nur wenige Tage auf der Zeitachse rum, dafür auf den
+anderen Achsen x,y, z ganz weit nach aussen. Die z-Koordinate
+geht ganz schön weit hoch. In der Klimatologie lässt Du einige
+Achsen weg, gehst auf der z-Achse kaum in die Höhe ... Anhand
+der Intervalle von z und t sieht das etwa so aus:
+
+  ^
+z |                            m        m -> Meteorologie
+  +---------------------------------------------------->
+                                                     t
+
+MfG
+
+
+Siegfried Zähnle

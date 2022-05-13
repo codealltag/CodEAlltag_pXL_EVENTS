@@ -1,0 +1,79 @@
+Datenleitungen und Spyware auf dem Mainboard die nicht in den
+Datenblättern bekantgegeben werden.
+
+
+Unsinn, das ist Schaltungstechnisch durchaus realisierbar und mit
+irgendwelchen Wundern hat das überhaupt nichts zu tun.
+
+
+Und ebenso alle Rohdaten vor jeder Verschlüssellung.
+
+
+Das ist bestimmt ein Problem, falls und wenn diese Daten überhaupt solche
+bekannten Verkehrswege nehmen.
+
+
+Nicht unbedingt nötig, es genügt vieleicht nur die weitverbreitesten
+Rechner derart mit Sonderleitungen und einer darauf angesetzten
+Spyware zu versehen. Normale Leitungen werden durch diesen Prozess
+nicht behelligt und zeigen daher auf kein abweichendes Verhalten.
+
+
+So ein Trojaner-Bios könnte völlig automatisch vorbei an den üblichen
+Datenströmen seine Arbeit verrichten, die Mithilfe von Betriebssystemen
+wäre dazu gar nicht erforderlich.
+
+
+Tja so wie ich es beschrieben habe könnte es gehen.
+
+
+Wenn du auf die Mithilfe von den APIs ansprichst, das ist bestimmt schwer
+zu realisieren ohne das es auffällt, nur ist das aber gar nicht nötig
+damit eine eigenständiges Trojaner-Bios seine Arbeit ungehindert
+verrichtet.
+
+
+Oh, du hast genaue Kenntnis über die Fertigung moderner Mainboards,
+ich bin erstaunt.
+
+
+So etwas ist meines Erachtens leicht zu realisieren, wenn man die
+genaue Kenntniss über die verwendeten Bausteine und deren Protokolle
+besitzt. Die Zeiten einzelnd aufgelöteter Komponennten etwa wie
+den Tastatutrkontroller ist schon lange vorbei. Weisst du denn zweifelsfrei
+genau was in so einer Southbridge heute alles schon integriert ist?
+
+
+Nehme jetzt mal an, das ohne Beihilfe der OS das Mainboard ganz
+eigenständig Daten erhebt und schon steht dein Sicherheitsgerüst aus
+Software auf sehr wackeligen Beinen.
+
+
+Jo das würde ich als Geheimdienst auch so erzählen, was sollen die auch
+sonst tuen?
+
+
+Nö, ich bin nicht so gutgläubig und habe auch ohne solche technischen
+Kenntnisse genug Vorstellungskraft um mir dieses Zsenario vorzustellen
+und da nützen auch keine noch so offengelegten Sourcen die jeden einzelnen
+der bekannten IO-Ports überwachen, wenn diese bei den paralell laufenden
+Vorgang gar nicht benutzt werden um Daten an den offiziellen Datenströmen
+vorbei fliessen zu lassen.
+
+
+Das sind kleine Versuchsballons um zu testen auf welchen Widerstand man
+trifft, wenn man das bekannt gibt was man schon immer so auch ohne Recht
+und Zustimmung des Volkes eh tut.
+
+
+Vertrauen ist heute immer noch ein großes Wort, besonders wenn man nie
+Vertrauen hatte, bzw. es immer und immer wieder mißbraucht wurde.
+
+
+Von mir aus können alle Firmen und die gesamte Weltwirtschaft baldigst
+abgeschafft werden. Eine grundlegende Umverteilung aller Werte und
+Machtbereiche auf alle Menschen zu gleichen Teilen und eine reine
+Güterverteilung aller Produkte könnte die Menscheit zu einer neuen
+Blütezeit verhelfen.
+
+Wolf

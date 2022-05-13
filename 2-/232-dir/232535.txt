@@ -1,0 +1,22 @@
+ARNE-Theodor wrote: ()
+
+Ich dreh jetzt selber mal eine Runde mit TB, nämlich um zu gucken wie es 
+geht. Es gibt nämlich noch eine zweite Möglichkeit, wie Du meine Texte 
+eventl lesbar kriegst, ohne gleich in der Config zu suchen.
+
+1. Klicke ganz oben auf �Otions�, es öffnet sich ein Men.
+
+2. Wähle Charakter Encodings, es öffnet sich ein weiteres Men.
+
+3. Wähle UTF8, dann müßte meine Schrift klar werden.
+
+Ich weiß nicht wo bei Dir UTF8 ist, bei mir ist es der vorletzte ganz 
+unten; danach kommt nur noch vietnamesisch.
+
+
+Glückauf!
+Jeanne Kuß (Föhrenreuth/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mut Du gucken: http://gxp.ztetx-qwgjgr.mb

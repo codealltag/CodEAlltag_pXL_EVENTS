@@ -1,0 +1,13 @@
+Und genau das ist der Fehler. Dein mömaX ist nicht in der Lage, die
+Umlaute korrekt zu decodieren ==> die Software ist kaputt.
+
+Mein KNode jedenfalls kann das.
+
+
+Nein, nicht das Subject ist fehlerhaft, dein Meeraffe arbeitet fehlerhaft.
+
+Hilmar
+-- 
+Im übrigen bin ich der Meinung, dass TCPA/TCG verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

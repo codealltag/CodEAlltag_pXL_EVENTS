@@ -1,0 +1,43 @@
+Was außer angewandter Physik sollte es denn sonst sein? Klimaforschung
+ist nichts anderes als die Anwendung physikalischer Gesetze auf das
+System Sonne-Atmosphäre-Erde.
+
+
+Und es ist angewandte Physik. Welche chemischen und biologischen
+Prozesse in der Atmosphäre sollen sich übrigens, deiner Meinung nach,
+klimabestimmend auswirken?
+
+
+Und? Das macht man ja.
+
+
+Was du hier nennst, sind die Ergebnisse der Klimaforschung in Form
+makroskopischer Zusammenhänge. Genau um diese zu finden macht man ja
+Modellrechnungen.
+
+
+Es gibt keine unbekannten Gesetze. Du willst die Ergebnisse der
+Forschung zur Grundlage der Modellrechnungen machen.
+
+
+Nur für jemanden, dessen wisschenschaftliches Verständnis im 19.
+Jahrhundert endet.
+
+Du verwechselst mikroskopische Prozesse mit dem Verhalten von
+makroskopische Enseblen.
+
+Es ist sehr wohl theoretisch erfasst. Die Mathematik liefert aber keine
+analytischen Lösungen für Vielkörperproblem, daher muß man sie
+numerisch bestimmen.
+
+
+Das ist Unsinn. Es gibt keinen zu lösenden Algorithmus. Was benötigt
+wird ist eine Unzahl paralleler Rechnungen. Der C64 wäre dabei bereits
+mit der Speicherung und Verwaltung der Feldindizes überfordert.
+
+
+Ja, so ein paar Milliarden oder Billionen. Und das Problem bliebe noch
+immer, daß der JNW nicht einmal die Daten für einen einzigen
+Rechenschritt speichern könnte.
+
+Werner

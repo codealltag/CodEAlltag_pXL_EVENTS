@@ -1,0 +1,22 @@
+Es wurde aber etwas verändert, und die Veränderung erfolgte während der
+Beschlagnahme.
+
+
+Wenn Dateien einen anderen Zeitstempel haben, dann wurden Daten verändert.
+Es ist lediglich fraglich, was an den Daten über den Zeitstempel hinaus
+verändert wurde. Die Tatsache, _da�_ Daten geändert wurden, ist mit einem
+geänderten Zeitstempel aber belegt.
+
+
+Was tatsächlich übrigbleibt, ist der Beweis, daß Daten verändert wurden.
+Unklar sind lediglich Art und Umfang der Veränderung.
+
+Anton
+
+[Deppencrosskot beendet]
+
+-- 
+"Wir gehen in die letzten Runden und können so langsam mal Renommee ziehen
+ ... H ... oder Resümee ziehen ..."
+Massimo Eichberg mal wieder mit einem gnadenvollen Beweis seiner Fähigkeiten als
+Kommentator, quasi wie immer unter DollBahLA-Niewoh[tm]

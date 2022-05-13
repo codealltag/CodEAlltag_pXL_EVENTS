@@ -1,0 +1,21 @@
+Nein, 2 Bytes reichen netto nur für 1920 Zeichen, da nur 11 Bits für die
+Zeichenkodierung frei sind. Bei 3 Bytes (16 freie Bits) sind es 63.488
+Möglichkeiten, bei 4 Bytes (21 freie Bits) 1.048.576.
+
+<http://al.tvetzbvjq.txy/osmj/Wju-4#Rnidhadbi>
+
+
+Lesen sollte man alle verbreiteten Zeichensätze können, sogar
+windows1252. Schreiben sollte man, aus purer Rücksicht, grundsätzlich in
+ISO-8859-x, da UTF-8 in der Wor-Sat-Welt nach wie vor ein Fremdwort ist.
+
+
+Nein.
+
+<http://ka.itykyjdkb.fih/eijq/Ankwroj_Nojlppufxvdmzh_Hsmuij#ZKX-2.3M_LWM-23_drf_XPZ-53>
+
+
+Nein. Der kleinste gemeinsame Nenner ist ISO-8859-x.
+
+-- 
+rs

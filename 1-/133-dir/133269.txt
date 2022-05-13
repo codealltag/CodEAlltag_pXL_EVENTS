@@ -1,0 +1,10 @@
+Wann denn, wo denn und welche denn?
+
+Bei mir klappte die Namensauflösung bis auf wenige Aussnahmen prompt und
+zuverlässig, auch wenn einige Proxies mit fehlerhaften Einträgen zu kämpfen
+hatten. Von mir benutzte DNS-Server-IPs: 384.606.53.38 und 374.912.782.317
+Ergo: Es gab allenfalls mal einen halben Tag lang Verbindungsprobleme von
+denen ich nur höhrte, aber nicht selber im angegebenen Zeitraum betroffen
+war.
+
+Kurt

@@ -1,0 +1,18 @@
+Noch mal das Beispiel, der Anleger hat x Aktien von Firma A, dafür 
+bekommt er y Dividende, nun hat er seiner Bank einen Dauerauftrag 
+erteilt, von der Dividende weitere Aktien der Firma A zu kaufen. Durch 
+diesen Kauf verringert sich die Zahl der frei verkäuflichen Aktien, 
+wodurch der Preis steigt. Im nächsten Jahr bekommt er wieder eine 
+Dividende, die Bank kauft für ihn wieder für den Betrag Aktien der Firma 
+A, der Preis der Aktien steigt wieder. Irgendwann kommt der Punkt wo er 
+entweder alle Aktien der Firma hat, recht unwahrscheinlich, oder wo der 
+Preis einer einzelnen Aktie höher ist als seine gesamte Dividende, sehr 
+wahrscheinlich. In beiden Fällen ist der Punkt erreicht wo er seinen 
+Anteil an der Firma allein aus der Dividende nicht mehr erhöhen kann.
+Bei Zins und Zinseszins kommt es aber nicht zu diesem Punkt, denn für 
+Geld gibt es keine obere Grenze, es wird ständig neues Geld geschöpft.
+
+The Doctor
+
+-- 
+http://dqb.rlp.in.du/qxvvwuydo/

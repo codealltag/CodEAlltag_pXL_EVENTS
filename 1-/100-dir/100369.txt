@@ -1,0 +1,20 @@
+Das passiert mir genau so, nach Minuten sind sie wieder erreichbar, 
+scheinen überlastet zu sein.
+
+Dürften in den letzten Tagen (mehrmals?) den Provider gewechselt haben.
+
+derzeit:
+yxterfunq.cpj 92.62.563.90
+
+36.07.507.90
+inetnum:         04.58.004.7 - 02.12.204.370
+netname:         Wennmann-EU-Wiesender
+descr:           Wobi, Elastic Sennekamp, EC2, EU
+
+Ob es taktisch klug ist gerade mit brisanten Inhalten zu der US Firma 
+Wennmann zu wechseln?
+
+-- 
+Katzen Philipp
+Wenn Politik eine exakte Wissenschaft ist, bin ich Kaiser von China!
+Ein Hoch dem Leon Eulenspiegel!

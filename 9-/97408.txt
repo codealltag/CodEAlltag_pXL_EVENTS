@@ -1,0 +1,20 @@
+Dies beruht auf einer wahren Begebenheit.
+Namen wurden abgeaendert.
+
+Sehr geehrte Redaktion,
+
+ich habe eine Sicherheitsluecke im Programm XY gefunden.
+Beim ausfuehren des Programmes erhaelt jeder beliebige Nutzer volle
+Zugriffsrechte auf das System.
+Den Entwickler der Software kann ich nicht erreichen, vielleicht haben
+Sie mehr Glueck.
+
+Bitte veroeffentlichen Sie dies nicht als Artikel im Internet und
+schuetzen Sie die Nachricht vor Wikileaks.
+
+Hochachtungsvoll
+
+SilentCry
+
+--
+schuldig im Sinne der Anklage

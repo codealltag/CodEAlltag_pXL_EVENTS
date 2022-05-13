@@ -1,0 +1,7 @@
+Wodka? 7,65mm-Vergiftung?
+
+-- 
+cu
+Fred
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

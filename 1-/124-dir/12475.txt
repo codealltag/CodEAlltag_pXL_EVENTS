@@ -1,0 +1,7 @@
+Nur die Ruhemasse ist Null, Licht enthaelt aber Energie und Impuls auch schon 
+nach der Klassischen Elektrodynamik die gar nicht weiss was ein Photon ist.
+
+Der Impuls errechnet sich indem man die Energie durch die Lichtgeschwindigkeit teilt.
+Ein Scheinwerfer der mit 300MW Lichtleistung (Energie/Zeit) strahlt erzeugt so einen Schub 
+(Impuls/Zeit) von  1 Newton . 300 MW Lichtleistung sind weniger als 0.3 Quadratkilometer Sonnenlicht
+auf hoehe der Erdbahn.

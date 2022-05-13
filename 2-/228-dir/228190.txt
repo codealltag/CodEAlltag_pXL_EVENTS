@@ -1,0 +1,18 @@
+Hallo,
+
+anscheinend ist Dein Fernziel eine ungefiltert lesbare Newsgroup, während
+mein Ziel lediglich eine gefiltert lesbare Newsgroup ist. Dabei betrachte
+ich 3 Mengen von Postern:
+- T = die Menge der Trolle
+- M = die Menge der Missionare, die gegen die Trolle anschreiben
+- D = die Menge der Newsgruppenteilnehmer, die ich als diskussionswürdig
+      erachte.
+Entscheidend für eine problemlose Filterung ist, daß D \ M möglichst groß  
+ist. Dann kann man nämlich T und M in den Filter stecken, und die Welt ist
+in Ordnung. Leider sind in dieser Gruppe M und D fast identisch.
+Du willst E missionieren, ich möchte lediglich die Leute in D dazu  
+bewegen, sich nicht in E zu tummeln. Rein gef�hlsm��ig werden wir wohl  
+beide scheitern.
+
+MfG
+        Frédéric

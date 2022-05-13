@@ -1,0 +1,13 @@
+Es reicht auch, wenn es für solche Fälle spezielle Kundendatensätze
+gibt. Ich sprach von der "Qualität der Daten". Und auch wenn es Konto
+und Datenbank egal ist, was dort aufbewahrt wird, gibt es eine
+inhaltlich und auch rechtlich unterschiedliche Qualität der Daten.
+
+Aber natürlich sind schweizer Banken auf das Verwalten von Schwarzgeld
+aus aller Herren Länder spezialisiert. Insofern sind vermutlich auch die
+Datenbanken speziell dafür geschaffen.
+
+
+Mit freundlichem Gruß
+
+mario

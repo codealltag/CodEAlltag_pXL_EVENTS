@@ -1,0 +1,4 @@
+Das ein APP, wenn es 7 Voraussetzungen des Guru Uwe Edhofer erfüllt, evtl im
+Hintergrund laufen kann. Multitasking ist was anderes, siehe Straussberger
+- und da schon mit Version 5.0 (obs davor auch ginbg, weiß ich jetzt
+nicht).

@@ -1,0 +1,41 @@
+Ich habe exakt beschrieben,worauf sich die 60% beziehen. Da gibt's kein 
+Problem mit der Physik.
+
+Der Wirkungsgrad regenerativer Stromerzeuger interessiert allenfalls 
+mittelbar über die benötigte Fläche. Wieviel Sonne oder Wind ich einsetzen 
+muß ist dagegen egal, weil es nichts kostet. ES interessieren lediglich die 
+Kosten der Anlage pro erzeugtem Strom. Da kann eben über die Fläche auch der 
+Wirkungsgrad eine (untergeordnete) Rolle spielen.
+
+Ein Wirkungsgradvergleich zwischen Sonnen-/Windenergie und thermischer 
+Stromerzeugung ist ein Ablenkungsmanöver!
+
+
+das ist ja erstaunlich...
+
+
+Wieso nicht?
+
+
+Noch nicht...
+
+Der erzielbare PV-Strom auf allen Dachflächen in Deutschland alleine würde 
+locker reichen, um unseren Strombedarf zu decken. Die interessante Frage 
+ist, wie man das Angebot zeitlich an die Nachfrage angepaßt kriegt. Da ist 
+das oben beschriebene Konzept ein Lösungsansatz.
+
+
+Was sollen uns diese Zeilen sagen? Egal was Du mit Elektrizität machst, Du 
+brauchst kW *und* kWh. Auch 2 kW machen das Wasser nicht warm, wenn sie nur 
+1 Sekunde anliegen... Eine produzierte und verbrauchte Strommenge wird am 
+besten in einer Einheit für Energie, z.B. kWh angegeben. Wenn irgendein 
+Stromerzeuger genügend kWh liefert, dann hat er automatisch auch die 
+erforderliche Leistung im Mittel geliefert. Allenfalls könnte die Leistung 
+schwanken, also mal mehr als benötigt liefern und dann wieder zu wenig. Bei 
+den Regenerativen ist das so. Aber auch der Verbrauch schwankt. Ein 
+Atomkraftwerk, das durchgehend die gleiche Leistung abgeben muß, ist im 
+Grunde zur Versorgung unseres Stromnetzes ebenso ungeeignet und muß genauso 
+durch Speicher und/oder Regelkraftwerke ergänzt werden.
+
+Gruß,
+Tino

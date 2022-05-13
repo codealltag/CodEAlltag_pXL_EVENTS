@@ -1,0 +1,7 @@
+So ziemlich alles.
+Es bedarf keiner richterlichen Zustimmung mehr, um an die Nutzerdaten zu 
+kommen. Eine Ordnungswidrigkeit muss nur in einem (zukünftigen)Gesetz 
+benannt werden und schon besteht ein prinzipieller Auskunftsanspruch. 
+Man muss streng unterscheiden zwischen der Vorratsdatenspeicherung und 
+der Speicherung der IP zu Abrechnungszwecken und dem sich daraus 
+ergebenden Auskunftsanspruch.

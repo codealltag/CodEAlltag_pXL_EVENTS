@@ -1,0 +1,6 @@
+Regel nach dem Eintreffen der Nachricht anwenden:
+Wenn die "Von:"-Zeile  "Bernd Classen" enthält
+der Wenn die Betreffzeile  "G.u.T." enthält  [...]
+Aktion Deiner Wahl.
+
+Oder filtere nach "de.talk.tagesgeschehen" und gut ist es.

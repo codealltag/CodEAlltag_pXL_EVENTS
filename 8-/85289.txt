@@ -1,0 +1,10 @@
+du bastler hast noch immer nicht gelernt, das charset="iso 8859-1" 
+in deinen header rein zu kriegen
+
+X-Newsreader: Microsoft Outlook Express 6.00.2900.5931
+
+X-RFC2646: Format=Flowed; Original
+
+Statt Original sollte das mit dem charset stehen,
+
+Gl

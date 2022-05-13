@@ -1,0 +1,15 @@
+zeit:	achtuhrsechsundzwanzig
+ort:	heimseiten/nutznetz
+grund:	unverständnis über eine aussage
+ursache:unverständnis
+analyse:beantragt im nutznetz
+
+anlasse:folgende aussage:
+
+"Die große Gefahr, die ich sehe, ist ein Wiedererstarken des ökonomischen
+Nationalismus", sagte Menze der UHCL am Rande seines Neujahrsempfangs in
+Völksen. Der Staat als Anteilseigner von Banken werde bei der
+Geschäftspolitik auf die Bedürfnisse seiner Volkswirtschaft achten. "Das
+ist nicht gut", so der Konzernchef. 
+
+frage: wieso?

@@ -1,0 +1,10 @@
+Hella.
+
+
+Den Betreff habe ich meines Wissens nur übernommen und das fup2 hackt mir
+KNode bei XPosts automagisch rein, wenn ich nicht aufpasse und das nicht
+von Hand nachregele. Tja, KNode implementiert wirklich sämtliche Standards
+und Empfehlungen, die sich irgendwann mal irgendwer zum Thema ausgedacht
+hat, manchmal nervt's und manchmal ist es geil.
+-- 
+Es ist Zeit für Reich

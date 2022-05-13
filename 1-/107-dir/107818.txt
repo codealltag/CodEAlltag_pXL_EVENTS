@@ -1,0 +1,16 @@
+Tim Päsold <ymysxsyrxv.ucdtyfiztxw@tocgudogqzgnw.rj>
+writes:
+
+
+man muss sie nicht 'fälschen', es reicht, sie anders als vorgesehen
+benutzen zu koennen. 
+
+das funktioniert am einfachsten durch beschaffung passender credentials
+("Phishing"), etwas komplizierter durch direkten zugriff auf den rechner
+des nominellen absenders, noch komplizierter durch einen angriff auf
+den datentransport ("MITM") oder durch einen angriff auf das verwendete
+verfahren an sich. wo letzteres von der 'schwierigkeit' einzuordnen war,
+weiss man fatalerweise erst hinterher...
+
+-- 
+frobnicate foo

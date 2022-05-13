@@ -1,0 +1,25 @@
+Im Prinzip gehts um die Kontrolle des Internets. Es sollen die 
+Infrastrukturen geschaffen werden um die Inhalte zu kontrollieren.
+
+Phase1 : Cocks mit der Speicherung der IPs also der "Adressaten"
+Phase2 : Jetzt kommt die Kontrolle der Inhalte, also das was
+         in den TCP-Packets drinsteht
+
+
+Ich mein, bei mutwilliger Verarmung von Millionen von Kindern in D,
+ist wohl davon auszugehen, daß dieser Regierung KiPo im Prinzip auch
+völlig am Arsch vorbeigeht.
+
+
+Das würde die, glaub ich, ohne mit der Wimper zu zucken, auch tun .
+
+
+Eigentlich bräuchte man gar keine Internetkontrolle in Deutschland. Der
+dt. 0815-User ist eigenlich sowieso zum Scheißen zu blöde...
+
+
+Gruß B.N.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,30 @@
+Antwort auf eine Nachricht von Samu Wuensch
+
+
+Nein.
+
+In einem Raum ohne Zeit würde sich niemals irgend etwas ändern.
+
+Und da ist ja das Problem! Wenn wir uns in einem Raumschiff befänden,
+das mit 0,99999999-facher LG flöge, so verginge in diesem dennoch Zeit:
+
+ √(1−0,99999999²÷1²) = 0,000141421
+
+Konkret, die Raumfahrer in diesem Raumschiff würde eine Sekunde erleben,
+während im Rest des Universums etwas mehr als 7.000 Sekunden vergingen.
+Auch bei 0,9999999999999999999999999999999999999999999999999-facher LG
+gälte dies noch, lediglich das Ausmaß der Zeitdillatation würde sich
+ändern. Du kannst Dich der LG also beliebig annähern, nur erreichen
+sollstest Du sie nicht, denn:
+
+ √(1−1²÷1²) = 0
+
+Und dann ist aus die Maus!
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⍾⍾⍾ Ceterum censeo EIV esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.huqyk-xuwenk.rj

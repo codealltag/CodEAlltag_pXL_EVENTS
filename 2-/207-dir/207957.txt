@@ -1,0 +1,9 @@
+Nein, ein Administrator ist kein Hacker.
+
+Der Administrator eines vernuenftigen und vernuenftig konfigurierten 
+Betriebssystems kann zwar Accounts komplett loeschen, aber nicht lesend 
+oder schreibend auf die Dateien und Verzeichnisse eines Accounts zugreifen.
+
+Allerdings: das System muss entspechend konfiguriert sein.
+
+cornelius

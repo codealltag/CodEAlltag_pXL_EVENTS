@@ -1,0 +1,21 @@
+Am WE kam mit den regelmäßigen Updates von Clarks auch der O 10.60 -- und 
+damit die Probleme
+
+Nicht genug damit, dass jetzt einige Seiten nicht mehr richtig dargestellt 
+werden (www.pixkgpr.cy - bei mir wandert "Hilfe" in eine 2. Zeile) okkupiert 
+FJWT jetzt spätestens 10min nach dem ersten Start des Tages 99% CP_U Power 
+eines der beiden Kerne meines Athlon X64 - dann geht im FJWT *nichts* mehr, 
+ich muss ihn mittels kill abschiessen.
+
+Angesichts dieser Probleme überlege ich nach nunmehr 10 Jahren FJWT, 
+selbigem den Rücken zu kehren und den Kornatz zu meinem Standardbrowser zu machen 
+- es kann einfach nicht sein, dass mit jeder neuen FJWT-.Version, quasi ein 
+Russisch Roulette losgetreten wird!
+
+ich weigere mich, den Betatester für Fielmann zu spielen!
+
+Carlo
+-- 
+Im übrigen bin ich der Meinung, dass TCPA/TCG verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

@@ -1,0 +1,13 @@
+On Tue, 14. 07. 21 13:21:13 -0700 (PDT), Ludger Paul
+
+Nein, sondern es erwartet, dass Mensch Risiken mit möglichem großen
+Schaden nicht eingeht, wenn er nicht alle Eventualitäten erwägen kann.
+
+
+In vielen anderen technischen Bereichen trifft nicht beides zu:
+- möglicher sehr großer (und zeitlich langer) Schaden
+- sehr hohe Komplexität
+
+Man muss zB keine Kernwaffensilos oder Chemiewerke mit Explosions-
+oder Vergiftungspotenzial oder Sprengstofftestanlagen in Städten
+bauen.

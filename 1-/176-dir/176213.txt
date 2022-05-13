@@ -1,0 +1,2 @@
+Jetzt sehe ich, was du meinst. Allerdings ist "Prozent" keine Einheit,
+sondern stellt nur einen Bruch mit dem Nenner 100 dar.

@@ -1,0 +1,29 @@
+Hallo,
+
+
+Nein. Die Übernahme eines Fehlers ist nicht korrekt ... Bereits
+das erste Posting enthält eine illegale Headerzeile (Subject).
+Sie ist also falsch und wird nur durch Zufall und/oder Glück
+korrekt angezeigt.
+
+Dieser Fehler sollte dann bei der Antwort vom Newsreader des
+Antwortenden mehr oder weniger korrigiert werden. Wegwerfen des
+kompletten Subjekts ist da nur eine mögliche Radikallösung. Das
+Wiederherstellen des Subjekts und korrektes Maskieren geht IIRC
+nicht eindeutig, da Kenntnisse der verwendeten Codepage eingehen
+müssten. Das geht nicht so prall. Beim Umkodieren von News und
+Mail hat Eistaube gelegentlich Probleme und zeigt diese auch
+an. Andere Programme machen da noch mehr Probleme, verschweigen
+diese aber dem Nutzer.
+
+
+Verstehen wäre auch nicht schlecht gewesen. Diese Diskussion
+um die defekten Subjektzeilen kenne ich noch aus dem letzten
+Jahrtausend. Ich dachte immer das sollte jetzt aber langsam
+durch sein?
+
+
+MfG
+
+
+Charles Völzke

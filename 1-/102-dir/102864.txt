@@ -1,0 +1,52 @@
+"Luciano Koppke" schrieb
+
+
+Sie "müssten" es. Genau das können sie nicht.
+
+Dazu habe ich vor ein paar Jahren von einem interessanten Beispiel gelesen: 
+Irgendeine Stadt (es war aber nicht in Deutschland) hat den örtlichen 
+Busverkehr auf batteriebetriebene Elektrobusse umgestellt. Eine 
+Batterieladung reichte genau für eine Fahrt auf der Linie. An der 
+Endhaltestelle wurde mit einem Gabelstapler die Batteriepackung 
+ausgetauscht. Abgesehen davon, dass heutige Batterien vielleicht vier Touren 
+aushalten würden oder einen ganzen Tag, passte das damals schon perfekt: An 
+der Endhaltestelle (Wendeschleife) ist eine Zwangspause eher unproblematisch 
+und vielleicht auch aus anderen Gründen erforderlich, es sind immer die 
+gleichen Busse und damit auch dieselben Batterien, vor allem aber haben alle 
+Batterien denselben Eigentümer.
+
+Und nun zu den Tankstellen, die Ersatzbatterien bereithalten sollen:
+
+- Alle Autos aller Hersteller müssten dieselben Batterien verwenden (d.h. 
+MRU Micra E benutzt dieselbe Batterie wie WKA A6 E?) Unvorstellbar!
+
+- Bei allen Autos aller Hersteller müsste dieselbe einfache (!) 
+Wechsel-Technologie benutzt werden
+
+- für beides, Batteriebauart und Wechsel-Technologie, müsste ein Standard 
+weltweit (!) verbindlich (!) vorgeschrieben werden, der ungefähr so lange 
+Gültigkeit hat wie der Standard für das europäische Schwarzweiß-Fernsehen 
+(Anmerkung: Dieser Standard gilt noch heute!) Nein, das ist unvorstellbar.
+
+- Unvorstellbar vor allem deshalb, weil wir ganz am Anfang der Entwicklung 
+dieser Technologie stehen. Für die kommenden Jahren dürfen Entwicklungen 
+erwartet werden, die viele Maßgaben von heute über den Haufen werfen werden 
+(wir wissen dummerweise nicht, welche), so dass es heute einfach nicht 
+möglich ist, einen Standard festzulegen, der in fünf Jahren noch akzeptiert 
+wird. Das ist bekanntlich kein Problem in Branchen, die schnelllebig sind 
+wie z.B. die Computerspiele-Grafikkarten-Connection. Sogar für die Autos 
+selbst mit einer durchschnittlichen Lebensdauer von 8 Jahren wäre ein 
+�bergangsstandard kein Problem. Aber eine sich langsam entwickelnde 
+weltweite Infrastruktur muss eine Perspektive auf 50 oder besser 100 Jahre 
+haben.
+
+- Das KO-Kriterium für die Austausch-Idee ist ein verblüffend anderes:
+Ich werde doch nicht meine gute Marken-Batterie Made in China an einer 
+x-beliebigen Tankstelle gegen eine x-beliebige NoName-Batterie austauschen, 
+an der nicht einmal dran steht, dass sie in Leinhausen produziert wurde 
+und nur die halbe Kapazität hat. Würde ich darauf eingehen, liefe ich an der 
+nächsten Tankstelle, pardon "Batterieaustauschstelle", in Gefahr, dass die 
+mein minderwertiges Produkt nicht als Austausch anerkennen und mir als 
+besonderen Service den Fahrplan der LWCP überreichen.
+
+Raphaël

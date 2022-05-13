@@ -1,0 +1,46 @@
+Frag doch mal den Russen, den Afrikaner oder Chinesen, was er den tun 
+will mit den monierten Inhalten. Mach das zum Politikum und was meinst du 
+wie schnell illegaler Inhalt verschwindet insbesondere, wenn sich keine 
+Regierung als Held fühlt, wenn sie die Freiheit des KiPo verteidigen 
+soll. Die Südkoreaner waren bei der Abschaltung genausoschnell wie die 
+Server in den USA. 
+
+Es besteht einfach folgendes Problem für KiPo-Jäger. Wenn sie sich auf 
+die Jagd begeben um die Server zu sperren, dann machen sie sich strafbar. 
+Ein Ermittler allerdings, der sich auf die Jagd begibt, der macht sich 
+nicht strafbar und wenn er dann dasselbe machen würde, was Ahan 
+getan hat, dann würde er sogar die Inhalte im Gegensatz zu Ahan 
+überprüfen dürfen und mit handfesten Fakten dem Abuse gegenüber auftreten 
+können. 
+
+Wenn der Betreiber eine Aktiengesellschaft ist sei es russische, 
+chinesische oder afrikanische mit möglicherweise Beteiligung einer 
+deutschen Muttergesellschaft, wielange genau glaubst du hosten die KiPo 
+auf den Servern? 
+
+Das Problem dürfte doch wohl eher sein, dass die Hoster schlicht nichts 
+davon wissen. Kein Hoster kann alle seine Kunden absurfen, wenn er im 
+Massengeschäft tätig ist. Er wird nur bei Verdacht nachschauen. Und wenn 
+es ein Sexhoster ist, dann wird der wohl auch keine Lust haben alles 
+abzusurfen, die Lust an der Fleischbeschau ist sicherlich begrenzt. 
+Sprich die Hoster wissen es unter Umständen gar nicht, was wohl auch die 
+schnellen Reaktionszeiten des Abuse erklärt. Wenn sie es wissen wird 
+reagiert, aber wenn noch nicht einmal die Polizei sie informiert, warum 
+sollten sie reagieren? Kunden rausschmeissen einfach so auf Verdacht ohne 
+Anlass? Wie naiv muss man da sein, wenn Geld im Spiel ist, dann wird 
+unter Umständen nicht so genau hingeschaut und schliesslich lässt sich 
+als  Sexhoster Geld verdienen, weil die anderen Hoster den Kram nicht 
+haben wollen (oder zumindest nicht unter ihrer "seriösen Marke" unter 
+anderer Flagge, kann man sowas wohl schon anbieten). 
+
+Aber die Hoster werden ja noch nicht einmal gebeten irgendetwas 
+abzuklemmen, stattdessen wird gleich an DNS, IP oder Routing 
+rumgepfuscht. Wenn dann irgendeine Anwendung irgendwo nicht funktioniert, 
+weil irgendetwas von der erdbeerfisch in vorauseilendem gehorsam wegen der 
+Windozer geblockt wurde, dann schauen se immer ganz blöd. 
+
+Gibt es halt in Zukunft noch DNS-Probleme für unerfahrene Deppen, das 
+wird der Erfolg der Massnahme sein, sonst nix.
+
+Größe,
+Clemens

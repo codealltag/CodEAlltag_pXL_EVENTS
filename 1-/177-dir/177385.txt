@@ -1,0 +1,3 @@
+Gleichungssysteme haben mindestens zwei Unbekannte.
+-- 
+Es ist Zeit für Reich

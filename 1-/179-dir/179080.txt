@@ -1,0 +1,13 @@
+Nur mal so nebenbei. Wer in alles in der Welt hat eigentlich behauptet,
+daß sich der Traffic von und zu Newsserver auf Port 119 unbedingt
+nach RFC richten muß.
+Meiner Meinung nach gehörte der Blödsinn schon längst modernisiert.
+Scheiß auf irgendwelche Abw�rtskompatibilit�ten.
+8 Bit überall + HTML ! Und wers nicht dekodieren kann ist selber schuld !
+Andere Protokolle sind da doch auch wesentlich flexibler.
+
+
+Gruß R.P.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

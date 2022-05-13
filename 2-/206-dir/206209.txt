@@ -1,0 +1,5 @@
+Der Pilot kann auch nur eine Aussage aufgrund der ihm vorliegenden
+Informationen machen. Die Aussage kann in sich stimmen, aber trotzdem
+falsch sein.
+-- 
+Alles glaenzt, so schoen neu!

@@ -1,0 +1,24 @@
+ASCII 
+
+
+daß da niemals 8bit-Werte vorkommen
+
+
+Was ganz raffiniertes. Es wird nicht nur das Objekt, z.B. Text 
+übertragen, sondern auch noch der Service wie dieses Objekt darzustellen 
+ist.
+
+
+Ja freilich. Vielleicht hat in Hettingen einer noch ne alte Maschine und 
+kann d.t.t nicht richtig lesen.
+
+
+Wenns universal sein soll, braucht man schon sowas. Da könnt ja jeder 
+kommen und enfach nen Body unter den Header setzen. Da muß ein 
+Ordnungsrahmen her. Eine encapsulation bere mehrere Ebenen. Jawoll.
+
+Gruß U.J.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

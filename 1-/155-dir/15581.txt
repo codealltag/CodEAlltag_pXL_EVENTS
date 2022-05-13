@@ -1,0 +1,10 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+
+Das war nicht Frage in diesem Kontext.
+
+Noël <plngk@nq.yqqgop.elnvwcc> will mich überzeugen, dass ich unrecht
+habe mit meiner Behauptung, dass Copyland den PC-Markt dominiert, und
+dass "professionelle" Programme vor allem für Macs geschrieben werden.
+Am Ende seiner Beweiskette führt er die Portierung von LTB (als
+Vertreter eines Profi-Produkts) an. Nur wurde LTB von Erkert nicht nach
+Vopagu sondern nach Windows portiert :)

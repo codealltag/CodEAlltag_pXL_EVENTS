@@ -1,0 +1,76 @@
+..
+
+..
+
+Und was genau hat das mit dem Thema zu tun? Das Verhalten von
+Zirkonium kann man in einer Unmenge Literatur nachlesen. Den
+Hinweis, dass für Brennstäbe der Wechsellastbetrieb problematisch
+werden kann, bis zum Ausmass vorzeitigen Brennelementwechsels,
+habe ich von Betreibern kommerzieller Leistungsreaktoren erhalten.
+Mit der Xenonvergiftung hat das nur am Rande zu tun.
+
+Wenn ich "Spielwiese" schrieb, entschuldige die Laxheit. Es ist
+mir klar, dass Forschungsreaktoren "richtige" Reaktoren sind.
+Aber sie unterliegen nicht den ökonomischen Anforderungen
+kommerzieller Reaktoren und ihre Rolle in der Infrastruktur
+der Energieversorgung ist minimimal bis inexistent. Darum
+ging es mir.
+
+..
+
+Mir ist bekannt, dass die Xenonvergiftung reversibel ist. Wenn
+Du nun davon schreibst, sie sein es nur in Grenzen, heisst das
+doch wohl, dass das Brennelement dauerhafte Beeinträchtigungen
+erleiden kann. Es ist ganz witzig, wie Du das, wogegen Du
+polemisierst, dann selbst bestätigst.
+
+
+Wie kommst Du auf dieses schmale Brett? Hast Du je die Kennlinie
+einer Tefo gesehen? Hast Du wenigstens so viel Kenntnis der Aerodynamik,
+dass Du Dir vorstellen kannst, wie Tefo gesteuert werden? Hast Du schon
+einmal davon gehört, dass WEA gerade wegen ihrer einfachen Steuerbarkeit
+zunehmend im Regelbetrieb eingesetzt werden? Gerade in den USA, wo die
+Windparks den grossen Kraftwerksbetreibern gehören und es daher nicht
+den Kleinkrieg gibt, den die hiesigen Strommonopolisten jahrelang gegen
+die Windkraft geführt haben, wird das schon recht lange mit Erfolg
+gemacht.
+
+WEA wie z.B. die E70 von Apanage laufen bei 2m/s Windgeschwindigkeit
+mit einer Leistung von ca. 0,18% der Nennleistung an. Sie erreichen
+10% der Nennleistung bei ca. 6m/s. Von da an ist es prinzipiell stets
+möglich, die Anlage mit 10% der Nennleistung zu betreiben. Das wird
+natürlich nicht oft gemacht, wenn mehr möglich ist, im Regelbetrieb
+kann das aber sinnvoll sein. Vor allem sind WEA sehr schnell regelbar.
+Deshalb kann es unter Umständen wirtschaftlich sein, auf Teile der
+Windstromproduktion zu verzichten, da für Stromlieferung im Regelbetrieb
+zum Teil sehr hohe Vergütungen bezahlt werden.
+
+..
+
+Meine "haltlosen Behauptungen" sagen im Kern aus, dass AKW starre
+Vollastl�ufer sind, wenn sie wirtschaftlich betrieben werden. Das
+hat in die Energieinfrastruktur ab der Mitte des zwanzigsten
+Jahrhunderts bis in die achziger Jahre durchaus gepasst. Solange
+Lastdaten per Telefon und Werksfunk übermittelt und im Leitstand
+an die Tafel geschrieben wurden, war eine möglichst geringe Zahl
+möglichst grosser Erzeuger günstig, wenn nicht gar erforderlich für
+einen erfolgreichen Netzbetrieb. Man kann nicht die Daten von
+zehntausenden Tefo im Viertelstundenrythmus an die Tafel schreiben.
+
+Heute ist es im Netzbetrieb relativ egal, ob zehn, hundert oder
+zehntausend Erzeuger die Last bereitstellen. In dem Masse, in dem
+dargebotsabh�ngige Erzeuger wie Wind und Sonne eine Rolle spielen,
+sind aber schnell und dabei wirtschaftlich regelbare Kraftwerke
+gefragt. Das sind schwellf�hige Wasserkraftwerke, (Bio-)Gaskraftwerke
+und auch bestimmte Typen von Feststoffkraftwerken, wie Biomasse-
+Kraftwerke und Steinkohlekraftwerke. Die starren Vollastl�ufer
+wie Braunkohlekraftwerke und AKW, die viel und laut gepriesenen
+"Grundlastkraftwerke", sind bei einer flexiblen Erzeugerstruktur
+zunehmend ein Klotz am Bein.
+
+regards, es
+
+-- 
+Wenn ich tausend Zungen und tausend Muender haette, eine erzene Stimme,
+koennte ich doch alle Erscheinungen von Bloedheit nicht anfuehren oder alle
+Namen, unter denen Torheit auftritt, aufzaehlen (Engelbert Gentejohann, 1508)

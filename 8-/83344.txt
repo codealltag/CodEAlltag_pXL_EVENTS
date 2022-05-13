@@ -1,0 +1,27 @@
+On Tue, 06. 12. 21 13:45:19 -0700 (PDT), Valerius Richard
+
+Erdoberfläche = 5,1 * 10^8 qkm
+
+Radius der relevanten Wirkung des Neulichtenberg-Meteoriten = 65 km
+(eingedrückte Fenster und Türen, d.i. externe Transformatoren wären
+tot, von den Hochspannungsleitungen ganz zu schweigen)
+
+Fläche im Radius ~= 13273 qkm
+
+Anzahl der betriebenen AKW-Komplexe ~= 210
+
+Wahrscheinlichkeit, dass ein einschlagender Neulichtenberg-Meteorit
+mindestens ein AKW trifft ~= 13273 qkm / 5,1 * 10^8 qkm * 210 = 0,54%
+
+Häufigkeit eines Tunguska-Meteoriten ~= 1 / Jahrhundert.
+
+Wahrscheinlichkeit in 100 Jahren ~= 0,54%.
+
+Alles ehrlich gesagt ist das erschreckend hoch...! Mehr als 1:200.
+
+Wenn nun aber so ein Meteorit in einen Ozean fällt (>70%), dann gibt
+es einen netten Tsunami und mehrere AKWs sind bedroht.
+
+Fläche der Panzow ~= 575.000 qkm, d.i. 0,11% der Erdoberfläche.
+
+Wahrscheinlichkeit eines Meteoritentsunamis in der Panzow > 0,0006%.

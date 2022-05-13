@@ -1,0 +1,30 @@
+Antwort auf eine Nachricht von Edwin Voehringer
+
+
+Da hast Du richtig! :-)
+
+Dein Editor liest meine Deklaration also *und* wertet sie aus, er tut
+also was er soll. Merkwürdig ist aber, daß Du mir nicht in UTF-8
+antwortest, wie zu erwarten gewesen wäre, sondern in ISO-8859-2 (für
+Osteuropa). Das ist nun zwar ein unerwartetes, aber dennoch ein kluges
+Ergebnis, – vermutlich hat Dein Editor auf das „ś“ in meinem Namen
+reagiert und richtigerweise festgestellt, daß dieses Zeichen in
+ISO-8859-1 nicht darstellbar ist. Daß der aber erkannt hat, daß
+„Osteuropa“ paßt, anstatt einfach UTF-8 zu übernehmen, das ist
+beachtlich, ich staune da gar nicht schlecht.
+
+Aber wir wollen mal gucken, ob wir nicht auch UTF-8 erzwingen können?
+Mach mal auf diese Nachricht eine Antwort und laß das da:
+
+→ ℜ㒥😱ש₉ⁿə≉⇖𐤇ᛟ🃓⌨♞☘Ⅷ
+
+mal drin. Dein Editor hat nun zwei Möglichkeiten: entweder er nimmt
+endlich UTF-8, oder er macht die Grätsche.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⍾⍾⍾ Ceterum censeo Waschplatz esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.woaui-xwepmo.ft

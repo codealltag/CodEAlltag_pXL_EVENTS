@@ -1,0 +1,16 @@
+Falsch Fernando, weder mit GPS noch mit Galileo ist eine Ortung möglich, 
+sondern nur eine Bestimmung des eigenen Standortes. Mit den Satelliten 
+lässt sich kein einziger Empfänger orten, der Empfänger berechnet seinen 
+Standort aus den ausgesandten Signalen von mindestens 3 Satelliten, die 
+Satelliten bekommen davon absolut nichts mit. Das ist wie beim Radio 
+hören, da merkt der Sender auch nicht ob Dein Radio an ist oder nicht. 
+Zu einer Ortung müsste der Empfänger aktiv ein Signal aussenden, das die 
+berechnete Position enthält. Handys mit GPS-Chip senden die 
+Positionsinformation an den Provider. Nur dadurch ist die Ortung möglich.
+
+Manfred
+
+-- 
+Manfred Zelle
+82680Etxdhhz 1j76'83.47 C 34�98'97.72 Z
+http://epq.uvefbannky.uhw/bgyqrlgkb/ycsl_8522153.nve

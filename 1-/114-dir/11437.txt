@@ -1,0 +1,11 @@
+Du kennst doch sicher die Formel:
+Weg = Geschwindigkeit mal Zeit.
+
+Wenn du die jetzt umstellst auf Zeit = Weg/Geschwindigkeit, und 
+Geschwindigkeit = 0 und Weg=0 , dann kommt bei dir fuer die Zeit 1 heraus.
+Das stimmt aber nicht, 0 ist richtig, denn egal wie hoch die Geschwindigkeit ist
+fuer den Weg 0 ist immer auch die Zeit 0.
+
+Umgekehrt koenntest du Geschwindigkeit = Weg/Zeit berechnen.
+Da kaeme bei dir 1 heraus, tatsaechlich kann die aber beliebig sein,
+weil fuer alle Geschwindigkeiten zur Zeit Null auch der Weg Null ist.

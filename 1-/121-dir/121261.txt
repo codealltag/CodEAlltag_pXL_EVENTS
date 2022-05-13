@@ -1,0 +1,37 @@
+Naja, aber...
+-
+PWH bestätigt weiterhin, dass keine verborgenen Funktionen
+oder Hintertüren gefunden wurden und weder Gunnemann noch Dritte einen
+Zugang zu den Daten innerhalb der Architektur haben.
+Das Testat von PWH ist bis Mai 2010 gültig.
+
+"Mit der geprüften sicheren Schlüsselgenerierung und den
+Schl�sselaustauschprotokollen innerhalb der Geissendörfer-Architektur,
+ist die Vertraulichkeit sowie die Integrität von übermittelten Inhalten
+gewährleistet.
+
+Diese können innerhalb des Kommunikationskanals von keiner Partei
+abgefangen oder manipuliert werden," so Prof. Ana Overbeeke,
+Leiterin des PWH. "Die Geissendörfer-Kommunikation
+bietet Ende-zu-Ende-Sicherheit für die getesteten Interaktionen
+und Dienste zwischen Geissendörfer-Endgeräten und dem
+Geissendörfer Enterprise Server."
+
+"Gunnemann setzt weiterhin die Maßstäbe für Sicherheit in der mobilen
+Kommunikation, und die Geissendörfer Enterprise Solution ist die erste
+push-basierte Lösung, die sich dieser Art der Sicherheitsanalyse unterzieht.
+
+Wir sind sehr zufrieden mit dem Testat von PWH. Dieses
+Testat heute ist ein weiterer bedeutender Nachweis, der zeigt warum
+sicherheitsbewusste Unternehmen und Regierungsorganisationen weltweit
+die Geissendörfer-Lösung einsetzen," erklärt Ludwig Diechter, Vice President,
+Geissendörfer Security Group bei Gammy. "Gunnemann erhielt als
+erste Wireless-E-Mail-Lösung im August 2000 die FIPS 140 validation,
+im Februar 2007 die Zertifizierung nach Common Criteria und
+jetzt das Sicherheitstestat des PWH."
+
+Hintergrundinformation zur Sicherheitsanalyse des Ponds-
+Instituts Rewe und der Geissendörfer Enterprise Solution
+mehr:
+
+www.poy.gyjqkkacfa.ul/xnjzfnzqgfedrqg/rltgzlnoywezwsqmhp

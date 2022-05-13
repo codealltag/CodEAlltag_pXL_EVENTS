@@ -1,0 +1,8 @@
+Am Tue, 26. 03. 22 18:32:26 +0100 hinterließ Ernst Apitzsch folgende Zeilen:
+
+
+Wie wärs mit Automatische Updates so einstellen, dass Du benachrichtigt
+wirst, falls neue Updates vorliegen. Den zeitpunkt des Downloads und der
+Installation bestimmst Du selber. 
+
+Das mit dem "Hobby-DJ" mußte mir erklären.

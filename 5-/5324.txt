@@ -1,0 +1,10 @@
+Experten nennt man so etwas heute.
+
+Aber ging es eigentlich nicht nur um angeblich gefälschte Datensätze
+oder etwas änliches? Da war doch mal was mit angebliche E-Mails oder
+sowas. Wenn Hendrik diese Geschichte meinen sollte, von Programmcodes
+war da meines Wissens nie die Rede. Was vermutlich auch völlig witzlos
+wäre, da 99% des gesamten Codes aus proprietärer Software in
+irgendwelchen kommerziellen mathematischen Bibliotheken bestehen dürfte.
+
+Ernest

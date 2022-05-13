@@ -1,0 +1,37 @@
+Anfrage von Anwenderin:
+Wenn ich einen Film auf meine Diskette speichern möchte, kommt die Meldung, 
+dass auf der Diskette nicht genügend Speicherplatz vorhanden ist.
+
+Dann versuche ich mit Verknüpfung-speichern und dann ist Platz genug und 
+Film ist auf der Diskette.
+Problem ist aber, wenn ich diesen Film auf der Diskette auf einem anderen PC 
+anschauen möchte.
+Da kommt die Meldung: -nicht gefunden. Aber auf meinem PC funktioniert es. 
+Was kann es sein?
+
+
+Antwort IT-Hotline:
+Sehr geehrte Anwenderin,
+in Ihre Handtasche passt Ihr Pelzmantel einfach nicht rein. Ein Zettel mit 
+Vermerk, dass Ihr Pelzmantel im Schrank hängt, passt in Ihre Handtasche 
+rein. Also solange Sie diesen Zettel daheim lesen, finden Sie Ihren 
+Pelzmantel im Schrank.
+
+Schwieriger wird es, wenn Sie Ihre Freundin besuchen und dort Ihren Zettel 
+lesen und erfahren, dass Ihr Pelzmantel im Schrank hängt. In dem Schrank von 
+Ihrer Freundin können Sie suchen, so lange Sie wollen, Ihren Pelzmantel 
+finden Sie dort bestimmt nicht...
+
+Noch eine Hilfe:
+Handtasche = Diskette
+Pelzmantel = Film
+Zettel = Verknüpfung
+Schrank = PC
+Motten im Schrank = PC Virus
+Nachbar im Schrank = Hacker
+...alles klar?!
+
+
+-- 
+Schwedische Gardinen?
+http://y.uijtgqdiub.ox/jvc593/5325/ned2830lv.vwn

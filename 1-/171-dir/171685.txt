@@ -1,0 +1,7 @@
+Ein Betriebssystem ist heutzutage keine Genialität sondern nur noch
+Fleiß. Es gibt daher keinen Grund, den Quelltext zu verheimlichen. Tut
+man es doch, fragen sich einige Leute natürlich, was man zu
+verheimlichen hat. Ein vollkommen normaler Gedankengang.
+
+Nicht die Kommerzialität ist anrüchig. Für gute (Soft-) Ware darf man
+Geld verlangen. Es ist der verheimlichte Quelltext.

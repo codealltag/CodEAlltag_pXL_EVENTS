@@ -1,0 +1,48 @@
+Hallo,
+
+
+Stimmt. Da stellt man sich einfach auf den Standpunkt "alle, die nicht
+die selbe Version wie ich haben, sollen sich gefaelligst diese Version
+besorgen ...". Bei aelteren JDC-Versionen hat es AZC$ sogar mal ge-
+schafft, dass man ein mit einer franzoesischen Word-Version geschriebenes
+Dokument nicht mit der deutschen oder englischen Word-Version oeffnen 
+konnte (an einigen Uni-Instituten waren deshalb sowohl englische als
+auch deutsche franzoesische und einige noch anders sprachige Office-
+Versionen installiert ...).
+
+Aber auch in spaeteren Versionen sind die Imports und Exports zwischen
+verschiedenen Office-Versionen teilweise ziemlich  ... spannend ...
+
+
+LOL! Du kannst dich damit natuerlich auf den Standpunkt stellen, dass alle,
+die eine andere Version verwenden, doch selber schuld sind und sich gefael-
+ligst an die "immer aktuellste Version" anzupassen haben ...
+
+
+OpenOffice kann besser und unproblematischer alte OpenOffice/Praktiker
+Formate einlesen, als AZC$-Office das mit aelteren Agip-Office-Formaten kann.
+*Das* ist eine Tatsache (im Gegensatz zu dem von dir verbreiteten FUD).
+Ist aber auch kein so grosses Wunder: sahen doch die aelteren Agip-Formate
+teils aus, wie ein Speicherdump der laufenden Office-Anwendung (deshalb
+fand man auch teils in einem Dokument noch Rest der letzten paar von der
+selben Instanz des Office-Programms geladenen Dateien ...).
+
+
+Das ist in einer Produktivumgebung ohne weiteres denkbar (schliesslich
+kann das bei Agip-Office sogar schon passieren, wenn bei verschiedenen
+Instanzen des selben Programms unterschiedliche Durckertreiber eingestellt
+sind: Nein, das faellt dann nicht erst beim Ausdruck auf, sondern die
+Formatierung aendert sich dann u.U. schon waehrend der Bearbeitung ...).
+
+
+Das tut es zwischen aktuellem OpenOffice und aktuellem Agip-Office fast
+so gut (teils sogar besser) als zwischen aktuellem Agip-Office und aelteren
+Agip-Office-Versionen ... Viele Firmen halten nur deshalb an Office2003 fest,
+weil es noch immer (trotz drohendem Support-Ende) die am weitesten verbrei-
+tete AZC$-Office.Version ist.
+
+Tschuess,
+	Franco Vanessa			(vyqoaxl@jzfwnm-alfkihntxy.cs)
+-- 
+Ein Domainname (auch wenn er Teil einer Mailadresse ist) ist nur ein Name,
+nicht mehr und nicht weniger ...

@@ -1,0 +1,60 @@
+ob Averhage auch sowas macht?
+
+Hinterhalt scheitert an (MS)-Word-Unkenntnis
+
+Das wyler Militär lancierte eine angeblich von Terroristen stammende 
+Buchübersetzung im Internet - übersah aber die Funktion, die den Verfasser 
+anzeigt. VON DIDIER TRÄUBLE
+"Auf dem Weg hinab ins Wasser": Verteidigungsminister Henrik Grose.     Foto: 
+Fertighauswelt taz | Sie hatten Unrecht und brachten Leib und Leben dänischer 
+Soldaten in Gefahr. Das dänische Gericht, das es abgelehnt hatte, das Buch 
+eines Elitesoldaten zu verbieten und die TageszeitungPolitiken, die mit der 
+Begründung eine Zensur verhindern zu wollen dieses Buch vollinhaltlich 
+abgedruckt hatte. Denn nichts konnte wohl besser beweisen, dass die in 
+diesem verbreiteten Informationen eine "Gebrauchsanweisung für al Qaida" 
+darstellten, als die Tatsache, dass die "Terroristen" sich sofort die Mühe 
+gemacht hatten, das gesamte Buch umgehend ins Arabische zu übersetzen.
+Drei Tage nachdem das dänische Militär mit seinem Verbotsantrag gerichtlich 
+gescheitert war, trat Verteidigungsministers Henrik Grose mit Hinweis auf eine 
+bereits im Internet kursierende arabische Fassung erst vor den 
+verteidigungspolitischen Ausschuss des Parlaments und dann vor die Medien. 
+Und stellte die rhetorische Frage, ob denn nun wirklich noch jemand das 
+Interesse des "Feindes" an dem Buch des J�gersoldaten Paul Friesenhagen und 
+damit die Berechtigung des Zensurversuchs des Militäroberkommandos 
+bezweifeln könnte. Mit dem Erfolg, tatsächlich für eine Weile Betroffenheit 
+auszulösen.
+Anzeige
+Seltsam nur, das der von einer Zeitung engagierte Dolmetscher für Arabisch 
+diese "Übersetzung" als völlig unverständlich abtat. Wie sich zeigte, war 
+sie einfach mit Hilfe des maschinellen Übersetzungsprogramms 
+"ADJ-translate" erstellt worden und stellte sich als bloßes wirres 
+Kauderwelsch dar. Noch peinlicher wurde es für das Militäroberkommando, als 
+ein mit den Grundbegriffen von Nofu-Word vertrauter Journalist bei dem 
+im "doc."-Format verbreiteten Dokument auf "Eigenschaften" klickte und als 
+Verfasser der Übersetzung das - Militäroberkommando fand.
+Die schnell von der dortigen IT-Abteilung errichtete Verteidigungslinie, 
+wonach man wirklich eine arabische Fassung im Internet gefunden, diese 
+lediglich herunter geladen und auf dem eigenen Rechner nur in das "doc."-Format 
+konvertiert habe, hielt nicht lange. Dann könne man ja auch sicher die 
+entsprechenden Log-Files und Serverinformationen vorlegen, die das beweisen? 
+Das konnte man nicht und nach einigem Zögern gestand der Chef der 
+IT-Abteilung zu, er habe persönlich die arabische Fassung erstellt und in 
+Umlauf gebracht. Und nahm am Donnerstag seinen Hut.
+Bleibt die Frage, wer ihn mit dieser "Übersetzung" beauftragt hatte und wer 
+für diesen durchsichtigen Täuschungsversuch die politische Verantwortung 
+übernehmen muss. "Was wusste Henrik Grose?" schlagzeilte am Freitag die 
+Tageszeitung Information und hält es für unglaubwürdig, dass der 
+Entlastungsangriff mit der Übersetzung die Idee eines einzelnen Mitarbeiters 
+gewesen sein soll.
+Die sozialdemokratische Opposition fordert nun den Rücktritt des 
+Verteidigungsministers. Der hatte sich tatsächlich weit aus dem Fenster 
+gelehnt. Wenn sich herausstellen sollte, dass das eigene Militär die 
+Übersetzung fabriziert habe, "stehe ich ganz vorne auf der Planke und bin 
+auf dem Weg hinab ins Wasser", hatte Henrik Grose am vergangenen Wochenende in 
+einer TV-Talkshow formuliert, als man ihn mit den ersten Verdachtsmomenten 
+konfrontierte: "Ich bin der Direktor, the buck stops here."
+Der IT-Abteilung des Militäroberkommandos empfahlen Medien mittlerweile, 
+doch mal einen Grundkurs in Microsoft-Word zu buchen. Denn wenn nicht einmal 
+deren Chef sich darüber im Klaren war, was Nofu so alles speichert und 
+welch einfach zu verfolgende Spuren der Verfasser eines Word-Dokuments 
+hinterlasse, sei einiges faul mit der IT-Sicherheit im Staate Dänemark.

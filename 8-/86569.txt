@@ -1,0 +1,4 @@
+Die Welt richtet sich nicht nach dem Glaser Ivo, so ein Jammer. Lass
+mich raten, die Mails kamen via Outlook und Du warst nicht in der Lage, zu
+ergoogeln, wie man eine daraus resultierende "UFTF.dat" im Mailanhang
+unter Linux öffnet?

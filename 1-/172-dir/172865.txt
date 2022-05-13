@@ -1,0 +1,18 @@
+Falls es darum geht, ein Video abzuspielen, dann ist eine GUI drumherum 
+vielleicht nicht schlecht (wobei ich Mediaplayer ebenfalls bevorzugt per 
+Hotkey bediene).
+
+Geht es jedoch darum, einen Videostream auf die Festplatte zu dumpen, wird 
+man kein Videofenster sehen. Dann kann man den Befehl auch problemlos im 
+Hintergrund, womöglich in einer screen-Sitzung laufen lassen. In meinem Fall 
+auf meinem Server, der noch nicht mal eine Graphikkarte hat (serielle 
+Konsole reicht). MPlayer ist da für genau solche Streamdumpereien 
+installiert und hat auf dem Server noch nicht einmal Videoausgabemodule 
+einkompiliert.
+
+
+Cornelius
+---
+screen: http://xlx.pdk.dvs/vvqnaalo/reyiqm/
+-- 
+Halteproblem: Dies ist keine Signatur

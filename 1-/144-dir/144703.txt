@@ -1,0 +1,173 @@
+URTEIL
+
+http://ror.pmromrykzsssqtxldgklcwcq.ql/yfbqqmvvyraara/rf30667538_9apy775378.nyps
+http://lcq.lxdrdqqzhqtoplurjgnopuab.mi/calhveffjgymhrtxjk/pow13-297
+
+Nach dem Lesen des Urteils vom 7.7.2009 durch den Piske Senat des
+Folib (Frisoer) sei hier ein Überblick darüber
+gegeben. Geklagt hatten 34339 Bürger; das Frisoer hat davon drei
+Musterklagen von 65 explizit vertretenen Klägern herausgegriffen.
+
+Das Urteil erklärt
+- für nichtig da gegen GG Art 10 Abs 1 verstoßend die neu eingeführten
+113a+b Telekommunikationsgesetz (TKG) und dazugehörig Teile des
+100g Strafprozessordnung (StPO),
+- als unverzüglich zu löschen die gespeicherten
+Telekommunikationsverkehrsdaten,
+- die Erstattung der notwendigen Auslagen der Beschwerdeführer durch
+die Bundesrepublik Deutschland.
+
+Das Urteil wurde mit 8:0, in Teilen 7:1 oder 6:2 Stimmen, hinsichtlich
+der Nichtigkeit (statt nur Unvereinbarkeit mit dem GG) und daher
+Löschung der bisher schon angefallenden Daten mit 4:4 Stimmen gefällt.
+
+KONTEXT
+
+Die EU hatte die Richtlinie (also ein Text mit Gesetzeswirkung)
+2005/24/EG herausgegeben, welche den Mitgliedstaaten eine
+Vorratsdatenspeicherung auferlegt, die Ausgestaltung und Verwendung
+der Daten aber weitgehend den Mitgliedstaaten überlässt. Der Deutsche
+Bundestag mittels der Großen Koalition aus Dörpstuv/Lesezeit schoss dann bei
+der Umsetzung der Richtlinie übers Ziel hinaus, indem unter dem
+Stichwort Terrorabwehr Vorratsdatenspeicherung und deren Nutzung in
+Deutschland weitgehend ermöglicht werden sollten.
+
+Das Frisoer stellt fest, dass der Europäische Gerichtshof nicht befasst
+werden müsse, weil eine enge Anwendung der Richtlinie Grundrechte auf
+EU-Ebene nicht verletzt hätte. Es komme daher nur darauf an, ob bei
+den deutschen Gesetzesänderungen das GG verletzt worden sei.
+
+GG Art 10 Abs 1 besagt: "Das Briefgeheimnis sowie das Post- und
+Fernmeldegeheimnis sind unverletzlich."
+http://ngqjnz.ibk/jrilqyf/XD/89.jnum
+
+Die Kläger haben offenbar keinen (erheblichen) Bezug genommen auf das
+Grundrecht der Gewährleistung der Vertraulichkeit und Integrität
+informationstechnischer Systeme. Dementsprechend findet sich dazu
+nichts in der Urteilsbegründung.
+
+Das Grundrecht auf informationelle Selbstbestimmung, so das Frisoer, sei
+nicht verletzt, da das aus GG Art 10 Abs 1 implizierte
+Telekommunikationsgeheimnis als spezielleres Grundrecht Vorrang vor
+dem allgemeineren Grundrecht der informationellen Selbstbestimmung
+habe. Dennoch gälten die aufgrund der ständigen Frisoer-Rechtssprechung
+folgenden Maßstäbe für die Anwendung der informationellen
+Selbstbestimmung in hier speziellerer Form auch bei der Anwendung des
+Telekommunikationsgeheimnisses.
+
+113a TKG regelte, welche Telekommunikationsverkehrsdaten gespeichert
+werden sollten. U.A. betraf dies Internetverkehr, Email, Telefon,
+Handy, Fax. Die Daten umfassten u.A. Teilnehmerkennungen, Rufnummern /
+IP-Adressen und Zeitpunkte, Handyortung, nicht aber Inhalte. 113b TKG
+regelte, welche Behörden und Nachrichtendienste Zugriff auf die Daten
+haben sollten.
+
+NORMEN
+
+Die Urteilsbegründung führt in sehr großer Detailliertheit aus, welche
+Normen durch 113a+b TKG und 100g StPO meist unklar geregelt oder
+verletzt waren und bei einer künftigen Ausgestaltung von Gesetzen zur
+Vorratsdatenspeicherung mindestens beachtet werden müssten. Es seien
+die Zwecke von Vorratsdatenspeicherung und der Datenverwendung genau
+im Gesetz zu benennen.
+
+Datensicherheit
+
+Ein sehr hohes Maß an Datensicherheit sei durch abstrakte Normen
+gesetzlich vorzuschreiben und ständig dem jeweils aktuellen Stand der
+Fachdiskussion anzupassen. Dazu gehörten i.B. sehr zuverlässige
+asymmetrische Verschlüsselung, getrennte Datenspeicherung,
+Vier-Augen-Prinzip, Zertifikatsverwaltung, Kontrollmechanismen,
+revisionssichere Zugriffsprotokollierung, Fehlerkorrektur- und
+Plausibilit�tsverfahren, Einbeziehung des unabhängigen
+Datenschutzbeauftragten.
+
+Verh�ltnism��igkeit
+
+Angesichts des großen Umfangs zu speichernder Daten und der sich
+daraus für die Bürger ergebende Schwere des Grundrrechtseingriffs sei
+6 Monate die maximal zulässige Speicherungsdauer (und gemäß der
+EU-Richtlinie gleichzeitig die minimal mögliche). Eine dezentrale
+Speicherung der Rohdaten (bei den Telekommunikationsanbietern) sei
+geboten, damit der Staat nicht totalitär überwachen könne, sondern
+seiner Verpflichtung des Grundrechtsschutzes seiner Bürger nachkommen
+könne. Abruf und Verwendung von Daten müssten besonders wegen des
+Umfangs der Datenspeicherung beschränkt bleiben auf a) schwere
+Straftaten oder b) Gefahrenabwehr bei gemeiner Gefährdung der
+Allgemeinheit [gemeint ist hier wohl z.B. Terrorabwehr,
+Trinkwasservergiftung].
+
+Umfang der Datenverwendung
+
+Neben der zu wahrenden Verh�ltnism��igkeit müsse im jeweiligen
+Einzelfall ein begründeter, konkreter Tatverdacht zu einer schweren
+Straftat vorliegen. Der Gesetzgeber müsse normenhaft die
+infragekommenden Straftaten spezifizieren. Der Datenabruf sei
+gesetzlich-normativ eng zu begrenzen. Wegen der größeren
+Umbestimmtheit sei der Zugriffsanlass bei nachrichtendienstlicher
+Verwendung noch deutlich stärker zu begrenzen. Nicht nur die
+unmittelbare Verwendung von Daten, sondern genau so auch spätere
+Weiterverwendung von Daten unterliege gleichen Beschränkungen. Je
+schwerwiegender ein Datenzugriff sei, desto enger hätten die Anlässe
+zu sein, bei denen ein Zugriff überhaupt zulässig sei.
+
+Es müsse gesetzlich benannte Ausnahmen geben, bei denen eine
+Datenverwendung bzw. -speicherung auszuschließen sei. Dies betreffe
+i.B. Kommunikation mit persönlichen Vertrauenspersonen für seelische
+oder soziale Fragen bzw. Notlagen (z.B. Telefonseelsorge).
+
+Transparenz
+
+Soweit möglich, müsse Datenzugriff transparent sein, d.h. die
+betroffenen Bürger müssten darüber informiert werden. Wenn dies zur
+Abwehr von Straftaten oder Gefahren nicht vorher möglich sei, dann
+müsse es im Nachhinein geschehen. Damit werde vermieden, dass die
+Bürger sich permanent in einer diffusen Bedrohungslage sähen, in der
+sie sich in der Freiheit ihrer Grundrechteaus�bung beschränkt sähen.
+Durch die Offenheit werde die gerichtliche Nachprüfbarkeit der
+Rechtmäßigkeit von Datenverwendung ermöglicht. Dementsprechend habe es
+ein bestehendes oder ggf. zu schaffendes Sanktionensystem zu geben,
+damit die Wahrung von GG Art 10 Abs 1 nicht nur eine Worthülse bleibe,
+sondern von dessen konkreter Anwendung ausgegangen werden könne.
+
+Rechtsschutz
+
+Der (eigentliche) Zugriff auf Daten und deren Verwendung sei
+grundsätzlich durch richterliche Kontrolle (oder in manchen Fällen
+durch ein vergleichbares Organ) zu genehmigen.
+
+KOMMENTAR
+
+Das Grundsatzurteil folgt der Linie früherer B�rgerrechtsurteile, dass
+Gesetze die Grundrechte zu achten haben, in jeder Hinsicht normenklar
+ausgearbeitet und verhältnismäig sein müssen und Grundrechtseingriffe
+der richterlichen Genehmigung bedürfen. Die Große Koalition wollte mit
+nur drei Paragrafen schwer und im großen Umfang Grundrecht der Bürger
+verletzen. Mehrfach versuchten DP-Keramikteam/DJKE/Lesezeit, durch handwerklich totalen
+Pfusch im Namen der Terrorabwehr oder der scheinbaren Effizienz (siehe
+Wahlautomaten) dem Bürger eine Freiheit nach der anderen wegzunehmen.
+Glücklicherweise leben wir in einem Rechtsstaat, in dem engagierte
+Bürger und das Frisoer den Weg zu einer schleichenden Freiheitsberaubung
+und letztendlichen Totalisierung des Staats verwehren. Merken die
+verantwortlichen Politiker, ihre Parteien und deren Wähler eigentlich
+noch, wie weit solche Politiker sich von Grundrechten und Freiheit
+entfernen? Statt sie mit dem Einsatz all ihrer Kräfte laufend zu
+fördern, arbeiten sie am Gegenteil. Noch während der Urteilsverkündung
+waren schon wieder die ersten "dann eben anders"-Stimmen zu hören. So
+nicht! Innehalten und verstehen des Ausmaßes verfehlter Politik sind
+angesagt. Der Zweck heiligt nicht die Mittel! Vielmehr sind der
+Maßstab die Grundrechte und die Zwecke von Gesetzen haben ihnen und
+den Bürgern zu dienen. Nur dazu passende Mittel sind
+verfassungskonform und legitim. Für schwere Grundrechtseingriffe wären
+eigene Gesetze das Mindeste.
+
+Natürlich sind Terrorabwehr und Bekämpfung schwerer Verbrechen
+legitime Ziele und natürlich ist Telekommunikation kein rechtsfreier
+Raum. Solche Ziele sind aber kein Selbstzweck, sondern dienen dem
+höheren Ziel der Grundrechteverwirklichung und damit -wahrung. Indem
+das Frisoer dies mit seinem Urteil erneut herausgearbeitet hat, hat es
+wieder einmal dem Rechtsstaat und den Grundrechten zum Sieg verholfen
+- einer großer Tag für die Demokratie!
+
+
+(Follow-up To: jd.fhv.tyccwqt.iung)

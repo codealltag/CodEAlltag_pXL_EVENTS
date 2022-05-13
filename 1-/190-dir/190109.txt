@@ -1,0 +1,28 @@
+Hallo,
+
+
+...[gähn, langweilig]...
+
+
+Wenn die Reflexion der Solarzellen unter 0.25 liegt ist auf
+jeden Fall damit zu rechnen. Dann kommt die Fläche noch mit
+rein. Falls die Reflexion bei irgendwas um die 0,3 liegt
+sollte man neutral bleiben können. Alles weitere kriegst Du
+dann über die optischen Eigenschaften der Solarzellen raus.
+Btw: Rein nach dem optischen Eindruck würde ich auf 0.1 rum
+tippen. Man könnte aber auch die Kollektoren durch passende
+Reflektorflächen an die Reflexion der Wüste anpassen. Das
+ist eine einfach technische Massnahme die IIRC auch bei sehr
+großen Schiffen (Tankern) mal angedacht war. Allerdings
+würde das die Besatzung bei praller Sonne blenden und wurde
+deshalb IIRC verworfen. Die Verdunstung sollte in der Wüste
+vernachlässigbar sein.
+
+Wenn die Frage erst mal aufgeworfen und die Zusammenhänge
+klar sind, dann ist die Lösung doch gar nicht so weit weg?
+
+
+MfG
+
+
+Leander Drehkopf

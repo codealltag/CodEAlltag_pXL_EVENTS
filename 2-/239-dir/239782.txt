@@ -1,0 +1,16 @@
+Das ist richtig liebe Susanna. Deshalb wandelt ein ordentlicher Newsreader
+automatisch die Umlaute innerhalb des Subjects auch in ASCII-Zeichen um.
+Beispiel:
+"Ölkonzzerne drehen ab" wird zu
+ =?ISO-8859-15?Q?Ölkonzerne_drehen_ab_!!?=
+
+In diesem ASCII-Header steht nun alles was ein Newsreader braucht um den Header
+wieder richtig darstellen zu können. Für aktuelle Versionen eines Newsreaders
+ist es eigentlich kein Problem diesen "Code" zurückzuwandeln in einen
+verständlichen Satz daraus zu formen.
+
+Warum Dein Newsreader dann Schrott anzeigt wenn die ASCII-Zeichen
+=?ISO-8859-15?Q? im Header stehen, tja liebe Susanna, das ist DEIN Problem.
+Im Header stehen halt nur ASCII Zeichen.
+
+ARNO

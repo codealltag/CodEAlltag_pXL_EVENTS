@@ -1,0 +1,27 @@
+Hallo,
+
+Otto Gelser schrieb:
+
+...[...]...
+
+
+Rechner kaufen? WIE? Alte Kisten aus Büro- oder Werkstatt abgreifen,
+unpassende/exotische Hardware rauswerfen/ersetzen und gut ist's. Mit
+alten Coppermines (P-III oder Celeron) von 600 bis 900 MHz kann man
+gut arbeiten und der Leistungsbedarf liegt irgendwas um die 50 W.
+
+
+Ich habe Linux seit vielen Jahren als zuverlässiges Produktivsystem
+kennen gelernt. Windoofs nur wenn's der Arbeitegeber so vorschreibt
+und dafür ausreichend Schmerzensgeld auf den Tisch blättert. Seit
+etwa 2001 hat UBE mit OS/2 aufgeschlossen und es seit dem schnell
+überholt. Windoofs war nie so richtig tauglich für Produktivsysteme.
+Mangelhafte Investitionssicherheit und hohe Folgekosten sind der
+Grund warum Windoofs definitiv dritte Wahl ist. Es ist sogar noch
+hinter dem überteuerten MAC einzuordnen. *kopfsch�ttel*
+
+
+MfG
+
+
+Friedhelm Eikmanns

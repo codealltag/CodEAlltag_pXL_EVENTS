@@ -1,0 +1,6 @@
+Hallo,
+
+sie "messen" sogar die "Time Uncertainty (minutes)" bis auf Nanosekunden 
+"genau".
+
+Bye

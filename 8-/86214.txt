@@ -1,0 +1,55 @@
+Wie sieht das denn mit der Verträglichkeit von Super E5 aus? Warum
+sollte das da anders sein?
+
+
+Das ist richtig, aber: Der Motor wird verflixt schnell wärmer als 13
+Grad. Dafür sorgen die 90% Benzin innerhalb weniger Minuten. So
+zumindest meine Erfahrung mit dem E85-Betrieb auch im Winter.
+
+Die tatsächliche Gefahr hierbei ist, dass mehr Sprit ins Öl übergeh=
+t und
+dieser Sprit auch erst später wieder zu verdampfen beginnt (Benzin hat
+laut wikipedia einen Siedebereich von 21=B0C bis 210=B0C, Ethanol einen
+Siedepunkt von 78=B0C) und damit das Öl schlechter schmiert. Damit wird=
+ es
+noch wichtiger, bei Kurzstreckenbetrieb auch die Ölwechselintervalle zu=
+
+verkürzen.
+
+
+Das ist in dieser unkonkreten Absolutheit mit Sicherheit falsch. Mein
+Auto aus dem Jahr 2002 hat einen flüchtigen Speicher. Einmal Batterie
+abklemmen oder mit dem Diagnosegerät löschen und weg sind alle Daten.=
+
+
+Wie soll das bitte ausgelesen werden? Die Geschwindigkeit wird nur zum
+Zeitpunkt gespeichert, zu dem ein Fehler auftritt - etwa "Fehlzündung
+Zylinder 4 - Motortemperatur x, Geschwindigkeit y, Lambdawert z, noch
+ca. 20 andere Daten" - damit wird nicht nachzuweisen sein, dass das
+Fahrzeug auf längeren Strecken schneller als 130 km/h unterwegs war.
+
+
+Da trifft den schnelleren Fahrer doch aber nur dann eine Mithaftung,
+wenn der Unfall bei Einhaltung der Richtgeschwindigkeit nicht/weniger
+schlimm passiert wäre. Und schon gar keine Alleinhaftung.
+
+
+Bei 4500 U/Min fahre ich mit 1.6l Hubraum nicht 130, sondern 180. Was
+ist denn nun die absolute Grenze, ab der plötzlich Schäden auftreten
+sollen? Und warum soll eine niedrigere Verdichtung da besser sein?
+Eigentlich sollte im Gegenteil eine höhere Verdichtung schon im
+Benzinbetrieb zu höheren Temperaturen führen, das Ethanol also wenige=
+r
+kritisch zünden. Und wieso verhindert eine niedrige Verdichtung, dass
+der Motor über 4500 U/Min kommt?
+
+
+Und damit machst du den ganzen Beitrag in meinen Augen ziemlich deutlich
+zu reinem FUD, in das du (oder der Werkstattmeister) ein paar technische
+Begriffe und Zahlen eingeworfen hast.
+
+MfG, Bernhard
+
+P.S: Ich setz mal ein f'up nach de.talk.tagesgeschehen, weil die
+technische Seite in de.etc.fahrzeug.auto eigentlich schon komplett
+ausdiskutiert ist.

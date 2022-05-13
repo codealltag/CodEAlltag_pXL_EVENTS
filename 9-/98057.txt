@@ -1,0 +1,7 @@
+Licht an, Licht aus. Mehr Information enthält ein Bit nicht. Ein Byte 
+sind acht Lichtschalter.
+
+
+-- 
+Der Nachteil der Intelligenz besteht darin, dass man ununterbrochen 
+gezwungen ist, dazuzulernen. (Jürg Bührer)

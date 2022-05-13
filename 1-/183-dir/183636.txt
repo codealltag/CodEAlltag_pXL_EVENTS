@@ -1,0 +1,23 @@
+Was soll da "richtig geerdet" werden? Bzw. was hat ein nF-Kondensator
+parallel der Versorgung eines ICs zur Blockung von HF mit dem mikroF-
+Kondensator nach dem Brückengleichrichter zu tun?
+
+Ich hab mir grad mal 2 Fragen für dich überlegt. Die kann man nicht
+so einfach ergooglen! SCNR...
+
+1) Was war der schlichte Grund für die Verwendung von UL84 statt EL84 ?	
+
+2) Warum ist ein 2SC2166 besser als ein 2SC1307 bei Einseitenbandbetrieb?
+
+
+ja
+
+
+Ich weiß nicht, das dich da hackt...SCNR
+
+
+Gruß K.J.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

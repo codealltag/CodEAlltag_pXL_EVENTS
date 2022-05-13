@@ -1,0 +1,88 @@
+PPPPPPPPPPPPPPPPP
+P::::::::::::::::P
+P::::::PPPPPP:::::P
+PP:::::P     P:::::P
+   P::::P     P:::::P
+   P::::P     P:::::P
+   P::::PPPPPP:::::P
+   P:::::::::::::PP
+   P::::PPPPPPPPP
+   P::::P
+   P::::P
+   P::::P
+PP::::::PP
+P::::::::P
+P::::::::P
+PPPPPPPPPP
+
+
+LLLLLLLLLLL
+L:::::::::L
+L:::::::::L
+LL:::::::LL
+   L:::::L
+   L:::::L
+   L:::::L
+   L:::::L
+   L:::::L
+   L:::::L
+   L:::::L
+   L:::::L         LLLLLL
+LL:::::::LLLLLLLLL:::::L
+L::::::::::::::::::::::L
+L::::::::::::::::::::::L
+LLLLLLLLLLLLLLLLLLLLLLLL
+
+
+        OOOOOOOOO
+      OO:::::::::OO
+    OO:::::::::::::OO
+   O:::::::OOO:::::::O
+   O::::::O   O::::::O
+   O:::::O     O:::::O
+   O:::::O     O:::::O
+   O:::::O     O:::::O
+   O:::::O     O:::::O
+   O:::::O     O:::::O
+   O:::::O     O:::::O
+   O::::::O   O::::::O
+   O:::::::OOO:::::::O
+    OO:::::::::::::OO
+      OO:::::::::OO
+        OOOOOOOOO
+
+
+NNNNNNNN        NNNNNNNN
+N:::::::N       N::::::N
+N::::::::N      N::::::N
+N:::::::::N     N::::::N
+N::::::::::N    N::::::N
+N:::::::::::N   N::::::N
+N:::::::N::::N  N::::::N
+N::::::N N::::N N::::::N
+N::::::N  N::::N:::::::N
+N::::::N   N:::::::::::N
+N::::::N    N::::::::::N
+N::::::N     N:::::::::N
+N::::::N      N::::::::N
+N::::::N       N:::::::N
+N::::::N        N::::::N
+NNNNNNNN         NNNNNNN
+
+
+  KKKKKKKKK    KKKKKKK
+  K:::::::K    K:::::K
+  K:::::::K    K:::::K
+  K:::::::K   K::::::K
+  KK::::::K  K:::::KKK
+    K:::::K K:::::K
+    K::::::K:::::K
+    K:::::::::::K
+    K:::::::::::K
+    K::::::K:::::K
+    K:::::K K:::::K
+  KK::::::K  K:::::KKK
+  K:::::::K   K::::::K
+  K:::::::K    K:::::K
+  K:::::::K    K:::::K
+  KKKKKKKKK    KKKKKKK

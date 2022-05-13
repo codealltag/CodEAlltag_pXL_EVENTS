@@ -1,0 +1,3 @@
+Die mit * markierten Felder sind Pflichtfelder.
+
+Die anderen werden über die "IP" lokalisiert.

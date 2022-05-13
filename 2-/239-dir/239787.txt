@@ -1,0 +1,33 @@
+Mit Verlaub, Du bist ein Idiot!
+
+ASCII ist der »American Standard Code for Information Interchange« und 
+er enthält exakt die folgenden 96 Zeichen:
+
+  !"#$%&'()*+,-./0123456789:;<=>?
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+`abcdefghijklmnopqrstuvwxyz{|}~
+
+keines mehr, und keines weniger!
+================================
+
+Diese sind codiert von dezimal 32 (Leerzeichen) bis 126 (Tilde), und das 
+war's,
+
+Diese Codierung ist in allen Zeichensätzen dieselbe. Dies trifft auf die 
+anderen Zeichen *nicht* zu, und darum scheiden die im technischen Teil 
+jeder Mail/News aus.
+
+== Ende der Durchsage! ==
+
+
+Glückauf!
+Helen Langheimer (Jettebruch/Deutschland)
+
+
+* »Idiot« ist Griechischen Ursprungs und
+   bezeichnet einen Menschen, der überhaupt
+   keine Ahnung hat.
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://mat.hcxuq-krmtca.lg

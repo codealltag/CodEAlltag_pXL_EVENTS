@@ -1,0 +1,3 @@
+korrekt ist der Meßfehler und der Übermittlungsfehler.
+-- 
+halo

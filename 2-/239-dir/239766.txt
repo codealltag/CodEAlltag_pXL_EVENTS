@@ -1,0 +1,12 @@
+..
+
+
+Ihr seid so grottendumme Pöbler. Mal abgesehen davon, dass
+Eure "Problemanalyse" vermutlich nicht stimmt, was spricht
+gegen UTF-8? Wieso ist iso-8859 "netzkonform"?
+
+Ihr habt doch keine Ahnung, wovon Ihr da schreibt. Und wenn
+Ihr schon keine Ahnung habt, lasst einfach Sonderzeichen in
+Subject: und From: weg. Danke.
+
+regards, es

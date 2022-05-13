@@ -1,0 +1,75 @@
+Das Konzept basiert auf Drehungen. Ich habe vermutet, das 'Raumzeit' ein 
+irgendwie geartet reales System darstellt. Drin gäbe es so was wie 
+Punkte, die ich Elemente nenne und die interagieren in bestimmter Weise 
+miteinander (ähnlich wie Quaternionen, die sich gegenseitig verdrehen).
+
+Diese Drehungen sollen über die Quaternionenformel für Drehungen 
+modelliert werden. Die geht so: v'= q* v* q^-1
+
+(Und zwar wollte ich so den Bra/Ket -Formalismus auf Basis der ART 
+nachbauen.)
+
+Die Drehungen waren meine Idee, da man h auch als Drehimpuls-Quantum 
+interpretieren könnte. Daraus ergibt sich dann eine 'witzige ' Idee für 
+Atome und zwar wären dann Atome so eine Art Drehwelle.
+
+Der Umkehrpunkt so einer Welle wäre eine sphärische Schale und hätte ein 
+Potential. Durch die Anti-symmetrische Rotation gäbe es auch zwei Arten 
+Spin.
+
+Der Kern wäre dann der Ort, wo die Welle einen maximalen Impuls hat. Von 
+da an gehts wieder nach außen, weswegen dort ein positives Vorzeichen 
+angebracht ist. Die Schale hätte dann die Eigenschaft Umkehrpunkt zu 
+sein und minimalen Impuls, aber ein Minus und maximales Potential (was 
+man gut als Ladung interpretieren könnte).
+
+Dabei ist das ganze Atom 'ein Ding', also eine einheitliche Struktur, 
+aber mit ausgeprägten Zonen, die man für Teilchen halten könnte.
+
+Komplexe Quaternionen sollen dann diese Elemente beschreiben und die 
+sollen mit ihren Nachbarn so interagieren, als würden sich die Nachbarn 
+gegenseitig verdrehen (was eine multiplikative Verknüpfung wäre).
+
+Auf diese Idee bin ich durch ausprobieren gekommen, allerdings hatte ich 
+das Grundkonzept schon in meiner Schulzeit entwickelt.
+
+
+Man kann sogar noch viel mehr mit dem Konzept anstellen. Aber ich mache 
+derzeit nicht mehr viel in der Richtung.
+
+
+Wegen den Drehungen komme ich auch zur Euler Gleichung und benutze die, 
+um so etwas wie Atome zu modellieren. Das kommt jedenfalls in meinem 
+Text auch vor. Aber im Prinzip ginge mir das schon zu weit, da ich ja 
+erstmal über das Konzept selber diskutieren und Hinweise pro und kontra 
+sammeln wollte.
+
+Es ist nicht ohne weiteres klar, wie ich bei dem Formalismus auf Atome 
+komme. Man muß dazu das Konzept verstehen und die Methoden mit denen ich 
+das darstelle. Und es ist auch noch nicht so ganz ausgereift. allerdings 
+finde ich den Ansatz viel versprechend.
+Mein Text findet sich übrigens hier:
+https://kjdf.xbsnsk.qzs/qtqhgkt/uglg?sg=kh0iq2wh_2gcyfouf8
+
+Auf Seite 92 sind die von mir 'Euler cones' genannten Diagramme. Die 
+sollen tatsächlich Atome darstellen, allerdings ist das schwer zu 
+erkennen. Die vertikale Achse ist eine Zeitachse und der Konus 
+repräsentiert räumliche Ausdehnung (den Lichtkegel). Ein horizontaler 
+Kreis wäre eine Sphäre.
+
+Die innere Spirale ist dann der Kern und der vollführt weniger 
+Zitterbewegungen, je schwerer der Kern ist.
+
+Für Masse Null hat man Photonen, welche sich entlang des Lichtkegels 
+bewegen.
+
+Dabei entsteht ein Kontinuum, worin das Licht einen Abschnitt darstellt. 
+Es gibt aber auch schnellere Verknüpfungen, die aber kleinere Sphären 
+generieren, bis man bei Geschwindigkeit unendlich zu winzigen Sphären um 
+einen massiven Kern kommt, was ich als Atome interpretiere.
+
+Ja habe ich gelesen, aber ich hatte ja meine eigene Idee und wollte 
+eigentlich mit der etwas machen.
+
+
+CHRISTOF

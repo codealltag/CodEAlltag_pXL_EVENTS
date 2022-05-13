@@ -1,0 +1,62 @@
+Wer noch immer nicht geschnallt hat, dass die Unes nicht vergleichbar
+ist mit einem heilen Salzstock, wie z.B. Uttel, muss sich
+allmählich den Vorwurf "erkenntnisresistent" machen lassen. Es ermüdet
+langsam.
+Selbstverständlich ist ein "Behälterverstauen" ein gutes und sicheres
+Konzept vom Grundsatz her. Die Frage ist nur wo? Ganz grundsätzlich
+ist und bleibt Salz aufgrund einer Vielzahl von Eigenschaften Mittel
+der Wahl. Die Situation in einem maroden Salzstock, der größtenteils
+schon ausgelaugt ist, bei dem die Wände zum Berg nur noch hauchdünn
+sind ist klarerweise nicht geeignet. Es war ja auch nur als
+Versuchsanlage konzipiert.
+
+Richtig. Es ist schlimm, weil niemand diese Verteilung der
+Radioaktivität betrachtet. Ich habs andernortes mal ausgerechnet. Ein
+durchschnittliches Kohlekraftwerk bläst im Jahr mehrere Kilo Uran ab,
+trotz Rauchgasreinigung.
+
+Fein. Also:
+"Atommüll" gibt es nicht. Stellen wir uns mal die Frage, was passiert
+während des Leistungsbetriebs an Abfällen und was kommt bei der
+Entsorgung zusammen.
+Im Leistungsbetrieb haben wr es mit drei Quellen zu tun:
+a) Spaltprodukte
+b) Brennstoffreste und erbrütete Aktiniden
+c) aktivierte Korrosionsprodukte
+
+Die Spaltprodukte umfassen ca. 500 Nuklide und 40 Elemente, wobei es 2
+Schwerpunkte gibt, bei Masse 135 und 95
+Allen Spaltprodukten ist gemein, dass sie einen hohen
+Neutronenüberschuss beinhalten. Dieser Überschuss wird abgebaut durch
+ß- Zerfall. Dieser Zerfall geht meist auch einher mit y-Strahlung.
+Die allermeisten primären Spaltprodukte haben sehr kurze
+Halbwertszeiten, so dass nach ein paar Monaten im Abklingbecken das
+meiste schon zerfallen ist. Übrig bleiben die mittel- und langlebigen
+Isotope. Die langlebigen Isotope sind nicht wirklich gefährlich. Denn
+die Aktivität/Stoffmenge hängt umgekehrt proportional von der
+Halbwertszeit ab. I-129 wäre so ein Kandidat.
+Von den Isotopen mit mittlerer HWZ sind die Stoffen interessant, die
+entweder ein passendes chemisches Verhalten mit genau abgestimmten
+Zerfall kombinieren. So z.B. Sr 90, welches in Knochen und Zähne
+eingelagert wird lang genug lebt, genügend Aktivität aufweist und als
+weicher ß Strahler sehr effizient die Blutbildenden Zellen schädigt.
+Oder aber ein harter Gammastrahler ist, wie Cs 137.
+Diese Isotope haben Halbwertszeiten von ca. 30 Jahren. NAch 300 Jahren
+existiert nur noch 1%o der Ursprungsaktivität und nach 1000 Jahren ist
+nur noch 1e-10 übrig.
+
+Bei der dirkten Endlagerung haben wir es mit viel Brenstoff und vor
+allem mit Plutonium zu tun. Diese Stoffe sind Alphastrahler. Alphas
+sind solange harmlos, solange sie sich nicht im Körper befinden.
+Plutonium stellt uns vor 2 Probleme: Zum einen hat es eine sehr
+unangenehme HWZ und zum anderen ist es geeignet, zu Bomben verarbeitet
+zu werden. Man muss als zusehen, das Plutonium sicher wegzuschließen,
+oder zu zestören. Beispielsweise durch Wiederaufarbeitung und den Rest
+transmutiert.
+
+Die aktivierten Korrosionsprodukte sind entweder nicht mit passender
+Chemie ausgerüstet oder aber gleichen den Spaltprodukten- mit einer
+wichtigen Ausnahme: Co-60. das ist ein harter Gammastrahler mit ner
+HWZ von gut 6 Jahren. da ist also nach 100 Jahren nichts mehr da.
+Ca-41 ist auch noch so ein Kandidat, bedingt durch seine HWZ aber
+nicht ahalb so kritisch.

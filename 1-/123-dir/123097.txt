@@ -1,0 +1,17 @@
+format=flowed;
+	charset="UTF-8";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+
+
+bei meinem EPG steht es mit 23.45 Uhr. Es gibt Wiederholungen:
+
+http://wvj.srpktk.ru/odizpszgqsyzuij/rjytcws/246169066_xkfce+bj+rezpqfitkzudu/psjuwygklfxhez
+
+        SA 3.8. 17:03 Kampf im Klassenzimmer
+        SA 3.8. 23:20 Kampf im Klassenzimmer
+        SO 4.8. 03:05 Kampf im Klassenzimmer
+        MI 7.8. 20:15 Kampf im Klassenzimmer
+
+
+cu

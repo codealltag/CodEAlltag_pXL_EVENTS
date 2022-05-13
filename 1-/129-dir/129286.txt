@@ -1,0 +1,79 @@
+Antwort auf eine Nachricht von Paolo
+
+
+Allerdings!
+
+Ein „konstantes Wachstum“ mit 3 Prozent, das wollen wir uns mal angucken.
+
+Fangen wir also mit 100 an.
+
+100 – 103 – 106 – HALT!
+
+Stimmt schon nicht!
+
+Richtig müßte es 106,09 heißen, denn die 3% werden im Folgejahr nicht 
+auf 100, sondern auf 103 aufgeschlagen!
+
+Wir haben nach zehn Jahren also auch nicht  130, sondern 134,39
+
+Falsch:   100 + 10×3 = 130
+
+Richtig:  100 × 1,03^10 = 134,39
+
+Och, sieht doch noch schön aus, oder? Na, dann rechnen wir mal weiter, 
+der Kürze halber gleich in Zehnerschritten:
+
+20 Jahre: 180,61
+
+30 Jahre: 242,73
+
+40 Jahre: 326,20
+
+50 Jahre: 438,39
+
+(es wird langweilig, wir überspringen)
+
+100 Jahre 21. 07. 21
+
+So, im Jahre 1999 hatten wir ein BIP das zufälligerweise ziemlich genau 
+zwei Billionen maß. Ist irgend jemand hier der ernsthaft daran glaubt, 
+daß unser BIP im Jahre 2099 bei vier Billiarden liegt? Nämlich bei 49 
+Millionen je Einwohner?
+
+Zum Vergleich: im Jahre 1999 waren es ca. 24.400 je Nase.
+
+
+Und wer es noch immer nicht begriffen hat, dem will ich ein anderes 
+Beispiel geben.
+
+Wir nehmen an, eine Bakterienkultur in einem geschlossenen Einmachglas 
+wüchse täglich mit der Funktion Y=x^2, will heißen, es verdoppelt sein 
+Volumen jeden Tag.
+
+Nach einem Jahr (365 Tagen) ist das Glas halbvoll – Wie lange braucht es 
+noch, bis das Glas ganz voll ist?
+
+NUR NOCH EINEN EINZIGEN TAG!
+============================
+
+Und weiter geht es nicht mehr, es sei denn, die Kultur sprengt das Glas.
+
+Auch wir Menschen leben in so einem „Glas“: auf unserer Erde! Und wenn 
+wir immerfort wachsen, dann ist auch unser „Glas“ irgend wann mal voll. 
+Und es nützt nichts, dieses „Glas“ zu sprengen, denn um uns herum ist 
+das Vakuum des Weltalls, das nährt uns nicht.
+
+Ergo: zu den Grenzen des Wachstums haben wir keine Alternative!
+
+
+Ja!
+
+
+Ja!
+
+
+Glück auf!
+Bea Haberstetter, Poppenhausen/de
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://zum.ctuzh-ydlnvm.wt

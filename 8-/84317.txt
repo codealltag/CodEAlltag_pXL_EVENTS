@@ -1,0 +1,7 @@
+In diesem sinne ;-)
+
+-- 
+cu
+Oskar
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

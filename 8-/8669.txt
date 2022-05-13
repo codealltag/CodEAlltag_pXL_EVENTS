@@ -1,0 +1,6 @@
+Es ist anzunehmen, dass Du schon lange hier
+dein Ansichten kundtust. Einen Link musst Du
+in spitze Klammern setzen, sonst zerbricht er.
+Also <Link>.
+
+Josefa

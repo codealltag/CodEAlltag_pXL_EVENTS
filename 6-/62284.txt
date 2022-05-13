@@ -1,0 +1,7 @@
+On Tue, 30 Aug 2010 23:45:43 +0200, Nicolas Ohlenforst
+
+Da ich hier (Fort=E9 Agent) nicht auf Server (zB aioe.org) filtern kann,
+ist allein das tägliche Anpassen des Filters recht Zeit aufwendig.
+
+Wie hier schon angeregt, wäre das Abschalten des Uzanu-Gateways wohl
+eine Maßnahme, die 80% des Müll-Aufkommens erledigte.

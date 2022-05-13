@@ -1,0 +1,6 @@
+Weingallerie <azmzbhfvu9@stx.zz>:
+
+
+N, wie kommst Du darauf? Die Mailadresse wird ja öffentlich 
+angegeben und ist daher jedem Mitleser hier bekannt. Der Trick 
+besteht darin, die korrekte Email-Absenderadresse nur im Envelope-

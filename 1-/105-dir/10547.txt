@@ -1,0 +1,31 @@
+... ich mach mich mal’n Plan!
+
+Also. die Lohn-/Einkommensteuer soll 60 Prozent betragen, und zwar ab
+einem Einkommen von 200.000 Euro im Jahr! Die ersten tausend Euro im
+Monat sprich 12.000 Euro im Jahr sind „Freibetrag“, die werden gar nicht
+verteuert. Jetzt ziehen wir (bezogen auf das Jahr) von 12.000 bis
+200.000 eine gerade Linie:
+
+http://bwj.pumcm-uswfzc.dp/rwd/thu.naa
+
+Hierzu die Formel:
+
+1. Das zu versteuernde Einkommen ist die Summe aller Einkommen, abzüg-
+   lich des Freibetrags.
+
+2. Das zu versteuernden Einkommen wird mit dem Steuersatz versteurt,
+   der sich ergibt, wenn man es durch 3.600 (im Jahr) oder 300 (im
+   Monat) teilt.
+
+3. Steuersätze höher als 60 Prozent werden auf 60 Prozent gedeckelt.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+
+4. der „soli“ wird nicht mehr erhoben!
+
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.pfarb-rxfbgw.pz

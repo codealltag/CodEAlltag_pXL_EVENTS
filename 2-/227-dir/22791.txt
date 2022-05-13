@@ -1,0 +1,12 @@
+Wenn es das Ziel einer solchen Technologie ist, dem Rechnernutzer  
+vermehrte Sicherheit zu bieten, benötigt man kein Internet. Dann ist  
+nämlich der Rechnernutzer der einzige, der Schlüssel vergibt und signiert.
+Tatsächlich ist es aber Sinn und Zweck der Bemühungen, nicht den Rechner
+_f�r_ seinen Benutzer sicher zu machen, sondern _vor_ seinem Benutzer.
+Mit Trusted Computing hat man zu viele Leute verschreckt und mobilisiert.
+Jetzt macht man Salamitaktik: - Ausschaltbarer Secure Boot, Signatur nur
+von Bootloadern, nicht aber des Kernels oder von Anwendungssoftware.
+Läßt man sie aber gewähren, wird es bald keinen Weg mehr zurück geben.
+
+MfG
+        Willi

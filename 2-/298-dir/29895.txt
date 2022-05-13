@@ -1,0 +1,3 @@
+Und mit was wird dann angestoßen, wenn die Schnapszahl erreicht ist?
+
+v.

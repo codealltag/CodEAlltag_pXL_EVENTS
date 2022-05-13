@@ -1,0 +1,29 @@
+Soso, so ein Zeuch macht der Glaser also.
+
+
+Du Eichmayr, wie schon in de.rec.heimwerken beschrieben, ich hab da ein 
+Problem:
+
+---
+Also, ich hab da nen kaputten Temperatursensor. Ein NTC 1KOhm mit
+spezieller Kennlinie in speziellem Metall-Gehäuse ~4cm lang 
+1~cm Durchmesser in Dreieckform.
+Das Viech kostet etwa 50E und hat nen Wert von 1Euro
+(NTC 49Cent+ Kupfer 20Cent+ Kabel 10 Cent+ Wärmeleitpaste 20 Cent)
+Das eine Ende kann man zulöten, kein Problem, nur das andere Ende
+benötigt einen Füllstoff, der bis ~10ü stabil ist, und das 2polige
+Kabel fest anklebt. Nur mit dem Kabel kann man den Sensor auch wieder
+herausziehen.
+
+Und jetzt such ich halt was, was hart, temperaturstabil und wasserdicht ist 
+und weniger als 1 Euro kostet.
+---
+
+
+Hast du ne Idee?
+
+
+Gruß E.D.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

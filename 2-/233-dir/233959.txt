@@ -1,0 +1,78 @@
+Nein, das ist für den Momentanwirkungsgrad korrekt.
+
+
+Wenn man diese Energie mit betrachtet, wird aber der Wirkungsgrad
+niedriger, denn es wird im Schiebebetrieb kinetische Energie
+"verbraucht" - siehe unten.
+
+
+Das hat aber mit der Frage des Motorwirkungsgrades nicht viel zu tun.
+Wenn man so will, ist der Wirkungsgrad eines Autos immer Null, denn das
+Auto hat nach der Fahrt im Stand gleich viel mechanische Energie wie vor
+der Fahrt im Stand, von Bergfahrten mal abgesehen. Man muss aber
+trotzdem chemische Energie hineinstecken...
+
+Interessant ist daher neben dem momentanen Wirkungsgrad (abgegebene
+Momentanleistung/zugeführte Momentanleistung) über den wir bisher
+diskutiert haben, allenfalls noch ein zeitlich gemittelter Wirkungsgrad
+bei periodisch wechselnden Betriebszuständen (zeitlich gemittelte
+abgegebene Leistung/zeitlich gemittelte zugeführte Leistung)
+
+
+Dann kommt man aber wahrscheinlich keine 10.000km weit, bevor
+irgendwelche Antriebselemente (vermutlich zuerst die Antriebswellen mit
+ihren Gelenken) aufgeben. Und man wird einige Zeit damit verbringen,
+Polizeistreifen zu erklären, was das ständige Beschleunigen und
+Rollenlassen denn soll.
+
+Ansonsten ist das prinzipiell richtig - natürlich kann man permanent mi=
+t
+abwechselnd 60% bis 80% Gas und Schubabschaltung zwischen 120 und 140
+pendeln, wenn man 130 fahren will. Macht das realistisch betrachtet
+irgendjemand?
+
+Und trotzdem wird man nicht ganz an die Spitzenwirkungsgrade
+herankommen, weil eben der Motor während der Schubabschaltung wieder
+Bewegungsenergie "verbraucht". Wieder ein Rechenexempel (Beispiel 1 aus
+meinem anderen Posting): Angenommen, man braucht im Mittel für ein
+bestimmtes Fahrprofil mit ca. 100km/h 10kW, der Motor hat seinen besten
+Wirkungsgrad von 40% bei 100kW:
+
+Nun kann man 10% der Zeit Vollgas fahren (100kW mit 40%) und den Rest
+der Zeit im Leerlauf rollen, womit die mittlere Motorleistung bei 10kW
+liegt. Die mittlere aufgenommene Leistung beträgt 10%*100kW/40% plus
+90%*Leerlaufverbrauch/Zeit. Der Leerlaufverbrauch liegt typischerweise
+bei ca. 0.5l/h-1l/h, die chemisch nötige Leistung bei einem Diesel also=
+
+ganz grob 5kW bis 10kW. Bleiben wir bei den 5kW, so wird die mittlere
+aufgenommene Leistung 25kW plus 4.5kW=3D29.5kW sein, der Wirkungsgrad
+insgesamt also 10kW/29.5kW ~=3D 35%. Böser Kupplungs- und/oder
+Getriebeverschleiß wird die Folge sein.
+
+Man kann auch zwischen den Vollgasphasen im Schubbetrieb fahren - dann
+wird der Motor eine gewisse Leistung aus dem System abziehen. Sagen wir
+mal, im Leerlauf braucht er 5kW chemisch, bei 20% Wirkungsgrad der
+Verbrennung also 1kW mechanisch, jetzt (bei doppelter Drehzahl, also
+mindestens doppelten Verlusten) 2kW mechanisch. Um auf eine mittlere
+Leistung von 10kW zu kommen, muss man also ca. 12% der Zeit mit Vollgas
+fahren (im Mittel 12kW) und kann dann 88% der Zeit mit -2kW Schubbetrieb
+rollen (im Mittel -1.76kW). Die mittlere aufgenommene Leistung liegt
+dann bei 12%*100kW/40% =3D 30kW, der Wirkungsgrad noch bei ca. 33%.
+
+Immerhin besser als die 25% bei konstanter Geschwindigkeit, aber immer
+noch deutlich entfernt von den 40%, die der Motor maximal hat. Und viel
+Spaß im tatsächlichen Straßenverkehr.
+
+Wenn man die Zyklen länger wählt, so dass die Antriebselemente nicht =
+so
+kritisch belastet werden, wird man übrigens durch die zeitweise deutlic=
+h
+höhere Geschwindigkeit (geht kubisch in die benötigte Momentanleistun=
+g
+ein) wieder mehr Sprit verbrauchen, auch wenn der mittlere
+Motorwirkungsgrad besser ist.
+
+Fazit: Der maximale Wirkungsgrad mag >40% sein, der tatsächlich
+erreichte Wirkungsgrad wird im Mittel sicher unter 30% liegen.
+
+MfG, Markus

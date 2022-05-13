@@ -1,0 +1,4 @@
+wow - ist das Abw�rtskompatibel? Kann man Datasette und VC1541 
+anschließen? Dann könnte ich Cafeten-Kollektiv starten :-)
+
+Folkert

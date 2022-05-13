@@ -1,0 +1,10 @@
+Ivano,
+S. Niedergesäß = Paul Vogel ('der mit der grünen Strumpfhose' - seine 
+Eigendefinition?) aka 'Valentino Depel' (deine 'Erfindung').
+
+Ein Blick in den Quelltext und den Header (X-Authenticated-User) reicht.
+
+-- 
+Ivano
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen

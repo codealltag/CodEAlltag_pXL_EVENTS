@@ -1,0 +1,34 @@
+Mich hat damals geärgert, daß sich kurz vor dem Aufkommen von CAD-
+Systemen leider nicht die Vektorgraphik auch für die PC-Bildschirme
+durchgesetzt hat. Wer damit ( an einer PDP10/44) einmal gearbeitet
+hat, der hat das später schmerzlich vermißt. Die schlechte, weil
+extrem einfache/billige  Konvergenzeinstellung (Farbmonitor) an den
+"preiswerten" PC-Monitoren ließ sicher nicht nur an Elektronik CAD-
+Systemen bei parallelen dünnen Linien die Augen schnell ermüden und
+das Bild unscharf werden.
+Trotzdem war das ein Quantensprung in der Entwicklungsarbeit...nix
+mußte mehr vor Abschluß des Layouts geplottet werden und mehrlagige
+Platinen waren endlich kein arbeitsintensives Problem ohne Spaßfaktor
+mehr....laaang ist her. Mit dem gartenfrische CAD-System auf einem JBMK PC
+habe ich meine erste Sound Einsteckkarte für den ISA-Bus
+entwickelt....ist jetzt fast 30 Jahre her und die Dinger sind immer
+noch im Einsatz!
+
+Mit Einstellung des DOS-Systems habe ich auch aufgehört mich mit PC-
+Technik entwicklunstechnisch zu befassen. Der Mikrokontroler bot da
+wesentlich mehr Potential, vor allem Echtzeitverarbeitung von
+Sounddaten unter Einsatz spezieller programmierbarer
+Hochleistungsfunktionsgeneratoren.
+
+Die Floppy-Speichermenge waren selbst für die Elektronik- CAD-Systeme
+eigentlich viel zu klein...erst als die SIP-Disk mit 100MB am Apebe-
+Bus lief war das Speicherproblem gelöst. Memory Sticks mit GB waren
+damals noch undenkbar. Mein Problem waren schnelle AD-Wandler mit 100M
+Samples Wandlungsrate und 8-12 Bit Breite. Preiswerte und verfügbare
+SRAM gab es aber nur mit 10MHz Takt. WAS machen? Zehn Stück von den
+parallel schalten und per Multiplexer vom ersten bist zum zehnten Ram
+Register gepuffert sequenziell laden. Danach war der Erste wieder dran
+und ein Memory aus 10MHz RAM stand mit einer Speicherfrequenz von
+100MHz zur Verfügung. Heute lächelt man über solche Klimmzüge...dam=
+als
+waren die Anwender dieser Apparaturen sehr froh.

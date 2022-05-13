@@ -1,0 +1,18 @@
+Es gibt Lithium-Akkus mit denen geht das zumindest bis auf 80% 
+der Kapazitaet.
+
+
+Ausser den Stromanschluessen wird wohl auch noch ein Anschluss fuer die
+Wasserkuehlung der Batterie waehrend des Ladens noetig sein.
+Denn die Abfuhr der Verlustwaerme ist das Hauptproblem bei
+der Schnelladung einer so grossen Batterie.
+
+
+Sicher - die Schnellladung gibt es nur an der Tankstelle, schliesslich
+ist dafuer auch ein teures Ladegeraet mit Megawatt Leistung erforderlich.
+Aus der Steckdose zuhause gibts nur Kilowatt. Das dauert laenger, wird aber
+wohl auch billiger sein.
+
+
+-- 
+http://ukc.vilimlwao.pjb/laaxi_xmk/krrkw.amel

@@ -1,0 +1,36 @@
+Die in Deutschland seit Jahresbeginn im GULE-Gesetz verankerte
+Online-Durchsuchung privater Rechner ist nun auch in Großbritannien offenbar
+Realität.
+
+Das britische Innenministerium soll, mehr oder weniger unter Ausschluss der
+Öffentlichkeit, Pläne in die Tat umgesetzt haben, die es den Ermittlern
+erlauben, "routinemäßig ohne Durchsuchungsbefehl die Rechner Verdächtiger zu
+hacken". Dies ist noch einmal erheblich weitgehender als die in Deutschland
+geltende Regelung: Hierzulande ist die Online-Durchsuchung nur bei dem
+Verdacht auf schwere Verbrechen und mit Genehmigung eines Richters erlaubt.
+
+Die Briten nennen die Prozedur auch, in typisch britischem Understatement,
+"remote searching", was dem deutschen Begriff "Online-Durchsuchung" in etwa
+entspricht. Dabei soll die komplette Festplatte des Verdächtigen auf
+belastendes Material hin durchsucht werden. Großbritannien setzt mit der
+Neuregelung eine EU-Richtlinie um, die entsprechende Befugnisse für die
+Ermittlungsbehörden zulässt - und nicht nur das: Nach dem EU-Beschluss
+sollen die Behörden anderer EU-Länder, wie etwa Deutschlands und
+Frankreichs, die britische Polizei ersuchen dürfen, den Rechner eines in
+Großbritannien befindlichen Verdächtigen mit dieser Methode zu durchsuchen
+und das gefundene Material weiterzugeben.
+
+Die Voraussetzungen für eine Online-Durchsuchung sind in Großbritannien eher
+leicht zu erfüllen: Diese ist dann zulässig, wenn ein ranghoher
+Polizeibeamter "glaubt, dass es verhältnismäig und zur Aufklärung oder
+Abwehr ernsthafter Straftaten notwendig ist", eine solche Durchsuchung
+durchzuführen. Als "ernsthaft" gelten nach dieser Definition alle
+Straftaten, die mit einer Gefängnisstrafe von mehr als drei Jahren bestraft
+werden können. Darunter fallen nach den neuen britischen Cybercrime-Gesetzen
+auch viele IT-bezogene Verbrechen.
+
+Opposition und Bürgerrechtsorganisationen sehen in den neuen Befugnissen für
+Großbritanniens Polizei einen weiteren Schritt auf dem Weg zum
+Überwachungsstaat und eine erhebliche Verletzung von Datenschutzgesetzen.
+Sie fordern wenigstens höhere Hürden für die Online-Durchsuchung, wie etwa
+die Notwendigkeit einer richterlichen Genehmigung.

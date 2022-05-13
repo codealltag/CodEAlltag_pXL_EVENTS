@@ -1,0 +1,136 @@
+Wenn's schee macht...
+
+
+Sicher gibt es die, aber ich habe ja auch nicht das Gegenteil behauptet,
+sondern lediglich festgestellt, daß man etwas Besseres bisher nicht
+gefunden hat. Und da sprechen die bisher bekannten(!) Mechanismen der
+Verursachung und Reparatur von Strahlenschäden auf zellulärer und
+molekularer Ebene zumindest nicht dafür, daß geringere Dosen einen
+überproportionalen Effekt haben könnten - YMMV. Es geht ja auch nicht
+ausschließlich um Logik, sondern mindestens auch um Wahrscheinlichkeit -
+auch eine Bernd-Friderich-Maschine ist in sich logisch, aber wie
+wahrscheinlich ist es, daß mal jemand so ein Ding zum Laufen bringt? ;-)
+
+
+Mag ja sein. Aber solange alle Ereignisse, die im Bereich zwischen dieser
+imaginären Freigrenze und dem linearen Bereich stattfänden, auf der
+extrapolierten Dosis-Wirkungs-"Geraden" oder darunter lägen, wäre die
+Diskussion akademisch, man wäre immer "besser" als LNT oder
+schlimmstenfalls auf gleicher Höhe. Es sei denn, man wollte die sich aus
+LNT ergebende Risikoabschätzung noch nach unten korrigieren. Das will
+meines Wissens niemand, auch nicht die kerntechnische Industrie.
+
+
+Es stimmt, daß die DL im LNT-Modell nicht *systematisch* berücksichtigt
+wurde, aber die Kohorten, deren Strahlendosen bei der Risikoabschätzung
+aufgrund dieses Modells herangezogen wurden, weisen meines Wissens durchaus
+unterschiedliche Profile des zeitlichen Auflaufens der Dosis auf. Etwas
+flapsig ausgedrückt: Vom Gammablitz bis zu jahrelangen Wohnen in einer
+belasteten Region ist alles dabei.
+
+Im übrigen gibt es für nichtstochastische Strahlenschäden sehr wohl
+Untersuchungen zur Wirkungsveränderung durch fraktionierte oder
+protrahierte Bestrahlung, die aber meines Wissens noch keine schlagenden
+Erkenntnisse in dem Sinne gebracht haben, daß das eine oder andere bei
+gleicher Gesamtdosis zu einem höheren Risiko führte.
+
+
+Mit dieser Vermutung zieht man Effekte, die nennenswert erst im Bereich
+nichtstochastischer Strahlenschäden eine Rolle spielen (Zelltod), zur
+Begründung einer Risikoabschätzung heran, die sich ausdrücklich auf den
+Bereich klein(st)er Dosen beschränkt - sehr gewagt, würde ich sagen. Es
+geht nicht darum, daß diese Hypothese nicht in sich logisch wäre, aber es
+ist aus meiner Sicht nicht wahrscheinlich, daß sie zutreffend ist, weil sie
+Effekte vermengt, die an unterschiedlichen "Enden" der Dosisskala verortet
+sind.
+
+
+Soweit ich weiß, gibt es entsprechende Untersuchungen, die auf in
+kerntechnischen Anlagen tätigen Personen basieren (die nimmt man her, weil
+man erstens die erhaltenen Dosen recht genau kennt und diese zweitens
+signifikant über dem natürlichen Untergrund liegen). Ich habe dieses
+Material nicht vorliegen, aber wenn da ein nennenswert höheres
+Schadenspotential kleinerer DL bei gleicher Gesamtdosis zu Tage getreten
+wäre, wüßte ich das (hoffentlich)...
+
+
+"bekannter Hormesis-Effekt"? Hast Du Daten hierzu? Soweit ich weiß, ist der
+Hormesis-Effekt ungefähr so einzuschätzen wie Dein obiges Denkmodell zur
+Wirkung geringer Dosen aufgrund kleiner Dosisleistungen, nämlich nicht
+komplett unlogisch, aber unbelegt und mit einer so geringen
+Wahrscheinlichkeit behaftet, tatsächlich existent zu sein, daß kein
+Regelwerk des Strahlenschutzes (und auch sonst niemand außer vielleicht den
+Betreibern von Radonheilstollen :-)) davon Kredit nimmt. Außerdem ist mit
+dem Hormesis-Effekt "landläufig" ja gerade die Behauptung verbunden, daß
+sehr kleine Strahlendosen nicht nur relativ weniger schädlich als hohe
+Dosen seien, sondern möglicherweise sogar gesundheitsfördernd. Du nimmst
+das aber her, um genau das Gegenteil plausibel zu machen - daß nämlich
+konstante Niedrigstrahlung u. U. schädlicher sein könne als anhand der
+Extrapolation aus höheren Dosen angenommen. Anders ausgedrückt: Du
+"belegst" die höhere Gefährlichkeit von Niedrigstrahlung mit der geringeren
+Gefährlichkeit von Niedrigstrahlung, um den linearen Ansatz zu
+diskreditieren ;-)
+
+
+Langsam. Es ist Konsens, daß ein Doppelstrangbruch der DNA deutlich(!)
+schlechter zu reparieren ist als ein Einzelstrangbruch oder ein
+Basenschaden, aber das heißt noch lange nicht, daß das eine immer geht und
+das andere nie. Mal davon ab: Die Schäden an der DNA treten nicht durch
+Ionisation ein, sondern durch die nachfolgenden Prozesse auf chemischer und
+molekularer Ebene. Da liegen sowohl zeitlich als auch räumlich ein paar
+Größenordnungen dazwischen.
+
+
+Ich bin kein Mathe- oder Statistikfreak, aber selbst wenn es so wäre, habe
+ich das Bild vor Augen, daß eine Funktion mit quadratischem Glied und
+(annähernd) Nulldurchgang, die irgendwo an eine Gerade "andockt", im
+gesamten Bereich kleinerer X-Werte unterhalb der Geraden liegen und somit
+kleinere Y-Werte liefern muß (entsprechend einem kleinerem Risiko bei
+geringeren Dosen als durch LNT prognostiziert). Oder habe ich Dich falsch
+verstanden?
+
+
+Selbst wenn es so wäre, daß die selektive Nuklidanreicherung in Organellen
+eine Rolle spielen würde: Die gäbe es dann auch bei Dosen, die außerhalb
+des Bereichs liegen, für den Du die Anwendung von LNT als umstritten
+ansiehst. Ich kann keinen Grund erkennen, warum das ausgerechnet im Bereich
+sehr kleiner Dosen einen Einfluß auf die Schädigungswahrscheinlichkeit
+haben sollte.
+
+
+Ich will es mal so formulieren: LNT ignoriert bewußt Mechanismen, die
+zellbiologisch als gesichert gelten können und beispielsweise zur Erklärung
+der Reparatur von Strahlenschäden außerhalb des Bereichs sehr kleiner
+Dosen, aber unterhalb nichtstochastischer Effekte akzeptiert sind. Diese
+Effekte, die Redmer unterschlägt, sprechen mehr für eine geringere relative
+Schädlichkeit kleiner Strahlendosen als für eine höhere. Die Effekte, von
+denen Du schreibst, sind aus meiner Sicht nicht nur unbelegt (gegenteilige
+Studien würden mich interessieren), sondern in sich nicht einmal annähernd
+konsistent erklärt (die Erklärung des "Wirk"prinzips der Homöopathie ist da
+stringenter ;-)). Für mich ist Redmer konservativ, für Dich nicht - damit muß
+und kann ich leben...
+
+
+Für die derzeit geltenden Grenzwerte gibt es ein relativ leicht
+nachvollziehbares Konzept, das in praktisch jedem Strahlenschutzkurs
+vorgestellt wird und kein Geheimnis daraus macht, welche unterstellte
+Akzeptanz von Risiko ihm zugrundeliegt - das kann man überall, auch online,
+bequem und teilweise sogar allgemeinverständlich nachlesen. Die Behauptung,
+das sei "zurechtgezimmert", wird - diplomatisch ausgedrückt - den dahinter
+stehenden Prozessen nicht annähernd gerecht.
+
+
+http://yv.nbjurdjyy.wrs/rxwg/Cewurdt_W%D1%Y1cbr
+http://hr.ynpndejku.ddl/dghj/Rmvqvxx_Rkctmn_%58Eqmcwwcj%14
+
+Tatsächlich ist es so, daß die maßgeblichen Gremien politischem Zugriff
+unterliegen (im D würde man sowas "politische Beamte" nennen) und sich
+Regierungen gerne Experten holen, die sie bei ihren Entscheidungen
+möglichst wenig behindern. Das können allerdings kernenergiekritische
+Regierungen offensichtlich mindestens so gut wie kernenergiefreundliche. In
+Deutschland kommt hinzu, daß Kernenergiekritiker eine Medienpräsenz haben
+wie in keinem anderen Land der Welt - vor und hinter der Kamera. Es gibt
+wohl keine pressure group, die nicht gerne noch mehr Redezeit in den Medien
+hätte, aber Ausgrenzung sieht ganz bestimmt anders aus.
+
+Gruß aus dem Norden, Berend

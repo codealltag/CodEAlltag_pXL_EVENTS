@@ -1,0 +1,23 @@
+"ingolf" schrieb
+
+
+Nun mal Butter bei die Fische: Hast Du nun Belege oder nicht?
+
+
+Im Klartext: Das kleine Verleumderchen sieht nach wie vor keine Möglichkeit, 
+seine Behauptungen irgendwie zu begründen.
+
+
+Na ja.
+
+
+N, gar nicht.
+Wenn Du "Content-Transfer-Encoding" auf 8-Bit stellst, wie es in der 
+Standardkonfiguration Deines Newreaders war (!!!), und wie es in allen 
+(_in_allen_ !!!) Ratgebern zur Einrichtung von Newsreadern _dringend_ (!!!) 
+angeraten wird, dann gibt es auch keinen Grund mehr zum Meckern.
+
+
+Tu es einfach, und gut ist's.
+
+Antonio

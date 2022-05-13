@@ -1,0 +1,12 @@
+Basta? Im Jahr I hatte man noch die römische Schreibweise, warum man
+die irgendwann abgelegt hat weiß ich nicht.
+Deinen digitalen Mumpitz kann ich nicht auf das Jahr I anwenden, da
+kommt ein String mit der Länge von 1 Bit raus und das ist dann nicht
+eindeutig weil ein Bit keine Information enthält außer das es da ist,
+und "da" ist im Morsecode T und keine Jahreszahl.
+
+Wenn bei dir demnächst das Jahr 11111011010 ist wie sieht dann der
+21.12.MMXII bei dir aus wie codierst du die Punkte digital mit ASCII
+oder wie?
+
+Ivo

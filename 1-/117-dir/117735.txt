@@ -1,0 +1,10 @@
+Nehen wir mal an es waeren 1g pro Liter, entsprechen die 50000 Tonnen Kalk 
+50 Mio Tonnen Wasser, das macht etwa 1500 kg  pro Sekunde.
+Nicht viel verglichen mit dem Donaudurchfluss in der Gegend,
+(zur Zeit 207 Kubikmeter/Sekunde bei Vitis, und es ist kein Hochwasser dort zur
+Zeit.)
+
+Um 1kg Wasser zu verdampfen braucht man etwa 2000kJ, daraus erbibt sich eine
+Waermeleistung von 3000MW , das kommt Groessenordungsmaessig gut hin.
+In Wirklichkeit wird es etwas mehr sein, weil das Wasser weniger als 1g Kalk pro 
+Liter enthaelt.

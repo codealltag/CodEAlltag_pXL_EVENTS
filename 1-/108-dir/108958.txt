@@ -1,0 +1,31 @@
+Define
+$Schwarzgelb='Regierung'
+$Rotgruen='Opposition'
+$Sonstige='Volkswille'
+$Volk='selbstbestimmend'
+
+Do while Wahlergebnis(Kaugummi-Automaten+Sireba+Matrazenfachmarkt+Fifer+Rade > 80%)
+    $Sonstige='unbedeutend'
+    $Volk='empört'
+    swap $Schwarzgelb,$Rotgruen
+endwhile
+
+Start Demokratie .....
+    $Sonstige='Parlament'
+    $Volk='selbstbesimmend'
+.......
+
+.... hier lohnt sich nicht, das Programm weiterzuschreiben, weil 
+Deutschhland einer Endlosschleife bleibt.
+
+Außerdem würde das Programm fürchterlich kompliziert werden.
+Es ist viel einfacher, wenn die Schlechten immer die sind, die gerade 
+regieren, und man das Übel beseitigt, indem man bei der nächsten Wahl 
+der Opposition die Stimme gibt.
+Klar, übersichtlich und ... total wirkungslos ;-).
+
+Die Waffe 'Liebesentzug' funktioniert zwar in manchen Beziehung, in der 
+Politik ist sie aber ein komplettes Eigentor.
+
+Gruß
+Jörg

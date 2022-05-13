@@ -1,0 +1,49 @@
+Hi,
+
+
+Meiner Meinung nach auch das nicht! Privater Rechner soll ruhig
+privat bleiben. Wo kommen wir denn da hin.
+Wie wär's z.B. mit einer Komplettverschl�sselung (Daten UND
+System). Dann is' nicht mehr viel mit "Beweise" unterschieben.
+
+Was sie wohl noch auf technischer Seite tun könnten, wäre das
+System ganz unbrauchbar machen; der Angriff über's Internet
+("Bundestrojaner", "Online-Durchsuchung", bekanntlich nicht ganz
+realistisch...);
+oder die perfide Variante, Rückgabe des Rechners mit einer gut
+versteckten "Tastatur-Wanze" oder anderem Spionagezeugs. In der
+Hoffnung, der Verdächtige tippt als erstes seine Systempassw�rter
+ein, um zu gucken, ob noch alles da ist.
+
+Wenn man erstmal davon ausgeht, dass das verwendete Kryptosystem
+XY keine (dem Cellini/Edenaw) bekannten Hintertürchen hat bzw. eine
+Kryptoanalyse in jedem Fall unrealistisch teuer und aufwendig
+wäre, dann ist es wohl so: Wo nichts gelesen und gezielt
+manipuliert werden kann, können auf diesem Weg auch keine
+Verdächtigungen zusammengebastelt werden. Also hat in einem
+Rechtsstaat die Unschuldsvermutung zu gelten!
+
+Wenn aber erstmal die Tatsache, dass jemand seine Daten
+kryptografisch schützt, schon als Grund für Verdächtigungen
+ausreicht, dann sind wir bereits im Polizeistaat angelangt.
+Mag sein, dass einige Hardliner genau diesen Paradigmenwechsel
+herbeisehnen und ich befürchte, auch im Hinblick auf den
+totalitären Scheiß, der bereits durchgesetzt wurde, da können sie
+mit der Desinformiertheit und Passivität des Wahlvolkes weiterhin
+rechnen :-(
+
+
+Glaub' ich nicht, dass die wirklich so blöd wären, und Dateien
+mit Systemanwendungen auf dem verdächtigen System öffnen. Da
+könnte ein findiger Nutzer ja nun wirklich ein paar nette Fallen
+eingebaut haben. Viel Spaß beim Image-Wiederherstellen nach jedem
+Versuch.
+
+Aber wie gesagt, so ein serienmäßiger Rundumschutz
+(Daten/System-Verschlüsselung) wirklich not. Wenn nur der
+zusätzliche Aufwand, die Performanceeinbußen und die Faulheit der
+Nutzer nicht wären (ich spreche da in erster Linie von mir selbst).
+
+
+Nino - der mit verschlüsselten Systempartitionen schon zwei
+Testsystme geschrottet hat - Willibald

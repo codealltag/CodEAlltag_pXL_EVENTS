@@ -1,0 +1,21 @@
+Die SIG soll beim Antworten nicht mit zitiert werden.
+
+
+Die SIG wird normalerweise etwas heller dargestellt, und beim antworten 
+nicht mit zitiert, daher auch der Signaturtrenner "-- ". Die SIG hat 
+normalerweise nichts mit dem Thema zu tun, sie ist eher ein Zusatz zur 
+Unterschrift oder ein "Markenzeichen" des Autors, oder auch so was wie 
+der Fuchsschwanz am Manta. Ein Newsreader der die SIG beim Antworten mit 
+zitiert ist eindeutig falsch konfiguriert. Aber wie das so bei M$ üblich 
+ist, da werden Zeichensätze nicht deklariert, da ist TOFU eingestellt, 
+da wird sogar der Content völlig falsch deklariert, und RFCs sind für M$ 
+nur unverbindliche, unnötige Empfehlungen. Gut, es gibt auch andere 
+Newsreader die es mit den RFCs nicht so genau nehmen, aber keiner 
+missachtet die so konsequent wie M$.
+
+MfG, Gian
+
+-- 
+Gian Jaspar
+97196Ywwlyem 51°00'27.10 N 13°47'43.02 E
+http://bzy.xosbmizlqr.stw/jyzyopfje/mbrn_4979461.yqe

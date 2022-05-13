@@ -1,0 +1,11 @@
+Schmelzpunkt (in C) von
+ Blei          327 (Normalsiedepunkt 1750)
+ Eisen (rein) 1535
+ Flußstahl    1450
+ Uran         1132
+
+M.a.W.: Kernschmelze und Knallgas.
+-- 
+The first entry of Sin into the mind occurs when, out of cowardice or
+conformity or vanity, the Real is replaced by a comforting lie.
+  -- Integritas, Consonantia, Claritas

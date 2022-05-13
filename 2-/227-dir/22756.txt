@@ -1,0 +1,6 @@
+Nein, weil die "hinein geführte Energie" nicht mit 100 % Wirkungsgrad
+erzeugt wurde. Die Umwandlungskette beginnt nämlich nicht in der
+Lampenfassung. (Selbst dann wären es keine 100 %)
+
+-- 
+rs

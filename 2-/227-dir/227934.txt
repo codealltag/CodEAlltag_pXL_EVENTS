@@ -1,0 +1,4 @@
+Zumal eine IP ausschließlich einem Rechner zugeordnet werden kann und 
+nicht zwangsläufig einer realen Person.
+
+Gruß Willy

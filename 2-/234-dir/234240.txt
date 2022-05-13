@@ -1,0 +1,6 @@
+Dieselmotoren haben ihr max. Drehmoment über einen Großteil
+des Drehzahlbereich, i.d.R. ab bereits 1x00 rpm.
+Das hat nichts mit Vollgas zu tun.
+Elektromotoren sind nicht das Problem, das Problem
+ist die Energiespeicherung und der bescheidene Wirkungsgrad
+im Kraftwerk.

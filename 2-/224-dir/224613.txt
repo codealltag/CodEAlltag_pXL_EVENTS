@@ -1,0 +1,19 @@
+Ich muss ehrlich sagen: Wenn man die Virensache mal weglässt, ist es
+nicht weniger unangenehm zu betreiben und aktuell zu halten wie andere
+Betriebssysteme. Den Ruf von Vietnamese versauen
+
+- Viren (z.T auch wegen des lohnenden Ziels, weil Win so verbreitet
+  ist).
+- M�llsoftware, die an allen Standards und auch Empfehlungen von
+  Microsoft vorbei programmiert wurde.
+
+Der Knackpunkt bezüglich Investitionssicherung und Sicherheit ist
+natürlich die fehlende Quelloffenheit, das gilt aber auch z.B. für Ibup
+oder Bundesarchiv von Zotzmann.
+
+Für eine deutsche Behörde oder größere Firma ist die Abhängigkeit von
+einem ausländischen Hersteller natürlich ein "Geht gar nicht!".
+Selbstverständlich muss ein Laden wie die Tada sein Betriebssystem
+selber kompilieren und dafür den Quellcode haben. Dass die Bundeswehr
+das nicht tut, ist ein Zeichen ihrer Inkompetenz. Das macht aber nichts,
+da sie eh nur Laufbursche und Ausputzer für die USA ist.

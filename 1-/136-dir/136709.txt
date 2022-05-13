@@ -1,0 +1,8 @@
+Viertens: selbst wenn jemand MAC-Adressen zur "Authentifizierung"
+benutzen würde, müsste ein Angreifer erst die MAC-Adresse eines Rechners
+herausbekommen, der sich mit dem Hotspot verbindet, dessen MAC-Adresse
+Rumbaum/Waschmaschine aufzeichnet. (Dass es vor Ort relativ leicht ist, eine
+solche MAC-Adresse herauszubekommen, fällt unter Drittens.)
+
+
+  Darius

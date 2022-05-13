@@ -1,0 +1,28 @@
+Das Internet-Protokoll ist 'verbindungslos'. Das heißt soviel, wie es 
+basiert nicht auf einer konkreten physikalischen Verbindung, sondern 
+nutzt die jeweils vorhandene Infrastruktur.
+
+Das ist ein Protokoll-'Stapel', wobei nur die niedrigen Ebenen mit dem 
+Medium selbst zu tun haben. Die höheren Ebenen beschäftigen sich mit 
+Dingen wie der Adressierung und der Interpretation von Daten usw.
+
+Man könnte nun die höheren Ebenen der tcp/ip prtocoll-stacks umtauschen 
+und nur die niedrigen lassen.
+
+Man könnte auch eine neue Infrastruktur aufbauen. Oder man könnte eine 
+Netz durch das Internet 'tunneln'. Dabei werden Datenpakete in das 
+Format des Internets gebracht, aber diese sind verschlüsselt und werden 
+an den Empfangsstellen wieder entschlüsselt und dann weitergeleitet.
+
+Man könnte auch ein völlig neues System in der Art des Internets 
+entwickeln, aber ohne die nun bereits etwas betagte Internet-Technik. Es 
+gibt verschiedene Ansätze bereits.
+
+Dann gab es früher mal solche mailbox-Systme wie RiMoTec, wo Inhalte 
+per Wählleitungen verteilt wurden.
+
+Man könnte auch über Wirelesslan Technologie oder andere Funktechniken 
+Netze aufbauen, die Paket-basiert und zentrumslos arbeiten.
+
+Also, es gibt die verschiedensten Möglichkeiten, um Datennetze 
+aufzubauen, bei denen nicht Geheimdienste an den Knotenpunkten sitzen.

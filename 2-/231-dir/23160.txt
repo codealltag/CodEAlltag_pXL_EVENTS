@@ -1,0 +1,11 @@
+Nn, sie hat schon recht.
+Es kommt nicht auf die Relation der relativen Werte an,
+sondern auf die absoluten Fehlzeiten.
+
+Derzeit ist der Durchschnitt an Krankheitstagen in Deutschland 12,1.
+Grob gerechnet bedeutet, dass in Kombi mit den anderen Zahlen, dass
+Männer im Schnitt pro Jahr 10,9 und für Frauen 13,2 Tage
+also etwa 2 Tage mehr im Jahr, krank sind.
+Wenn man noch in die Waagschale legt, dass bei einem durchschnittlichen
+Büro-Arbeitstag max. 50%, eher weniger, produktiv verbrachte Zeit sind,
+kann man den kleinen Unterschied vernachlässigen.

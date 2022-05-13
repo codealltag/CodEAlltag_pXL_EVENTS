@@ -1,0 +1,11 @@
+Wieso "wärmelos"? Wenn ein Akku mehrere kW chemischer Energie in
+elektrische wandelt, geschieht das ja nicht mit 100% Wirkungsgrad.
+Der wird schon warm. Akkus auf Lithium-Basis müssen gekühlt werden
+und könnten den Innenraum heizen. 
+Ein Natrium-Schwefel-Akku hat eine Betriebstemperatur von 300 bis
+350 Grad. Der muss also erstens beheizt und zweitens vom Innenraum
+wärmeisoliert werden. Wärme ist da jedenfalls vorhanden.
+Bleiakkus wird man eher nicht verwenden und die Tage von Nickel-
+Metallhydrid im Auto sind wohl ebenfalls gezählt.
+
+Henning

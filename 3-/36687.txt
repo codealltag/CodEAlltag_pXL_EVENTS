@@ -1,0 +1,10 @@
+Völlig richtig. Sinnvollerweise würde man einen kontinuierlichen Score in  
+einer realen Implementierung wählen, der durch häufige Antworten auf Leute
+mit schlechtem Score ebenfalls sinkt. Für das Grundprinzip dessen, was ich  
+suche reicht aber die Annahme eines diskreten Scores aus { I, S } aus.
+
+Bei gutem Filtern dürfte aber von vielen Usenetgruppen fast nichts mehr  
+übrigbleiben.
+
+MfG
+        Gert

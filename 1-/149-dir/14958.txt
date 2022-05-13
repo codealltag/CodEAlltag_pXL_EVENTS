@@ -1,0 +1,58 @@
+hallo Didier Joerges!
+
+Ich bin da einer Sache auf der Spur. Ich habe da neulich einen Gedanken
+aufgeschnappt, der mich geradezu elektrisierte. Der Gedanke war, daß
+ich, wenn ich mich *nicht* durch den Raum bewege, quasi mit „Licht-
+geschwindigkeit“ durch die Zeit falle. Dieser Gedanke hat mich zu
+folgender Zeichnung animiert:
+
+http://yyv.phcpc-wcvfia.ac/xqg/uc.dta
+
+Und jetzt habe ich mal etwas experimentiert. Wenn ich einen Winkel von
+45° wähle, dann sind sowohl der Sinus als auch der Cosinus gleich groß,
+nämlich 0,707106781. Diesen Wert habe ich, neugierig und frech wie ich
+bin, auch mal in Enderschs Formel eingegeben, und schau mal was da
+passiert ist:
+
+   T × √(1 - ( 0,707106781² ÷ 1²)) = 0,707106781
+
+Paßt! :-)
+
+Jetzt machen wir mal eine Tabelle:
+
+  ∡   SIN      COS
+––––––––––––––––––––––––––––
+  0°    0        1
+ 10°    0,174    0,985
+ 20°    0,342    0,940
+ 30°    0,5      0,866
+
+An dieser Stelle unterbrechen wir mal kurz und gucken uns die
+eckerlein Formel an:
+
+   T₀ = T ×  √(1 - ( 0,5² ÷ 1²)) = 0,866025404
+
+Bingo!!!! :-)
+
+ 40°    0,643    0,766
+ 50°    0,766    0,643
+ 60°    0,866    0,5
+ 70°    0,940    0,342
+ 80°    0,985    0,174
+ 90°    1        0
+
+Ich werd narrisch, das ist ja eine ganz einfache Sinus-Funktion!!!!! :-)
+
+Zeit und Raum sind die Y- und X-Achse, und die Lichtgeschwindigkeit ist
+ein Radius mit der feststehenden Größe von eins, der um den Kreuzungs-
+punkt dieser beiden Achsen rotiert, – so einfach ist das also mit der
+Zeitdillataton!?
+
+Jetzt brauch ich’n Kaffee! :-)
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.wuwwr-hzvmap.ap

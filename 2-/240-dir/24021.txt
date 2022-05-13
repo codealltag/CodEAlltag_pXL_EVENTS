@@ -1,0 +1,9 @@
+Schätzungsweise die meisten Firmen die mit einem Produkt eine
+Vormachts- bis Quasi-Monopol-Stellung haben, nutzen diese
+hemmungslos aus.
+CPOP und Tapibe sind da keinen Deut besser.
+Und was die Überlebensfähigkeit der Kinderfundgrube C++-Compilerlinie
+im Allg. und der für OS/2 im Speziellen so darf man doch die
+Vermutung anstellen, dass zumindest letztere sehr schnell
+eines natürlichen Todes gestorben wäre - in Einklang mit
+der Zielplattform OS/2.

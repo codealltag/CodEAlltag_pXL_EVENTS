@@ -1,0 +1,15 @@
+Gehst Du wirklich davon aus, daß der physikalische Datenträger entwendet  
+wurde?
+
+
+Du sprachst von "hier Daten klauen lassen", nicht vom Ankauf von Daten  
+unbekannter Herkunft, bei denen eben nicht sicher ist, ob die illegal
+beschafft wurden. Nimm doch mal an, Du vertippst Dich bei der URL einer
+Seite einer Schweizer Bank und hast plötzlich zig Kontodaten vor Dir.
+(Bei Laborbefunden eines bundesdeutschen Klinikums ist so etwas schon
+vorgekommen, also ist das Szenario nicht völlig unrealistisch.) Diese
+Daten kannst Du völlig legal speichern, da Du ja keine Sicherung gegen
+unbefugten Zugriff überwunden hast ...
+
+MfG
+        Joël

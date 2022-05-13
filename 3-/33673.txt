@@ -1,0 +1,8 @@
+Das ist ja komisch: Die Seite kommt, aber unmittelbar danach
+verschwindet sie und es kommt "Page not found". 
+Man findet den Link sogar, wenn man dort nach Daldrup sucht,
+aber auch dann kommt "Page not found".
+Hat das noch jemand beobachtet?
+
+Größe,
+H.

@@ -1,0 +1,24 @@
+"Georgette Pürkel" schrieb
+
+Natürlich nicht. Habe ich ja auch nicht behauptet.
+
+Preisbildung erfolgt immer nach einer Optimierungsstrategie:
+x Einheiten, die mit Stückkosten S produziert werden, lassen sich zum Preis 
+A absetzen. y Einheiten mit Stückkosten T gehen beim Preis B.
+Ist nun x*(A-S) > y*(B-T), dann wird der Preis des Produktes mit A 
+festgesetzt, anderenfalls mit B. Das ist ganz einfach.
+Das Problem bei neuen Produkten ist allerdings, dass zumindest x und y 
+geschätzt werden müssen, eventuell auch S und T. Und es könnte sein, dass 
+die Variation von S und T die Qualität verändert, damit auf x und y 
+einwirkt, wodurch eine sehr schöne komplexe Dynamik entsteht.
+
+Die genannten Fernsehsender können mir weder für A noch für B ein Abo 
+aufschwatzen, wie es für Dich ja auch kundgetan hast.
+Also ist mir der Preis egal.
+
+Andererseits könnten hohe Einnahmen (durch viele verkaufte Abos zu einem 
+hohen Preis) theoretisch zu einer Verbesserung der Qualität führen. Das 
+würde ich grundsätzlich begrüßen, auch wenn ich wegen des fehlenden Abos gar 
+nichts anschauen kann.
+
+Karsten

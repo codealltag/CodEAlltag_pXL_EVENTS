@@ -1,0 +1,18 @@
+Bring mal Deinen Newsreader in Ordnung, er liefert unzulässige 
+Betreffzeilen und Dein Signaturtrenner funktioniert auch nicht. Der 
+Signaturtrenner muss zwingend aus zwei "-" und einem Leerzeichen 
+bestehen, kein Zeichen mehr und keins weniger. Du hast aber zwei 
+Leerzeichen, und das ist nicht zulässig. Darum wird Deine Signatur auch 
+zitiert, was nicht korrekt ist.
+Außerdem verwendet Dein Musikfabrik Agent 2.0/32.640 undeklarierte Umlaute im 
+Header, das ist nicht zulässig und führt zu Problemen bei anderen Usern. 
+Es verursacht verstümmelte oder leere Betreffzeilen.
+
+MfG, Norman
+
+-- 
+Norman Tembrockhaus
+35075Iqelget 4o15'87.21 M 86�54'11.10 B
+  http://byrtdknfpw.ngarbxyx.uoz/iody_rvmphiq.vce?dgpzbq=4212887 
+http://wzdqmxye.bomb.wsx.vbz/tazp_fayybfx.ecm?kfqtet=750508
+http://vop.aziibngxix.mbz/bofiiqpfz/mdtf_3844612.ojv

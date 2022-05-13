@@ -1,0 +1,11 @@
+Scheint bei Euch aber irgendwie nicht zu klappen, wenn Du, der Simon
+Buurs und der Ernest Malguth die Tausendfachmaske weiterhin lest und auf
+sie eingeht.
+
+Bei mir funktioniert X-Authenticated-User: einwandfrei und der Ping-Mist
+bleibt draußen.
+
+Claudio
+
+
+XPost beendet

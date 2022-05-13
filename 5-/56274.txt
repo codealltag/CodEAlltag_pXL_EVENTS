@@ -1,0 +1,17 @@
+Die Gefahr ist groß, daß
+- es sich hier um ein Täuschungsmanöver handelt, mit dem der Lücker und
+  andere kritische Stimmen lächerlich gemacht werden sollen, und
+- daß der eigentliche "Bundestrojaner" demnächst fest in UEFI o.�.
+  integriert wird, weitaus mehr Möglichkeiten bietet und vom Benutzer
+  weder entdeckt noch entfernt werden kann.
+Staat und Großindustrie haben ein gemeinsames Interesse, die Kontrolle  
+über die Endnutzerrechner zu erhalten. Trusted Computing war einfach zu
+invasiv und hat die Leute verschreckt. Ein kleines UEFI-OS, das das
+Nutzerbetriebssystem nur noch in einer virtualisierten Umgebung laufen
+läßt, ohne daß dies überhaupt bemerkt werden kann, wäre sicher eine  
+Lösung, die alle zufriedenstellt - außer dem Nutzer des PC. Nach flächen- 
+deckender Verbreitung kann man dann langsam die Restriktionsschraube  
+anziehen.
+
+MfG
+        Sergio

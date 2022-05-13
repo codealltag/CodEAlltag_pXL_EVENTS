@@ -1,0 +1,28 @@
+Na dann rechnen wir mal. Vor 10 Jahren lag der Liter Super bei ca. 
+1,05€, es galt ein Mineralölsteuersatz von abgerundet 62ct/l und ein 
+Mehrwertsteuersatz von 16%.
+
+1,05/116*100 ergibt 0,90€ netto.
+
+0,90-0,62 ergibt 0,28€ ohne Steuern.
+
+Heute kostet der Liter Super 1,65€, Energiesteuer liegt bei abgerundet 
+65ct/l (2001 kam die letzte Stufe der Ökosteuer), und der 
+Mehrwertsteuersatz liegt bei 19%.
+
+1,65/119/100 ergibt 1,39€ netto.
+
+1,38-0,65 ergibt 0,73€ ohne Steuern.
+
+Das heisst:
+
+Mit Steuern ist das Benzin heute 1,6x so teuer wie vor 10 Jahren.
+Ohne Steuern sind es 2,6x.
+
+Wenden wir nun den Faktor 2,6 auf den Benzinpreis von vor 10 Jahren an, 
+dann ergibt sich: Wäre die Steuerbelastung dem Preis vor Steuern linear 
+gefolgt, müsste der Liter Super heute 2,73€ kosten. Das sind fast 3 
+Euro, womit meine Eingangsbehauptung be- und deine Behauptung widerlegt 
+wäre.
+
+Wilhelm

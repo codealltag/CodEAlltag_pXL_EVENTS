@@ -1,0 +1,22 @@
+Das stimmt nicht.
+
+Der Bimetallschalter hat eine Hysterese (ich nehme einen altmodischen 
+Thermostaten an). Der Regler schaltet ja die Heizung nicht direkt 
+ein/aus (wie ich vereinfacht geschrieben habe) sondern "dreht" den 
+Mischer. Er versucht mit einem Puls/Pausenverhältnis einen Analogregler 
+nachzuahmen.
+
+Der Widerstand wiederum ist der Trick, der den D (Differenzial) Anteil 
+des Reglers simuliert, damit beim Hochfahren der Temperatur der Regler 
+frühzeitig zurückführt. Er täuscht dem Temperaturfühler (dem 
+Bimetallf�hler) eine höhere Raumtemperatur vor, damit dieser vorzeitig 
+zur�ckregelt. Sonst würde die gespeicherte Wärmeenergie in den 
+Heizkörpern zu einem Temperatur�berschwinger führen, wenn der erst bei P 
+zur�ckregeln anfängt.
+
+IVO
+-- 
+[...] Seht mir doch diese überflüssigen! Reichtümer erwerben
+sie und werden ärmer damit. Macht wollen sie und zuerst das
+Brecheisen*) der Macht, viel Geld � diese Unvermögenden!
+<*)Korruption. Vom neuen Götzen. ...Zarathustra>

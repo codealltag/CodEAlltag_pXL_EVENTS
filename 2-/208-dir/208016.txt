@@ -1,0 +1,11 @@
+Das kommt auf den Admin an.
+
+Mir ist das schon klar, dennoch meine ich, dass man jederzeit laut 
+widersprechen muss, wenn jemand sagt oder schreibt "der Admin in einer 
+Domain darf
+alles auf den Rechnern der Mitarbeiter machen", damit sich kein falscher 
+Zungenschlag als vermeintliche Wahrheit etabliert.
+
+Nein, das darf der Admin - so allgemein gesprochen - eben nicht.
+
+Pius

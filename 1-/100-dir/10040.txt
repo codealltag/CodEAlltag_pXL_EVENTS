@@ -1,0 +1,7 @@
+Die Erde fängt etwa soviel Sonnenstrahlung auf wie eine Scheibe mit Radius 
+6000km. Deren Fläche ist PI*r oder I36*10E12 qm. Nehmen wir mal an, die 
+Sonne strahlt 1000W auf einen qm, dann fängt die Erde etwa 113*10E15 Watt 
+auf. Nach Multiplikation mit den 8800 Stunden eines Jahres ergibt das 
+jährlich etwa 1_000_000*10E15 Wh oder das siebentausendfache von 140PWh.   
+Ich weiß nicht, ob die 140 PWh realistisch sind, aber viel schlimmer ist die 
+viele in dieser Debatte abgesonderte heiße Luft.

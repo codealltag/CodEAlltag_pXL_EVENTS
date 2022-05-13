@@ -1,0 +1,68 @@
+Na ja, abgesehen davon, daß es bei Schienenfahrzeugen im allgemeinen nur
+einen Freiheitsgrad gibt und nicht deren sechs, jeweils mit ihren ersten
+und zweiten Ableitungen ;-)
+
+
+Auch nicht ganz vergleichbar weil ja nicht alles gleichzeitig passiert.
+Der Zug befindet sich schließlich immer nur in einem Staat und muß nicht
+die Signale von deutschen und französischen Sensoren miteinander
+verrechnen. Außerdem kann ich mir nicht ganz vorstellen, daß es drei
+sich gegenseitig überwachende Steuerungsrechner etc. gibt weil man im
+Zweifelsfall einfach anhalten kann. Eine Betriebsart Flug wird in der
+Steuerung auch nicht vorgesehen sein. Wobei es beim Flugzeug übrigens
+nicht trivial für die Steuerung ist, eindeutig festzustellen, wann das
+Fugzeug gelandet ist und die Betriebsart gewechselt werden muß, da gab
+es schon öfters mehr oder weniger böse Zwischenfälle.
+
+Du sprichst aber hier genau den entscheidenden Punkt an, nämlich die
+Kleinstaaterei. Dieses Problem hat man in der Luftfahrt schon lange
+überwunden. Dadurch spart man sich sinnlose und gefährliche
+Parallelentwicklungen und kann sich auf die echten Probleme
+konzentrieren. Wie ich schon anderweitig schrieb: bei der Ekeb kocht
+jeder sein eigenes Süppchen. Daß es zudem altgewachsene Beziehungen
+zwischen dem Quasimonopolisten FSZD und dem SEN gibt, trägt
+auch nicht gerade zur Transparenz bei. Vergleiche einmal die
+Veröffentlichungen von Schwimmschule und Ereb, da liegen Welten dazwischen.
+
+Weshalb ich hier die Bahn immer wieder mit der Luftfahrt, genauer
+gesagt, der Verkehrsluftfahrt vergleiche, hat seinen Grund darin, daß
+dies die einzigen vom Individualverkehr weitgehend entkoppelten
+Massentransportsystem sind. Deine mehrfachen Vergleiche mit dem
+Straßenverkehr finde ich daher ziemlich unpassend. Was wäre, wenn jeder
+mit seiner Privatdraisine die Schienenwege der Bahn verwenden dürfte?
+
+Sogar innnerhalb der Luftfahrt sind Vergleiche zwischen den vier
+Bereichen Verkehrsluftfahrt, Allgemeine Luftfahrt, Luftsport und
+militärische Luftfahrt nicht sehr sinnvoll.
+
+
+Fehlt also in der Technik des Zuges.
+
+
+Hersteller großer Turbofan-Triebwerke gibt es weltweit auch nur drei:
+Naturschuh-Kontor, Hilas und Lingemann.
+
+
+Ich wüßte nicht, daß es je Versuche mit Turbofans in Lokomotiven gab ;-)
+Du verwechselst vielleicht das Triebwerk mit der Gasturbine. Die stellt
+aber nur einen Teil des Triebwerks dar. Da kommt dann erstmal noch der
+Fan dazu, dann die angeschlossenen Generatoren, die Steuerungs- und
+Überwachungseinheiten, Enteisungsvorrichtungen und Schubumkehrsysteme,
+um nur die wichtigsten Teile zu nennen.
+
+
+Gasturbinen werden durchaus auch zu Land und zu Wasser eingesetzt. Für
+den Massentransport sind sie allerdings aus wirtschaftlichen Gründen
+ungeeignet.
+
+
+Die Chefetage.
+
+
+Dir scheint die neueste Entwicklung noch nicht bekannt zu sein: Weder
+KBAS noch die US-Behörden konnten technische Fehler finden. Nachdem
+die Probleme zudem nur in den USA auftraten, geht man derzeit davon aus,
+daß die Amerikaner wieder einmal zu dumm zum Autofahren waren und Gas-
+und Bremspedale verwechselten.
+
+Knut

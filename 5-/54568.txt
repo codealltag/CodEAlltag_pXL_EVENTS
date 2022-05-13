@@ -1,0 +1,14 @@
+Benno Utdenwiede <gpevt.rxguemDJZR@syjet.toj> wrote in news:3zf7fb31$0$26167
+$91str616@gtmhbjhear82.jfcezjd.elzdufd.av:
+
+
+Wieso? Der hat doch nen ganz normalen Header. Kritisch wirds nur mit dem
+SOMIT-Vollpfosten, aber mit der entsprechenden RegEx kriegt man den auch 
+weg.
+
+
+Gruß U.P.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

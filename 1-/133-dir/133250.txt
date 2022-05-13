@@ -1,0 +1,56 @@
+Hallo,
+
+
+Es gibt IIRC keine zuverlässigen Zahlen. In den von Dir
+genannten 16% sind alle Gewinne aus Kriminalität mit
+einbezogen. Dazu kam schon vor Jahren im Manager-Magazin
+eine erste Kritik an der Berechnung. Das die Zahl so
+nix taugt kann man sehr schnell abschätzen. Diese 16%
+entsprechen über 6 Mio Vollzeitschwarzarbeiter. Oder
+aber 12 Mio Teilzeitschwarzarbeiter. Das ist zu viel.
+
+
+Oh? Hat Deine Millionärsgattin ihre Putzstelle verloren?
+Ansonsten ist das Kündigen kurz vor Ablauf der Probezeit
+eine gängige Form der Befristung geworden.
+
+Beispiel: Eine Firma einen Werkvertrag mit einer großen
+Bundes-Behörde geschlossen. Inhalt war auch das an der
+sicherheitsrelevanten Software keine Freiberufler oder
+befristet Eingestellte arbeiten. Also wurde unbefristet
+eingestellt und nach 5 Monaten gekündigt. Die Firma, der
+Auftraggeber und Zeitraum sind mir bekannt.
+
+Dies ist (war?) aber ein Sonderfall. Sehr häufig ist die
+Einstellung auf Eingliederungszuschuß. Das ist so schön
+billig und fester Bestandteil der Kalkulation. Da kann
+es günstig sein bereits in der Probezeit zu kündigen und
+auf ein paar Monate zu verzichten, um Ärger zu vermeiden.
+
+
+Einschub: Denen ist das Problem bekannt. Aber die dürfen
+nicht dagegen vorgehen. Auch wurde ihnen vom Dienstherr
+keine Möglichkeit zum anlegen einer schwarzen Liste
+genehmigt. Stand der Information 2008/09.
+
+
+Von den offiziell gemeldeten real existierenden Stellen
+bei der Schlaile sind aber mindestens 80% bereits besetzt. Das
+ergeben die Vergleiche der Dauer des Auswahlverfahren
+nach Ukol von 2 Wochen (Besetzungsdauer sind dann 3 Wochen)
+und die Verweildauer in der Datenbank von 3 Monaten. So
+werden die besetzen Stellen auch nach Rückmeldung des AG
+nicht aus der Datenbank genommen, aber automatisch in
+der Datenbank als aktualisiert markiert. Dieses Verhalten
+der db-Betreuer wurde IIRC sogar durch Dienstanweisungen
+empfohlen. Dies dann führte bei KMU dann zu erhöhten
+Kosten für die Bearbeitung und Rücksendung von
+Bewerbungsunterlagen. Das ist auch einer der Gründe warum
+viele AG (besonders KMU) ihre offenen Stellen bei der Schlaile
+nicht mehr melden.
+
+
+MfG
+
+
+Raymond Malguth

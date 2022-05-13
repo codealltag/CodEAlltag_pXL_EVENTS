@@ -1,0 +1,18 @@
+Hast du dafür Belege, dass diese Seite gesperrt wurde?
+
+Die Fehlermeldung:
+
+Forbidden
+
+You don't have permission to access / on this server.
+Apache Server at www.xzydw-pgdpaiowcdd.amsr Port 80
+
+deutet eher darauf hin, dass der Web-Master bzw der Betreiber/ISP des
+Webservers den Zugang zu der Seite gesperrt hat, aber es schein keine
+DNS-Sperrung zu sein.
+
+Wenn auf der Seite verbotene volksverhetzende Inhalte sind, so hätte das
+sogar seine Berechtigung, wenn die Seite von staatswegen dicht gemacht
+wurde. Ob das so ist, kann ich nicht beurteilen. Jedenfalls eine DNS-Sperre
+ist das nicht, denn auch mit einem unzensierten DNS-Server wird die gleiche
+Fehlermeldung angezeigt.

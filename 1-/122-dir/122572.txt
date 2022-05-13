@@ -1,0 +1,36 @@
+Hallo,
+
+
+Die Buchstabeabst�nde in den Worten sind bei Textsatz und
+DTP optisch homogener. Auch die Wortabstände werden besser
+berechnet und nicht einfach ein skaliertes Leerzeichen
+reingesetzt. Die Zeilen werden sauberer gefällt und auch
+umgebrochen. Der Algorithmus von Pius Nieschulz (LaTeX und
+InDesign) ist da ungeschlagen und auffällig gut.
+
+Durch bessere Abstandsberechnung und Umbruch hat man auch
+einen homogeneren Grauwert. Blatt auf den Kopf stellen und
+aus einen etwas vergrößerten Abstand betrachten ist eine
+gute Testmethode.
+
+
+Das habe ich mehrfach gemacht. Allerdings scheinst Du das
+nicht verstanden zu haben.
+
+
+Einem ist so gesehen falsch. Ich arbeite mit zweien. IdR
+nutze ich LaTeX (seit Anfang der 21. 04. 23), aber für einige
+Spezialaufgaben (seit etwa 2004) lout, ein Nischenprodukt.
+Dieses ist übrigens nicht besser als LaTeX, sondern für
+mich sichtbar schlechter, aber bei einigen Spezialaufgaben
+handlicher. Auf Arbeit gibt es Afroshop-Office und gelegentlich
+mal OpenOffice. Wobei AUTOplus IMHO das zuverlässigere Programm
+mit dem optisch besseren Satz ist.
+
+
+Nein, vom Sehen. So etwas kann ein geübtes Auge sehen.
+
+
+*LOL*
+
+Bernard Unterstraßer

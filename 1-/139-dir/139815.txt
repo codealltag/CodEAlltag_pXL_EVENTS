@@ -1,0 +1,6 @@
+Es ist scheißegal, für welchen Tag die Ankündigung ist, es interessiert nur,
+von welchem Tag sie ist, und sie ist nunmal von heute. Außerdem braucht man
+IPv6 nur zuzuschalten, ohne daß IPv4 seine Gültigkeit verlieren würde. Das
+geht ohne Betriebsunterbrechung unter rollendem Rad.
+-- 
+Es ist Zeit für Reich

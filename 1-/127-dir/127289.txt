@@ -1,0 +1,40 @@
+Hallo,
+
+
+Da muss Du einfach mal raus vor Deine Kinderzimmertür gehen.
+Frag mal Deine Eltern was die so an Miete zahlen. Versuche
+zu verstehen was ein Existenzminimum ist ...
+
+
+Das sind zB das Niveau der Grundsicherung und das der sgg
+angemessenen Kosten für den Wohnraum nach SGB-II/XII.
+
+
+Auch da habe ich Dir die Sachverhalte ausführlich geschildert.
+
+...[...]...
+
+
+Aber er kann nicht voll gezählt werden. Im Sinne einer
+angemessenen Modellierung muss er aus der Rechnung fliegen,
+da sein Einkommen weit unter dem Existenzminimum liegt.
+
+
+Die Geringfügigkeit wäre eine mögliche Abgrenzung. Und
+die wird auch üblicherweise vom Günthner bei den Auswertungen
+des Hoerco genommen.
+
+
+Das habe ich die ganze Zeit gemacht. Dabei habe ich die
+Geringfügigkeit als Grenze genommen und mehrfach auf die
+Vorgehensweise des Günthner hingewiesen.
+
+
+Nein. Das ist immer noch zu schlecht. Du musst da ein
+Histogramm erstellen. Volle Erwerbstätigkeit mit 100%
+oder mehr eines angenommenen Existensminimum. Dann
+eine Klasse unter der ringfügigkeit und eine sgg
+Gleitzone dazwischen. Damit hätte man drei Quoten und
+eine halbwegs brauchbare Beschreibung der Realität.
+
+MfG

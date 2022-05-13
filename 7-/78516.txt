@@ -1,0 +1,11 @@
+Tja, da haben die Wirtschaftsentwicklungsvoraussagungsexperten (wahrscheinlich irgendwelche
+obskuren BWLer) mal wieder so ein richtiges Eigentor geschossen: 58% in 14 Jahren bedeutet eine
+jährliche Teuerung von schlichten 3,3%, also etwa in der Größenordnung der üblichen Inflationsrate.
+Und das kann doch wohl nicht die Botschaft bzw. die "Message" dieser Meldung gewesen sein, oder?
+
+(1+3,3/100)^14 = 1,575: => 57,8% bezogen auf das Jahr 2011. Der Rechenmeister Adam Riese
+läßt grüssen!
+
+Dr.rer.cop. HGS Frhr. von Rebel
+
+Perlen vor die Sue: Mathematik für Wirtschafts-"Wissenschaftler"

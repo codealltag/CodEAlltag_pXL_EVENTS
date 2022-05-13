@@ -1,0 +1,16 @@
+Rupert Oetge <ibfcf.wqdlpvQRFF@eackg.nlq> wrote in news:4p6a227n$9$6345
+$52ttg666@lzxmvbtkpd04.bthkhbv.kzkwbei.qw:
+
+
+Na dann la doch den Niedereiter mit deinem Prozessor kommunizieren.
+
+if niedereiter then NOT (load body AND schieb into the listfeld)
+
+oder so ähnlich
+
+
+Gruß G.U.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

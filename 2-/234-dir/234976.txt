@@ -1,0 +1,18 @@
+Aha, soweit o.k. hab den logarithmischen Auftrag der Kurve nochmal 
+verinnerlicht...
+
+
+Nuja, hast Du eine Quelle zur Materialstärke (Alu) der Kapsel?
+Und zu dem reinen Alu kommt noch die nicht zu unterschätzende Wirkung 
+der Hitzeablationsschicht, die bei Gamstätter bis über 60mm dick war und 
+Kunststoffe absorbieren auch Elektronen recht effektiv. Ohne genauere 
+Kenntnisse zum Aufbau der Kapselwand kann man ZTO die Strahlenbelastung 
+nicht seriös berechnen.
+
+
+Wo wurde gemessen?
+Wann wurde gemessen? Oder wurde nur interpoliert / interpretiert?
+Hinit: Die Strahlung ist nicht konstant, sondern u.a. von der 
+Sonnenaktivi�t abhängig.
+
+Oskar

@@ -1,0 +1,61 @@
+Ganz ohne "Grundtreiber?  *g*
+
+Hast du Münchhausen gespielt, oder stimmt einfach nicht, was du 
+behauptet hattest?
+
+Nein. Du würdest dich wundern!  :-)
+
+
+Was für eine exotische Hardware soll das sein? Eine, die nicht mal einen 
+simplen VGA-modus kennt  und darstellen kann? Oder einer mit  ner 
+Auflösung von 6000x2500?  Selbst dann kannst du normal installieren, 
+mußt halt dann nur später spezielle Treiber für deine hardware *nach* 
+installieren. NACH.
+
+  Die den
+
+
+N. Die *verlangen* das nicht! Die aktualisieren sich zwar  meist übers 
+internet, aber installieren kann man Linux auch 100ig von der CD/DVD.
+
+Siehs mal so: die meisten bieten als Testmodus ja sog. Live-CDs an. Man 
+bootet von CD/DVD und kann das BS testen und erst wenn man davon 
+überzeugt ist, kann und soll man es dann auf die HDD/SSD installieren.
+
+Hast du den Begriff schon mal gehört? Live-CD?
+Nach deiner abstruden "Grundtreibertheorie" sollte das ja gar nicht 
+klappen können!  Das klappt aber. Sogar, wenn du gar keine Festplatte im 
+PC hast klappt das!
+
+Du willst mir also einreden, daß auf deiner Hardware keine dieser 
+Live-CDs lauffähig war?  Dann war wohl dein Laufwerk nicht richtig 
+angeschlossen.
+
+Außerdem postest du ins usenet, scheinst also einen internetanschlu� zu 
+haben (und ja, ich WEIß, daß inet und usente nicht das selbe ist!).
+
+  und der ist ohne Betriebssystem
+
+Deswegen installierst du ja das Linux (das _ist_ das Betriebssystem)! 
+Oder du lädst es eben von DVD! Auch mit ner Live-DVD hast du internet! 
+Du mußt es halt nur einrichten (also Paßwort, Zugangskennung usw von 
+deinem provider entsprechend eintragen!  Ich habe das alles schon an 
+Dutzenden von Rechnern mit Dutzenden von verschiedenen 
+Linuxdistributionen gemacht. Und auch mit Windows. Angefangen mit 3.1.
+
+Aber da wirste geholfen. Und die nehmen klaglos zurück, wenn du damit 
+nicht klarkommst.
+
+
+Vielleicht erstmal ein Lehrbuch über: wie installiere ich Linux? Wie 
+bring ich wenigstens eine Live-CD zum Laufen?
+
+MfG
+
+Der Habakuk.
+
+Für manche ist auch linux einfach zu kompliziert. Da müßte dann 
+Installation und Administration jemand anderer übernehmen und ihnen 
+einen eingeschränkten Zugang einrichten, mit vorinstallierter mail, 
+Office usw, so daß sie möglichst nix mehr verstellen oder kaputt machen 
+können.

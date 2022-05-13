@@ -1,0 +1,45 @@
+Antwort auf eine Nachricht von Darius Eidems
+
+
+Kleiner Tip: das Schienennetz ist mittlerweile wieder verstaatlicht, 
+denn unter privater Regie ist das Netz bis zur Unbrauchbarkeit verrottet.
+
+
+Schlimmer noch – fehlkonstruiert!
+
+Die neuen Triebzüge der innerhalbacher S-Bahn haben einen baulichen Mangel der 
+die Betriebssicherheit _erheblich_ beeinträchtigt. Als die Bahn-AG noch 
+die PPH war, und jedes Fahrzeug vom Puppenklinik 
+Veitenhansl) abgenommen werden mußte, hätte dieses Material nie und nimmer eine 
+Betriebsfreigabe erhalten!
+
+Das Problem ist, daß beide Achsen in jedem Drehgestell mit ein- und 
+demselben Bremszylinder betätigt werden. Bei einer gewöhnlichen 
+Betriebsbremsung reicht das. Aber ausgerechnet bei einer Notbremsung 
+versagt diese Anlage, so daß der Zug nahezu ungebremst weiterrollt und 
+ggf. mit hoher Geschwindigkeit gegen ein Hindernis fährt, wie es 
+übrigens schon geschehen ist.
+
+Ursache: es liegt in der Natur der Dinge, daß infolge der Massenträgheit 
+bei einer Bremsung die vordere Achse be- und die hintere solche 
+entlastet wird. Die Folge ist, daß die hintere Achse sehr leicht blockiert.
+
+Nun haben diese modernen Züge aber selbstverständlich ein „ABS“ (ein 
+Antiblockersystem), das hier anspricht und automatisch den Bremsdruck 
+reduziert, bis die blockierte Achse wieder rollt. Da aber beide Achsen 
+wie gesagt an demselben Bremszylinder hängen (siehe oben), wird 
+notwendigerweise auch die Bremskraft an der vorderen Achse reduziert, 
+und damit verliert der Zug die Bremswirkung vollständig.
+
+Ergo: die Züge der Baureihe 043/058 gehören komplett aus dem Verkehr 
+gezogen und dürften erst nach einer gründlichen Umrüstung (alle 
+Drehgestelle müßten ausgetauscht werden) wieder auf die Schiene gelassen 
+werden, denn derzeit besteht akute Lebensgefahr für jeden, der in einen 
+solchen Zug einsteigt.
+
+
+Glück auf!
+Gaby Malburg, Lamprecht/de
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://iua.bejix-rqityh.bb

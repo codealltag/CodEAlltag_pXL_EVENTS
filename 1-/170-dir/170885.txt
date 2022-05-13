@@ -1,0 +1,3 @@
+oder:  EOT  (altes Ascii Zeichen/  HEX 04)  end of text
+
+Elmar

@@ -1,0 +1,58 @@
+Danke für den Link.
+
+Daraus geht allerdings hervor, dass es nicht richtig ist, wenn Du es so 
+darstellst, als würde Retur eine Häufigkeit von 1:1.000.000 schweren 
+Unfällen pro AKW und Jahr annehmen.
+
+Vielmehr befaßt sich die Untersuchung mit der Aussagekraft von sog. 
+probabilistischer Risiko-Studien (PRS). Aus diesen geht zunächst sogar eine 
+um eine weitere Größenordnung geringere Häufigkeit von 1 - 2,5E-7 Unfällen 
+pro AKW und Jahr hervor. Die Kernaussage der Retur-Studie ist, dass 
+solche PRS eben nicht die tatsächliche Wahrscheinlichkeit widerspiegeln, im 
+wesentlichen weil sie sich prinzipbedingt natürlich nur mit 
+Unfallmechanismen befassen können, die man zumindest theoretisch kennt, oder 
+überhaupt sinnvoll quantisieren kann. Darüberhinaus kann es aber Vorgänge 
+mit potenziell katastrophalen Folgen geben, an die schlicht bislang keiner 
+überhaupt gedacht hat, oder die eben nicht quantifizierbar sind.
+
+Darüberhinaus hat schon die PRS-Rechnung bereits bekannte Unsicherheiten, 
+weil man auch für bekannte Ausfallmechanismen die Wahrscheinlichkeit in 
+vielen Fällen aufgrund zu geringer Datenbasis nicht genau angeben kann. 
+Retur versucht, diese *bekannten* Unsicherheiten mit einer 
+Fraktil-Bewertung zahlenmäßig zu erfassen, und nennt als Zahl für das 
+95%-Fraktil eben jene 1:1.000.000. D.h. mit 95% Wahrscheinlichkeit ist die 
+tatsächliche Häufigkeit unter Berücksichtigung der bekannten Unsicherheiten 
+immerhin kleiner als 1:1.000.000.
+
+Das gilt aber immer noch nur unter Berücksichtigung von prinzipiell 
+bekannten und quantifizierbaren Risiken!
+
+Darüberhinaus gibt es eine Reihe von prinzipiell rechnerisch nicht 
+erfassbaren Einflüssen, die Retur auch nennt:
+
+- Unerwartete Belastungen durch interne Vorgänge
+- Schlechte Sicherheitskultur
+- Gemeinsam verursachte Ausfälle
+- Probleme an der Schnittstelle von Anlagen- und Bautechnik
+- Unvorhergesehene Einwirkungen von außen
+
+Die im Artikel behandelten Fallbeispiele befassen sich alle mit Störfällen, 
+die aus solchen Einflüssen hervorgegangen sind (und zum Glück glimpflich 
+verliefen).
+
+Alle diese Einflüsse sind in den PRS-Häufigkeiten *nicht* enthalten, erhöhen 
+aber die Wahrscheinlichkeit eines Unfalls, ggf. massiv. Z.B. ein wie auch 
+immer geartetes Terror-Risiko ist in PRS-Häufigkeiten überhaupt nicht 
+enthalten, es muß ja nicht der Flugzeugabsturz sein. Auch können prinzipiell 
+vorhandene Sicherheitsmechanismen  kompromittiert werden, wenn die 
+Bedienermannschaft von oben unter Druck steht, den Betrieb 
+aufrechtzuerhalten (Stichwort Sicherheitskultur).
+
+Und genau deswegen ist die zentrale Aussage der Studie, dass die reale 
+Wahrscheinlichkeit eines Unfalls bedeutend größer ist als 1:1.000.000.
+
+Du mußt diese Einschätzung nicht teilen, aber bitte stelle es nicht so dar, 
+als würde Retur diese Zahl propagieren.
+
+Gruß,
+Noël

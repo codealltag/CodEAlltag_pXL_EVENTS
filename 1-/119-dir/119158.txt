@@ -1,0 +1,33 @@
+Mit "IP" sieht das nicht anders aus, siehe TOR.
+
+http://vrb.vastfjxujv.tqb/wlhllhso.ukvb.nr#qzikcfptddv
+
+Der NNTP-Server sieht dann nur die IP-Adresse des Tor-Exit-Nodes und 
+nicht die des Posters.
+
+
+stimmt
+
+
+N. Man muss, wenn überhaupt, das Modem neu starten. Und nicht jeder 
+ISP erneuert dann Die IP-Adresse. Ich habe immer noch dieselbe 
+öffentliche IP-Adresse wie vor 5 Monaten. Ach ja, ich verwende kein DSL, 
+sondern DOCSIS vom Kabelbetreiber.
+
+
+Die IP-Adresse nützt nichts, wenn ein Anonymisierungsdienst verwendet wurde.
+
+
+Und wenn die IP-Adresse die des TOR-Exit-Nodes ist? Oder die eines 
+Proxy-Servers in Varendorf?
+
+Wer unerkannt pöbeln will, der tut es.
+Deine Forderung geht in die falsche Richtung. Um Pöbeleien in NGs 
+abzustellen hilft nur, die entsprechenden NGs zu moderieren.
+
+
+nicole
+-- 
+Die angegebene email-Adresse ist gültig. Wer mich per email kontaktieren 
+möchte, sollte bitte THEO-Antwort in den Betreff schreiben, damit die mail 
+nicht versehentlich im Rundordner für Spam landet.

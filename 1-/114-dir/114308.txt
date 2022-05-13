@@ -1,0 +1,4 @@
+Nö, er steht ja immer noch bei -90 (auf der Skala von +100 bis -100),
+weil er in der Sache unrecht hat.
+
+Lorenz

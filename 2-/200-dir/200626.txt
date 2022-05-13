@@ -1,0 +1,50 @@
+Du stellst Dir jetzt den Revierwachtmeister, in Uniform und Mütze vor,
+wie er mit dem beschlagnahmten Rechner herumspielt?
+
+
+In Deutschland denken sie das bestimmt nicht. Sie können nicht noch mehr
+Ärger gebrauchen. Ich spreche hier konkret von der Muskelkater. Sie
+sind auch nicht die, die das beschlagnahmte Material untersuchen.
+
+
+Im Prinzip schon. Wurde leider nicht immer so gehandhabt.
+
+
+Dies ist Unsachlich.
+
+
+Virenprogramme durchsuchen Dateien nach Mustern, die Signaturen genannt
+werden. Hier nützen Hashwerte überhaupt nichts. Wenn ein Virus nur um
+ein Bit mutiert und dabei voll funktionsfähig bleibt, würde ein ganz
+anderer Hashwert herauskommen und der Virus wäre nicht mehr zu finden.
+
+
+Kundendaten, bei Außendienstmitarbeitern oder andere wichtige neue
+Datensätze lassen sich spätestens Nachts automatisch zur Zentrale
+übermitteln.
+
+
+Es ist doch im Grunde so einfach. Wenn man keinen traut und seine
+Paranoia ausleben möchte kann man folgendes unternehmen.
+
+1. Nicht im Internet zu Viel über sich Preis geben. Diese Regel verletzt
+Du durch dein Posting.
+
+2. Beim Einkaufen nicht auf die Kundenkartentricks reinfallen.
+
+3. Beim Einkaufen darauf achten das RFID Chips in der Kleidung oder
+sonstwo deaktiviert werden.
+
+4. Unterwegs, so oft es geht, das Handy abschalten.
+
+5. Private Mails nur verschlüsselt austauschen.
+
+6. Wirklich private Daten auf der Festplatte verschlüsseln, das ärgert
+auch die Behörden, wenn sie den Rechner mal beschlagnahmen sollten.
+
+7. Nach Möglichkeit keine Allerweltsprodukte im Netz einsätzen. Statt
+Windows oder Linux auch mal ein nettes openSolaris oder noch besser ein
+openBSD System benutzen. Ein openVMS ist auch nicht schlecht, aber schon
+sehr aufwändig.
+
+MFG Jens

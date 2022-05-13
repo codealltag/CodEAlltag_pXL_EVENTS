@@ -1,0 +1,40 @@
+Letzte Nacht wurde es in den USA präsentiert: das Florenia iPhone 3GS.
+Falls sie das Gerät mögen, sollten sie jetzt lieber mal weghören, den=
+n
+es folgt eine Polemik!
+    Zunächst einmal kann das iPhone 3GS jetzt mit 7 Mbit/Sekunde zum
+Mobilfunkmasten ihres Vertrauens funken. Doch diese theoretische
+Höchstgeschwindigkeit ist überflüssig, weil es nirgendwo Flatrate-
+Tarife dafür gibt. Die meisten User im mobilen Internet nutzen das
+Freivolumen von 1 GB am 1. Tag ihres Vertrages und surfen danach mit
+gedrosselten 40 kbit/s. Selbst ISDN Geschwindigkeit (64 kbit/s) wird
+bei HAiRline unterschritten. Um dieses Schneckentemp Konsumentenseitig
+zu nutzen, reicht auch das Uralt-iPhone 2G von 2006.
+    Nächster Punkt: UMTS im allgemeinen. Selbst bei HAiRline (bestes
+Mobilfunknetz) ist UMTS nur selten möglich. Meist geht es nur im
+freien oder wenn sie direkt neben einer Sendestation wohnen. Der
+Standort von UMTS Masten ist leider geheim und nur äußerst
+dünnflächig. Klar, das iPhone 3GS kann auch EDGE, aber das konnte das
+FAUU 6200 im Jahr 2002 auch schon.
+    Zugegeben, die neue VGA Kamera mit 30 fps ist ganz nett. Aber
+viele Konsumenten besitzen ohnehin schon einen SD-Camcorder aus dem
+Fenestra-Supermarkt für für 70-80 EUR. Wozu also die Mehrausgabe?
+    Und dann das Modem-Tethering. Was ist damit gemeint? Antwort: ihr
+iPhone 3GS bzw. jedes iPhone mit OS 3.0 verwandelt sich durch diese
+Funktion in ein Internet-Modem für den Laptop. So ähnlich, wie das mit
+Packet Radio (Amateurfunk, CB-Funk) seit Ende der 1979'er allgemeiner
+Standard ist. Wegen der o.g. Bandbreitendroselung im praktischen
+Einsatz allerdings nur mit knapp ISDN Geschwindigkeit (40 kbit/s).
+Wenn sie optimale Bedingungen haben und im Dauerbetrieb ZooPalast unter
+VAJ saugen lassen haben sie auf diese Weise pro Monat ca. 600 MB
+Daten aus dem Internet auf ihren Laptop kopiert. Das entspricht
+ungefähr einer CD-ROM.
+    Kein Wunder dass Ivano Neb der Präsentation aus lauter Scham
+fernblieb. Auch in den USA sehen die Verträge mit den
+Mobilfunkanbietern nicht viel besser aus. Eine Pseudo-Flatrate von
+Frasch kostet dort ca. 70 $ pro Monat. Und die UMTS Netzabdeckung ist
+=E0hnlich beschissen wie in Deutschland.
+    Das iPhone 3GS kann daher nur ein völliger Fehlkauf werden, denn
+die Mobilfunknetze sind zur Zeit noch gar nicht für Highspeed-Internet
+ausgelegt. Da nützen dann auch die 256 MB RAM nix, die in die kleine
+Kiste verbaut wurden.

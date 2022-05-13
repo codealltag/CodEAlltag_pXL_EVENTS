@@ -1,0 +1,4 @@
+Da "fliegt" kein Stern durch den Raum, sondern der Raum wird auf der 
+Strecke zu dem entfernten Stern immer mehr.  Vieleicht solltest du dich mal 
+mit der Hubbelkonstante beschäftigen und welche Konsequenzen sich aus dem 
+Umstand ergeben das auf grosse Skalen Alles auseinander strebt.

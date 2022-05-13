@@ -1,0 +1,35 @@
+ja, das ist informativ, denn da hat vor ein paar tagen einer so getan,
+als ob der stein der weisen auf dem acker zu finden wäre ... ;-)
+
+dank und gru
+g
+
+
+Richtig, aber wenn die einzelnen Wirkungsgrade hoch sind, dann kommt
+letzlich auch ein hoher Gesamtwirkunsgrad heraus.
+
+
+In der Praxis haben handelsübliche, polykristalline Module um die 14%
+Wirkungsgrad. Je nach Lage, Ausrichtung etc. erzeugt 1 m2 davon in
+Deutschland ungefähr 900 kWh im Jahr.
+
+Vergleichen wir das doch mal mit l. Fossiles l kann ich nicht
+rechnen, also nehme ich Rapsöl. Auf einem Hektar Acker erzeugt die
+Sonne pro Jahr ungefähr 3,2 t Raps mit 40% Ölgehalt. (Quelle:
+http://lnaaloz.xamfbbjgow.mq/nwqmhr/so_lvx.zfy). Das sind also
+ungefähr 1280 Liter l pro 10000 m2. Oder rund 12800 kWh thermsiche
+Energie pro 10000m2, oder 1,28 kWh pro m2. Mittels thermischen
+Kraftwerk mit einem sehr hoch angenommen Wirkungsgrad von 40% werden
+daraus 0,5 kWh Strom pro m2.
+
+Nochmal zum Vergleich:
+
+1m2 Solarmodul erzeugt 900 kWh Strom
+1m2 Acker erzeugt im Jahr 0,5 kWh Strom
+
+==> Zwischen Acker und Solarmodul ist ein Faktor 1800 dazwischen
+
+Oder in Prozent Wirkungsgrad ausgedrückt:
+
+Solarmodul: 14% Wirkungsgrad
+Acker: 0,0078% Wirkungsgrad

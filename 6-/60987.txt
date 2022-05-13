@@ -1,0 +1,26 @@
+Ulfert Ofenloch  wrote 
+
+Feigling! ;-)
+
+Das Problem ist doch recht einfach:
+
+Geld wird durch Kredite erzeugt. Auf diese Kredite fallen Zinsen an. 
+Da also fuer den bei weitem groessten Teil des existierenden Geldes 
+Zinsen anfallen, steigen die Zinsen Proportional mit der Geldmenge.
+
+Wenn z.B. eine Bank 100 Euro besitzt, so darf sie x*100 Euro gegen 
+Zinsen verleihen. x ist gesetzlich geregelt. So entsteht unser Geld. 
+Dass dieses System zusammenbrechen muss, sieht man an folgendem 
+Beispiel.
+
+In einem geschlossenen Wirtschaftsraum leiht eine Bank 10 Leuten 
+je 100,- zu 5%. D.h. nach einem Jahr will sie insgesamt 1050,- 
+zurueck. Da das nicht geht, muss mindestens einer erneut 
+Geld leihen, um den Zins zu bedienen. Das fuehrt in einen 
+Teufelskreis, der so lange geht, bis die Banken 
+beschliessen, zu pfaenden.
+
+Wer gewinnt?
+
+
+Nicolas (Dikatur-Experte)

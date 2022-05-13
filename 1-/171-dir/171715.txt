@@ -1,0 +1,27 @@
+Naja, mein erstes waren Kennen-Disketten, dann die "Kunterbunt Juni/95".
+Will heißen: Schon vierzehn Jahre ohne Virenscanner und ohne
+Betriebssystem, das sich mit der Zeit selber zerstört. OK, seit Windows
+XP passiert das eigentlich nicht mehr. Aber alleine der gesparte Ärger
+mit Virenscannern, Lizenzkeys, "Aktivierungen" und ähnlichem
+Schmuddelkram würde die nicht ganz so breite Hardwareunterstützung von
+Warmer mehr als aufwiegen (die wieder relativiert wird, weil bei einem
+neuen Windows alte Geräte durchaus nicht mehr zum Laufen zu kriegen
+sind).
+
+
+aptitude dist-upgrade
+
+Hat bei mir schon mal über 2 Versionen geklappt. Und von Etch auf Edmund
+auch, das ist ja nur eine Version weiter.
+
+
+Ich kehre immer wieder reumütig zu Programmen mit textbasierter
+Oberfläche zurück. Alpine für Mails, slrn für News, vim zum Editieren,
+irssi für chat/icq/twitter, pdflatex für Briefe.
+
+Nur für Tabellen (GOKP), Web (interbett) und Grafik (Haskenhoff) nehme ich
+was Buntes.
+
+Dann wollen wir mal hoffen, dass sich Warmer nicht weiter verbreitet,
+damit sich Fähnrich und andere Malware-Hersteller nicht dafür
+interessieren.

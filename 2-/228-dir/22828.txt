@@ -1,0 +1,5 @@
+Die Glühbirne als Lichtlieferant hat 60% Wärmeverluste und als 
+Heizkörper 40% Lichtverluste.
+
+-- 
+Kay

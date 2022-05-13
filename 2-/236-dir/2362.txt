@@ -1,0 +1,14 @@
+Der Energierhaltungssatz hat mit irdischen Temperaturdurchschnitten etwa 
+soviel zu tun wie die Höhenlage eines Stausees mit dem Durchfluß.
+
+Hat man einen einen Flußlauf von 6000m Höhe zur See (Höhe 0) und baut man 
+eine Staumauer mit der Krone auf 300m Seehöhe, bekommt man einen Stausee auf 
+Höhe 300. Die Strahlungstemperatur der Sonne ist etwa 6000K, die des Alls 
+nur knapp über 0K, und die IR-Absorption der Moleküle in der Lufthülle sorgt 
+dafür, daß sich darunter etwa 300K einstellen. Erhöht man diese Barrieren, 
+steigt die Temperatur darunter, so wie der Stauseepegel steigt, wenn man die 
+Staumauer aufstockt. Nur ist der Mechanismus beim Stausee leichter 
+durchsichtig.
+
+Gruß
+Benno

@@ -1,0 +1,23 @@
+Hallo,
+
+
+Und weil Löschen (Delete, Remove) und Zurückziehen (Cancel)
+zwei verschiedene Sachverhalte beschreibt kann man das Eine
+nicht so ohne weiteres für das Andere benutzen. Cancel ist
+eine höhere Ebene, kann aber auch einen oder mehrere Delete
+beinhalten. Ein Delete findet idR auf Ebene des Dateisystems
+statt, ein Cancel aber auf Transaktionsebene.
+
+Oder für den DAU (Dümmsten anzunehmenden User):
+
+Eine Datei wird gelöscht. Ein Auftrag (Drucken, Newsbeitrag
+posten, EMail schreiben) an das System wird ,,gecancelt''.
+Dabei werden dann aber nicht mehr erwünschte Dateien auch
+gelöscht. ZB Die Dateien aus der Mail- oder Druckerqueue,
+temporäre mit Geschriebenen Texten (Mails) ...
+
+
+MfG
+
+
+Folkert Gottschol

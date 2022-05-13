@@ -1,0 +1,25 @@
+Oder die noch ältere CP437, das liegt auf der Hand. Tu ich aber nicht. 
+Mein OS/2 läuft rudimentär auf der CP1004. Die ist kompatibel zu 
+ISO-8859-1 (enthält diese als Teilmenge) sowie absolut identisch mit der 
+WIN-1252. Aber gut, das ist erstens ungewöhnlich und kann zweitens 
+keiner wissen.
+
+Daß meine Texte in UTF-8 rausgehen, hat einen guten Grund. Zunächst 
+einmal stellen wir fest, dieser Zeichensatz ist ganz offiziell 
+zugelassen, ihn zu verwenden ist kein Verstoß gegen irgend eine Regel. 
+Und der Grund ist: ich halte UTF-8 für *DEN* Zeichensatz der Zukunft. 
+Mit UTF-8 geht ein uralter Traum der Datenfernübertragung in Erfüllung: 
+nur noch _ein_ Zeichensatz für alle.
+
+Daß ausgerechnet der größte, beste und teuerste Softwarehersteller der 
+Welt damit noch immer nicht umgehen kann, das ist, mit Veraub, nicht 
+mein Problem, und daran ändert es auch nichts, wenn man mich eine 
+dusselige Kuh nennt.
+
+
+Glückauf!
+Greta Thorweihe (Reckrod/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://dnj.kdqpl-wjfbuo.yb

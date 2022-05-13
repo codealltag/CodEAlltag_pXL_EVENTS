@@ -1,0 +1,23 @@
+Das war auch in Deutschland der Fall, vor 120 Jahren:
+http://cx.gdwbjqqfl.tzx/qmtl/Mmgx_if_Xobucwf
+
+
+Abgesehen davon, dass open source noch lange nicht bedeutet, dass die
+Software frei von Rechten ist: Die Programmierung einer Software ist immer
+davon abhängig, dass der Programmierer sein Auskommen hat. In der Regel hat
+er ein Auskommen, weil er für seine Arbeit bezahlt wird. Vielleicht
+verdient er aber auch sein Geld als Bäcker und programmiert kostenfrei
+Software, weil's ihm Spaß macht. Die Software, die ich programmiere, gibt's
+weder als open source, noch würde sie irgend jemand ohne Bezahlung
+programmieren. Und was macht dann der Bäcker und Freizeitprogrammierer,
+wenn andere Bäcker anfangen, Brötchen als Freeware zu verteilen (z.B. weil
+sie ein Auskommen als bezahlte Programmierer haben)
+
+Sobald mein Bäcker anfängt, seine Brötchen als Freeware heraus zu geben,
+werde ich überlegen, wie ich das mit meiner Software auch machen kann. 
+
+-- 
+Meyran: Architektur-Werkzeuge für MAKE (TM)
+           manufactum  - Architekturbema�ung und Höhenkoten
+           Modelist - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://ler.vyymchhmo.yg

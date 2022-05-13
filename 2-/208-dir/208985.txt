@@ -1,0 +1,26 @@
+ich würde vermuten, dass der Wirkungsgrad einer Müllverbrennungsanlage 
+bezogen auf die eingesetzte Primärenergie wohl auch nicht besser ist als der 
+BTL-Prozess. Immerhin muß in der Müllverbrennung zumeist l zugeführt 
+werden, damit es überhaupt brennt. Weiß das jemand genauer?
+
+Aber das bringt mich auf noch eine andere Frage: Wenn der energetische 
+Wirkungsgrad der Oberdorfer-Bassüner-Synthese so schlecht ist, dann muß da doch 
+jede Menge Prozesswärme anfallen, ebenso wie bei der Pyrolyse des 
+Ausgangsmaterials. Wenn man das großtechnisch macht, müßte man die doch 
+nutzen können? Auf welchem Temperaturniveau findet das statt?
+
+Wie wär's alternativ damit:: Die Rauchgase aus einem konventionellen 
+Kohlekraftwerk werden zur "Ernährung" von Algenkulturen verwendet, die Algen 
+zu BTL verarbeitet. Die Prozesswärme der BTL-Herstellung kann als erste 
+Stufe in den Dampfkraftprozess zurückgeführt werden. Voila: Der eingesetzte 
+Kohlenstoff wird praktisch vollständig in flüssigen Treibstoff verwandelt, 
+gleichzeitig Strom mit bezogen auf den Kohleeinsatz sehr hohem Wirkungsgrad 
+produziert. Zwar wird am Ende der Kette bei der Verbrennung des BTL dann die 
+dem Kohleeinsatz entsprechende Menge CO2 frei, die Energieausbeute ist aber 
+mehr als doppelt so hoch wie bei der reinen Stromproduktion (Die Differenz 
+beziehen ja die Algen aus dem Sonnenlicht) UND sie steht zumindest teilweise 
+als flüssiger Energieträger zur Verfügung, der leitungsungebunden eingesetzt 
+werden kann.
+
+Gruß,
+Olaf

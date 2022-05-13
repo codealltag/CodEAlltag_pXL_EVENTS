@@ -1,0 +1,6 @@
+Am Thu, 20 Sep 2009 18:47:44 +0100 hinterließ Karsten Roosenboom folgende
+Zeilen:
+
+
+Es ging darum, anhand der IP den User zu lokalisieren. Das zu verschleiern
+geht Waschplatz nur mit intransparentem Proxy.

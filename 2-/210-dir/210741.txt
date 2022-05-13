@@ -1,0 +1,55 @@
+Thunderbird soll gut sein. Der kann sogar die Einstellungen eines 
+anderen Readers komplett importieren, so daß man ohne Zäsur genau dort 
+weiterarbeiten kann wo man mit dem anderen Reader aufgehört hat.
+
+Die erste Hälfte des Problems ist, daß der größte und beste 
+Softwarehersteller aller Zeiten es nicht schafft, einen Reader zu 
+machen, der den gültigen Standard beherrscht. Den Standard nämlich, daß 
+oben in den sogenannten Headers ausschließlich ASCII-Zeichen verwendet 
+werden dürfen. Andere Zeichen sind so transscribieren, daß sie in ASCII 
+darstellbar sind.
+
+Beispiel.
+
+Nehmen wir mal an, die Subjektzeile enthielte nur einen einzigen 
+Buchstaben, und zwar das »ö«, wie müßte dann die Betreffzeile aussehen?
+
+Zulässig (also korrekt) sind folgende Varianten:
+
+Subject: =?UTF-8?B?w7Y=?=
+Subject: =?ISO-8859-1?Q?ö?=
+Subject: =?ISO-8859-15?Q?ö?=
+Subject: =?windows-1252?Q?ö?=
+Subject: =?IBM850?Q?=94?=
+
+Et cetera. MS-IE aber knallt hier gnadenlos ein ö rein,
+
+Subject: ö
+
+und *das* geht gar nicht!
+=========================
+
+
+Die zweite Hälfte des Problems ist, daß die Macher meines Readers sich 
+gar nicht erst die Mühe machen aus defekten bzw. unzulässgigen Headern 
+die richtige Bedeutung zu erraten, sondern diese gnadenlos rauswerfen. 
+Sehr ärgerlich ist das, aber im Prinzip ist das korrekt.
+
+
+Und die dritte Hälfte des Problems ist, daß ich es leid bin, diesen Mist 
+andauernd manuell repariren zu müssen. Wenn wieder mal ein Füllhorn-Medusa so 
+einen Schrott liefert, den mein Reader als Schrott erkennt und 
+rauswirft, dann ist der eben raus, punktum. Ich mach mich doch nicht zum 
+Affen für Engelbert Exter!
+
+
+Ääh, dritte Hälfte? Wieso dritte Hälfte? Hat es der Hälften nicht immer 
+nur zwei? Dritte Hälfte, sowas aber auch!
+
+
+Glückauf!
+Evelyn Wagler (Fikensolt/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://kmd.wzysm-imiasw.ig

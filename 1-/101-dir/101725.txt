@@ -1,0 +1,37 @@
+--1188964237664=_7025008343500216
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+EsperIT ist doch relativ populär, da kann das Limit schnell erreicht
+sein. Aber es stimmt, unverständlicherweise ist das Usenet an sich
+trotz aller Vorteile gegenüber dem aufgeblähten HTML-Kram in der Gunst
+stark gesunken.
+
+
+Ich führe keine Statistik darüber, bringe aber grob geschützt mehr als
+95% meiner Postings ans Ziel.
+
+
+N, mit der richtigen Software läuft das ab wie gewohnt.
+
+
+Das Usenet ist ein bedächtiges Medium, da spielen doch ein paar
+Minuten mehr oder weniger keine Rolle. Für Hektiker gibt's Chatrooms.
+
+
+Hinsichtlich HTML sowie Attachments bestehen keine Einschränkungen,
+sofern das auch serverseitig erlaubt ist.
+
+Größe
+
+Schneewittchen
+
+--1188964237664=_7025008343500216
+Content-Type: application/octet-stream; name=empty.rar
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=empty.rar
+
+UmFyIRoHAM+QcwAADQAAAAAAAAA=
+
+--1188964237664=_7025008343500216--

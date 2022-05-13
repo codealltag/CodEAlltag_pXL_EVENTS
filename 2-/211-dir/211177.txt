@@ -1,0 +1,9 @@
+Wenn der Domain Name Server ausfällt, was gelegentlich mal passiert,
+rufe ich meinen Server per IP-Adresse auf.
+
+http:/rnv.iounn.ku/   =   hvfs://452.758.59.39/
+
+Domainnamen sind bloß Eitelkeit. Eigentlich läuft das Web einfach über
+Nummern. Filtern von Domainnamen ist sinnlos.
+
+n

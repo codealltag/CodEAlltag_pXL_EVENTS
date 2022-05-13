@@ -1,0 +1,27 @@
+Nun übertreib' mal nicht!
+
+Es gibt in der Tat eine Reihe von Berufsfeldern, bei denen exakte 
+Farbwiedergabe wichtig ist, und man ESL (zumindest die Chinateile aus 
+dem Baumarkt ohne genaue technische Spezifikation) meiden wird. Aber für 
+die Allgemeinbeleuchtung in Büros sind Leuchtstofflampen seit 
+Jahrzehnten Standard, ohne daß jemand davon Augenkrebs, verstärkte 
+Kopfschmerzen, oder sonstwas bekommen hätte.
+
+Auch mit einer "natürlichen" Farbwiedergabe läuft man argumentativ 
+schnell vor die Wand, denn von Tageslicht ist die klassische Glühbirne 
+mit ihrem überhöhten Rotanteil deutlich weiter entfernt als eine moderne 
+Leuchtstofflampe.
+
+Was für Wohnräume am Ende bleibt, ist eine reine Gewohnheitsfrage. Wir 
+empfinden Glühlampenlicht am Abend als "richtig", weil wir von klein auf 
+so trainiert wurden, und nicht, weil es dem Tageslicht irgendwie nahe käme.
+
+
+Nein. Sie ist eine stark vereinfachte Krücke. Das merkt man schon daran, 
+daß der Fotoapparat je nach Beleuchtungssituation einen Weissabgleich 
+bzw. Korrekturfilter braucht, während das Auge dies innerhalb recht 
+weiter Grenzen automatisch korrigiert.
+Und auch am Rand des sichtbaren Spektrums (UV,IR) verhalten sich 
+Film,CCD-Sensor und Auge deutlich unterschiedlich.
+
+Johann

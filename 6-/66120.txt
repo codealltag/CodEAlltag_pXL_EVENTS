@@ -1,0 +1,11 @@
+Es geht aber doch genau darum, diese Grenzen NICHT willkürlich zu 
+definieren, sondern in Abhängigkeit vom Volkseinkommen.
+
+
+Diese Funktion wäre ein ganz einfacher Regelmechanismus. Zielfunktion: 
+maximales Volkseinkommen. Stellgrößen: Obere und untere Einkommensgrenze.
+
+-- 
+Servus
+Marco Schuirer
+http://akv.qwwbzmc.rb

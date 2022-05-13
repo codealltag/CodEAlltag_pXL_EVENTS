@@ -1,0 +1,9 @@
+Einfach??? Die einfache Arbeit wird von Robotern geleistet.
+Das, was ein Roboter nicht leisten kann, ist eben _nicht_einfach
+und hat dann selbstverständlich ihren Preis. Dafür kann man
+sicherlich auch irgendwelche billigen Deppen nehmen, aber
+das wird sich dann drastisch auf Garantiefälle und Rückläufer
+auswirken.
+
+
+Samu Oestreicher

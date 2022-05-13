@@ -1,0 +1,7 @@
+Lies mal unter http://ft.rdwrifxnr.wyr/khjp/Lrbxkjgyhrhhmgvkuo
+"Beschreibung des Verfahrens" dort steht: "Es wird davon ausgegangen, dass 
+die Stichprobe in etwa die Grundgesamtheit widerspiegelt und dass deshalb 
+die Schätzung in der Nähe des wahren Parameters liegen müsste."
+
+Wir haben genau eine Stichprobe. Wie berechnet man damit die 
+Verteilungsparameter?

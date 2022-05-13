@@ -1,0 +1,92 @@
+*seufz* ich habe es bereits erläutert. Ich weiß nicht, ob Du es nicht
+verstehen willst, oder tatsächlich nicht verstehst. Aber jeder soll
+seine Chance kriegen.
+
+Nein, das hängt nur von der Anzahl der Transporteinheiten ab. In
+meinem konkreten Fall bedeutet es, dass entweder 1 LKW (railtaxi) oder
+2 Eisenbahnwaggons gleichzeitig abgefertigt werden können. Das
+eigentlich Abladen ist nicht der zeitbestimmende Faktor sondern
+insbesondere die Nacharbeit. So In diesem Fall wird pro
+Abfertigungszyklus entweder ein LKW mit einem Container oder 2
+Eisenbahnwaggons mit je 2 oder 3 also insgesamt 4 bis 6 Containern
+abgefertigt. Und da das Abladen selbst nur verschwindend wenig Zeit in
+Anspruch nimmt, kann man sagen, dass über die Bahn mindestens 4 mal
+soviel leistet, wie der LKW.
+
+Würde man jetzt deine Railtaxis, nehmen kommt noch die Geometrie ins
+Spiel, die abnehmerseitig unveränderbar ist (niemand fasst einen
+umstrittenen jahrelang durchgefochtenen Planfeststellungsbeschluss
+nochmals an)
+Deine Railtaxis sind pro Stück 6 m lang für 3 20 Fußcontainer braucht
+es  4 Railtaxis, die 24m Gleislänge verbrauchen.  damit bekommt man
+eben nicht mehr das Äquivalent von 2 Eisenbahnwaggons in die Halle.
+
+Meine letzte Prüfung war im Jahr 2001 Du wirst mir keine weitere
+abverlangen.
+
+
+Auf dem papier, ja. Frage: Wann rechnest Du mit ersten Prototypen,
+wann kann man die Dinger einsetzen?
+
+
+Willst Du trollen?
+Ich habe für mein Problem entweder die Möglichkeit per Bahn (nein, die
+Bahn hat noch mehr Waggontypen als den ICE) oder per Lastwagen
+anzuliefern.
+
+
+Und Neubaustrecken werden gebaut. Aber das blendest Du stets aus. Im
+übrigen beschreibe ich gerade ein konkretes Beispiel, welches deinen
+Allein seligmachenden Railtaxi auch in Zukunft nicht möglich macht.
+Außerdem ist es keinesfalls so, dass der Schwerlastverkehr per se per
+LKW erledigt wird. Die Bahn kann da hervorragend mithalten. So wurden
+die Bauteile eines Bulgarischen Kraftwerks mit Straße, Schiene und
+Schiff transportiert.
+Im
+Biege nicht den betrachteten Spezialfall, der nur den Anspruch auf
+allgemeingültigkeit brechen soll auf alle Fälle um.
+
+
+Zeitlich
+
+
+und kann in diesem Spezialfall nicht abgefertigt werden. In diesem
+Fall wird es eine just in Time just in seqeunceanlieferung geben.
+
+mehr Gut/meter Schienenlänge
+
+Hochöfen, Herr ingenieur werden nicht mit Stahl beschickt. Abgesehen
+davon wird ein Großteil der Schrotte nicht mit dem LKW transportiert.
+Die Hälfte der Transporte von Erz, Kohle und Schrott erfolgt mit der
+Bahn- ca. 80 Megatonnen/Jahr.
+Außerdem ist es wurscht, wielange ein Zug unterwegs ist, wenn die
+Ankunftzeit stimmt. Dann fährt nämlich der Zug nur früher los. Züge
+bleiben auch nicht im Stau stecken und haben viel weniger Unfälle. JIT/
+JIS funktioniert mit LKWs auch nicht über weite Strecken- die
+Unschärfe in der Fahrzeit wird zu groß
+
+
+Man merkt, dass Du dich in der Realität auskennst. Der Rhein hat ab
+und zu auch Niedrigwasser,  in diesen Fällen weicht man zusätzlich auf
+die Bahn aus. Ohne große Umkrempelung der lokalen Infrastruktur
+bekommt man einfach nicht genug LKWs / Zeiteinheit ins Kraftwerk.
+
+
+Aber nicht in dem Maßen, wie Du das erfühlst.
+
+Deine Wahrnehmung sind leicht verschoben. Bei den Schüttgütern liegt
+der Anteil der Bahntransporte für die Stahlindustrie bei 50%. Laso
+kann Deine Aussage nicht so ganz stimmen.
+
+weil die Kostensituation sich jetzt am Ändern ist- die Energiekosten
+steigen überproportional, daher wird die Bahn wieder zunehmend
+interessant. Sie kann bei großen Strecken einfach *in der Praxis*
+punkten. Es gab aber Zeiten, da waren die Kosten zugunsten des LKWs.
+Das lag an der verkrusteten Struktur der Bahn. Letztere hat sich
+geändert.
+Natürlich nicht. Behauptet ja auch keiner. Aber man kann auf den
+Seiten der LWK nachlesen, dass die Bahn zur Zeit 18% des
+Transportvolumens alleine stemmt, 7% im kombinierten Verkehr Bahn/
+Straße und 43% per Schiff, bleiben für die Straße 32% mit
+*abnehmender* Tendenz. LCI verlagert mehr und mehr zurück auf die
+Schiene.

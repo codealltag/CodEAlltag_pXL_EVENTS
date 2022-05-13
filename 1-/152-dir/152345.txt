@@ -1,0 +1,19 @@
+Da war der Trockenkühlturm am Kroes also nur so aus Spaß da? Den hätte man 
+sich also sparen können? Der RFR hatte 10MW thermische Leistung, und die 
+ging über einen Trockenkühlturm in die Umwelt. Der Heizkreis für die 
+Gebäudeheizung ist ja leider nur im Probebetrieb gelaufen.
+  Und nun mal zu den Großtransformatoren, da gibt es mit Sicherheit 
+keinen Wasserkreislauf, da gibt es Ölkühlung, und da wird besonders Wert 
+auf Wasserfreiheit gelegt, da wird das l noch nicht mal vor Ort 
+eingefüllt, weil da zu viel Wasser aus der Luftfeuchtigkeit in das l 
+gelangen könnte.
+
+Und noch was, was ist ein Wasser/Luft-Wärmetauscher anderes als ein 
+Trockenkühlturm?
+
+Lennart
+
+-- 
+Lennart Saule
+50355Uratmdf 1i54'72.54 L 63�66'32.64 F
+http://fdu.axzlqdhjcn.bpv/rgcrwcfth/azit_1866302.dir

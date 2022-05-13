@@ -1,0 +1,24 @@
+Daher gibt es in Deutschland ja auch keine Kinderpornographieseiten -  
+mangels Anbieter. Jeder mutmaßliche Kinderpornographieanbieter ist nämlich  
+unschuldig bis zum Beweis des Gegenteils - und mit diesem Beweis ist es  
+auch kein Problem, sein Angebot zu löschen. (Letzteres ginge auch schon
+im laufenden Ermittlungsverfahren)
+Da dieses Vorgehen in Europa, USA, Australien, ... in gleicher Weise und  
+praktisch ohne Zeitverzug unseren Behörden möglich ist, gibt es keinen  
+Grund, Zensurlisten einzuführen. Wurde bislang auch nur eine einzige
+Seite mit Kinderpornographie benannt, die mit diesem Vorgehen nicht zu  
+beseitigen gewesen wäre?
+Wenn man jetzt die Frage stellt, warum die moja so scharf auf ihre
+Stopseiten ist, dann kommen einem u.a. folgende Ideen
+- man will die IPs von Leuten, die versuchen, sich KP beschaffen
+- man will Seiten sperren können, die _nicht_ wie oben beschrieben
+  abschaltbar sind (z.B. Nazi-Seiten in den USA)
+- man führt Wahlkampf und möchte sich als Macher darstellen.
+Ich könnte mir noch einen tieferliegenden Grund vorstellen: Sobald die  
+Sperren rechtens sind, könnten Regelungen geplant sein, die diese auch  
+wirksam machen. (Extremfall: Internetzugang nur noch mit 'vertrauens-
+würdigem' TPM-geschützen Betriebssystem mit eingebauter Remote forensic  
+Software)
+
+MfG
+        Julian

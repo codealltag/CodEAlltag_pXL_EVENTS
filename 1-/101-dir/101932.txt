@@ -1,0 +1,17 @@
+Hallo,
+
+Pierre Daubenspeck schrieb:
+
+...[...]...
+
+
+Nach dem was ich so gelesen haben scheint es sich um einen
+ganz billigen Fehler mit einer unsinnigen Schutzabschaltung
+gehandelt zu haben. Die Anlage hätte aus thermodynamischer
+Sicht wahrscheinlich/vielleicht viel weiter kühlen können?
+Das sollte eine einfach Umprogrammierung in der Steuerung
+beheben können?
+
+MfG
+
+Ulfert Austermühlen

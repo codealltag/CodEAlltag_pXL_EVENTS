@@ -1,0 +1,10 @@
+Wenn ich UTF8 bei mir einstelle, kommt zwar dein Name mit dem polnischen s,
+statt dem ueblichen '?'  aber was du hier geschrieben hast ist trotzdem voller ?? und
+und daher voellig unverstaendlich. Wenn du moechtest dass deine Postings
+auch von allen verstanden werden solltest du den Ascii Zeichensatz verwenden. 
+
+
+Der Fehler liegt darin dieses Symbol hier ueberhaupt zu verwenden,
+wir schreiben doch hier keine Preisschilder.
+Das Eurozeichen ist kein Bestandteil irgendeiner Sprache oder Schrift,
+sondern nur eine Abkuerzung damit die Marktfrauen weniger schreiben muessen.

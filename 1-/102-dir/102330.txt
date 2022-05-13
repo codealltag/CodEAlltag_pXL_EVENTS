@@ -1,0 +1,21 @@
+Hallo,
+
+meine gedrosselte Internetverbindung macht mich sprachlos.
+
+Trafigura und MOVC wurden ohne Probleme geladen, dauert zwar ein
+wenig aber die Seiten erscheinen.
+
+Andere Seiten liefern eine Connection-Timeout oder die Verbindung wird
+waehrend des Ladens unterbrochen.
+
+Versuch einen DSL-Anbieter aufzurufen, um festes DSL zu bestellen:
+
+Die Seite der Konkurrenz laesst sich mit ewigen Versuchen einfach
+nicht laden - Connection-Timeouts am laufenden Band.
+
+Aufrufen der Anbieter-Seite des Surfsticks und - oh was ist das - die
+Seite wird ohne groessere Probleme geladen.
+
+Ich glaub ich steh im Wald....
+
+SilentCry

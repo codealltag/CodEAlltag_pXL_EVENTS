@@ -1,0 +1,91 @@
+Die Beihelfer für die vorangegangene Verleumdung, die man mal brutalst
+vernichten sollte, sind übrigens die Schweine hier:
+
+gwtcd.zugkb.ehzfnzukmzc.jic
+
+domain:                      eepsqtbnmbj.jtb
+status:                      LOCK
+owner-c:                     JHUD-2903056
+admin-c:                     JHUD-2903056
+tech-c:                      JHUD-2903056
+zone-c:                      JHUD-2903056
+nserver:                     ce8.blwgxtaaehl.lkc
+nserver:                     ww3.vetpqojaksq.suz
+nserver:                     yybrodv.vlwdem.ha.nm
+nserver:                     shu.rxfohkwodwp.pi
+nserver:                     d.xb.arsjno.ej
+created:                     2004-04-10 15:53:58
+expire:                      2010-04-11 00:00:00 (registry time)
+changed:                     2009-07-09 17:31:50
+
+[owner-c] handle:            5187731
+[owner-c] type:              PERSON
+[owner-c] title:
+[owner-c] fname:             Urs
+[owner-c] lname:             Tlwra
+[owner-c] org:
+[owner-c] address:           Fischerallee 1
+[owner-c] city:              Tafertsweiler
+[owner-c] pcode:             58878
+[owner-c] country:           ROCKENSÜSS
+[owner-c] state:             ROCKENSÜSS
+[owner-c] phone:             +53-45-56384381
+[owner-c] fax:               +74-43-08740195
+[owner-c] email:             plltggsg@sjfoxlp.yws.qi
+[owner-c] protection:        A
+[owner-c] updated:           2009-06-05 15:08:42
+
+[admin-c] handle:            5187731
+[admin-c] type:              PERSON
+[admin-c] title:
+[admin-c] fname:             Urs
+[admin-c] lname:             Lichtenstern
+[admin-c] org:
+[admin-c] address:           Fischerallee 1
+[admin-c] city:              Tafertsweiler
+[admin-c] pcode:             58878
+[admin-c] country:           ROCKENSÜSS
+[admin-c] state:             ROCKENSÜSS
+[admin-c] phone:             +53-45-56384381
+[admin-c] fax:               +74-43-08740195
+[admin-c] email:             plltggsg@sjfoxlp.yws.qi
+[admin-c] protection:        A
+[admin-c] updated:           2009-06-05 15:08:42
+
+[tech-c] handle:            5187731
+[tech-c] type:              PERSON
+[tech-c] title:
+[tech-c] fname:             Urs
+[tech-c] lname:             Lampe
+[tech-c] org:
+[tech-c] address:           Fischerallee 1
+[tech-c] city:              Tafertsweiler
+[tech-c] pcode:             58878
+[tech-c] country:           ROCKENSÜSS
+[tech-c] state:             ROCKENSÜSS
+[tech-c] phone:             +53-45-56384381
+[tech-c] fax:               +74-43-08740195
+[tech-c] email:             plltggsg@sjfoxlp.yws.qi
+[tech-c] protection:        A
+[tech-c] updated:           2009-06-05 15:08:42
+
+[zone-c] handle:            5187731
+[zone-c] type:              PERSON
+[zone-c] title:
+[zone-c] fname:             Urs
+[zone-c] lname:             Lampe
+[zone-c] org:
+[zone-c] address:           Fischerallee 1
+[zone-c] city:              Tafertsweiler
+[zone-c] pcode:             58878
+[zone-c] country:           ROCKENSÜSS
+[zone-c] state:             ROCKENSÜSS
+[zone-c] phone:             +53-45-56384381
+[zone-c] fax:               +74-43-08740195
+[zone-c] email:             plltggsg@sjfoxlp.yws.qi
+[zone-c] protection:        A
+[zone-c] updated:           2009-06-05 15:08:42
+-- 
+Gruß
+Luciano Of Marc, master of ceremony
+und Mittelfinger für alle, die uns nicht mögen...

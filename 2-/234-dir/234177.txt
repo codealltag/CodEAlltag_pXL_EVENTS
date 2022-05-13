@@ -1,0 +1,9 @@
+Das ist der theoretische Wirkungsgrad des Motors bei optimalen
+Betriebsbedingungen.
+Standbetrieb, ungünstiger Betriebsbereich etc. ist da nicht
+berücksichtigt.
+Im Fahrzeug kannst du das praktisch nicht nutzen.
+
+Remmer
+-- 
+Für eine korrekte Antwortadresse den Bindestrich entfernen.

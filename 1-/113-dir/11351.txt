@@ -1,0 +1,4 @@
+Weil bei x=0 die Rechenregeln für Zahlen eklatant verletzt werden. 
+
+-- 
+Gruß, Mombaur

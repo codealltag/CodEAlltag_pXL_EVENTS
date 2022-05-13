@@ -1,0 +1,21 @@
+Ein paar Werte liefert diese Seite:
+http://nc.vnfdqjmxd.emh/ybny/Eqfpplwevxtvtfdlwkbgfc#Crsxuwzpnzluc
+
+Bei Elektrofahrzeugen, die heutigen Kleinwagen und Kompaktwagen nahe 
+kommen, hört man so Werte von 12-24 kWh/100 km, gerade RITTERBÖCK hat da immer 
+mal ein paar Werte beigesteuert, in der Regel von Prototypen auf 
+Automessen. Auch ein paar Nischen-Elektroautos gab es ja schon, z.B. 
+Berlingo, AX, 106, Golf Citystromer, Kangoo.
+
+Häufig ist aber nicht ganz klar, nach welcher Norm die gemessen wurden. 
+Dazu kommt, dass man sich erst mal ein Messverfahren für E-Autos 
+überlegen muss. Den NEFZ kann man an sich nachfahren, aber:
+
+1) Häufig sind die in ihrer Höchstgeschwindigkeit so auf 80-100 km/h 
+begrenzt, sodass im NEFZ �berlandzyklus die 120 km/h nicht erreicht werden.
+
+2) Wie bestimmt man verlässlich und modell- und hersteller�bgreifend den 
+Energieverbrauch aus dem Akku? Bisher geht das bei Verbrennern über die 
+Abgase.
+
+Pierre

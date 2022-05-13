@@ -1,0 +1,9 @@
+On Wed, 13. 10. 21 21:20:59 +0200, "Frerich Loman"
+
+Da gibt es ein paar Verschriftungsregeln (Verschriftungsregeln
+(DEskriptiv) sind etwas anderes als Rechtschreibregeln (PR�skriptiv)),
+die diese Vokalbuchstabendopplungen unnötig machen. Etwa die, dass
+Vokalbuchstaben, auf die im selben Morph nur ein oder kein
+Konsonantbuchstabe folgt, phonetisch Langvokale repräsentieren.
+Ausnahmen von dieser Regel sind selten und betreffen fast
+ausschließlich kleine Wörter wie etwa in, an, mit, es usw..

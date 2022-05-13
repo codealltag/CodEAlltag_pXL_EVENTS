@@ -1,0 +1,9 @@
+Glaser! Was treibst du da?
+Normalerweise legt man Konstanten auf Maschinenebene in Tabellen ab.
+
+
+Gruß S.F.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

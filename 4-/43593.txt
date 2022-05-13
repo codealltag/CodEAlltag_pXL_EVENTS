@@ -1,0 +1,8 @@
+Aber um dann vom Spritverbrauch/Arbeitstakt auf den Spritverbrauch/km zu 
+kommen, muß man noch das Übersetzungsverhältnis (eingelegter Gang) 
+Arbeitstakte/Radumdrehung einbeziehen. Und das ist auch implmentiert?
+
+Was macht das Ding, wenn man im Leerlauf auf eine rote Ampel zurollt?
+
+Gruß
+Ullrich

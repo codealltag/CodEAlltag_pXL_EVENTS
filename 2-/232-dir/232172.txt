@@ -1,0 +1,9 @@
+/Bodermodus_on
+
+Den Strom will doch die Allgemeinheit auch haben, dann kanns sie ja die
+Folgekosten auch bezahlen. Man brauch zur Endlagerung ja eh nur eine
+einfache Halle.
+
+/Bodermodus_off
+-- 
+1,2,3 Eierbrei

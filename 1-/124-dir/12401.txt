@@ -1,0 +1,30 @@
+Auf jeden Fall ist dem so. Ob du das verstanden hast bezweifle ich.
+Masse ist immer definiert im eigenen Ruhesystem. Da das Licht kein 
+Ruhesystem hat, macht es auch keinen Sinn von seiner Masse zu sprechen.
+üblicherweise, aber nicht ganz korrekt, sagt man dann, dass das Licht eine 
+Ruhemasse gleich Null hat.
+Licht besizt also keine Ruheenergie und insofern keine Ruhemasse, sondern 
+nur kinetische Energie. Inkorrekt ausgedrückt, hört man dann auch schon mal 
+von pseudowissenschaftlichen Wissenschaftler(Vögtlin) die Aussage, Licht sei 
+reine Energie. Das ist falsch.
+Das kommt daher. weil jeder kinetischen Energie immer auch ein Impuls 
+zukommt. Den Parameter Masse braucht man dazu nicht. Der Impuls treibt das 
+Sonnensegel. Das gilt immer, auch für Teilchen mit Masse. Der Impuls ist 
+das was wechselwirkt, nicht die Masse.
+Die Variation des Impulses in der Zeit manifestiert sich als wirkende Kraft 
+entlang einer Strecke. Es gilt dann:
+F = dp/dt = dE/dx 
+dp = dE * dx/dt = dE * v 
+*********
+Einer Variation der Energie im Raum, entspricht also immer eine Variation 
+des Impulses in der Zeit, welche sich als Wirkkraft darstellt.
+*********
+Beschränkt nach unten wird dies lediglich in der QM durch das Wirkquantum. 
+(dp*dx = dE*dt > h)
+Das heisst aber auch, dass es in der Natur einen minimalen Impuls und eine 
+minimale Kraft gibt.
+Blödsinn!
+
+
+-- 
+Selber denken macht klug.

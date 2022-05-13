@@ -1,0 +1,18 @@
+Ich habe inzwischen dazu bemerkt: "Wenn er es kann..."
+
+
+Soll er das? Wer hat das beauftragt? Damit ist die Frage beantwortet.
+
+
+Nein, nein.
+Ein Administrator, der angemessen ausgebildet wurde, kann mit den Rechnern 
+seiner Domäne tatsächlich alles (inklusive Zugriff auf alle Daten seiner 
+Benutzer) machen - oder er ist ein ganz schlechter Administrator.
+Das ist wie bein Arzt, der natürlich weiß, wie er seine Patienten töten 
+könnte - aber das darf der nicht, und jedem ist das klar.
+Bei den Administratoren ist das etwas anders. Erstens darf sich jeder Dödel 
+"Administrator" nennen, und zweitens ist nicht jedem "Benutzer" klar, was 
+der Administrator (idealerweise) kann bzw. können sollte und was er (im 
+Gegensatz dazu) darf. Schön, dass wir mal darüber geredet haben.
+
+Hilmar

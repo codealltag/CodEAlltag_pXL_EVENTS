@@ -1,0 +1,42 @@
+Antwort auf eine Nachricht von Julian Clausmeier
+
+
+Mit Verlaub, ich fühle mich von dir verarscht!
+
+Wenn der Anhalteweg bei 30km/h als „eins“ gesetzt wird, dann errechnet
+sich der Anhalteweg für 50km/h wie folgt:
+
+  (50÷30)² = 2,8
+
+Der Anhalteweg ist gerundet also dreimal länger! Und weil die Zahl der
+potentiellen Unfallgegner proportional zur Strecke ist, so müssen auch
+diese bei 50km/h um den Faktor 2,8 zunehmen. Und daß die Unfallfolgen
+bei 50km/h geringer seien als bei 30, das widerspricht jeder mir
+bekannten Physik!
+
+Setzen wir mal Zahlen ein, wenn auch nur aus der Luft gegriffene solche.
+Nehmen wir also mal an, daß ein Auto mit 30km/h auf fünf Meter steht,
+wie lang braucht dann ein 50er zum Anhalten? Richtig, das wären dann 14
+(also gerundet 15) Meter. Dabei verhält sich dieses Auto auf den letzten
+fünf Metern wie ein 30er, will heißen, die vorherigen zehn Meter braucht
+er um seine Geschwindigkeit von 50 auf 30 zu reduzieren.
+
+Die Zeichnung:
+
+
+30km/h |-----|
+        30    0
+
+50km/h |-----|-----|-----|
+        50          30    0
+
+Und wenn Du in Anbetracht dieser Physik dann auch noch behauptest, mit
+50 zu fahren sei sicherer als mit 30, dann kann ich dir bestenfalls noch
+den Vogel zeigen, und das wäre in diesem Fall sogar noch freundlich.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.avqui-xrmaju.sh

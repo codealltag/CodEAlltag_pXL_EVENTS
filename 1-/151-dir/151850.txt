@@ -1,0 +1,13 @@
+..
+
+<kopfsch�ttel>
+Wie um alles in der Welt kommst Du auf eine "drehende Maschine"?
+Schonmal was von Schaltelektronik gehört? Wie viel Hertz hat
+denn der Gleichstrom am Endpunkt einer HG? Und wie, glaubst
+Du, kommt der auf 50 oder 60Hz? Meinst Du, da dreht was?
+</kopfsch�ttel>
+
+
+Klar. Die wird gebraucht. Der Strom kommt nunmal nicht aus der Steckdose.
+
+regards, es

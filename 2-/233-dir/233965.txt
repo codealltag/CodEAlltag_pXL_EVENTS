@@ -1,0 +1,11 @@
+NACK. Der Wirkungsgrad ist genau 0. Der Motor nimmt keinen Kraftstoff 
+auf und entzieht dem Fahrzeug Energie (was einer negativen 
+Leistungsabgabe entspricht). 0 geteilt durch eine negative Zahl ist 
+immer 0.
+
+
+-- 
+Ullrich Menneking
+
+Riesser LokmannStedar - http://gin.dvdtephmgbleodv.su/
+RNWR running System - http://hgd.tyvno.xda/

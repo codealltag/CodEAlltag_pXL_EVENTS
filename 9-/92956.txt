@@ -1,0 +1,25 @@
+Das Prinzip der rotierenden multipolaren Magnetscheibe funktioniert
+jedenfalls prinzipiell innerhalb unserer Galaxie, weil es in der Galaxie
+nirgends wirklich leer ist.
+
+Es ist ganz einfach: Durch die aus der Magnetscheibe herausführenden (und
+hineinführenden) Magnetfeldlinien wird magnetohydrodynamische Kohäsion zum
+umgebenden Plasma (beispielsweise Sonnenwind) hergestellt, woraufhin das
+umgebende Plasma großräumig als Reaktionsmasse verfügbar ist. Kann man
+axial, radial, tangential machen, wie einem gerade ist. Im Plasma wirken
+Magnetfeldlinien wie sehr elastische Turbinenschaufeln, und je nachdem, was
+für ein Magnetfeld man zusammenbastelt, wirkt das Ding dann entsprechend
+wie eine materielle Turbine dieser Konfiguration. Solange Sonnenwind
+anliegt kann man zum Beispiel mit dem Magnus-Effekt segeln oder sich besser
+wie eine per Gravitation elastisch an der Sonne festgebundene Gierfähre
+antreiben lassen, aber das ist nur eine der vielen Möglichkeiten.
+
+Man braucht übrigens nicht unbedingt eine Scheibe. Man kann das auch mit
+Leistungselektronik machen. Geht wie Asynchronmotor.
+
+Warp geht natürlich auch, aber man muß es ja nicht gleich übertreiben.
+
+Und das geilste: Du wirst höchstwahrscheinlich einer von denen sein, die
+keinen Millimeter raffen. Aber das ist schon OK so.
+-- 
+The Coon

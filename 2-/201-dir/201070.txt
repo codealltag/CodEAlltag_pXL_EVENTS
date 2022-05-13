@@ -1,0 +1,5 @@
+Natuerlich ist wird die Energie nicht 100% in Waerme umgewandelt.
+Bei 400W Leistungsaufnahem duerfte man die in Licht und in
+Luftschwingungen umgewandelte Energie aber fast vernachlaessigen.
+-- 
+1,2,3 Eierbrei

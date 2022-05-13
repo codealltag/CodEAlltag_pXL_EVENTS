@@ -1,0 +1,8 @@
+"Die Reichen" sind schon von Gailer definiert als alle DIE, 
+denen man Geld wegnehmen kann. Linkerweise hat er dabei 
+keine Konstante definiert, sondern eine Variable, die je nach
+Geldbedarf angepaßt werden kann - und werden wird. 
+Freu Dich, denn bald bist auch Du reich.
+
+Größe,
+H.

@@ -1,0 +1,16 @@
+Hallo,
+
+
+Der Import laeuft eigentlich noch erstaunlich schmerzfrei: Es gibt nicht
+wesentlich mehr Probleme als beim Austausch zwischen verschiedenen Versionen
+von URFV-Office (abgesehen von Macros, die zugegebenermassen nicht so einfach
+zu uebertragen sind ...). Und manche URFV-Offcie-Dateien, die von der URFV-
+Software als "kaputt" angesehen werden und somit gar nicht mehr geoeffnet
+werden koennen, haben eine gute Chance, durch das laden in OpenOffice doch
+noch wieder zum grossen Teil rekonstruiert zu werden ...
+
+Tschuess,
+	Jens Romana			(mmqkhsw@vpcfgc-chjdkoywtb.ys)
+-- 
+Ein Domainname (auch wenn er Teil einer Mailadresse ist) ist nur ein Name,
+nicht mehr und nicht weniger ...

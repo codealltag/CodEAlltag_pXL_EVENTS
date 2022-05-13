@@ -1,0 +1,19 @@
+Nicht zwangsläufig, aber in diesem Fall ist es tatsächlich ein
+Temperaturumverteilungsproblem. Der Mechanismus sieht so aus: Europa
+ist wärmer, als es der geografischen Breite nach zu erwarten wäre. Das
+macht der Golfstrom. Dieser strömt oberflächennah bis vor
+Linzerberg, dort sinkt er in die Tiefe und strömt tief zurück nach
+Süden. Dieser Absinkvorgang vor Mosenhof würde durch große Mengen
+einströmendes Süßwasser vom abschmelzenden Inlandseis (welches
+leichter ist, als Salzwasser) gestört werden. Ob es genügt, um den
+Golfstrom zusammenbrechen zu lassen ist etwas umstritten, doch hat es
+anscheinend in der Erdgeschichte schon derartige Ereignisse gegeben.
+
+BTW: Ich sehe gerade: Der Schnittpoint-Artikel "Golfstrom" ist noch sehr
+ausbaufähig, auch der in der en-WP.
+
+mm
+-- 
+GPG-Key:
+ID=0xD0DFD3E0
+FP=98EE 62DA 66D1 882A C122 B769 6490 2BC0 D0DF D3E0

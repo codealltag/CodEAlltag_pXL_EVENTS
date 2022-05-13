@@ -1,0 +1,15 @@
+Tja, bei MicroPolis$-Office brauche ich mich aber nicht um Versionen kümmern. Ich
+habe das aktuelle Office und kann alles fehlerfrei machen. Das wäre bei
+Open Office nunmal nicht so. Es sind oft nur Kleinigkeiten. Also z.B. ein
+Umbruch zuviel o.�. Aber das müßte manuell korrigiert werden. Und das ist
+in einer Produktivumgebung undenkbar.
+
+
+Ja, ich glaube auch, daß es extrem schwierig für Dritthersteller ist,
+kompatibel zu Office zu sein. Aber das ist nicht mein Problem. Es muß
+funktionieren.
+
+Größe,
+
+-- 
+Jan Iggena

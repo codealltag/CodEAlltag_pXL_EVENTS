@@ -1,0 +1,7 @@
+Der Elektromotor ist dem Verbrennungsmotor haushoch ueberlegen:
+Leistungsgewicht, Drehmoment, mechanische Verluste, Wirkungsgrad.
+
+Das die Bereitstellung von Strom fuer mobile Kraftfahrzeuganwendung noch
+erheblichen Entwicklungsbedarf hat ist klar.
+-- 
+1,2,3 Eierbrei

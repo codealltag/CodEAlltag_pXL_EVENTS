@@ -1,0 +1,15 @@
+World of Warcraft ist das einzige mir bekannte Killerspiel. Es hat
+nämlich schon einmal jemanden umgebracht (dieser jemand wurde am
+gleichen Tag von der Freundin verlassen und verlor den Job, weswegen er
+solange WoW in einem Internet-Café spielte, bis er verhungerte).
+
+Von Counter Strike ist mir solches nicht bekannt. Genauso wenig von
+Unreal Tournament, Call of Duty und wie sie alle hießen.
+
+Tschö,
+Hero
+
+-- 
+GUI - ein Hintergrundbild und zwölf XTerms
+
+vim -c "exec \"norm iwHFG#NABGURE#IVZ#UNPXRE\"|%s/#/ /g|norm g??g~~"

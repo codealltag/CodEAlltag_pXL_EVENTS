@@ -1,0 +1,23 @@
+Da sollte sich der Rest der Welt soweit eigenständig machen das nicht 
+bei uns die Lichter ebenfalls ausgehen!
+
+Es geht schlicht und einfach darum das die Root DNS unabhängig vom 
+amerikanischen Kontinent weiterhin funktionieren (was AFAIK ja gegeben 
+ist), ebenso das Routing in der restlichen Welt und die Root Zertifikate 
+(die meisten Zertifizierungsstellen sind in den USA beheimatet).
+
+AFAIK benötigt die restliche Welt die Kabel-Verbindungen über Amerika 
+nicht unbedingt, wenngleich die Verbindungen durch Ausfall der Kabeln 
+über Amerika (durch »Datenstau«) merkbar langsamer würden.
+
+Etwas seltsam würde sich das Internet trotzdem verhalten :->>
+
+Aber jeder von uns kann ja das Internet ausschalten, wer traut sich den 
+roten Knopf zu drücken?
+
+http://vzf.linrzcniohacifsiqq.jrd/
+
+-- 
+Katzen Reiner
+Wenn Politik eine exakte Wissenschaft ist, bin ich Kaiser von China!
+Ein Hoch dem Darius Eulenspiegel!

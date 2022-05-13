@@ -1,0 +1,8 @@
+Die können mit dem falschen charset=xyz (so wie du) überhaupt 
+nichts abrufen, wir lesen den Abruf nicht. Tsch!
+
+eugen
+-- 
+Warum nur sollten wir Bürger unseren erfahrungsgemäß korrupten,
+staatlichen Kontrolleuren ein höheres Maß an Vertrauen zumessen
+als unserer eigenen, bürgerlichen Vernunft?

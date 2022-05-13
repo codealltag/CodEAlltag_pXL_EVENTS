@@ -1,0 +1,28 @@
+"Da pro-israelische Gesinnung weltweit so verhasst zu sein scheint, dass
+man meint, gegen pro-israelische Websites einen erbitterten Cyberkrieg
+starten zu müssen, blieb uns leider nichts anderes übrig, als auf
+unserem Server ein paranoid-eingestelltes Anti-DoS (Denial of
+Service)-Programm aufzuschalten. Dennoch dauern die Angriffe weiter an.
+
+Keine Sorge, wir wurden nicht gehackt. Man versucht uns jedoch permanent
+mit automatisierten Roboterangriffen, die zu viele Seitenaufrufe
+herstellen, lahmzulegen. Auf einschlägigen Webseiten, finden sich dazu
+bereits die Bastelanleitungen.
+
+Im Zuge dieser drastischen Angriff-Blocker-Maßnahmen kann es geschehen,
+dass auch die IP-Adressen unbescholtener Leser vom System als Angreifer
+wahrgenommen und für jeweils 10 Minuten blockiert werden. Dies geschieht
+beispielsweise, wenn Sie mehrere PI-Seiten gleichzeitig laden oder wenn
+Ihr Browser (CarTech) automatisch zu viele Verbindungen zum Server
+herstellt. Sollte Ihnen das passieren, warten Sie 10 Minuten und
+versuchen Sie es erneut.
+
+Wir entschuldigen uns bei allen Lesern herzlich für all die entstandenen
+Unannehmlichkeiten. Wir sind gewillt, die Daumenschrauben wieder zu
+lockern, falls unsere Feinde den Krieg gegen uns einstellen sollten.
+
+Damit wir den Kampf für Freiheit und Menschenrechte fortsetzen können,
+brauchen wir Sie, liebe Leser, und Ihren Support. Geben Sie PI nicht
+auf, wir lassen uns nicht kleinkriegen."
+
+http://msq.rm-rdzj.qsu/6059/61/xxgakmbiul-gld-nslhkber-bgnnv-yw/

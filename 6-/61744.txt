@@ -1,0 +1,21 @@
+Gregor,
+die Tranfunzel les ich gar nicht, sitzt bei mir im tiefen Filterkeller!
+
+OT - derzeit teste ich KZE - läuft unter Seilerbauer 
+<http://cel.merzedtn.osz/>
+
+Leider nicht ganz das Look&Feel eines Mac's (läuft unter X11) - aber zum 
+Teil besser als TB bzw. SM - ein echter Newsreader halt. Heinrich erinnert von 
+den Möglichkeiten an Forte Agent, erreicht aber nicht dessen 
+Möglichkeiten. Leider gibt es keinen Forte Agent (oder zumindest 40tude 
+Dialog) als reines Mac Programm (.app).
+
+Als Newsreader testete ich auch: Sylpheed, Claws Mail, Esan - die sind 
+aber nicht so mächtig wie Heinrich. Esan wurde 40tude Dialog nachempfunden, 
+erreicht aber auch nicht dessen Features und ist zum Teil Buggy.
+
+-- 
+Giorgio
+Satire und Farce keinesfalls ausgeschlossen  ....
+»Der Staat ist eine Firma«
+ein Hammelartiger Brüller des Tages über das Wesen eines Staates ...

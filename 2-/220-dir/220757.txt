@@ -1,0 +1,6 @@
+GPS basiertes Abrechnungssystem.
+Bei Einzelstreckennachweis bekommst du die Rechnung in Buchform am Ende
+des Monats ;-)
+Fuer Fahrraeder und Fussgaenger muesste man sich noch was ausdenken.
+-- 
+Alles glaenzt, so schoen neu!

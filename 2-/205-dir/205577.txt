@@ -1,0 +1,22 @@
+Mal ganz davon abgesehen:
+
+Weiß irgendwer wie solche Zahlen ermittelt werden? Ich selber habe 3 
+Linux-PCs. Dazu kommen noch eine Hand voll virtuelle Maschinen für 
+Testzwecke. In meiner Bekanntschaft wären dann zudem noch zwei weitere 
+Linux-PCs, um die ich mich kümmere.
+
+Ich persönlich bin mir ziemlich sicher, dass nicht einer dieser PCs in 
+irgendeine Statistik einfließt.
+
+Wird die Statistik aus Verkaufszahlen ermittelt? Wenn ja, dann haben die 
+"Open Source" nicht verstanden...
+
+CU
+
+Oswald
+
+-- 
+www.ummkj-xioxgmgzx.ac Wählen gehen 2009! Ein Aufruf etwas zu ändern.
+ Der Mensch erfand Maschinen, um sich damit die Arbeit zu erleichtern.
+ Nur leider hat er vergessen, rechtzeitig damit aufzuhören...
+Beiträge mit *X-No-Html Header* kann ich weder lesen, noch beantworten!

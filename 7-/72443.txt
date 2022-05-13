@@ -1,0 +1,10 @@
+Sorry, aber das ist nicht korrekt. Aioe liefert beim Versuch, über TOR 
+zu posten, eine Fehlermeldung. Nur für den sehr seltenen Fall, dass ein 
+TOR-Exit-Node bei aioe nicht als solcher bekannt ist, gelingt es im 
+Einzelfall.
+
+BTDT
+
+Hier die passende Message-ID als Beweis:
+
+<lx8tay$2hw$4@rnhiprke.vxii.qgv>

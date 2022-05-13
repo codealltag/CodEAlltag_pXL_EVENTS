@@ -1,0 +1,3 @@
+Komisch in meinem nicht-Windows System funktioniert es.
+Allerdings habe ich es unter DOS 6.2 noch nicht probiert, das muss ich 
+zugeben.

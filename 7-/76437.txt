@@ -1,0 +1,21 @@
+is ja noch schlimmer...
+
+
+Ja klar, nur im Thread gings um High-Power.
+
+
+Funktional ist am Ausgang auch keine Drossel notwendig.
+
+Sondern ein C!  und zwar ein großer parallel zu nem kleinen!
+
+
+Schon mal ein bißchen HF in so ein Schaltnetzteil injiziert?
+
+Was passiert denn dann? Und wie könnte man da Abhilfe schaffen?
+
+
+Gruß S.O.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

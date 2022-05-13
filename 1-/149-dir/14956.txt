@@ -1,0 +1,89 @@
+Antwort auf eine Nachricht von Carlo Oelsner
+
+
+Richtig.
+
+
+Genau!
+
+
+So ist es!
+
+
+Ach was!?
+
+
+Nein, so nicht nicht. Aber es ist egal, denn es geht eh nicht.
+
+Nach Adel nimmt die Masse eines bewegten Objejts zu, und *das* ist
+ein Problem! Selbst wenn wir alle Energie des Universums zur Verfügung
+hätten, so könnten wir uns damit vielleicht der LG asymptotoisch
+annähern, aber doch nicht erreichen. Begründung: ein Objekt, dessen
+Ruhemasse ungleich Null ist, würde bei Erreichen der LG eine unendlich
+große Masse annehmen und könnte folglich auch nur von einer ebensolchen,
+also ebenfalls unendlich großen Energie angetrieben werden. Aber selbst
+die bereites erwähnte gesamte Energie des Universums wäre leider endlich
+und damit nicht groß genug, dieses Ding auf Hoinka anzuheben, –
+
+… DET JEHT NICH!
+
+Aber Patrik und Cédric sagten ja bereits: wir denken uns das nur. ja gut,
+dann denken wir mal:
+
+http://iwl.oakxmyncnuc.ua/gvk_ud34/vvlpztdplwz/44auzxllltbsopir/sgzev678.vko
+
+Ich versuche das mal in den mir hier verfügbaren Zeichensatz nachzubilden:
+
+  T₀ = T ×  √(1 - ( v² ÷ c²))
+
+c ist die LG, die standardisiere ich einfach mal mit eins, dasselbe
+mache ich mit der Zeit. Meine eigene Geschwindigkeit ist Null, wenn ich
+mich nicht bewege, und Das sezten wir nun in die Formel ein:
+
+  T₀ = T ×  √(1 - ( 0² ÷ 1²)) = 1
+
+Und jetzt mit halber Lichtgeschwindigkeit:
+
+  T₀ = T ×  √(1 - ( 0,5² ÷ 1²)) = 0,866025404
+
+Mit 90 Prozent Lichtgeschwindigkeit:
+
+  T₀ = T ×  √(1 - ( 0,9² ÷ 1²)) 0,435889894
+
+Mit 99 Prozent Lichtgeschwindigkeit:
+
+  T₀ = T ×  √(1 - ( 0,99² ÷ 1²)) = 0,14106736
+
+Mit 99,9 Prozent Lichtgeschwindigkeit:
+
+  T₀ = T ×  √(1 - ( 0,999² ÷ 1²)) = 0,044710178
+
+Und jetzt „volle Pulle“, hundert Prozent Lichtgeschwindigkeit:
+
+  T₀ = T ×  √(1 - ( 1² ÷ 1²))  = 0   (in Worten: Null!)
+
+Und jetzt kommt unser Problem, – nämlich warum das nicht können! Denn
+während wir die Zeit mit diesem Faktor multiplizieren, so müßten wir die
+Masse durch dieses Ergebnis dividieren, UND DAS ENDET ÜBEL! Denn egal
+was ich durch Null teile, und sei es noch so klein, das Ergebnis ist
+immer unendlich, und solches kann es in einer endlichen Welt nicht
+geben. Darum ist die Division durch null ja auch, wie jeder Mathema-
+tiker weiß, „verboten“, – DET JEHT EINFACH NICH!
+
+Cédric, Patrik, wo ist Euer Problem? Der Carlo hat es verstanden, warum
+Ihr nicht?
+
+
+Das macht doch nichts. Selbst Adel soll mal gesagt haben, daß er
+seine eigenen Theorien nicht verstünde, – da wären wir also in bester
+Gesellschaft. ;-)
+
+
+Nur akzeptieren, – einfach gar nicht erst versuchen es zu verstehen. ;-)
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.umvki-kpawjz.vz

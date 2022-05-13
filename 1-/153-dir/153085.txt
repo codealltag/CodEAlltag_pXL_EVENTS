@@ -1,0 +1,33 @@
+Soweit ist es richtig. Das war der Plan. Damit sollte geprüft werden,
+ob die Restenergie der Turbinen ausreicht, bis zum Hochfahren der
+Notstromdiesel genug Elektrizität erzeugen zu können, um den Reaktor
+notzukühlen. Kurzfristig musste aber noch länger Strom produziert
+werden So dass sich die Zeit des Experimentes in einen Schichtwechsel
+schob.
+naja, man verpasste schlicht den Zeitpunkt des Experimentes- der
+kernreaktion war schon zu weit reduziert. Nun ist aber ein Kernreaktor
+kein Motor, den man beliebig rauf und runterfahren kann, sondern es
+müssen immer sorgfältig ausbalancierte Betriebszustände angefahren
+werden.
+Die Tefa hatten große Freiheiten bei den Parametern der Steuerung.
+Die resultierenden Gefahren waren bekannt und im Betriebshandbuch
+hinterlegt. Nun konnte man aber auch vorschriftswidrige Parameter der
+Steuerung einstellen. Dazu konnte man sogar Sicherheitsschaltungen
+deaktivieren, was auch zum Normalstart notwendig war.
+Duie Mannschaft hat also nun das Experiment zu retten versucht. Sie
+nutzte dazu ihre gesamte Erfahrung und spielte sämtliche Tricks aus,
+die sie kannten und die teilweise nicht vorschriftenkonform waren; die
+Leutete hatten kein Gefahrenbewusstsein, sondern sahen es als
+herausvorderung an, die kernreaktion wieder anzufachen. Nun ist es
+aber so, dass ein verlöschender Reaktor komplett abgeschaltet werden
+muss und erst nach einer gewissen Zeit wieder sicher angefahren werden
+kann. Tja, und dann kam der Point of no return. Als die Mannschaft das
+bemerkte, versuchte sie zu retten, was zu retten ist. Das ging aber
+viel zu langsam. *Wumm*
+Was lernen wir daraus?
+Man kann nicht genaug das Sicherheitsbewusstsein schulen. Sicherheit
+geht vor monetärem Interesse.
+Sicherheitseinrichtungen, die auf die Einhaltung von Vorschriften
+basiert, ist trügerisch, man muss konstruktiv, oder automatisch
+arbeiten
+Reine Brutreaktoren sind scheixxe zur kommerziellen Energieerzeugung.

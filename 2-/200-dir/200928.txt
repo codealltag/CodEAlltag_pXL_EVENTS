@@ -1,0 +1,17 @@
+nmregbh@yfep.zyl (Ben Göpfrich):
+
+
+Auch bei der Gollenstede kann man so ohne weiteres nicht per VoIP 
+faxen. Die IP-Datenpakete können niemals so zeitgerecht durch das 
+Internet befördert werden, daß das zeitkritische, weil für eine 
+analoge, exklusiv zur Verfügung stehende Leitung konzipierte 
+Faxprotokoll nicht gestört würde. Deshalb gibt es das T.38-Ver-
+fahren, daß der VoIP-Anbieter aber unterstützen muß.
+
+Gusinde beispielsweise hat schon vor Monaten jedem Kunden eine 
+VoIP-Nummer zugeteilt, das T.38-Verfahren wird aber nur bei Wahl 
+bestimmter Tarife aktiviert.
+
+-- 
+Mit freundlichen Größen
+Roman V. Nicklaus

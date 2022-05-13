@@ -1,0 +1,12 @@
+Der erste Schwachsinn war, dass nach einer gewissen Zeit die Seite
+automatisch wieder nach oben gescrollt wird, und ich somit wieder
+nach unten scrollen muß, um die Kommentare zu lesen und erst mal
+wiederfinden muß, bis wohin ich gelesen habe.
+
+Und heute kommt nun der nächste Schwachsinn. Jetzt kann ich
+nicht mal mehr den Artikel zu Ende lesen. Stattdesssen poppt
+nach einer gewissen Zeit ein Fenster auf, in dem steht
+"HINWEIS: Sie waren einige Zeit inaktiv.
+Ihr zuletzt gelesener Artikel wurde hier für Sie gemerkt."
+und man muß dann noch mal auf den Artikel klicken, um ihn
+weiter lesen zu können.

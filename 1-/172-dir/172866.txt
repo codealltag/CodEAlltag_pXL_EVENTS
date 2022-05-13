@@ -1,0 +1,5 @@
+Hängt vom Rechner ab: Desktop Linux. Server OpenBSD. In diesem Fall lief 
+mplayer auf dem Server.
+
+
+Arno

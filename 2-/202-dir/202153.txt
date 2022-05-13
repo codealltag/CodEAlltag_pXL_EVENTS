@@ -1,0 +1,45 @@
+Was soll sowas? Auch solch wütende An- bzw. ja eher Absage ist
+Trollfutter!
+
+Die Möglichkeit, ohne Mühe den Namen oft zu wechseln und damit Filter
+praktisch wirkungslos zu machen, ist eine der Schattenseiten der
+Usenet-Welt. Und nicht alle Newsreader bieten die Möglichkeit, zB auf
+Server zu filtern oder auf noch wieder andere Kriterien, die
+vielleicht eher eine wirksame Ausblendung der Trolle ermöglichten. Und
+selbst wenn der eigene Newsreader solches bietet, hat nicht jeder
+Nutzer so viel Ahnung, dass er das dann auch passend einzustellen
+imstande wäre.
+
+Eine abuse-"Anzeige" hat meistens keinen Erfolg, und selbst wenn einem
+notorischen Troll der Account gekündigt würde, hätte er massig andere
+Möglichkeiten, doch seinen Schrott in die Newsgroups zu kippen, das
+walten schon aioe.org & Co...
+
+Es gab und gibt immer wieder Versuche, eine Art Hewekerl-Codex zu
+lancieren, und eigentlich halten sich sogar ziemlich Viele daran! Denn
+wenn man genauer hinschaut, zeigt sich, dass den Trollen auch zumeist
+nur die anderen Trolle oder Dreivierteltrolle antworten.
+
+Es gibt einige Merkmale, auf welche hin ich ziemlich sicher "mit dem
+eigenen Kopf" filtere; schön wär's, das ließe sich als echtes
+Filterprogramm realisieren.
+Hier mal einige Beispiele:
+- Vielposter, und hier besonders Viel-Threadstarter
+- Ein neuer Name in der NG, der gleich mit mehreren Threadstarts kommt
+... na, und *sehr* oft ist der Betreff schon die sicherste Troll- oder
+Vollidioten-Warnung: Wortwahl, Länge, Sonderzeichen, RS-Fehler...
+
+Hätte ich nicht - über die selbstverständlich praktizierte Filterung
+hinaus - im Lauf der Jahre eine ganz ordentliche Kopf-Filter-Technik
+entwickelt, löse ich schon längst nicht mehr dspm oder dtt *und*
+postete sogar darin!
+
+Ich hatte immer wieder mal Versuche unternommen, nach Hörwick quasi
+auszuweichen (das ist eigentlich eine leere, einzig vom leicht zu
+filternden Eberhard C. frequentierte, NG), aber bisher leider ohne
+Erfolg. Habe auch zu wenig Zeit, mich um sowas mit größerem Nachdruck
+zu kümmern.
+Aber das Projekt, aus zB dsm eine "quasimoderierte" vernünftige
+dspm-Version zu machen, verlockt nach wie vor.
+
+ERIKA

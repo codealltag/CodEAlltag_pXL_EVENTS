@@ -1,0 +1,3 @@
+Ob die IP-Adresse, mit der ein User ein Posting bei einem Newsserver 
+einliefert, im Klartext mit geliefert wird, bestimmt der Betreiber des 
+Newsservers und nicht der Einlieferer.

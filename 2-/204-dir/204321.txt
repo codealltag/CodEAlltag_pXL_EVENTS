@@ -1,0 +1,27 @@
+Das ist ein Zitat von Philipp Cat (kam vielleicht nicht so deutlich raus).
+
+Banken existieren ganz gut mit selbst erschaffenem ("geschoepftem") Geld.
+Das Problem sind die faulen Kredite. Um einen Kredit zu vergeben, benötigen
+die Banken nur einen kleinen Prozentsatz an Eigenreserven, der Großteil der
+Kreditsumme wird einfach aus dem Nichts erschaffen. Wenn das Geld
+zurückgezahlt wird, verschwindet das so geschaffene Geld wieder (Zinsen und
+Gebuehren sind die Einnahmen der Bank). Wenn der Kredit faul ist,
+verschwindet das Geld nicht wieder sondern belastet in der vollen
+Kreditsumme die Bilanz der Bank, mindert also ihr Eigenkapital.
+
+Ein vereinfachtes Beispiel. Wenn die notwendigen Eigenreserven der Bank 10
+Prozent betrügen: Mit einem Eigenkapital von 10 Euro kann die Bank 100 Euro
+Kredit geben. Wenn der Kredit faul ist, frisst er das Eigenkapital der
+Bank: sie verliert mit dem faulen Kredit in Höhe von 100 Euro die gesamten
+100 Euro - also Eigenkapital in einem Umfang, der notwendig wäre, Kredit in
+Höhe von 1000 Euro zu geben.
+
+Der Trick der "multiplen Geldschoepfung" geht so mit der geplatzten -
+kreditfinanzierten - Finanzblase nach hinten los. Der Vorteil, mit 10 Euro
+100 Euro Kredit geben zu koennen, verkehrt sich ins Gegenteil: ein mit
+einer Eigenreserve von 10 Euro vergebener fauler Kredit vernichtet eine
+potentielle Kreditsumme von 1000 Euro. Aus diesem Grunde folgte der
+Immobilienkrise die Kreditkrise, und so wird möglicherweise das gesamte
+Bankensystem insolvent.
+
+victor

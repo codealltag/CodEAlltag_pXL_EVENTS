@@ -1,0 +1,14 @@
+Ich allerdings, ich bin ein Drave
+
+und in meiner Ausbildung wurde klar beigebraucht, dass die Grundfarben 
+nur empirisch bestimmt worden sind. Ach ja: 0,3 grün 0,59 rot und 0,11 
+blau. In diesem Verhältnissen nimmt Mensch die Farbei bei jeweils 
+gleicher technischer Leistung unterschiedlich stark wahr. Wichtig im TV, 
+PAL bei YUV. Unwichtig, ich weiß. Farben sind aber echt nur da, weil wir 
+sie sehen. Hätten wir vier Zäpfchen (sind das nicht die Rez. für die 
+Farben?) dann würden wir sicher vier Farben sehen. Wen störts. Manche 
+Tiere sehen nur zwei, wer weiß welches Bild sie dabei im Kopf haben. Die 
+Frequenzen selbst an sich allerdings lässt das tierisch kalt. X nm und Y 
+nm zusammen vermischt sich dennoch nicht zu Z nm, sondern bleiben zwei 
+getrennte "Farben" auch wenn man glaubt, nur eine zu sehen... je nach 
+gewählten Wellenlängen.

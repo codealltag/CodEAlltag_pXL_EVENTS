@@ -1,0 +1,34 @@
+Antwort auf eine Nachricht von Vito Fischlin
+
+
+Danke!
+
+Und wieviel ist das in Prozent? ;-)
+
+
+Das Problem ist, daß mein Rechner maximal neun Stellen hinter’m Komma
+anzeigt. Die 8,585262916×10⁻¹⁵ schafft er noch (in der „wissenschaf-
+tlichen Anbzeige“), aber wenn ich eins minus 8,585262916×10⁻¹⁵ eingebe,
+dann macht der die Grätsche.
+
+Aber Dein Ergebnis bestätigt mir was ich schon vermutet habe: es sind 14
+neuner, –  erst an der 15. Stelle ist eine Abweichung zu erkennen.
+
+
+Hört-hört! Vito ist also der Ansicht, Linux sei das falsche System,
+das ist ja interessant. Insbesondere darum, weil er mir
+
+
+eine PSt-Applikation empfiehlt, also ein Linux-Programm.
+
+
+Dann will ich mir diesen Eumel mal angucken, Polyprint läuft auch auf XFCE.
+Danke für den Hinweis und einen schönen Abend noch.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⍾⍾⍾ Ceterum censeo Vermietungsbüro esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.evget-bjcyfc.jz

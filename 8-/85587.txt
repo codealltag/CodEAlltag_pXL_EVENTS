@@ -1,0 +1,17 @@
+Das wird zumindest behauptet. Aber mir kommt es schon merkwuerdig vor
+dass die Notstromsysteme gleich bei mehreren Reaktoren versagen.
+
+
+Das ist ein Siedewasserreaktor, d.h. der Dampf muss kondensiert werden 
+und dann in fluessiger Form wieder in den Reaktorbehaelter zuruecklaufen/gepumpt werden.
+Es ist noetig den Dampf zu kondensieren, und dazu braucht man
+Kuehlwasser aus dem Meer. Die Alternative ist es den Dampf einfach abzulassen und 
+dauernd frisches Wasser hineinzupumpen, da braucht man nicht soviel Wasser.
+
+
+So wenig ist das nicht, ein Kernkraftwerk verbraucht so um die 3% seines
+erzeugten Stromes selbst.
+
+
+Vielleicht haben sie ja die Hauptturbine gestoppt um Schaeden durch das 
+Erdbeben zu verhindern.

@@ -1,0 +1,34 @@
+Hast Du nicht in einem anderen Posting geschrieben, dass das mit der
+Addition nicht so einfach ist?
+
+
+Ich glaube nicht, dass Rainer und Olaf das wollen, es ist vor allem
+ganz sicher nicht der Punkt, den Olaf rüberzubringen versucht. Der
+Punkt ist, dass das Bezugssystem relativ ist. Die Zeit vergeht nicht im
+Raumschiff objektiv langsamer als auf der "ruhenden" Raumstation.
+("Objektiv" würde hier bedeuten, dass sowohl ein Beobachter im
+Raumschiff als auch einer in der Raumstation feststellen könnten, dass
+die Zeit in der Raumstation schneller läuft als im Raumschiff), sondern
+jeder der beiden Beobachter sieht, dass die Zeit für den jeweils anderen
+langsamer abläuft: Der Beobachter in der Raumstation sieht, dass die
+Zeit im Raumschiff bei 99.999% LG 223,6 mal (wenn ich mich nicht
+verrechnet habe) langsamer läuft und der Beobachter im Raumschiff sieht,
+dass die die Zeit in der Raumstation 223,6 mal langsamer läuft.
+
+Daran ändert sich sich nichts, wenn Du Dich der Lichtgeschwindigkeit
+weiter näherst. Wenn das Raumschiff mit LG fliegen würde (was, wie Du
+richtig feststellst, unmöglich ist), dann würde der Beobachter in der
+Raumstation feststellen, dass die Zeit im Raumschiff steht. Aber genauso
+würde auch der Beobachter im Raumschiff feststellen, dass für ihn die
+Zeit ganz normal weitergeht, während sie in der Raumstation steht. 
+
+Das ist vollkommen symmetrisch - darum "Relativitäts"-Theorie. Und darum
+kann man auch gar nicht sagen, dass die Raumstation "ruht" und das
+Raumschiff mit x% LG fliegt. Umgekehrt ist es genauso richtig, oder
+beide fliegen mit y% LG relativ zu einem dritten ...
+
+	hp
+
+
+-- 
+   _  | Rainer T. Raitner    | Fluch der elektronischen Textverarbeitung:

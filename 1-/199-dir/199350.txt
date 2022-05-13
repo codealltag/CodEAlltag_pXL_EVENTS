@@ -1,0 +1,34 @@
+Edgar Grothkopp <arr.modamgoc@nqa.go>:
+
+
+Aha.
+
+
+N für den Designer:
+
+
+Das Design wird im Wesentlichen durch die Marke des Unternehmens 
+vorgegeben. Werbung und PR bestimmen, wie die Website aussehen 
+soll, und zwar im Hinblick auf Gliederung und Layout, Farben, 
+Bildern und Texten. Das ist ein weites Feld auch mit rechtlicher 
+Verantwortlichkeit, das ITler nicht auch noch abdecken können. 
+Programmierer oder auch nur besonders IT-Kundige habe ich da noch 
+nicht erlebt, sie legen ihre Wünsche einfach als Word- oder PDF-
+Datei dar und liefern die zu verwendenden Bilder, darunter auch 
+Logos u.�.
+Erst der Webentwickler realisiert dann die Site möglichst genau 
+nach diesen Designvorgaben. In dieser Arbeitsteilung kommt er der 
+Tätigkeit eines Softwareentwickler sehr nahe. Manchmal gibt es dann 
+noch einen weiteren Menschen, der sich eigens der Optimierung des 
+Page Rank in den Suchmaschinen (Abk.: SEO) widmet.
+
+Dann gibt es neuere Studiengänge (und Ausbildungsberufe?), die 
+gestalterische und IT-Kompetenzen vereinen wollen. Ob diese Leute 
+aber wirklich die Arbeit von Werbe- und PR-Fachleuten übernehmen 
+können, weiß ich nicht. Tiefgehende technologische Kenntnisse sind 
+regelmäßig nicht vorhanden, nicht mal im Hinblick auf die Netzwerk-
+technik auf IP-Ebene.
+
+-- 
+Mit freundlichen Größen
+Ivo U. Haugeneder

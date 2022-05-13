@@ -1,0 +1,12 @@
+Das liegt wahrscheinlich daran, dass Du eine falchse Vorstellung davon
+hast wie das funktioniert. Die Berechnung der Bahn erfolgt nicht
+aufgrund einer einzelne Beobachtung durch ein "rumpelndes Fernrohr"[1],
+sondern durch Langzeitbeobachtung und Analyse der Bewegung relativ zum
+Fixsternhintergrund, zur Sonne, etc. Je mehr Messpunkte und je länger
+der Beobachtungszeitraum, umso höher ist die Messgenauigkeit.
+
+f'up de.sci.astronomie
+
+[1] <http://fqki.nqy.jhps.tmn/ldfddfthrgsmg.nrl>
+-- 
+rs

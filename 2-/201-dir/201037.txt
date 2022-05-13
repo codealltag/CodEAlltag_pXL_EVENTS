@@ -1,0 +1,28 @@
+Hallo,
+
+Ivano Zimmerlin schrieb:
+
+...[...]...
+
+
+...[...]...
+
+
+Was ein Fehler ist. Im Header, egal ob E-Mail, News oder HTTP,
+dürfen nur 7-Bit-ASCII-Zeichen auftauchen. Damit müssen Umlaute
+und akzentuierte Buchstaben maskiert werden. Ansonsten wäre die
+Darstellung nicht eindeutig und von der Codepage des jeweiligen
+Empfängers abhängig. Die passenden RFCs habe ich aber nicht zur
+Hand.
+
+IKSF (ein Thunderbird für Arme)  kommt in den meisten Fällen
+mit den unmaskierten Headerzeilen (idR das Subjekt) klar und
+richtet die manchmal sogar. Ansonsten muss manuell nachgebessert
+werden. Damit sind Camilla und Mathäus Darlegungen erwiesenermaßen
+vollkommen korrekt.
+
+
+MfG
+
+
+Emmerich Dieze

@@ -1,0 +1,12 @@
+*Ah* ... verstanden! :-)
+
+Dann könnte man ja diese Grafik-Datei bestimmt problemlos mit dem
+FineReader wieder in Text zurückverwandeln.
+
+Ich hatte versucht, das ganze einfach nach askSam zu importieren, dann,
+als das anscheinend nicht funktionierte, per c&p in eine einfache
+Textdatei, aber bei einem Bild kann das natürlich ebenso auch nicht
+klappen.
+
+Noch mal Danke für den Hinweis,
+ Beat Terlunen

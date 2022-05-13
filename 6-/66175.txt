@@ -1,0 +1,6 @@
+Milchmädchenrechnung! Einfaches Beispiel: Unternehmer kauft eine neue 
+Maschine und bezahlt bar aus der Kasse. Es erhöht sich zwar das 
+Anlagevermögen, gleichzeitig sinkt aber das Umlaufvermögen um die 
+gleiche Summe. Der Gewinn steigt nicht.
+
+luca

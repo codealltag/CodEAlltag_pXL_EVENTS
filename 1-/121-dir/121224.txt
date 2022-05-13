@@ -1,0 +1,4 @@
+ein
+
+Ergo könnten die ISP alle Newsserver sperren, die deren User-IPs nicht
+weiterleiten; das wäre doch was! ..

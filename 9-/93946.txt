@@ -1,0 +1,36 @@
+Ganz genau. Die Einkommenssteuerschuld wird am Ende des Steuerjahres
+festgestellt. Die Lohnsteuerabzüge sind lediglich Vorauszahlungen auf
+die Steuerschuld.
+Die Lohnsteuerabzüge auf der Gehaltsrechnung berücksichtighen nur den
+Pauschbetrag und die steuerlichen geschichten mit den
+Sozialversicherungsbeiträge. Und natürlich die beantragten
+Freibeträge. Mehr nicht.
+Die Lohnsteuerklassen unterscheiden sich lediglich durch verschiedene
+Freibeträge. So wird bei der klasse drei der doppelte grundfreibetrag
+angesetzt, weil diese Klasse eigentlich lich für den Allleinverdiener
+gedacht ist. dementsprechend kann wenn der Ehepartner etwas verdient
+kein Freibetrag mehr in Anspruch genommen werden.
+Die Grundidee ist das Ehegattensplitting, nämlich dass Verheiratete
+gemeinsam veranlagt werden. daher werden ihre beiden Einkommen
+zusammengerechnet, dann wird das resultierende Einkommen um alle
+Freibeträge bereinigt. das ergebnis ist das "zuvesteundernde
+Einkommen". Dieses wird durch 2 geteilt, die Steuerlast berechnet und
+anschließend die Steuerlast verdoppelt. Was zunächst unlogisch
+aufwendig erscheint hat den Hintergrund, dass ab dem ersten
+steuerpflichtigen Euro der Steuersatz sich ändert.  Deshalb bedeuten
+2x 25000 Euro weniger Steuern als 50000.
+Die Kurve der Steuerberechnung hat einen Knick. Deshalb wird bei
+Klasse drei (da werden immerhin 16000 Euro Freibetrag berücksichtigt!)
+so wenig Lohnsteuer fällig. Steuerklasse 5 fängt das nicht auf. Daher
+muss in aller regel bei 3/5 etwas nachgezahlt werden.
+Bei 4/4 wird so getan, als ob jedes einkommen selbstständig ist. daher
+wird durch das Splitting zuviel Steuer vorausgezahlt und man bekommt
+meist etwas heraus.
+Durch die faktorisierung kommt ziemlich genau bei 4/4 die tatsächliche
+steuerlast heraus. Zumindest dann, wenn keine Sonderausgaben oder
+Zusatzeinkommen berücksichtigt werden müssen.
+dazu werden die Steuerlasten bei Klasse 4/4 bestimmt und ihr
+Verhältnis zur steuerlast nach splittingtabelle berechnet.
+anschließend wird der Steuerbetrag klasse 4 mit dem resultierenden
+faktor verechnet. Man verteilt den Splittingvorteil also schon auf die
+Monate. Ergebnis: kein Kredit, kein Guthaben.

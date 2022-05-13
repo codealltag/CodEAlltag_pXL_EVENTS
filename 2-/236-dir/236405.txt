@@ -1,0 +1,10 @@
+Man sollte auch wissen, das man die Farbtemperatur durch die
+Zusammensetzung der Leutchtschicht steuern kann. ESL sollten, wenn die
+Elektronik was taugt, nicht flimmern, da die mit etlichen KHz
+angesteuert werden.
+Was man allerdings so nicht hinbekommt ist das Farbspektrum von
+Gluehlampen die wenig Leistung haben oder runtergedimmt sind.
+Man mokiert zwar den gringen Wirkungsgrad von Glühlampen an, aber in
+einer Wohnung, bleibt die Waerme ja auch in der Wohnung.
+-- 
+1,2,3 Eierbrei

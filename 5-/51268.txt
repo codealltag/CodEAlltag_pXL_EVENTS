@@ -1,0 +1,9 @@
+Dabei geht es weniger um Mittelungen, sondern um genug Zeit zwischen
+den Beobachtungen. Wenn du nur wenige Positionsdaten hast, aber die
+sehr oft misst, dann ist das Ergebnis trotzdem eine eher ungenaue Bahn.
+
+Wenn du dagegen die Bahn über einen langen Zeitraum verfolgen kannst,
+wird die Bahnberechnung sehr genau, selbst wenn die Einzelmessungen
+nicht so extrem genau sind.
+
+Onno

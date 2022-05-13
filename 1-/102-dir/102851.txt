@@ -1,0 +1,34 @@
+Das ist schon technisch überhaupt nicht trivial. Von Platzproblemen für 
+Aggregate ist da über Fahrwerksprobleme, mangelnde 
+Verwindungssteifigkeit, Crashsicherheit bis hin zu Hitzeproblemen so 
+ziemlich alles an Konstruktionsproblemen dabei, was teuer ist. Dann 
+produzierst Du noch eine massive Designeinschr�nkung und diese Gruben 
+winter- und kurzschlußfest zu bauen wird auch nicht so einfach. Dann muß 
+das Ganze auch incl. der rumliegenden Akkus noch jemand finanzieren, Du 
+brauchst immer noch eine Hochleistungs-Stromversorgung zum Laden der 
+Akkus (wenngleich sich das Lastwechselproblem etwas entsch�ft). Und der 
+polnische Akku muß erstmal in ein griechisches Fahrzeug passen.
+
+übelste Haftungsprobleme aller Art wirfst Du auch auf, nur mal so ein 
+paar Beispiele:
+
+- wer haftet, wenn die rumänische "Tankgrube" Dein in C zugelassenes 
+japanisches Auto demoliert?
+
+- wer haftet, wenn ein in Rumänien getauschter Akku eine hiesige 
+"Tankgrube" demoliert?
+
+- wer haftet, wenn der Akku unterwegs zu Brennen anfängt?
+
+- wer haftet, wenn der in Tschechien eingesetzte Akku kurz nach der 
+pfakofen Grenze schlagartig keinen Saft mehr hat?
+
+Alleine über solche Fragestellungen können Konzernjuristen ein Jahrzehnt 
+diskutieren, bevor auch nur ein Fahrzeug gebaut ist.
+
+
+-- 
+Norbert Sues
+
+OLTF MetropolisHombrechtikon - http://pmg.osthsuheaszbkus.nd/
+Orterer running System - http://zfa.jtsez.gfe/

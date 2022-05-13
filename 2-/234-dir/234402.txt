@@ -1,0 +1,63 @@
+nicht die gesamte Energie geht durch den Akku. Wieviel es ist, hängt von der 
+Betriebsstrategie ab. Wenn man aber den Verbrenner konstant in einem 
+optimierten Auslegungspunkt betreiben will, was ja Grundlage der hohen 
+Wirkungsgradannahmen für diesen ist, dann wird man schon einen erheblichen 
+Teil der erzeuten Energie zwischenspeichern müssen. Wenn man umgekehrt den 
+elektrischen Zweig nur als Kraftübertragung betrachtet, dann muß der 
+Verbrenner sich wie in jedem anderen Fahrzeug auch an die 
+Echtzeit-Leistungsanforderung anpassen und wird im Wirkungsgrad abfallen. 
+Man hat dann praktisch ein elektrisches CVT-Getriebe. Der Wirkungsgrad von 
+Generator und Motor ist aber auch ohne Batterieladung schlechter als der 
+eines mechanischen Getriebes.
+
+Natürlich kann man sich auch beliebige Strategien zwischen den beiden 
+Extremen vorstellen, die dann halt auch im Verbrennerwirkungsgrad zwischen 
+den Extremen liegen. Ob man damit unterm Strich wirklich besser wird als 
+moderne vielstufige und weit gespreizte mechanische Getriebe ist keineswegs 
+sicher.
+
+Der Aufwand für seriellen Hybridantrieb lohnt nur, wenn der reinelektrische 
+Antrieb im Vordergrund steht und den Löwenanteil des Betriebs ausmacht.
+
+
+aber die Elektrokomponenten eben nur mit kleiner Leistung. Die werden ebenso 
+wie ein Verbrennungsmotor schwerer, wenn mehr Leistung gefordert wird. Die 
+Batterie des Maxteam reicht für 2-3 km und wiegt 70 kg.
+
+Einen gegenrechenbaren Gewinn hat man dagegen unabhängig vom Konzept bei 
+allen Hybriden dadurch, dass die Spitzenleistung des Verbrenners reduziert 
+werden kann, wenn diese nicht dauerhaft benötigt wird. Also nur zum 
+Beschleunigen, nicht aber zum Erreichen einer gewünschten maximalen 
+Reisegeschwindigkeit.
+
+
+Das ist ein Denkfehler. Woher soll denn die Leistung ohne (mit weniger) 
+Krafteinwirkung kommen? Leistung ist Drehzahl x Drehmoment. Höhere 
+Drehzahlen bewirken zwar geringere Drehmomente aber sogar höhere relative 
+Massenkräfte.
+
+Die Kräfte an den bewegten Teilen eines Motors hängen in allererster Linie 
+von der abgegebenen Antriebsleistung ab. Eventuelle Einstreuungen von 
+Antriebsstrangschwingungen sind vorhanden aber für die Auslegung völlig 
+sekundär.
+
+Vielleicht hilft das zum Verständnis: Um mit den vergleichsweise geringen 
+Kräften/Drehmomenten eines Verbrennungsmotors ein Auto antreiben zu können, 
+gibt es das Getriebe. Das Drehmoment am Eingang des Getriebes in einem 
+gegebenen Punkt ist exakt das gleiche, das ein Generator aufnehmen muß, wenn 
+er die gleiche Leistung übertragen soll.
+
+
+Äpfel und Birnen. Motorradmotoren (gerade solche mit hoher Liter- oder 
+Gewichtsleistung) haben gegenüber gleichstarken PKW-Motoren eine wesentlich 
+geringere Lebensdauer. Die "Lebensdauer" ist hierbei natürlich nicht 
+unbedingt in km zu messen, sondern am besten in gesamt abgegebener Energie 
+über Lebensdauer.
+
+Im übrigen ist natürlich die Liter-/Gewichtsleistung auch bei PKW-Motoren in 
+den letzten Jahren wesentlich gestiegen, und die Entwicklung geht weiter. 
+Ein Betrieb an einem Generator anstatt am Antriebsstrang macht da aber 
+keinen nennenswerten Unterschied.
+
+Gruß,
+Severin

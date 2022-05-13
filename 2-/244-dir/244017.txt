@@ -1,0 +1,12 @@
+Das betrifft das Papier selber, das ist mir schon klar aber
+der erste Verkäufer hat das Papier in seiner Buchhaltung()
+stehen als Leihgabe. Da ist es nicht NULL. Und den Belie-
+henen namentlich als Kreditnehmer. Das sind ZWEI Konto-
+eintragungen:
+1. das Papier, das nicht mehr da ist.
+2. der Gläubiger, dem das Papier geliehen wurde.
+
+So komplett deppert bin ich nun wieder nicht - was ist da
+bei dem ersten Verkäufer los?
+
+MfG

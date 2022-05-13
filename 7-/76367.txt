@@ -1,0 +1,17 @@
+SM (Switching Mode) wird in englischsprachigen Raum verwendet!
+
+An der Ausgangsseite wird aber gemessen (mit einer Referenz verglichen) 
+und nachgeregelt (alles natürlich galvanisch getrennt).
+
+
+Vom Grundprinzip sind beide Varianten ähnlich. Ein DC/DC Konverter ohne 
+galvanische Trennung kommt einer Drossel aus. Bei galvanischer Trennung 
+muss es ein Übertrager sein.
+
+Aber ich will hier keinen Elektronikkurs über einen 
+Gleichstrom-Transformator abhalten (Trigger für Blödeln) ;->>
+
+-- 
+Ralph
+Hammelartige haben einen leicht-schräg-verzerrten Blickwinkel zur
+heutigen, rasch wechselnden Realität.

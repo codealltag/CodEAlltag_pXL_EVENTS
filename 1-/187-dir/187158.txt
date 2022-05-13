@@ -1,0 +1,22 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+
+Eine Gruppe reicht.
+
+
+Du bashst auf der Form von Muckys Artikeln herum, nicht ich. Seine
+Artikel sind technisch in Ordnung, aber du beschwerst dich, dass dein
+Newsreader zitierten Text nicht einrückt.
+
+
+Warum sollte er das? Seine Artikel sind ohne 8-Bit-Zeichen als QP
+kodiert:
+
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Da gibt es nichts zu "korrigieren".
+
+
+Mein Newsserver, dem ich die Artikel in Rohform entlocken kann, sagt
+mir, dass du und/oder dein Newsreader ein Problem haben, keinesfalls
+Mucky. Seine Artikel sind technisch in Ordnung.

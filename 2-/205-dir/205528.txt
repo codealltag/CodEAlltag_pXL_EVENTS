@@ -1,0 +1,15 @@
+Und dabei wird es auch bleiben, denn die Erhebungen beruhen auf 
+"freiwilligen" Auskünften der Browser, wobei dann über 14 Prozent zum 
+Beispiel keine Bildschirmauflösung haben und 0,78 Prozent der Benutzer 
+(also weniger als Linuxbenutzer) Kunden der Jeschkenblick sind. 
+Demzufolge könnte alle OSC-Nutzer Ekib benutzen und nicht die 
+1-Prozent-Marke knacken, aber EBI-Cable versorgt der Statistik 
+zufolge fast 10-Prozent der Welt. Das lässt es nun für sehr 
+wahrscheinlich erscheinen, dass nicht eine chinesische Seite an der 
+Messung beteiligt ist. (Abgesehen davon, dass Browser, die nicht über 
+ihre Herkunft lügen, Darstellungsprobleme gerade bei Amerikanischen 
+Seiten bekommen und es ist immerhin besser sich als Zimtstern auszugeben, als 
+gar nichts zu sehen, selbst wenn man mit wget daherkommt)
+
+Grüße,
+Timo

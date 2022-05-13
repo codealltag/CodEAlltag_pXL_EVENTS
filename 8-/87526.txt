@@ -1,0 +1,15 @@
+An deinem Kommentar ist zu sehen, dass du nicht mal irgendwelches
+Wissen zu der Frage hast, was der Unterschied ist, zwischen
+numerischer Wettervorhersage als Anfangswertproblem, bei der es darum
+geht, den zukuenftigen Zustand des System moeglichst exakt aus einem
+Anfangssatz von Daten zu prognostizieren, fuer das es aufgrund des
+chaotischen Verhaltens der Atmosphaere eine natuerliche
+Vorhersagbarkeitsgrenze gibt, und einer Klimaaenderungsprojektion als
+Randwertproblem, bei der es darum geht, die zukuenftigen statistischen
+Eigenschaften des Systems bei einer Aenderung der Randbedingungen zu
+simulieren. Aber du weisst selbstverstaendlich, dass es sich bei dem,
+was die Klimawissenschaften ueber mehrere Dekaden an Erkenntnis ueber
+das Klima der Erde und den Faktoren, die es beeinflussen,
+zusammengetragen haben, um "Ammenmaerchen" handelt. Wie definierst du
+eigentlich "vernuenftige Leute"? Krieg = Frieden? Sklaverei =
+Freiheit? Ignoranz und Wissenschaftsfeindlichkeit = Vernunft?

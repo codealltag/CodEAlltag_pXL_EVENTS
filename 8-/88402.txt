@@ -1,0 +1,16 @@
+Das moechte ich doch deutlichst einschraenken. Wie schon geschrieben,
+bauen die meisten Arbeiten auf lange existierenden Definitionen auf,
+die selbstverstaendlich exakt abgeschrieben werden.
+
+Eine Diss, in der steht "die in dieser Arbeit verwendete Definition
+und Notation der Temporallogik CTL entnehmen Sie bitte [YZ11]" wuerde ich
+zur Ueberarbeitung und Ergaenzung zurueckgeben.
+
+
+Siehste, und ich habe mehrere grundlegende Definitionen exakt
+uebernommen, weil es mit IMHO nicht zustand, grundlegende Dinge, wie
+CTL, Dynamische Logik, CCS etc neu zu definieren. Gleiches gilt fuer
+Definitionen weniger grundlegender, aber verwandter Arbeiten, mit
+denen man sich unter Related Work auseinandersetzt.
+
+Stefano

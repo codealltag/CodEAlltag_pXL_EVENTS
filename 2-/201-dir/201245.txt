@@ -1,0 +1,45 @@
+Meinst Du?
+
+
+Ja gewiß, aber *wesen* Fehlverhalten ist es denn? Fehl verhält sich hier 
+doch wohl der, der andere Zeichen als ASCII in den Headers verwendet, 
+und das ist nunmal die Wahrheit.
+
+
+Ich bin doch locker. *Du* bist doch der, der sich hier aufregt.
+
+
+*Ich* lösche gar nichts – da hätte ich viel zu viel Arbeit mit! Da müßte 
+ich ja jedesmal erst in den Quellcode gucken, ob der Betreff illegal 
+ist, um zu wissen wann ich ihn löschen müßte. Und ich müßte es 
+tatsächlich tun, denn, das kann jeder nachprüfen der an der Wahrheit 
+interessiert ist, es sind ausschließlich defekte Betreffzeilen davon 
+betroffen, korrekt erstellte solche niemals. So wie auch hier nicht, 
+denn dieser Betreff her (und *jezt* guck ich mal), war korrekt codiert:
+
+Subject: Re: =?UTF-8?B?I8WnFFrRn9Xau2Y0nyFcZUIMJTX6c7QzpNWoRN==?=
+
+Ja, so gehört sich das. In der Rückübersetzung ergibt das dann wieder:
+
+Re: Scheiße würde Kaufeck wählen!
+
+und fliegt auch nicht raus.
+
+Und überhaupt, was hätte ich denn davon?
+
+Aber offenbar haben wir es hier mit einem ähnlichen Phänomen wie bei der 
+Verschwörungstheorie zu tun. Wir haben eine falsche Behauptung, einen 
+Sündenbock, und man ist kategorisch nicht bereit die Realität zu 
+akzeptieren, nämlich daß die tatsächliche Ursache eine gänzlich andere ist.
+
+Ich lösche nicht, sondern ich müßte ganz im Gegenteil die verlorenen 
+Subjekte manuell wieder einfügen, und da habe ich nunmal allmählich 
+keinen Bock mehr für, das stinkt mir einfach.
+
+
+Glückauf!
+Gisèle Arning (Völzberg/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://tst.dglvz-cakjat.ok

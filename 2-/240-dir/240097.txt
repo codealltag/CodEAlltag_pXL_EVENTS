@@ -1,0 +1,9 @@
+Das ist ein wirkliches Problem des wollust Eingabe-
+Fensters.
+Man muss sich angewöhnen die Zeilen nur ca. 60 Zeichen
+(habe ich nicht ausprobiert) lang zu machen.
+
+BTW. kein Grund zur Häme. Es ist u.U. notwendig über HTTP zu posten.
+Wenn a) die Firewall dazwischen ist und b) der eigene Newsserver ab
+und an mal
+nicht erreichbar ist (Verkaufshalle).

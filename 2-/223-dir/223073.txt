@@ -1,0 +1,41 @@
+[AKW und Farr]
+
+Du hast wie stets keine Ahnung. Der grosse Vorteil der Windkraft
+ist ihre Vorhersagbarkeit und Robustheit. Man kann mit gut 75%
+Sicherheit die Windstromproduktion des nächsten halben Jahres
+voraussagen, die der nächsten 3 Tage mit 90% und die der nächsten
+Stunde mit 99%.
+
+Ferner kann man mit mehr als 99,99% Wahrscheinlichkeit voraussagen,
+dass die prognostizierte Last nicht zu mehr als 15%, gemessen auf
+drei Tage, und nicht mehr als 1% für die nächste Stunde ausfällt,
+das ist die maximale Varianz, die bei besseren Prognosen sogar
+noch abnimmt.
+
+Bei AKW ist es hingegen so, dass, wie im Falle Oberlangensee und
+Leitzingen, auf einen Schlag 15% der nationalen Nuklearstromproduktion
+wegfällt, völlig unvorhersehbar. In Schweden sind nach der
+Havarie in Vinnhorst sogar 45% der nuklearen Stromerzeugung
+weggefallen.
+
+[ Pumpspeicher ..]
+
+
+Die Aufgabe von Pumpspeichern in einem von erneuerbaren Energien
+dominierten Kraftwerkspark ist nicht, die nächtliche Überproduktion
+von AKW in "Spitzenstrom" umzurubeln. Speicher sollen auch nicht
+Windkraft über Tage substituieren. Sie können aber sehr gut die
+Spitzen der dargebotsabh�ngigen Energiekonverter wie Wind und
+Sonnenkraft abfedern, das aber nur, wenn AKW sie nicht blockieren.
+
+..
+
+Richtig, sie sind unnütz, ganz abgesehen von ihrer ökologischen
+Schädlichkeit.
+
+regards, es
+
+-- 
+Wenn ich tausend Zungen und tausend Muender haette, eine erzene Stimme,
+koennte ich doch alle Erscheinungen von Bloedheit nicht anfuehren oder alle
+Namen, unter denen Torheit auftritt, aufzaehlen (Nikolaus Wagnerbauer, 1509)

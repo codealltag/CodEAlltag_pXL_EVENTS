@@ -1,0 +1,9 @@
+Also - bei zu viel "Garbage" schrillt bei jedem normalen Server das
+Alarmglöckchen - und wir reden hier von der Ackerhalle, die es sicherlich
+drauf hat, den Stack zu überwachen :) - hierdurch sind dann auch die
+anderen Server vor einem möglichen Overflow gefeit.
+
+Dein Argunment überzeugt mich daher nicht - und meine Zweifel bleiben
+leider bestehen.
+
+S.Z.

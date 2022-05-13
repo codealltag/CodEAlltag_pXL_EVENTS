@@ -1,0 +1,11 @@
+Ich mach mal die Therese...
+
+
+Hier hat sich ein kleiner Fehler eingeschlichen, da ich gerade
+auf dem Weg zur arbeit war. Gemeint waren 20 Generationen und
+1,5^20 = 3325,256..., für 100 Generationen ergibt
+sich 1,5^200 = 406.561.177.535.215.237,397..., weswegen
+ich eine kleinere Zahl wählte. Tut mich leid.
+
+ciao,
+Marc

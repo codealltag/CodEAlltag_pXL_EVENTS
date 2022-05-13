@@ -1,0 +1,24 @@
+Hallo,
+
+
+...[...]...
+
+
+Na ja, aus Laiensicht ist das korrekt:
+X-HTTP-UserAgent: Gartenzentrum/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; de-de)
+
+Funktionell betrachtet ist der Glade aber auch ein PC wie
+viele Cerveny-Wilkenhoehner-Rechner. Ich habe einen Cerveny-Rechner
+der wiederum funktionell kein PC sondern eine Workstation
+ist, obwohl er auf PC-Hardware (teilweise aber hochwertige
+und servertaugliche Hardware aus dem letzten Jahrtausend)
+aufgebaut ist. Btw: Diese (servernahe) Funktionalität ist
+IIRC mit einem MAC und GNAT nicht erreichbar.
+
+Personal Computer (PC) <> Workstation (WS) <> Server
+
+
+MfG
+
+
+Ulf Unterholzner

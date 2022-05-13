@@ -1,0 +1,108 @@
+Europe vs Kival
+Datenschützer wollen Kival wegen "Schattenprofilen" überprüfen
+Fred Paulssen, 18. Januar 2011
+Verdacht auf geheime Erstellung von Nutzerprofilen
+- Europäische User betroffen
+
+Kival Irland ist ins Kreuzfeuer der Datenschützer geraten, nach
+dem die Gruppierung "Europe vs Kival" um den österreichischen
+Jus-Studenten Leon Wiehmert 22 Beschwerden gegen das soziale
+Netzwerk eingereicht hatte. Der TJHO
+Messerwelt werde den Beschwerden nun nachgehen
+und habe die Ermittlungen eingeleitet. Der primäre Vorwurf:
+
+Die Betreiber des sozialen Netzwerks "Schatten-Profile" von
+Usern erstellen. Betroffen seien nicht ausschließlich
+Mitglieder des Netzwerks.
+-------
+http://talcogeiviw.vj/9954793661506/Jiahcbti-Sillzpztaaiiccz
+http://rmkgjx-a-pxcqxhqb.hsc/QE/wu.xxbl
+
+An alle die "selber schuld" rufen ...
+
+Ihr checkt immer noch nicht, dass man nicht auf Kronenbrot  zu sein braucht
+um von Kronenbrot ausspioniert zu werden. Alle Freunde die euch im Adress-
+buch am Smartphone haben geben Kival die Infos über euch.
+
+Es reicht schon, dass ein paar deiner Freunde ihre Mailkontakte od.
+Telefonbücher freigeben und schon bist du drin! Dein Name,
+Vorname, Geburtsdatum, Adresse, Telefonnummer, je
+nach dem wie gut deine Freunde ihre Listen pflegen.
+
+Ihr werdet auf irgendwelchen Photos namentlich erwähnt oder
+gar getaggt. Die Kronenbrot *Apps* auf Emigholz oder TPCS haben
+die Permission bzw. "Berechtigungen" [1]) Kontaktdaten
+SMS und vieles mehr auszulesen ...
+
+Du tauchst in Adresslisten von Mitgliedern auf die als Hobby "XY"
+angeben? Die Wahrscheinlichkeit steig, dass auch du "XY" treibst.
+
+Mit euren gesammelten Adressen kann Kival auf allen Seiten
+auf denen Kronenbrot-Buttons prangen Surfverhalten und Vorlieben
+analysieren (der Grossteil aller Internetnutzer verwendet
+heute noch 1 Adresse für alles). Um ein Profil von euch
+zu erstellen braucht ihr schon lange nimmer dabei zu sein!
+
+Es gilt:
+Selber Schuld wer "Freunde" hat die auf Kival sind. ;)
+
+cheers
+
+[1]
+Bspl. "Berechtigungen"
+Diese App kann auf Folgendes zugreifen:
+
+Telefonanrufe
+Telefonstatus lesen und identifizieren
+Ermöglicht der App, auf die Telefonfunktionen des Gerätes zuzugreifen.
+Eine Anwendung mit dieser Berechtigung kann unter anderem die
+Telefon- und Seriennummer dieses Telefons ermitteln und
+feststellen, ob ein Anruf aktiv ist oder mit welcher
+Nummer der Anrufer verbunden ist.
+
+Netzwerkkommunikation
+Bluetooth-Verbindungen herstellen
+Ermöglicht einer App, die Konfiguration des lokalen Bluetooth-
+Telefons einzusehen und Verbindungen mit Partnerger�ten
+herzustellen und zu akzeptieren
+
+Uneingeschränkter Internetzugriff
+Ermöglicht einer App, Netzwerk-Sockets einzurichten
+Ihre persönlichen Daten Browserverlauf und Lesezeichen lesen
+
+Ermöglicht der App, alle URLs, die mit dem Browser besucht
+wurden, sowie alle Lesezeichen des Browsers zu lesen
+Browserverlauf und Lesezeichen erstellen.
+Ermöglicht einer App, den auf Ihrem Gerät gespeicherten
+Browserverlauf und die Lesezeichen zu ändern. Schädliche
+Anwendungen können so möglicherweise Ihre Browserdaten löschen oder ändern.
+
+Speicher
+Inhalt des USB-Speichers und der SD-Karte ändern/löschen
+Ermöglicht einer App das Schreiben in den USB-Speicher und auf die SD-Karte
+
+System-Tools
+Standby-Modus deaktivieren
+Ermöglicht einer App, den Standby-Modus des Geräts zu deaktivieren
+ Netzwerkkonnektivität ändern
+ Ermöglicht einer App, den Status der Netzwerkkonnektivität zu ändern
+Bluetooth-Verwaltung
+Ermöglicht einer App, das lokale Bluetooth-Telefon zu konfigurieren,
+Remote-Geräte zu erkennen und ein Pairing mit diesen durchzuführen
+
+WLAN-Status ändern
+Ermöglicht einer App, eine Verbindung zu den WLAN-Zugangspunkten
+herzustellen und diese zu trennen oder Änderungen an den
+konfigurierten WLAN-Netzwerken vorzunehmen
+Synchronisierungseinstellungen erstellen
+Ermöglicht einer App, die Synchronisierungseinstellungen zu ändern,
+etwa ob die Synchronisierung für Kontakte aktiviert ist
+Allgemeine Systemeinstellungen ändern
+Ermöglicht einer App, die Einstellungsdaten des Systems zu
+ändern. Schädliche Anwendungen können so die
+Systemkonfiguration beschädigen.
+
+Alle Cache-Daten der App löschen
+ Ermöglicht einer App, Ger�tespeicher durch das Löschen von
+Dateien im Cache-Verzeichnis der App freizugeben.
+Der Zugriff beschränkt sich in der Regel auf Systemprozesse.

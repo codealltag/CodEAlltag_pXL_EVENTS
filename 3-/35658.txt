@@ -1,0 +1,3 @@
+Ein schoenes Beispiel fuer Fehlallokation und Verschwendung von
+Ressourcen, weil die Preise *von oben* und nicht vom Markt festgelegt
+wurden. Hoffentlich liest das der Olsen ;-))

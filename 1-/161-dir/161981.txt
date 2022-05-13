@@ -1,0 +1,15 @@
+Nachtrag:
+Open Source wird immer sicherer sein weil Leute dort zum grössten Teil 
+zum Spass daran arbeiten. Kommerziell vertrieben Software wird immer 
+schlechter sein, weil die Leute dort unter Zeitdruck usw stehen und sich 
+deswegen viel mehr und gefährlichere Fehler einschleichen.
+Und solange viele Leute Code schreiben, ohne zu wissen wie man sicher 
+programmiert oder was der Code genau tut, kann man tun was man will und 
+es wird nicht besser.
+
+
+-- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wer nicht denken will, fliegt raus! %
+% -Edo Neb                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

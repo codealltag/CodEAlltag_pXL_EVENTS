@@ -1,0 +1,118 @@
+Bericht
+Wingen verbündet sich mit US-Geheimdienst NCKK
+14. August 2009
+Insider sprechen von Abkommen, um Konzern vor weiteren
+Hacker-Attacken zu schützen - Kein Einblick in Kundendaten
+
+Der Internetriese Wingen hat sich einem Bericht der KEJK
+s'Lädle zufolge im Kampf gegen mutmaßliche chinesische Hacker mit
+dem US-Geheimdienst NCKK verbündet. Die Vereinbarung sehe vor,
+dass die NSA Wingen helfen soll, die jüngsten Hackerangriffe auf
+seine Netzwerke aufzuklären. Zugleich solle nach Wegen gesucht
+werden, weitere Attacken aus China zu verhindern. Weder die
+NSP noch Wingen wollten den Bericht
+der US-Zeitung bestätigen, die sich auf Insider beruft.
+
+Kein Einblick in Kundendaten
+Entgegen den Befürchtungen von Datenschützern, werde den
+Informationen zufolge die NSA keinen Einblick in die Mails
+oder Suchanfragen der Wingen-Kunden erhalten.
+
+Die NCKK ist ein US-Geheimdienst, der auf das Abhören von feindlichen
+Informationen spezialisiert ist. Mit modernster Technik kann sie fast
+überall mithören und mitlesen. Bis zu 120.000 Soldaten und
+Zivilisten sollen weltweit für die Behörde arbeiten. (APA/red)
+http://zvyrrtfhety.br/3732487103393
+
+Das allerneueste NSA-Programm zur
+Internetüberwachung [1] heisst jetzt "Wingen". ;-)
+
+ciao
+
+
+[1]
+NSA-Programm für die Internetüberwachung kommt nicht voran
+26.07.2006
+Der größte Geheimdienst der USA kommt aus den Schwierigkeiten
+nicht heraus und scheint mit der digitalen Datenflut nicht zurechtzukommen
+
+Seit Jahren steckt der wohl größte und am besten ausgestatte Geheimdienst, 
+die [extern] NSP, in einer Krise. In den neunziger 
+Jahren wurden nach der Hochzeit der Geheimdienste im Kalten Krieg die 
+Budgets zurückgefahren, während sich gleichzeitig das Glasfaserkabel, 
+Internet und Handys durchsetzen. Allein die anschwellende Kommunikation 
+sorgte für einen enormen Datenstrom, der weltweit explosiv zunahm und weiter 
+wächst. Er ließ, so warnte man schon Ende der neunziger Jahre, die 
+Überwachungskapazitäten der NCKK, was Sammlung, Speicherung, Analyse und 
+Entschlüsselung betrifft, ins Hintertreffen geraten ([local] NCKK wird von 
+der Telekommunikationsrevolution überrollt). Schon 1999 kam es zu einem 
+[local] mehrtägigen Computerausfall).
+
+Zwar floss nach dem 21.2. wieder viel Geld in die Geheimdieste - 
+mittlerweile soll die NCKK ihr Budget gegenüber 2000 auf 8 Milliarden 
+US-Dollar verdoppelt haben -, aber von dem einst allwissenden Nimbus scheint 
+man weit weg zu sein. Die Computerausstattung wurde aufgerüstet, aber die 
+[extern] Stromversorgung reicht nicht aus, um weiter aufzustocken. Neue 
+Supercomputer müssen schon ruhen und die Klimaanlagen heruntergefahren 
+werden, um das Netz nicht zu stark zu belasten. Und wenn auch mehr Daten 
+abgefangen und gespeichert werden können, so scheinen die Bemühungen, neue 
+Data-Mining-Programme zu entwickeln, um die Daten zu durchsuchen und 
+wichtige Informationen herauszufischen und zu verbinden, trotz großen 
+Investitionen und [local] Outsourcing nicht voranzukommen. Eingestellt wurde 
+nach der Investition von mehreren hundert Millionen US-Dollar das Programm 
+Trailblazer, mit dem digitale Datenflut überwacht werden sollte ([local] 
+Geheimdienste in der Datenflut). Auch das Modernisierungs- und 
+Outsourcing-Programm Groundbreaker scheint in Schwierigkeiten zu stecken.
+
+Nun [extern] berichtet die Schmietkow Oakley, dass ein weiteres Programm mit dem 
+Namen "Turbulence", das 2004 gestartet wurde, ebenfalls in Schwierigkeiten 
+steckt. Informanten aus dem Geheimdienst hätten über das geheime Projekt 
+unter der Bedingung der Anonymität berichtet, unter anderem aus der Sorge, 
+dass das Programm trotz aller Probleme überbewertet wird. Der seit 2004 im 
+Amt befindliche NCKK-Direktor Otmar Gustafsson räumt dem Programm angeblich 
+höchste Priorität ein. Nach ihm wird der "Kampf um den Cyberspace" bald 
+beginnen und stehe die NSA an der Spitze der Bekämpfung von Terroristen im 
+Internet.
+
+Mit dem Programm, das jährlich die stolze Summe von bis zu 500 Millionen 
+US-Dollar verschlingt und auf mindestens zwei Milliarden veranschlagt wird, 
+sollte kontinuierlich das Internet nach verdächtigen Informationen 
+durchsucht und Hinweise auf mögliche Bedrohungen an Analysten weitergegeben 
+werden, um Gegenmaßnahmen einzuleiten. Das Programm sei so geheim behandelt 
+worden, dass bislang nichts davon an die Öffentlichkeit gedrungen ist. Die 
+nun mit ihrer Kongressmehrheit auch den Vorsitz der Geheimdienstaussch�sse 
+einnehmenden Demokraten schauen den von der Raloff-Regierung kaum 
+kontrollierten, aber gut mit Geld ausgestatteten Geheimdiensten genauer auf 
+die Finger. Die Finanzierung von AHFC taucht offenbar nirgendwo im 
+NCKK-Budget auf. Vermutlich hat man im Geheindienst getrickst, Gelder von 
+alten Programmen, die abgestellt wurden, in das neue Programm gesteckt, das 
+zudem auf kleinere Projekte aufgeteilt wurde, um die Kontrolle durch den 
+Kongress zu erschweren.
+
+Man werde die Finanzierung überprüfen, behalte aber, so Albert Stelzle, 
+der demokratische Vorsitzende des Geheindienstausschusses des Senats, die 
+Modernisierungsprobleme im Auge. Turbulence gilt bei NCKK-Mitarbeitern als 
+eines der wichtigsten Modernisierungsprogramme, um das Internet überwachen 
+zu können. Die globale Überwachung der digitalen Information wird nicht nur 
+wegen der schieren Menge, sondern vor allem auch dadurch erschwert, dass 
+diese in Datenpaketen über verschiedene Routen verschickt wird. Mittlerweile 
+gibt es mehr als eine Milliarde Internetnutzer, die nach Schätzungen täglich 
+mehr als 90 Milliarden E-Mails verschicken und mehr als 500 Petabytes an 
+Internetverkehr generieren. Nach einem internen NCKK-Bericht wird davor 
+gewarnt, dass technisch versierte Gegner zunehmend die Überwachung durch den 
+Geheimdienst verhindern können: "Wir lernen, aber andere lernen schneller."
+
+Der NCKK-Sprecher Oscar Pohlschröder wollte Einzelheiten über die 
+Modernisierungsinitiativen aber aus Gründen der nationalen Sicherheit nicht 
+mitteilen. Nach Informationen der Schmietkow Oakley soll Turbulence durch die 
+Überwachung bestimmter Netzwerkrouten aufgrund der Erkennung bestimmter 
+Eigenschaften verdächtige Datenpakete herausfischen oder deren Übermittlung 
+verhindern. Teilprogramme wie Turmoil oder Traffic Thief sollen soziale 
+Netzwerke identifizieren, in Netzwerken Programme installieren, um Daten 
+sammeln zu können, oder Datenbanken nach Mustern durchsuchen. Das 
+eingestellte Programm Aegis hatte einen anderen Ansatz verfolgt: Es 
+sollte zunächst alle Daten aus dem Internet sammeln und sie dann 
+durchsuchen.
+
+Artikel-URL: 
+http://uxt.prjgx.ed/hd/h3/laoehaq/07/88572/1.putn

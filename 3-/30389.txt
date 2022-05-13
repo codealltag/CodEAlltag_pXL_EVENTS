@@ -1,0 +1,22 @@
+Dann haben wir erstmal eine verringerte(!) Pumpleistung.
+
+Jetzt einen Schritt weiter: wenn durch die Aschw�chnung der Zirkulation die 
+Temperaturdifferenzen wieder zunehmen, nimmt auch die Pumpleistung wieder 
+zu, wenn auch nicht auf das Niveau, das bei Eisbedeckung einträte. Zur 
+Pumpleistung tragen auch nicht nur die unterschiedlichen Wassermassen bei, 
+sondern auch (aktiver werdende) Windsysteme. So kommen Wetterzyklen mit 
+Perioden von einigen Jahrzehnten zustande ('nordatlantische Oszillatikon'), 
+die man erst infolge der Sensibilisierung für Klimafragen entdeckt hat.
+
+Bei der Golfstrom-Zirkulation spielt neben der Abkühlung auch der höhere 
+Salzgehelt des (sub)tropischen Wassers eine Rolle (befördert das Absinken), 
+und zum Aufrechterhalten der Zirkulation im südlichen Teil tragen maßgeblich 
+die Passatwinde bei, begünstigt durch den Küstenverlauf in Mittelamerika. 
+Aus letzterem Grund ist der Effekt (Erwärmung des östlich angrenzenden 
+Kontinents) im Atlantik stärker als im Pazifik.
+
+Solche Details sind der Grund, weshalb verschiedene Klimamodelle quantitativ 
+voneinender erheblich abweichende Resultate liefern können.
+
+Gruß
+Ulf

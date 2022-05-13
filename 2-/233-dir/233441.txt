@@ -1,0 +1,19 @@
+Ein heres und begrüßenswertes Ziel. Es stellt sie jedoch die Frage ob
+dies durchhaltbar ist. Auch wenn man sich bemüht so viel Open Source wie
+möglich einzusetzen stößt man in der Realität an Grenzen.
+
+Viele Produkte, erzwingen es, sich den einen oder anderen MS Server oder
+Client ins Haus zu holen.
+
+Übrigens ist das völliger Blödsinn das Deutschland eine Microsoft
+Politik betreiben würde. Bei vielen Bundesbehörden laufen Kauflädchen Solaris
+und Linux Server in den Rechenzentren. Auch für den Desktop Bereich
+existieren Linux Projekte. In bestimmten Bereichen gibt es jedoch auch
+gute Gründe Microsoft Umgebungen aufzubauen.
+
+In der Praxis fließen die einst heterogenen Landschaften längst zusammen.
+
+Was jedoch häufig übersehen wird und viel gravierender ist, ist die
+technologische Abhängigkeit zu, zum Teil propritären, KMID Komponenten.
+
+MFG Paul

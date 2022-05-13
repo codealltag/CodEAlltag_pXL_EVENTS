@@ -1,0 +1,32 @@
+Man stellt also erstmal ein Modell auf, wie die Atmosphäre funktioniert, 
+d.h. z.B. wie Infrarotstrahlen sich darin verhalten. Dann entwickelt man 
+einen sinnvollen Versuchsaufbau aus dieser Modelannahme.
+Man schickt also beispielsweise Infrarot durch verschiedene Proben und 
+misst dabei, was man so messen kann und variiert alle möglichen 
+Parameter. dazu gehören beispielsweise die Frequenz der Strahlung, der 
+Druck, die Feuchtigkeit der Luft etc.
+Daraus entwickelt man ein Modell, welches Temperatur einer Probe und 
+Intensität der Strahlung in Beziehung setzt.
+
+Wenn man das alles hat und sein Modell sauber mit den Messwerten 
+zusammen passt, dann kann man weitere Größen variieren. Man verändert 
+jetzt die chemische Zusammensetzung der Luft, denn dies ist ja die 
+eigentliche Frage gewesen. Nämlich war die Annahme, daß CO2 die 
+Temperatur der Probe erhöht. Jetzt untersucht man sein Modell unter 
+Variation der Größe CO2-Gehalt der Luft und vergleicht den Wert der 
+Änderung mit dem entsprechenden Wert für die Änderung anderer Parameter 
+(beispielsweise andere Gase wie CO, Methan, Wasserdampf etc.).
+
+Dann kann man schließlich abschätzen, wie signifikant die 
+interessierende Größe (Temperatur) von der variierten Größe (
+hier: CO2-Gehalt) abhängt.
+
+Der Versuchsaufbau selber ist nun Aufgabe des Experimentators und hängt 
+von zahlreichen Größen ab. Erstmal vom angenommenen Wirkmechanismus, 
+also dem vermuteten Klimamodel. Dann spielt natürlich eine Rolle, welche 
+Gerätschaften einem zur Verfügung stehen und wie genau die arbeiten.
+
+Deswegen ist die gestellte Frage so gar nicht zu beantworten, sondern 
+wird im Rahmen der Planung solcher Versuche gelöst.
+
+ITALO

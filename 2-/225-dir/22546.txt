@@ -1,0 +1,5 @@
+Nope.
+Ein anständiger Browser kommt mit krudem HTML zurecht.
+Ein anständiger Newsreader mit verbreiteten aber nicht RFC-konformen
+Headern. Wenn ein Reader bei OE-Headern in die Knie geht, ist er
+Schrott.

@@ -1,0 +1,22 @@
+Das ist bei allen Banken schon seit Jahren so, die letzte Stelle der 
+Kontonummer ist die Kontrollziffer. Bei Papier�berweisungen wird die 
+auch immer von der Dählmann geprüft, meist schon von der ausführenden Bank. 
+Beim Onlinebanking kommt es auf die verwendete Software an, wenn die 
+nicht prüft landet die Überweisung im Nirvana der empfangenden Bank 
+Normalerweise sollte dann die Überweisung zurückgehen. Problematisch 
+wird es nur wenn Du Dich bei mehreren Stellen verschreibst, oder die 
+Kontonummer von jemandem Anderen als dem gewünschten Empfänger 
+verwendest. Viele Leute sollen ja beim Onlinebanking die Kontonummer aus 
+einer Liste in das Programm kopieren, und da kann man schon mal um eine 
+Zeile verrutschen. Und in solchen Fällen hilft auch keine 
+Kontrollziffer, da hilft nur wenn die Empfängerbank prüft ob Kontonummer 
+und der Name des Empfängers übereinstimmen. Viele Banken machen das, 
+aber nicht alle. Und Du hast als überweisender darauf auch keinen 
+Einfluss, da Du ja nicht Kunde dieser Bank bist.
+
+Urs
+
+-- 
+Urs Cassebaum
+55111Sillvzj 9s86'26.90 E 30�53'96.42 V
+http://lgg.timuvxotke.pba/gthlipugd/tedz_2349010.gsc

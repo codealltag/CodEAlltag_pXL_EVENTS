@@ -1,0 +1,10 @@
+ist es das? Vor einigen Jahren wurde durch die EU die 
+Genauigkeitsanforderung an die Messeinrichtung von Zapfsäulen von bisher 
++-0,1% auf +-1% reduziert, da bei den neuen Brüdern im Osten die Zapfsäulen 
+nicht mehr konnten, und man denen nicht zumuten wollte, die alle zu 
+ersetzen. Die Zapfsäulen hierzulande, die auf +-0,1% messen können, wurden 
+daraufhin so umgestellt, dass sie eben gerade so in der neuen Toleranz 
+liegen.
+
+Gruß,
+Enrico

@@ -1,0 +1,28 @@
+"SonnenscheinSammy" schrieb
+
+
+Es ist aber wichtig, daran zu erinnern, dass er normalerweise unbestritten 
+alles _kann_ (wenn er es kann, das ist eine andere traurige Geschichte), 
+aber _nicht_darf_. Ich würde von jedem Administrator verlangen, dass er 
+sich das Wissen aneignet, mit dem er alles mit den Rechnern der Benutzer in 
+seiner Domäne machen kann. Nur wenn er dieses Wissen hat, kann er 
+kontrollieren, dass die Regeln eingehalten werden, und diese Aufsicht 
+zweifellos gehört zu den Aufgaben von Administratoren.
+Zu den Regeln, gehören aber auch Datenschutz-Regelungen, und damit die 
+durchgesetzt und eingehalten werden, müssen die erst einmal zur Kenntnis 
+gegeben werden... Idealwerweise gehört ein Betriebsrat dazu, der sich in 
+der Materie auskennt oder - der Arbeitgeber muss das bezahlen - "sich 
+auskennen lässt", der sich dann auch noch durchsetzen kann.
+
+Und so weiter und so fort. Das ist ein kompliziertes Gebiet.
+
+Wichtig ist, dass alle sofort laut widersprechen, wenn jemand behauptet 
+"der Admin in einer Domain darf alles auf den Rechnern der Mitarbeiter 
+machen"! Denn das stimmt nicht und man muss es sich nicht gefallen lassen.
+
+
+Was spricht dagegen, dem Administrator zu sagen, dass sich ein Staatsanwalt 
+mit ihm beschäftigen wird, wenn ... ?
+Ich finde, er sollte es vorher wissen.
+
+Thierry

@@ -1,0 +1,9 @@
+Wo soll die aufgenommene Leistung denn sonst hin? Wenn der Fernseher 400W 
+Leistung aufnimmt, dann beträgt auch die Wärmeleistung 400W. Der einzige 
+formale Fehler des Vorposters ist, dass die Wärme natürlich anstelle von 
+Abstrahlung auch über Konvektion an die Umgebung abgegeben werden kann, 
+möglicherweise macht das sogar den Hauptanteil aus. Aber für die Aussage, 
+die er rüberbringen wollte; spielt das keine Rolle.
+
+Gruß,
+Thorsten

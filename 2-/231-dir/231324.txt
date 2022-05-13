@@ -1,0 +1,40 @@
+Moin,
+
+Wolfgang Büttinghaus schrub:
+
+
+Kann man (muss man?) das so verstehen:
+
+Die Bank hat 100? Eigenkapital. Sie kann diese 100? verleihen, zu
+sagen wir 5% Zinsen. Diese 100? laufen durch die Gegend und
+landen irgendwann wieder auf einem Sparkonto irgendeiner Person
+bei dieser Bank mit dem Zinssatz von sagen wir 3%. Die Bank hat
+also die 100? wieder. Sie muss davon 2? bei der Zentralbank
+hinterlegen und kann ergo 98? wieder neu verleihen.
+
+Das Spielchen geht so lange weiter, bis das ganze Eigenkapital
+der Bank bei der Zentralbank hinterlegt ist. Zu diesem Zeitpunkt
+hat die Bank rund (oder exakt?) 50*100? verliehen und ebenso von
+Sparkontoinhabern wiederbekommen. Auf diese 5000? muss die Bank
+Sparzinsen zahlen und kann Kreditzinsen kassieren. Sie bekommt
+also Netto 2% auf die 5000? macht einen Gewinn von 100?. Und das
+bei 100? Eigenkapital: Also eine Eigenkapitalrendite von 100%. 
+
+Nichts desto trotz fällt auf, dass hier was nicht stimmt: Wenn
+man so einfach mit 100? loslegen kann, eine Bank gründen und
+eine Kapitalrendite von 100% erwirtschaften kann, warum sollte
+ich dann meine 100? in ein Unternehmen - noch dazu ein eigenes -
+investieren, da gründe ich doch einfach eine Bank oder beteilige
+mich an einer solchen. 
+
+In einem ausgeglichenem Markt sollte es so sein, dass es sich
+gleich bleibt, wo ich mein Geld investiere, überall ist die
+Rendite gleich. Wenn es irgendwo eine besonders große Rendite
+gäbe, würden da alle investieren und die Rendite zerfällt bis
+auf ein gesundes Maß. Bei Banken haben wir aber offensichtlich
+derzeit die Situation, dass diese eine erheblich größere
+Eigenkapitalrendite schöpfen können, als alle anderen Branchen. 
+
+Das kann nicht gesund sein.
+
+CU Rollo

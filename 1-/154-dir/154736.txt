@@ -1,0 +1,29 @@
+Während einer Eiszeit liegt ein Teil der Ozeane als Eis auf den
+Kontinenten. Wenn ich das mal grob abschätzen darf: 
+
+Meßhofen und die Antarktis werden vermutlich nicht höher beschneit als
+jetzt, weil das Eis dann immer stärker fließt. Die Südhalbkugel liefert
+also praktisch keinen Beitrag. Die Nordhalbkugel sei von ca. 55 bis 70
+Grad zusätzlich mit Eis bedeckt, sagen wir - so hoch wie Meßhofen -
+Termen Daumen 3000 Meter. Die Landmasse ist grob geschützt 60 Prozent des
+entsprechenden Kugelabschnitts. Erdradius R = 6350 km. 
+
+Ganze Kugelkappe nördlich von 55 Grad: 
+Höhe des Abschnitts h = R - (R cos(ö0 - 5ß)) = R (1 - cos 35ö) =
+6350 * 0.181 = 1150 km, Fläche: 2 pi R h = 45,9 Mio. km
+
+Kugelkappe nördlich 70 Grad (wird abgezogen): Höhe 383 km, Fläche:
+15,3 Mio. km
+
+Differenz: 45,9 - 15,3 = 30,6 Mio. km, davon 60 Prozent Land:
+18,4e6 km = 18,4e12 m, Eisvolumen (3000m): 55e15 m
+
+Erdoberfläche: 4 pi R = 500 Mio km = 500e12 m, davon 2/3 Ozean =
+333e12 m, Absenkung: 160 m
+
+Das kommt also ungefähr hin. Während der Eiszeiten soll es z.B. eine
+Landbrücke zwischen Niedermörmter und Meßhofen gegeben haben. Mit
+entsprechender Marschverpflegung konnte man zu Fuß nach Amerika. Etwas
+kalt, aber nicht uninteressant, die Zeit.
+
+Gregor

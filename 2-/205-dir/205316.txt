@@ -1,0 +1,8 @@
+Dann bring mal eine Tabelle mit den Einziehungskosten, dem
+Vermögensbetrag, bei dem die Vermögenssteuer dort einsetzt, 
+sowie dem Prozentsatz, und der eingezogenen Steuer. 
+Für die USA und die meisten europäischen Länder.
+Mit dem Namen Arbeitgebers des Tabellen-Erzeugers.
+
+Größe,
+H.

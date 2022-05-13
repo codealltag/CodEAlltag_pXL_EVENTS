@@ -1,0 +1,6 @@
+Openoffice öffnet ohne Probleme alle Worddatei, auch die neuesten von MS
+Office 2010. Bei Tabellen kommt aus auf die Art an, wie Du importierst. Ich
+weiß ja nicht, welche Foren Du frequentierst, aber kurzes googlen hat mir
+Recht gegeben. 
+Ich nutze seit 3 jahren OO und hatte weder mit Tabellen noch mit Dokumenten
+Probleme. Habs immer irgendwie eingelesen bekommen.

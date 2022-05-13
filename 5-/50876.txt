@@ -1,0 +1,31 @@
+Doch, oder von wem stammt denn "Pi = 355/113  ->  mehr nsch"
+
+_Immer_ diese Näherung zu nehmen, auch wenn die Rechnung eine
+höhere Genauigkeit erfordert _ist_ ein lascher Umgang der zu
+falschen Ergebnissen führt.
+
+Das haben schonmal ein paar Amerikaner probiert die Pi per Gesetz
+festlegen wollten. *g*
+
+
+Es ist offenbar weniger ein Problem der Zahlen, als derjenigen die
+sie falsch interpretieren.
+
+
+Gerade in der Astronomie und bei Bahnberechnungen ist Fehlerrechnung
+nun wirklich keine neue Erkenntnis, auch wenn dir das vielleicht
+nicht gefällt. Und es ist auch nicht ungewöhnlich dass man die
+Fehlerrechnung nur dann macht, wenn man sich davon einen Mehrwert
+verspricht. Allerdings setzen sie auch ein Grundwissen voraus,
+einem kompletten technischen Laien wird das nicht allzuviel sagen,
+dem muss man das dann entsprechend aufbereiten. Laien kann man
+auch mit Angabe des "Fehlers" verwirren, wenn die sich plötzlich
+wundern dass der echte Wert mit neuen genaueren Messdaten plötzlich
+ausserhalb des angegebenen Bereichs liegen. 
+
+
+Sorry dass ich mich vor deinen Räubergeschichten nicht ihn Ehrfurcht
+verneige, aber die haben mit den kritisierten Zahlenkolonnen eigentlich
+gar nichts zu tun.
+
+Sébastien

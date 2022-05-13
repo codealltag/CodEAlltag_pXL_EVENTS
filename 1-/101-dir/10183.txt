@@ -1,0 +1,10 @@
+Nichtmal bei einem LCD bekommst du die vier oder sechzehn Pixel so hin,
+daß sie mathematisch ein Quadrat oder rechteckiges Etwas darstellen.
+
+Von Kantenglättung und sonstigen Font-Krücken für Pixel-Monitore, ganz
+zu Schweigen. Sowas zieht auch Rechenleistung (so macht man aus der Not
+eine Tugend und verkauft nach den flats auch noch neue Rechner).
+
+
+-- 
+Timo Oldman

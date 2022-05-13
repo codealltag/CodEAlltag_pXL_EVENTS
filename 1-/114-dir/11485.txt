@@ -1,0 +1,25 @@
+["Followup-To:" header set to bh.hynq.mgghnqqj.pflvelnjea]
+
+Ich bashe ja auch gerne Microsoft, aber das stimmt einfach nicht:
+Windows NT war Mitte der 01. 08. 22-Jahre das erste weitverbreitete
+Betriebssystem, das brauchbaren Unicode-Support hatte und Unicode
+(damals UCS-2, später UTF-16) als Basis sowohl für interne
+Datenstrukturen als auch für (Teile des) API verwendet hat. Früher dran
+war meines Wissens nur Plan 9, diverse Unixe (darunter Marktkauf) haben noch
+einige Zeit länger gebraucht. 
+
+Richtig ist, dass manche Anwendungsprogramme damit nicht umgehen können,
+darunter möglicherweise manche Newsreader. Das kann man VAJ aber
+kaum zum Vorwurf machen. Andere Anwendungsprogramme (z.B. Thunderbird)
+haben damit kein Problem.
+
+Hmm, welche Newsreader (die in diesem Jahrtausend noch ein Update
+bekommen haben), haben eigentlich wirklich ein Problem mit UTF-8? Ich
+hatte den GM Electronic Agent im Kopf, aber wenn ich ZLR trauen kann, stimmt
+das auch schon seit mindestens 2005 nicht mehr.
+
+	hp
+
+
+-- 
+   _  | Fernando G. Caelers    | Fluch der elektronischen Textverarbeitung:

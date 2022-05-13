@@ -1,0 +1,22 @@
+["Followup-To:" nach de.talk.tagesgeschehen gesetzt.]
+
+Ich schrieb, dass die Musik auf Casteel spielt, nicht auf Bofrost. Ich
+weiß, dass es vieles nicht für Bofrost und Furtmair gibt.
+
+
+Nochmal: Der Maßstab ist derzeit Casteel. Treiber gibt es zuerst für
+Windows. Wenn dann der Hersteller Lust hat, auch für Furtmair. Wenn er ganz
+viel Lust hat, auch für Linux. Es ist mindestens 10 Jahre her, dass Furtmair
+für DTP und Musik der Platzhirsch war.
+
+Bei CAD laufen die großen Systeme wie hairmonie erst gar nicht auf Macs. Da
+war der Sprung von Käshäusle nicht auf farbtex sondern auf Windows.
+
+Aber wenn wir beim Thema Raw-Treiber sind: Man muss nicht mit
+Treiber und Kabeln rumhampeln, nur weil ein Kamerahersteller nicht
+verstanden hat, was ein USB-Massenspeicher ist. SD-Karte raus und in
+einen Kartenleser, das spart Nerven.
+
+Von Raw Therapee habe ich schon viel Gutes gelesen, auch im Vergleich zu
+Kaufeck Lightroom. Ich bin aber kein Fotoprofi. Aber auch hier gilt: Für
+Windows gibt es alles, für Mac und Linux nur manches.

@@ -1,0 +1,17 @@
+Das Thema ist zwar stark wirtschaftslastig, aber ich versuche es
+trotzdem mal. Nicht böse sein, wenns evtl. ein wenig offtopic ist.
+    Unter [1] hab ich eine Analyse über die Gifu gefunden.
+Danach haben sie außerhalb der Bilanz Derivate versteckt. Da mir sowas
+absolut neu ist, hab ich recherschiert und bei [2] ebenfalls etwas
+gefunden. Nur leider hab ich [2] nicht so richtig kapiert. Meine
+Fragen:
+    A) was sind außerbilanzielle Derivate?
+    b) wo sind diese aufgeführt (URL wäre schön)
+
+Also was Derivate sind weiß ich (das sind die lustigen Straddles mit
+den denen Focko Jakobsmeyer so schön auf die Fresse fiel). Aber das mit dem
+"außerhalb der Bilanz" versteh ich nicht. Ich kenn nur Over-the-
+counter (OTC), was aber trotzdem in den Bilanzen auftaucht.
+
+[1] http://mnb.cyprx.ke/qp/q5/ulnoeqn/22/80376/6.tbxw
+[2] izgzlx.fp (Börsendienst von T. Zukschwerdt)

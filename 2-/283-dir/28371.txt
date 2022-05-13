@@ -1,0 +1,17 @@
+Na dann rechnen wir mal. Erdradius 6000km oder 10^6m ergibt nach F=4_PI_r^2 
+eine Erdoberfläche von etwa 12x36x10^12 Quadratmetern.
+
+Wenn die 6000t Material Gestein (mit typischer dichte 4g/cm) bilden, dann 
+sind das 1.5x10^3 Kubikmeter.
+
+Die Höhe der täglich abgelagerten Schicht erhalten wir, indem wir dieses 
+Volumen durch die Erdoberfläche teilen. Ergebnis 3.47x10^-12 Meter  
+
+grob gerundet ergibt das
+nach einem Jahr: 1.2x10^-9m
+nach einer Mio. Jahre: 1.2mm (da wirds langsam sichtbar)
+nach 100 Mio. Jahre: 12cm
+
+Vor etwa 130 Mio. brach der letzte Superkontinent auseinander; die 
+Bruchstücke sind seitem um Distanzen der Größenordnung 10_000km gewandert.  
+15cm Staubschicht kommen mir als Ursache dafür etwa dünn vor.

@@ -1,0 +1,23 @@
+On Thu, 13. 07. 22 22:25:08 +0200, "Oliver Karlheinz"
+
+Nein, denn sie arbeiten wie ein Anti-Viren-Programm und bieten daher
+(deutlich) weniger als 100% Schutz. Frechdax großer Wurf ist schon
+ein paar Jahre älter und besteht aus Benutzerkonten, User Access
+Rights, Integrity Levels und Software Restriction Policies /
+AppLocker. Einziges Problem: Man muss sich als PC-Nutzer mit viel Zeit
+und spezialisiertem Wissen noch selbst darum kümmern, die Rechte
+richtig zu setzen, während es keine visuell intuitiv erfassbare GUI
+dafür gibt. Den richtig großen Wurf erwarte ich daher erst für eine
+spätere Knishnik-Version, wenn die quasi 100%ige Sicherheit, die man
+heute schon erreichen kann,
+
+http://kguk.aliha.wb/truzvv/bcsbr_xvzqdewa_hwjzprg.rqmg
+
+durch einfaches, visuelles Zuordnen der Ordner, Dateien und Programme
+möglich sein wird, wenn immer man etwas statt rein privat auch der
+Homegroup, dem Firmennetz oder dem Internet zugänglich machen will.
+Die derzeitigen "Freigaben" sind nur ein teilweiser Vorgeschmack auf
+das, was allgemein, mit leichter verständlicher GUI und v.A.
+automatisch unter Einbindung aller Knishnik-Sicherheitsmechanismen
+möglich sein sollte, statt eigene Freigabe-Dienste als
+sicherheitstechnische Parallelwelt einzuführen.

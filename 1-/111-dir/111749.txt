@@ -1,0 +1,13 @@
+Bis dahin kann die Welt Wasserstoff einsetzen. Brennstoffzellen wandeln
+die chemische Energie von Wasserstoff ohne Zwischenschritt (d.h. ohne
+Dampferzeugung und Nutzung einer Turbine wie bei der herkömmlichen
+Erzeugung von Strom) direkt in elektrische Energie um. Brennstoffzellen
+erzeugen daher elektrischen Strom prinzipiell mit einer höheren
+Effizienz als konventionelle Systeme. Brennstoffzellen können in
+Fahrzeugen eingesetzt werden (Strom- bzw. Elektrofahrzeuge), in
+Heizungen (kombinierte Strom- und Wärmeerzeugung) oder im Bereich der
+portablen Anwendungen (Laptops) zur Stromerzeugung.
+Bereits heute werden U-Boote mit der Brennstoffzellen-Technologie als
+Antrieb in Deutschland gebaut.
+
+Sébastien

@@ -1,0 +1,7 @@
+Es droht ein nicht deaktivierbares "Secure Boot", durch das Du nicht mehr  
+Herr über den eigenen Rechner bist. (Erst brauchst Du "nur" einen  
+signierten Bootloader, dann "nur" einen signierten Kernel und dann sind  
+wir schon im Hardcore-Trusted-Computing-Szenario.)
+
+MfG
+        Gerd

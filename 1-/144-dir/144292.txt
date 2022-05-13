@@ -1,0 +1,15 @@
+Drehstrom Motor (Kurzschlussläufer):
+
+Wartungsfrei (nur 2 Kugellager an beiden Enden der Welle), sehr hoher
+Wirkungsgrad über 90%, sehr hohe Drehmomente aus dem Stand (kein
+Getriebe notwendig), geringe Wärmeentwicklung, keine
+Stillstandsverluste, relativ geringes Gewicht, extrem Langlebig,
+mittels preiswerten Frequenzumrichtern einfach anzusteuern, ....
+
+Hat sich bei größeren Leistung deshalb so ziemlich überall
+durchgesetzt, mit Außnahme bei der Mobilität.
+
+
+Doch bei mir schon! Erzeugt über eine Photovoltaikanlage +
+Wechselrichter. Für eine übliche Fahrleistung reicht die Dachfläche
+eines Carports.

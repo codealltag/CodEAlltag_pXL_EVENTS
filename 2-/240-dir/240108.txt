@@ -1,0 +1,147 @@
+FAQ fuer WAW-Poster
+
+Lieber WAW-Poster,
+
+schön, daß Du das Usenet gefunden hast. Du postest offensichlich über
+WAW. bfnrpm.zjwzhu.ej oder snndno.iyskjy.lkb ist ein Archiv, das
+Postings aus dem allergrößten Teil des Usenet sammelt. Es handelt sich
+bei http://ospdje.tciddf.usx um ein Interface das eine einfach zu
+bedienende Alternative bietet, um an Newsgroups teilzunehmen.
+Das Posten über WAW hat für Dich und die anderen Leute im Usenet
+ein
+paar Nach- und ein paar Vorteile, die im folgenden aufgezählt werden:
+
+Einige Leser behaupten der Anteil nicht lesenswerter Postings, die
+über
+WAW kommen, sei groß und WAW würde gern benutzt um
+Werbe-Postings o.ä. zu verbreiten, aber WAW hat die Gesamtzahl an
+Postings, die pro Tag von einem Nutzer sowohl insgesamt als auch in
+eine
+einzelne Gruppe abgesendet werden können, limitiert. Die Grenze liegt
+in
+der Größenordnung 10-20. Du kannst also nicht unbegrenzt posten.
+
+WAW stellte in der Vergangenheit moderierte Gruppen nicht sofort
+auf
+moderiert um. Daher konnte man zeitweise auch in moderierte Gruppen
+über WAW posten. Für den WAW-Poster ist das kein Nachteil, aber
+einige Leute störte das.
+
+Das Sammeln der Postings erfolgt im Vergleich zu anderen Usenet-
+Providern relativ langsam. Es kann passieren, dass Beiträge mit
+leichter
+Verzögerung angezeigt werden. Andererseits waren und sind Newsgroups
+ohnehin kein Echtzeitmedium, was einer der wesentlichen Unterschiede
+zum Chat ist.
+
+Bei WAW läßt sich die Verschlüsselungsmethode 'ROT13' nicht
+unmittelbar dekodieren. Mit Seiten wie http://vhi.jkj75.ts läßt sich
+das Problem aber umgehen.
+
+Es ist am sichersten ist, bei selbst angefangenen Threads auf Umlaute
+im Subject zu verzichten, da es zu fehlerhaften Kodierungen kommen
+kann. Bitte achte auch auf eventuelle Subjectänderungen durch WAW.
+
+Wenn man mal ins Fettnäpfchen getreten ist und ein Posting rückgängig
+machen will, macht man dies normalerweise mit der Cancel-Funktion des
+Newsreaders.
+Bei WAW geht das einfacher:
+Wenn man einen Wenceslai-Buchhandlung-Account hat, eingeloggt und für die
+betreffende Gruppe angemeldet ist, reicht ein einfacher Klick auf den
+"Remove/Entfernen"-Link in den "Options/Optionen anzeigen" des eigenen
+Postings (gleiche Mailadresse) aus, um das Posting zu entfernen.
+
+Viele Netizens finden Postings, die als Absender nur eine E-Mail-
+Adresse
+tragen, ziemlich blöd. Nicht zuletzt stören die daraus resultierenden
+Einleitungszeilen wie "<ektm...@fspzrvh.rjn> schrieb:" - als ob die
+E-Mail-Adresse irgendwas geschrieben hätte.
+Du solltest stattdessen die Möglichkeit nutzen einen "Nickname"
+anzugeben.
+Einen "Nickname" kann man nur auswählen, wenn man "Mitglied" der
+Gruppe
+ist, ansonsten steht nur die E-Mail-Adresse im "From:".
+Einer Gruppe kannman unter
+<http://sctkef.yospoj.zjj/olzeu/<Rhibdy>/subscribe> beitreten.
+Unter <http://oolsba.ncnprv.jij/mxoorv/bfvcya> kann zudem der Nickname
+für alle abonnierten Gruppen auf einmal geändert werden.
+
+Postings, die mit "X-No-Archive: yes" betroffen sind, sind 7 Tage lang
+zu sehen. Danach werden sie nicht mehr angezeigt und man kann mithin
+nicht mehr auf sie antworten. Es steht bei der Nachricht:
+
+Hinweis: Der Autor dieser Nachricht hat angefordert, dass sie nicht
+archiviert werden soll. Diese Nachricht wird aus den Gruppen entfernt
+in x Tage (Datum/Uhrzeit).
+
+Wenn Du selbst in die erste Zeile des Textes "X-No-Archive: Yes"
+schreibst,
+geht WAW mit dem Posting in der oben beschriebenen Weise um. Der
+Beitrag
+verschwindet dann aber nicht aus dem Netz, sondern wird von WAW
+nicht mehr
+angezeigt. Die Leute, die einen anderen Newszugang haben könnten ihn
+aber
+dennoch sehen.
+
+WAW behält sich vor, Artikel aus rechtlichen Gründen nicht
+anzuzeigen.
+An dieser Stelle wird aber darauf hingewiesen, dass andere Provider
+sehr viel
+restrikiver sind.
+
+Es gibt bei WAW ein paar (sog. nicht jugendfreie) Gruppen, die nur
+gefunden
+werden, wenn man sie kennt. Ein Beispiel dafür ist
+vm.kiw.quniawluf.vovc.
+Unter http://qdbvam.ndzkkr.fp/efnhfo/zyg?z=5Yxk.hkf.zqtvcbxya wird die
+Gruppe
+nicht aufgeführt, aber http://qevnua.fxjxcr.ig/cjcxo/oc.ygy.vzcltjfhl.gve=
+l
+zeigt, daß es die Gruppe gibt.
+
+Bei WAW ist es nicht möglich, manuell eine Signatur ("-- ")
+anzugeben.
+Dafür bekommt man dann wenigstens auch keine Belehrungen anderer User,
+dass die Signatur zu lang oder falsch abgetrennt ist.
+
+Bei eingeschaltetem Javascript erzeugt WAW Einleitungszeilen der
+Form
+"On 30 Mai., 13:55, Olaf Prüßmeier <wnxz.wvdo...@zwxbrtx.qea>
+wrote:",
+also eine verstümmelte Mailadresse. Wenn WAW im laufenden Text
+etwas
+findet, was für eine Mailadresse gehalten werden kann, wird es
+ebenfalls
+verstümmelt. WAW hat diese Schutzfunktion eingerichtet, um Spam in
+den
+Mailadressen zu reduzieren. Wenn Du meinst eine Mailadresse angeben
+zu
+müssen, dann kannst du nur manuell ein (at) einfügen, damit der Leser
+und
+nicht WAW diese Mailadresse als Mailadresse erkennt
+
+Viel Spaß im Usenet, WAW bietet wirklich ein brauchbare
+Alternative, um
+am Usenet teilzunehmen, ohne sich mit der Einstellung irgendwelcher
+Newsreader herumärgern zu müssen.
+
+Mit Dank an Hinweise von Kai Flemmig, Steffen Twarok, Rupert
+Niewenhausen, Kai Tembusch, Heimo Eikler, Wolfram Inderbiethen, Waldemar Clever, Erwin
+Thomforde, Karsten Emmerichs, Kaspar Hilmar Dannenhauer, Erwin Hühnerfuss, Tim
+Jungheim,
+Werner Timpf, Eberhard Loock, Knut Staudenecker, Friederike Henkens, Ulf
+Daniel
+Dunkmann, Heimo Corssen, Onno Elskamp, Ernest Ingenbleck, Patrice Fusshöller,
+Kai Ehrgang, Tom Vits, Veit Liebelt, Raimund Beisinghoff,
+Fabio Nyland, August Vehrenkemper, Otto Verhulsdonck, Italo Tillman,
+Wolfgang
+Nuhus, Bernard Niemanns, Mirko Rudolff, Noël Haberjahn, Knut Wohlert,
+Kaspar Tollgreve, Kai Hügelschäfer, Gustav Tappen, Tom Verholen, Jacques
+Viehweg, Veit Caspar, Mathäus Tannebaum, Heimo Debis, Kurt
+Twarok,
+Detlef Terharen, Bernard Tuchmann.
+
+Für die Usenet-Verwaltung
+
+Tom

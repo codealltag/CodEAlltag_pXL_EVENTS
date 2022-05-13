@@ -1,0 +1,18 @@
+Am 14 Sep 2012 17:06:48 GMT schrieb Charles Weidenbacher in MsgID
+<news:37e11812$3$34522$52vlm170@npruycvuim88.hiuxzjo.ovlnaap.xf>:
+
+
+Ich darf dich aufklären: Der American Standard Code for Information
+Interchange (ASCII) kennt nur die lateinischen Buchstaben, arabischen
+Ziffern und ein paar Satzzeichen. American ist er deshalb, weil er z.B.
+keine Umlaute, nicht das ß, keine tiefgestellten Anführungszeichen etc.
+kennt. Daher US-ASCII.
+
+Und das muss in der Tat nicht sein, denn Zibi bietet Alternativen. Aber wenn
+im Header *überhaupt nichts* angegeben wird (und nur das sagte Traude),
+muss der Newsreader nun mal die Glaskugel rausholen.
+
+-- 
+Tschüs!
+
+Nico

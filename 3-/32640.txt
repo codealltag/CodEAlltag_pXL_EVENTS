@@ -1,0 +1,31 @@
+bei entsprechender Verkehrsdichte rennen oder fahren Dir die anderen 
+genau so in Deinen Anhalteweg mit 30 rein wie in den mit 50. Die 
+Unfallzahlen dürften ähnlich bleiben; die mittlere Unfallschwere dürfte 
+abnehmen.
+
+
+Ich wüsste jetzt so ad hoc keinen marktgängigen PKW (Verbrenner, 
+Handschalter) den man nicht im 4. Gang bei 50 fahren könnte. Heutige 
+Motoren sind ab knapp über Standgasdrehzahl an sich alle voll auf Druck 
+belastbar.
+
+Mal wieder als Beispiel: mein alter 200D. Nicht mal wirklich ein ganz 
+aktuelles Fahrzeug. Den kann ich bei *40* km/h - GPS, nicht Tacho; nach 
+Tacho ist's mehr ;-) - im *5*. Gang locker rollen lassen, geht sogar an 
+leichter Steigung noch.
+
+Drehzahlmesser hat er nicht, also ein kleines  Rechenexempel:
+
+Höchstdrehzahl unbelastet 4.800 1/min - belastet etwas darunter 
+(vermutlich im Bereich des max. Drehmoments bei 4.600 1/min.).
+Höchstgeschwindigkeit (kurz darüber regelt er auch ab): 160 km/h
+
+160:40=4
+4.600:4=1150
+
+Der Motor dreht also bei 40 km/h überschlägig zwischen 1100 und 1200 
+1/min. Ein völlig "gesunder" Drehzahlbereich in dem die Maschine voll 
+belastbar ist. Zieht halt keine Wurst vom Teller und brummt ...
+
+Gruß
+	Uwe

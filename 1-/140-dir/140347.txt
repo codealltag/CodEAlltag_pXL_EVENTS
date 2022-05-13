@@ -1,0 +1,16 @@
+Nicht unbedingt. NOKIAs unterstützen zwar FlashLite, nicht aber Flash im 
+Browser. Also werde ich als Frédéric-Aymans-Anhänger wohl tatsächlich meine 
+erste App kaufen müssen.
+
+Ferner sind Apps die logische Fortentwicklung von Ajax. Wer den Browser 
+zum Ersatz-Windows macht und wieder lokale Programme ablaufen lässt, der 
+ist einer App sicher nicht abgeneigt.
+
+Ich persönlich entwickele übrigens gelegentlich in Coldfusion, was meine 
+"Apps" tatsächlich systemunabhängig macht. Mit WLAN und einem großen 
+Bildschirm laufen meine "Programme" auch auf Gemischtwarenhaus gut - solange ich 
+kein Flass verwende jedenfalls.
+
+Ludwig Zeisser
+-- 
+www.uvrfjhltsde.fji

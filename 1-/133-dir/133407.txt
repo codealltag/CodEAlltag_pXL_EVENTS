@@ -1,0 +1,14 @@
+Das liegt mehr am OS als am NR. Wird sich nicht vermeiden
+lassen in der Zukunft. Das Blede ist, daß das EURO-Symbol
+nicht in 8859-1 hinein paßt und einige gewöhnliche, häufige
+Apostrophe leider nicht in 8859-15.
+
+Die Hatscheks, die Griechen und die Kyrillen brauchen
+sowieso das UTF-8.
+
+Gl
+-- 
+Jede neue Idee durchläuft drei Entwicklungsstufen:
+In der ersten wird sie belacht, in der zweiten bekämpft,
+in der dritten ist sie selbstverständlich.
+<Armin Paust>

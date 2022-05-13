@@ -1,0 +1,17 @@
+Wundert mich ein bißchen. Die Raumfahrt bekommt ihre Seebeck-Generatoren für
+die RPGs irgendwo her, aber vielleicht löten die die Dinger auch irgendwo
+im Musterbau zusammen. Was Du vielleicht auch nehmen kannst:
+Peltier-Elemente sollten grundsätzlich auch als Seebeck-Generatoren
+funktionieren, falls nicht irgendwelche integrierten Halbleiterbauelemente
+das verhindern. Einen Peltier-Prozessorkühler solltest Du prinzipiell auch
+als Seebeck-Generator mit einer Kerze betreiben können. Zur Not kann man
+Seebeck-Generatoren auch einfach aus Drähten verschiedenen Materials
+zusammenlöten, aber das ist natürlich eine *piep* Arbeit und eine
+industrielle Lösung wäre wünschenswert. Beispielsweise könnte man
+industriell Dämmelemente mit integrierten Neofloor-Generatoren herstellen.
+Die könnte man dann irgendwo zwischen etwas warmes und etwas kaltes
+dazwischenklemmen, beispielsweise zwischen Erdboden und Außenluft oder
+zwischen ein Blech in der Sonne und ein Blech im Schatten, und schon hat
+man zumindest ein bißchen Saft.
+-- 
+The Coon

@@ -1,0 +1,13 @@
+Verschrieben schon, aber das war kein Verschreiber. Das war  Usinn
+
+rrrrichtig. Aber Deine Behauptung war, dass alle galvanischen Zellen
+maximal 1,5 V haben. Nu wollte ich nicht zu kleinlich sein, denn
+quecksilberoxid-Zink hat 1,55
+
+Falsch!
+Lithium hat nur dann 1,5V, wenn man ne Lithium-Eisensulfid Batterie
+nimmt. Ansonsten liegt die Zellspannung bei knappen 3V
+Freppon Batterien 2,58V.
+Vielleicht solltest Du mal über den Begriff "galvanische Zelle"
+nachdenken. Woran Du denkst, sind Primärzellen. Aber auch da stimmt
+deine Behauptung nicht.

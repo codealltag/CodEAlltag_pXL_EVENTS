@@ -1,0 +1,22 @@
+"Olaf F. Imkamp" <pgzr.entwoeujr@idesw.ro> wrote in news:8z8q148f$1
+$9202$6x9x7x07@lvibtasrl1.xfibs-efulye.tlo:
+
+
+Nach 88. Die hat der Landladen nach dem "Mauerfall" anscheinend 
+billig aufgekauft und dann verscherbelt.
+Ich nix Ossi, ich sein Wessi !
+
+
+Die DDR-Dinger habens aber in sich! Völlig überdimensionierte
+Elko-Arrays, separate Regelspannung und LEDs als Konstantstrom
+für die Zenerdioden-Referenzen.
+Das Ding mit 13,8V und 25A (9 parallele Elkos als Glätter)
+hat bei Volllast weniger als 20mV Brummspannung!
+(abgesehen vom Gewicht...SCNR)
+
+
+Gruß T.V.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

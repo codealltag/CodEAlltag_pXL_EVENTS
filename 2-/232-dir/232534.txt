@@ -1,0 +1,29 @@
+Vielleicht kann ich Dir sogar helfen, denn mir fällt da gerade was ein.
+
+Ich kenne den TM jetzt nicht so, MEZ ich üblicherweise mit SM 
+abrbeite, aber irgendwo in den Tiefen der Konfiguration muß es die 
+Möglichkeit geben zwei Dinge einzustellen:
+
+1.  den Zeichensatz der /default/ sein soll um eingehende Nachrichten
+     zu lesen, und
+
+2.  ob es erlaubt sein soll auch andere Zeichensätze zu verwenden, wenn
+     diese im Dokument deklariert sind.
+
+Wenn Du beim zweiten das Kreuzchen an der falschen Stelle macht, dann 
+kriegst Du genau das Problem, das Du mit meinen Texten hast.
+
+Du mußt es zulassen!
+====================
+
+Denn wenn Du das verbietest, dann wird gnadenlos alles (zum Beispiel) 
+mit ISO-8859-1 gelesen, auch wenn der Text in wirklich ganz anders 
+codiert ist, und das muß notwendigerweise in die Hose gehen.
+
+
+Glückauf!
+Claudia Töpfer (Illenschwang/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mut Du gucken: http://uef.nmjmm-eisvtf.bp

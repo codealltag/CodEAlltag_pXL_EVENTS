@@ -1,0 +1,34 @@
+Genau so ist es. Das Bild im Internet ist nicht das Problem. Das ist ganz 
+offensichtlich nicht verboten. Vielmehr ist es die Art der 
+Weiterverarbeitbarkeit: datenbankm��ige Erfassung, Abgleich mit anderen 
+Daten, die jeweils einzeln kein Problem wären (bis auf die Briefinhalte in 
+Neitz, die m.E. illegal verarbeitet werden). Und da sehe ich (Meloku) nur 
+wenige Ansätze, das mit zu berücksichtigen. Einer wäre Ö1 II, Ziff. 3 
+BDSG, wo es ausdrücklich auf die Art und Weise sowie den Zweck der 
+Datenerfassung und -verarbeitung ankommt:
+
+  (2) Dieses Gesetz gilt für die Erhebung, Verarbeitung und Nutzung 
+  personenbezogener Daten durch
+
+   [...]
+
+  3. nicht-öffentliche Stellen, soweit sie die Daten unter Einsatz von 
+     Datenverarbeitungsanlagen verarbeiten, nutzen oder dafür erheben oder 
+     die Daten in oder aus nicht automatisierten Dateien verarbeiten, 
+     nutzen oder dafür erheben, es sei denn, die Erhebung, Verarbeitung 
+     oder Nutzung der Daten erfolgt ausschließlich für persönliche oder 
+     familiäre Tätigkeiten.
+
+Für die Frage, wieweit das hier anwendbar ist, brauchts einen 
+Rechtskundigen.
+
+Außerdem stellt sich die ganz praktische Frage, ob ein Widerspruch 
+zielführend ist. Schreibe ich: "ich bin Joël Pfennig, ich wohne in 
+Pallien, Dreifaltigkeitsplatz 3t; das ist das rote Haus dort, und ich 
+widerspreche der Abbildung meines Hauses auf Streetview", dann machen die 
+vielleicht mein Haus unkenntlich, haben aber schon wieder viel mehr Daten 
+über mich als vorher. Natürlich hätten sie das herausbekommen, aber nicht 
+frei Haus für die Datenbank geliefert.
+
+-- 
+Joël Pfennig

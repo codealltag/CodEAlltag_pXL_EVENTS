@@ -1,0 +1,18 @@
+# Beispiele für Tastatur reaktivieren:
+setxkbmap -model microsoftpro -layout de -variant nodeadkeys
+# generic pc105 
+setxkbmap -model pc105 -layout de -variant nodeadkeys
+
+
+#!/bin/bash
+# VTP spinnt ein bisschen bei mod4
+# Standardbelegung löschen
+echo "remove mod4 = ISO_Level3_Shift"  | xmodmap -
+# Nutzlose Nachricht für den Benutzer, dass sich auch was tut.
+echo "#echo "remove mod4 = ISO_Level3_Shift"  | xmodmap -"
+# Naja die Drittbelegung für @ in der Shell wäre halt doch nett
+# Fall sie dort verlorengeht ein freundliches Echo, wie 
+# er sie wieder bekommt
+echo "#Drittbelegung in der Shell einschalten:"
+echo "echo add mod4 = ISO_Level3_Shift  | xmodmap -"
+# END

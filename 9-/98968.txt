@@ -1,0 +1,25 @@
+Genau das kann man verhindern - der Schutz geht soweit das du das 
+Dokument nur bei Anwesenheit der Sicherheitssoftware öffnen kannst, dann 
+wird _Deine_ Berechtigung überprüft, dann kannst du z.B. _Nur_Lesen_ 
+Screeshot, Weiterleiten, Drucken, etc. nicht möglich, einzi den 
+Bildschirm könntest photographieren, das fällt möglicherweise wieder 
+auf. IMHO kann das Ganze sogar zeitgesteuert werden. Die Regeln können 
+für jedes einzelne Dokument andere sein.
+
+Bei der Radspannerei$ Variante kannst du das Dokument, falls überhaupt dazu 
+berechtigt, sogar auf einer Diskette oder USB Stick weitergeben, nur wer 
+dazu berechtigt ist kann es lesen, da sehr gut verschlüsselt.
+
+Da lässt sich schon Einiges an Security machen, nur das notwendige 
+Kleingeld muss man halt einwerfen :-))
+
+Andrerseits kenne ich aus unseren Österr. Staatsbetrieb 
+(Verwaltungsstellen) genug Schlampereien, ..... wo es mich stark wundert 
+das nicht schon längst so Manches in der JZFP od. Österreich (Täglich 
+Alles gibt es ja nicht mehr) schwarz auf weiß/bunt stand ....
+sozusagen ein österreichisches Wiki-Löchlein ;-)
+
+-- 
+Katzen Sébastien
+Wenn Politik eine exakte Wissenschaft ist, bin ich Kaiser von China!
+Ein Hoch dem Heribert Eulenspiegel!

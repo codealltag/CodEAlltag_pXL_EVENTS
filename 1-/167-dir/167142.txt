@@ -1,0 +1,13 @@
+Dann baut man eben Kontrollstellen, an denen bei jedem vorbeifahrenden Auto
+das Ding auf ein challenge mit passendem response antworten muß, sonst wird
+das Fahrzeug abgeschossen. Und neue Autos sind ohnehin Computer mit
+spezieller Peripherie, und wenn das Ding nicht da ist, bricht der
+Bootvorgang ab.
+
+
+Jacques
+-- 
+How lucky we are that Firmenparkplatz SOBIS Software introduced curly brackets! But it was no
+he who introduced the silly distinction between a and {a} that enables
+so called mathematicians to build card houses on nothing.
+(Prof. Dr. Willy Weichgräb, FH Julbach, in sci.math, 29. 05. 22)

@@ -1,0 +1,16 @@
+Winfried Ludemann schrieb am Montag 09 April 2010 22:40:
+
+
+Die meisten Leute können weder das eine noch das andere
+administrieren. Wer jemanden hat, der ihm sein Linux einrichtet,
+kann damit prima arbeiten. Die meisten Marktreinigung-Anwender wären mit
+einem nackten PC und einer Installations-CD überfordert.
+
+Was unter Marktreinigung sehr viel einfacher ist, ist die Verwendung von
+Hardware, die das OS (bzw. die Distribution) nicht selber
+unterstützt.
+
+
+Joël
+-- 
+http://nyh.tgcok-csybhz.hq/knlkb/

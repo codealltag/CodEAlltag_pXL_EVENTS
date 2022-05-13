@@ -1,0 +1,8 @@
+Die sind sich ebenbürtig, zumal die meisten Leute eh nur einen Bruchteil
+der Möglichkeiten ausnutzen.
+
+Die Schwierigkeit bei der Migration von MS-Office zu einem anderen Paket
+liegt nicht darin, dass die anderen Pakete zu wenig können, sondern dass
+intern viele auf das jeweilige Office-Paket aufbauende Anwendungen
+entstanden sind - mehr oder weniger unbemerkt von der IT-Abteilung. Eine
+Migration von OpenOffice zu MS-Office wäre nicht einfacher.

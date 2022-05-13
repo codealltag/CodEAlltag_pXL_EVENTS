@@ -1,0 +1,18 @@
+Ja richtig.
+
+
+Ah so ist das, der gesamte Header hat jeweils nur 7Bit im Byte maximal
+gesetzt.
+
+
+Danke für diese grobe Umschreibung, so kann ich es ungefähr zuordnen.
+
+
+Ich dachte so etwas übersetzt sich jede Machine ggf. individuell selber,
+so das es bei universellen Übertragungen nur einer der beiden endianes
+als Norm bedarf.
+
+
+Ah so, das nennt man dann "Filestruktur".
+
+Dirk

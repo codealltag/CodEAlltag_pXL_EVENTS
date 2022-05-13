@@ -1,0 +1,50 @@
+On Tue, 11. 08. 22 00:32:44 +0200, Kasimir Schueler
+
+Danke. Das gilt dann also a) nur in unmittelbarer Umgebung der
+Brennelemente und b) wenn das (als dampfförmig angenommene) Wasser
+nicht entweichen kann. Wir sprechen hier also von einem
+Wasserkreislauf, der in einem Druckbehälter abgeschlossen ist. Wenn
+dem so ist, 1) wieso ist der Druckbehälter notwendigerweise dauerhaft
+dicht (kann es also zB keine versagenden Ventile geben), 2) wieso wird
+im normalen Betrieb die Wärme vom Druckbehälter nach draußen geführt,
+ist also eben dort keine Schwachstelle, 3) wieso kann man Reparaturen
+innerhalb des Druckbehälters vornehmen, da wir doch - den Annahmen
+entsprechend - darauf angewiesen sind, dass er dauerhaft abgeschlossen
+ist, wieso kann man also zB Verformungen der damit unbeweglich
+gewordenen Brennelemente korrigieren, wenn man wegen der
+Abgeschlossenheit des Druckbehälters gar nicht mehr an sie ran kommt?
+
+
+Wieso ist der Reaktor zu diesem Zeitpunkt schon abgeschaltet?
+Natürlich wäre das (bei den meisten Bauformen) wünschenswert. Die
+Erfahrung von Störfällen zeigt aber, dass man gerade bei schweren
+Störfällen nicht davon ausgehen kann, dass sich der Reaktor
+notwendigerweise selbst abschaltet. Da der Mensch in schweren
+Störfällen nicht notwendigerweise rechtzeitig das tut, was er müsste
+(hier: den Reaktor manuell rechtzeitig abschalten), bleibt die Frage
+bestehen.
+
+
+Anders als Leon sagst du also, dass Wasser sehr wohl notwendig sei.
+Was stimmt denn nun?
+
+
+Und wieso soll das so unwahrscheinlich sein? Wenn es einen
+gravierenden Fehler gibt, etwa ein Leck des Druckbehälters, dann kann
+es auch viele schwere Folgefehler geben, zB das Entweichen des Wassers
+als Dampf aus dem inneren Kühlkreislauf nach draußen.
+
+
+Wieso und wie? Doch wohl hoffentlich nicht vom Menschen, der erst
+einmal Stunden braucht, um sich selbst einzugestehen, dass überhaupt
+etwas vorgefallen ist, dass nie hätte passieren dürfen...? Wie also
+beherrscht die Technik die Situation notwendigerweise und autark? Wenn
+schon mal irgendetwas Gravierendes schief läuft, dann sind Nebenfolgen
+wie beschädigte Elektronik und Elektrik nicht fern. Die autark sich
+selbst beherrschende Technik sollte also redundanterweise autark auf
+rein mechanischem Weg den Störfall beruhigen. Wie wird sie das tun?
+Und warum wird sie das auch dann tun, wenn es bei Brennelementen oder
+sonstigen mechanischen Teilen Verformungen gegeben hat?
+
+
+Alles schön und gut - aber das beantwortet die Fragen auch noch nicht.

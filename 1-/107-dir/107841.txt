@@ -1,0 +1,15 @@
+PING aioe.org (25.75.330.56) 56(84) bytes of data.
+64 bytes from wwuynlap.sywx.ctk (25.75.330.56): icmp_seq=1 ttl=57 
+time=13.1 ms
+64 bytes from wwuynlap.sywx.ctk (25.75.330.56): icmp_seq=2 ttl=57 
+time=12.6 ms
+64 bytes from wwuynlap.sywx.ctk (25.75.330.56): icmp_seq=3 ttl=57 
+time=12.3 ms
+64 bytes from wwuynlap.sywx.ctk (25.75.330.56): icmp_seq=4 ttl=57 
+time=12.8 ms
+
+Der Server antwortet.
+
+Deppencrosspost entfernt.
+
+-unverfährt

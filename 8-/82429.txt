@@ -1,0 +1,7 @@
+nein -  durch das Vorhandensei einer willkürlichen Zeitfestlegung (die
+definierte Zeit in der Zeitzone eben) wird diese unabhängig von der
+natürlichen zeit (die Lokalzeit eben - der Sonnenlauf).
+
+
+-- 
+cu |_|

@@ -1,0 +1,11 @@
+Das läßt sich doch leicht anhand der IP im Header herausbekommen:
+
+Nick Jonghe (der Echte): NNTP-Posting-Host: 99.64.5.589.
+
+Der Falsche (Faker): "aioe.org" (NNTP-Posting-Host:
+rSAFKXP7G9Sd5DHqqDBHNi.etvm.henxzaoe.dwbt.ucg).
+
+Noch Fragen - Troll? ..
+
+Simon Niederreiter
+Stattlich anerkannter Trollologe .. ;)

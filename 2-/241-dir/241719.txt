@@ -1,0 +1,25 @@
+Dann zeichne halt in Autocad eine Gleisüberhöhung von maximal 150 bis
+180 mm ein (je nach Land und Technologie etwas unterschiedlich) und
+stelle fest: Das gleicht eine freie Seitenbeschleunigung von 0,1 g aus,
+oder ein klein wenig mehr.
+
+Dazu addierst Du dann eine zulässige freie Seitenbeschleunigung von 
+weiteren 0,1 g (paßt für Deutschland, Ösis etwas weniger, Franzosen 
+etwas mehr).
+
+Und um Dir klar zu machen, wozu die Pendelei gut ist, stellst Du Dir
+abschließend die Aufgabe, mit 0,2 g freier Seitenbeschleunigung fahren, 
+aber nur 0,1 g auf den Fahrgast einwirken lassen zu wollen. Weil bei 
+0,2 g nämlich stehende Fahrgäste die Eigenart entwickeln, in die 
+Sitzreihen zu fallen, und so.
+
+
+Geht alles bestimmt mit Autocad und 00-calc, wobei es viele Menschen 
+auch im Kopf schaffen.
+
+
+Michel-August
+
+
+-- 
+                      Suche 512MB-Riegel SDRAM-133

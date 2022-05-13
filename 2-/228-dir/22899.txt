@@ -1,0 +1,7 @@
+überraschend ist hier eigentlich nur die Dummheit des "Stromberaters",
+der einen Verbrauch von ~650 kWh/Monat mit dem Standby-Verbrauch des
+Fernsehers begründet. Das macht nichteinmal 1 % davon aus,
+Einsparpotential also praktisch Null.
+
+-- 
+rs

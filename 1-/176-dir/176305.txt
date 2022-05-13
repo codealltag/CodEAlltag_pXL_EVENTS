@@ -1,0 +1,7 @@
+Es ist zwar möglich, aber doch gänzlich ungeschickt, eine Code zu 
+produzieren, der bei Iterationen negative Tautologien prüft. Ein 
+besserer Compiler würde diese ungefragt wegoptimiren. Die letzten Java 
+Compiler quittieren solches mit einem Warning, wobei man dann explizit 
+die Compilierung erzwingen muss.
+
+-völkmann

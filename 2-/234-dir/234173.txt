@@ -1,0 +1,39 @@
+Ich habe außer meinem allerersten Auto (Küchenland 1100, 5-Türer in der 
+Golf-Klasse) noch nie etwas anderes besessen als einen Kombi oder Van. 
+Die Dinger sind einfach praktisch, sogar für Singles. Ich bin fast 20 
+Jahre kinderlos im Kombi herumgefahren und habe in dieser Zeit statt 
+Kinderwagen und Windelkiste eben andere sperrige Sachen transportiert. 
+Da sich die Anschaffungs- und Betriebskosten eines Kombis kaum von 
+denen für eine gleichgroße Limousine unterschieden, war es auch nicht 
+weiter schlimm, auch mal mit leerem Laderaum herumzufahren.
+
+Aber um zum Thema zurückzukommen: da reine Elektroantriebe 
+Verbrennungsmotoren auf absehbare Zeit nicht ersetzen können, würde ich 
+einfach beides kombinieren. Also im Prinzip ein alter Hut, allerdings 
+noch nicht optimal umgesetzt, denn die Leistung des Elektroantriebs 
+reicht bei den meisten Fahrzeugen noch nicht aus, die tägliche 
+Kurzstrecke rein elektrisch, aber trotzdem mit akzeptablen 
+Fahrleistungen zu fahren (ausreichend wären IMO ca. 40 kW pro Tonne 
+Fahrzeuggewicht). Der Akku sollte auch über eine externe Stromquelle 
+ladbar sein (Plug-in Hybrid), so dass der Verbrennungsmotor wirklich 
+nur noch auf Langstrecken benötigt wird. Letzterer sollte aber in der 
+Lage sein, das Fahrzeug mit einer ähnlichen Leistung anzutreiben wie 
+der Elektroantrieb, damit es auch dann ohne Leistungseinbußen 
+weitergehen kann, wenn der Akku leer ist.
+
+Derzeit erhältliche Hybridfahrzeuge erfüllen diese Bedingungen aber 
+noch nicht. Der Elektroantrieb ist bei den meisten dieser Fahrzeuge nur 
+eine Art Hilfsantrieb, die Batterie dient ansonsten im Wesentlichen zur 
+Rückgewinnung von Energie beim Bremsen. Aber die Technik entwickelt 
+sich weiter. Mittelfristig wird der Elektroantrieb die 
+Hauptantriebsleistung übernehmen und der Verbrenner zum Hilfsantrieb 
+mutieren (vermutlich unter Wegfall des direkten Antriebs der Räder 
+durch den Verbrennungsmotor). Außerdem werden Plug-in-Hybride die 
+bisherigen Hybridautos ohne externe Lademöglichkeit ablösen, denn erst 
+durch das Nachladen aus der Steckdose ist es wirklich möglich, einen 
+Großteil der Strecken (für die Batterie-Reichweiten von ca. 100km in 
+der Regel ausreichen) rein elektrisch zu fahren.
+
+Gruß
+
+Niclas

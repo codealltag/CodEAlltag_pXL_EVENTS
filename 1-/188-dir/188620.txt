@@ -1,0 +1,21 @@
+"Ludger Wischnewski" schrieb
+
+
+Es läuft wie bei allen Gehaltszahlungen - das sind Kosten, die dem Umsatz 
+gegenüberstehen. Bei Boni ist bereits mit Verkauf eines Produktes bekannt, 
+welches Produkt mit welcher Gewinnspanne verkauft wurde, also nicht erst 
+nach Abschluss eines Fiskalzeitraums. Am Stichtag ist dann bereits 
+aufsummiert, welche Boni anfallen. Was danach und nach Abzug der übrigen 
+Kosten übrig bleibt, ist der Gewinn.
+
+Eine Ausnahme bilden Boni, die genau auf die Höhe dieses verbleibenden 
+Gewinns zielen. Die werden aber dann erst im nächsten Fiskalzeitraum fällig. 
+Das Beispiel kann also auch so konstruiert sein, dass die auf Gewinn 
+definierten Boni aus dem letzten Fiskalzeitraum so hoch ausfielen (weil da 
+der Gewinn eben entsprechend hoch war), dass sie höher sind als der Gewinn 
+des nächsten Fiskalzeitraums (der dann eben drastisch schwächer ausgefallen 
+sein muss). In dem Fall jedoch ist der Vergleich dieser beiden Positionen so 
+dämlich, dass ich dem OP nur die erste Variante zumuten wollte.
+
+Größe
+Luigi

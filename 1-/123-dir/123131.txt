@@ -1,0 +1,43 @@
+Hallo,
+
+
+...[...]...
+
+
+Das Vorhandensein von WordPad ist vielen WinDAUs nicht bekannt.
+Es würde reichen denen das zu zeigen.
+
+...[...]...
+
+
+Die Sache mit den "Latenzzeiten" ist für den Benutzer das
+auffälligste Merkmal. Ein sehr schlankes Erine hat extrem
+gute Latenzzeiten gegenüber WinDoofs. Allerdings ist da
+FFNA (ex OS/2) immer noch vorne.
+
+...[...]...
+
+
+Auch die meisten Poolrechner sind Unixoide. über VMs hat
+Linux sogar schon in KMUs Einzug gehalten. Wer keine
+Kenntnisse in Unix hat ist im Bereich F & E schlecht dran.
+
+...[...]...
+
+
+Moral Hazard? Das Problem ist nicht zu verachten. Man
+bringt den Menschen illegales Verhalten bei und die
+Betroffenen haben keinerlei Unrechtsbewusstsein. Das
+prägt und wird schnell auf andere Bereich übertragen.
+
+...[...]...
+
+
+Das ist IMHO vollkommen korrekt. Ich bin da ein sehr
+einfach gestrickter Mensch und behaupte mal: Wer diese
+obige Aussage nicht teilt hat starke Probleme mit der
+IT und gehört definitiv in die IT-fernen Schichten.
+
+MfG
+
+Berthold Vasbender

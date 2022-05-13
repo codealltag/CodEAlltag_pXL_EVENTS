@@ -1,0 +1,13 @@
+Also bitte. Es ist ja wohl trivial 
+
+a) ein image anzulegen und es zu sichern
+b) nur mit kopien des images zu arbeiten (idealerweise als read only disk)
+
+Das gehört zum Handwerkszeug von Computerforensikern in den letzten 20
+Jahren. Gibt sogar spezielle Image Formate und tools dafür. (Wer würde schon
+Word Dokumente mit Word öffnen wenn er auf der Suche nach Beweisen ist)
+
+http://nod.qgqeqomjdstxe.lur/qyrg/Dmepftsg_pcoz_wauxrpf
+
+Gruss
+Ewald

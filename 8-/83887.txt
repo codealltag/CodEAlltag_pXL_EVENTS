@@ -1,0 +1,285 @@
+Das ist überhaupt nicht egal. Das ist sogar sehr wesentlich! Ein Ofen 
+auf der Straße hilft nämlich nicht, um das Haus warm zu bekommen oder 
+den Trocknungsprozess in der Industrie zu bedienen. Kommt man an die 
+Abwärme nicht heran, muss sie andernorts NOCHMALS als Nutzwärme produzieren.
+
+
+billiger für wen? Für die Gesellschaft? Sind die Heizungen in der 
+Berechnung auch schon berücksichtigt?
+
+
+Es ist aber nun mal so, dass wir Heizungen UND Mobilität UND Strom 
+brauchen. Das getrennt behandeln zu wollen, führt erfahrungsgemäß leider 
+nur zu singulären Lösungen, die die größeren Zusammenhänge gänzlich 
+unberücksichtigt lassen. Mit verheerenden Folgen! Obwohl rund doppelt so 
+viel Energie umgesetzt (die Hälfte also wegwirft) wird als nötig, wird 
+erst mal versucht, sich mit dicken und richtig teuren Geb�uded�mmungen 
+warm anzuziehen. Alles schwitzt. Darum müssen wir warm anziehen?
+
+
+Ja. Damit hat man sehr schnell den nötigen Massenmarkt für Elektroautos. 
+Weil man per Railtaxi direkt am Draht führt, kann man die Akkus der 
+E-Autos sehr klein halten.
+
+
+Ja.
+
+
+Das wäre die logische Konsequenz daraus. Ist aber genau genommen schon 
+nicht mehr Bestandteil des Konzepts.
+
+
+wie gesagt - das dritte Ziel ist lediglich die logische Konsequenz aus 
+dem automatischen bilateralen Stromhandelssystem für alle.
+
+
+Dieser Zusammenhang erschließt sich in der Tat nicht leicht. über den 
+elektrischen Strom ist er allerdings eindeutig vorhanden. Denkt man 
+drüber nach, merkt man erst, wie sich Eines aus dem Anderen ganz 
+zwanglos ganz von selbst ergibt.
+
+
+Nein. Unter BEVORZUGTER. Einfach deshalb, weil für den Betreiber des 
+Mini-BHKWs (im Gegensatz zum Gro�kraftler) ja auch die Wärme einen Wert 
+darstellt. Nicht nur der Strom. Der Wärmewert geht gegen Null, wenn alle 
+Wärmespeicher voll sind und wird um so höher, je leerer sie sind. Bei 
+gleichem Strompreis werden folglich die BHKWs als erste anspringen, 
+deren Wärmespeicher am leersten sind. Ohne irgendwelche besonderen 
+Maßnahmen führt das systembedingt dazu, dass die freigesetzte Wärme im 
+thermodynamischen Prozess auch tatsächlich in den meisten Fällen genutzt 
+wird.
+
+
+Angebot um Nachfrage möglichst optimal zum Ausgleich zu bringen, ist 
+schließlich die ganz zentrale Aufgabe des Systems. Sozusagen Dreh- und 
+Angelpunkt des Ganzen.
+
+
+Beispiele?
+
+
+Mach' ich doch ständig.
+
+Heute:
+50% Verlust im Rahmen der Treibstoffherstellung, weil die 
+Fahrzeugmotoren mit der Rohenergie nichts anfangen können.
+80% Verlust des Tankinhalts durch Auspuff, Köhler und Bremsen.
+
+Mit Wewam:
+Keine 50% Verlust, weil die stationären Maschinen den Treibstoffen 
+angepasst werden und nicht umgekehrt. Lediglich der elektrische Teil ist 
+mobil. Nicht der thermodynamische.
+Die heutigen 80% Verlust werden durch stationäre Motoren, die 
+weitestgehend unter Idealbedingungen betrieben werden, deutlich weniger 
+werden. Und weil sie stationär sind, ist ihre Wärme auch nutzbar. Wegen 
+des automatischen Stromhandelssystems werden bevorzugt nur die Maschinen 
+anspringen, die die entstehende Wärme auch tatsächlich grade sinnvoll 
+nutzen können. Die obigen 80% muss man folglich nicht mehr der Mobilität 
+zuschreiben. Sie ersetzen dann nämlich wirklich Heizkessel.
+Weil das Railtaxi überwiegend waggon�hnlich im Windschatten führt, 
+reduziert sich der Energiebedarf etwa um die Hälfte. Weil es mit dieser 
+Technik auch sehr viele Anschlussstellen geben wird, reicht für die 
+Straßenfahrzeuge auch ein nur kurzsteckentauglicher Antrieb Fahrantrieb. 
+Das E-Auto hat somit selbst mit schlechten Akkus einen echten 
+Massenmarkt. Für E-Autos ist die Rückgewinnung der Bremsenergie eine 
+Selbstverständlichkeit. Das dürfte die Antriebsenergie also auch der 
+Straßenfahrzeuge etwa halbieren.
+
+
+Sie wird sich aber - wie eben gezeigt - auch sehr wesentlich auf die 
+Mobilität auswirken. Die separate Abschätzung kann man machen, wenn man 
+ganz bewusst Details betrachten will. Ist 2006 mit zwei Diplomarbeiten 
+geschehen. Die eine kümmerte sich um die Woite-Zähler, die andere um 
+die Dienstleistungsstelle (DLS), die die Strompreise generiert und die 
+ASTROHS-Telegramme veröffentlicht.
+
+
+Natürlich kann man das. Aber nur, wenn man sich darüber bewusst ist, 
+dass man sich jetzt nur um ein kleines Teil des Ganzen kümmert. Am Ende 
+muss dann nämlich doch wieder alles zusammen passen.
+
+
+Keiner der Etablierten.
+
+
+Ein typischer Trugschluss infolge zu detaillierter Betrachtung. Die 
+Stromrechnung ist nämlich i.d.R. deutlich niedriger als die für die 
+Heizung. Man wird also erst mal auf die Heizung schauen, wenn man Geld 
+sparen will. Im Wewam-Konzept gehen Strom und Heizung allerdings 
+Hand-in-Hand. Damit wird der Finanzposten des Haushalts sozusagen 
+maximiert. Es geht um sehr mehr als nur um Strom.
+
+
+Wenn sie keine Arbeit damit haben und merklich mehr Geld im Beutel - was 
+spricht dagegen? Spätestens, wenn der Heizkessel zu tauschen ist, wird 
+man - sofern es das Angebot überhaupt gibt - intensiver darüber 
+nachdenken. Für den Wechsel des Stromtarifs alleine reicht die 
+Motivation offensichtlich noch nicht. Dafür muss ja nicht irgendwelche 
+teuren Anlagen austauschen.
+
+
+Das halte ich für einen grandiosen Irrtum. Ich schreibe nicht ohne Grund 
+von einem AUTOMATISCHEN bilateralen Stromhandelssystem. Die 
+intelligenten Geräte werden viele Statistiken führen und auswerten und 
+auch dementsprechend reagieren. Eben DAMIT sich der Betreiber um nichts 
+zu kümmern braucht.
+
+
+Wenn man beliebig Käufer oder Verkäufer sein kann - ist man dann an 
+hohen oder an niedrigen Preisen interessiert? Du könntest jetzt merken, 
+dass das Preisniveau unter diesen Umständen überhaupt keine Rolle mehr 
+spielt. An seine Stelle tritt dann der StrompreisVERLAUF.
+
+
+Dafür gibt es selbstlernende Regler.
+
+
+umgekehrt genauso
+
+
+Kaum.
+
+
+Wie gesagt - es geht hier nicht nur um Verbraucher. Es geht genauso um 
+Einspeiser. Auch da wird es "dumme" und "intelligente" geben. Zu den 
+"dummen" gehört z.B. Solar- und Windenergie. Sie produzieren Strom 
+unabhängig vom grade anliegenden Strompreis und können damit JEDEN noch 
+so niedrigen Strompreis unterbieten. (Bei negativen Preisen werden sie 
+allerdings vom Netz gehen.) Das hat zur Konsequenz, dass man Anlagen, 
+die mit speicherbaren Energien arbeiten, dann abschalten wird, wodurch - 
+ebenfalls systembedingt - die jeweils saubersten Energieträger bevorzugt 
+werden. Gleichzeitig erspart man sich den Aufwand mit teuren und 
+ineffizienten Stromspeichern. Brennstoffe einfach liegen zu lassen, ist 
+halt nun mal unschlagbar billig und effizient.
+
+
+Völlig inkompatibel würde ich nicht sagen. Es soll sehr wohl auf den 
+üblichen Eisenbahnschienen fahren, weil diese Infrastruktur schon existiert.
+
+
+Langfristig wird sich deren Abschaffung sowieso nicht vermeiden lassen. 
+Spätestens, wenn das Auto keinen Fahrer mehr braucht, wird sie nämlich 
+überflüssig sein. Ein Fakt, auf den sich die Manager offensichtlich 
+überhaupt nicht vorbereiten. Das wird sie aus ihrer Sicht treffen wie 
+der Blitz aus heiterem Himmel. Genauso, wie für sie jedes Jahr der 
+Winter anscheinend völlig unerwarteterweise einbricht und die Strecken 
+mit Schnee und Eis versaut.
+
+
+Warum denn nicht? Es gibt i.d.R. noch viele freie Zeitscheiben. In denen 
+kann man anfangen und damit allmählich einen Verdrängungswettbewerb 
+aufbauen.
+
+
+Scheitert i.d.R. an der fehlenden Fantasie der Verantwortlichen. Ich 
+hoffe, zur eCarTec vom 2.-3. Januar genügend Firmen mit hinreichend 
+Fantasie finden zu können, um dann das Projekt richtig durchstarten zu 
+können.
+
+
+die wichtigsten Gründe, weshalb ich das sehe wie ich es sehe, habe ich 
+weiter oben aufgeführt. Bitte führe du deine Gründe für deine Sichtweise 
+ebenso auf.
+
+
+Es gibt doch Wärmespeicher. Der einfachste ist der Warmwasserboiler, das 
+Mauerwerk und die Möbel. Ihre Temperatur darf durchaus schwanken, was 
+man Energiespeicher auffassen kann. Dann wird der Strom zu Höchstpreisen 
+produziert und die Wärme bei Bedarf abgerufen.
+
+
+Wie hoch schützt du sie denn?
+
+
+Vor allem im Kurzstreckenverkehr. Der kann mit dem E-Auto längst bedient 
+werden. Das Problem ist die lange Strecke. Da könnte die Eisenbahn sehr 
+nützlich sein.
+
+
+Man bräuchte für Deutschland etwa 4 Millionen Railtaxis für eine 
+komfortable Ausbaustufe zum Stückpreis von ca. 20.000...30.000,- Euro. 
+Laufzeit, ca. 10 Stunden pro Tag an 360 Tagen im Jahr. Die Bahnhöfe 
+werden etwa so viel kosten wie die Parkhäuser, die an den meisten 
+Bahnhöfen stehen. Man wird dort keine Parkhäuser mehr brauchen, weil man 
+das Auto ja mitnehmen und nicht am Bahnhof abstellen wird. Diese 
+Bahnhöfe werden sich ähnlich wie die Parkhäuser selbst finanzieren. 
+Statt Parkgebühren gibt es dann Start- und Ankunftsgeb�hren in der 
+Gegend um 1...2,- Euro. Sowas sollte sich jedes bessere Dorf entlang 
+einer Eisenbahnstrecke leisten können. Wo also siehst du den viel 
+höheren Aufwand ohne Gegenwert?
+
+
+Am Besten mit Kernenergie? Deren Lobbyisten werden schließlich mit 
+solchen Vorschlägen sehr schnell auf der Matte stehen, um damit den 
+nötigen Strom liefern zu können. Da hätte ich lieber Strukturen, die 
+solchem Ansinnen von vornherein die Basis nimmt. Z.B. mit einem 
+täglichen Leistungshub von 30% bis 100%, der zusätzlich noch mit Sonne 
+und Wind massiv überlagert wird.
+
+
+Schon mal durchgerechnet?
+
+
+Richtig. Aber nicht, wenn man vom so gewonnenen Strom 80% wegwerfen 
+will. Dann wird's trotzdem verdammt knapp. Das wird dann Wasser auf die 
+Mühlen der Solargegner sein, die dann ganz wieder irgendwo weit draußen 
+neue Großkraftwerke bauen wollen. Vermutlich auch Kernkraftwerke.
+
+
+Nichts dagegen. Ob sich das lohnt oder nicht, sollte sich in einem 
+fairen Markt zeigen. Den sehe ich in einem automatischen bilateralen 
+Stromhandelssystem für alle (Woite).
+
+
+Was spricht gegen hier?
+
+
+Das ist vor allem eine Frage der Marktbeschaffenheit. Der Markt in 
+seiner jetzigen Form ist seit eh und je auf supertr�ge Großkraftwerke 
+hin optimiert worden. Das ist historisch erklär- und nachvollziehbar. 
+Allerdings haben sich durch die allgemeine technische Entwicklung die 
+Möglichkeiten drastisch verändert, so dass man sich nun endlich wieder 
+dem natürlichen Verhältnis von Angebot und Nachfrage widmen könnte, das 
+den Preis bestimmen sollte.
+
+
+Nein. Primärenergieträger. Z.B. Holz.
+
+
+Nicht Strom soll gespeichert werden, sondern Biomasse. Den Fall, dass so 
+viel Strom im Netz ist, dass es sich lohnt, daraus Methan zu machen, 
+halte ich für einen sehr seltenen. Aber wenn's trotzdem mit ASTROHS 
+lohnt, dann lohnt es eben. Dann wird eben Methan synthetisiert. Dagegen 
+hätte ich nichts einzuw�nden.
+
+
+Wenn sich's trotzdem lohnen soll, dann muss die Anlage sehr billig sein, 
+weil ihre Laufzeit sehr kurz sein dürfte.
+
+
+Was wird er denn damit zu tun haben, wenn eh' alles automatisch läuft?
+
+
+Der will nach Jahresfrist möglichst viel Geld übrig haben. Führt er an 
+die Tanke, weiß er nicht genau, was ihn das nun genau kosten wird. Er 
+weiß auch nicht genau, wie hoch seine Telefonrechnung am Monatsende 
+seine wird. Es gibt viele solcher Unwägbarkeiten. Da kann man nur 
+schützen. Ist heute mit dem Strom und der Heizung übrigens auch nicht 
+anders.
+
+
+Das geht doch Hand-in-Hand. Mit miserablen Vorgaben fehlt das Interesse, 
+die Kapazitäten der Realität anzupassen. Dann bricht so ein System eben 
+zusammen.
+
+
+Blind würden die das bestimmt nicht machen, sondern immer im Abstimmung 
+mit den jeweils grade lokal herrschenden Bedingungen. Dass das 
+funktioniert, zeigen auch die großen Stromversorger, die so stolz darauf 
+sind, dass sie den Strombedarf so genau vorhersagen können. Und das, 
+obwohl die meisten Verbraucher NICHT zentral gesteuert werden!
+
+-- 
+Servus
+Ulrich Obertopp
+http://lhc.qyvbmle.xi

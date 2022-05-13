@@ -1,0 +1,27 @@
+Ein Kernkraftwerk oder ein Kohlekraftwerk liefert 24 Stunden lang Strom 
+zu 5 ct/kwh, auch in der Mittagszeit. Warum soll ich es 22 Stunden lang 
+abschalten, nur um den Preis künstlich hochzutreiben. Nur wegen der 
+Vergleichbarkeit?
+
+
+Nein, Du könntest die beiden auch im Grundlastbereich vergleichen. Der 
+Vergleich wäre nur sinnlos, weil die PV-Anlage keine Grundlast  bedienen 
+kann. übrigens ist eine PV-Anlage kein Spitzenlastkraftwerk. Ein solches 
+zeichnet sich dadurch aus, dass es kurzzeitig auftretende hohe 
+Leistungsnachfrage auf Anforderung des Netzbetreibers bedienen kann. Das 
+kann keine PV-Anlage. Entweder scheint die Sonne. Dann speist sie ein, 
+auch wenn keine Spitzenlast angefordert wird. Oder die Sonne scheint 
+nicht. Dann speist sie auch nicht ein, wenn die Spitzenlast angefordert 
+wird. Dass der Sonnenhöchststand mit einer Tagesspitze zusammenfällt 
+(die Abendspitze kann gar nicht bedient werden), macht die PV nicht zum 
+Spitzenlastkraftwerk.
+
+Wie man an den Kurven sieht verdrängt die PV in den Mittagsstunden 
+konventionelle Kraftwerke im Mittellastbereich. Die hypothetischen 
+Stromgestehungskosten dieser runtergefahrenen Kraftwerke kannst Du mit 
+den Zahlungen für PV während dieser Zeit vergleichen.
+
+
+Offensichtlich kennst Du nicht alle Fachleute.
+
+Gruß  Salvatore

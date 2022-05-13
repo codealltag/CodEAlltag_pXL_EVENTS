@@ -1,0 +1,97 @@
+Antwort auf eine Nachricht von Ulf Oelkrug
+
+
+Ja, was je nach Einzelfall 100 bis 150 Euro _unter_ dem gegenwärtigen 
+H-IV-Satz läge. So geht das also nicht! Konkret: jeder Betrag, der unter 
+800 Euro liegt, darf ungeprüft verworfen werden.
+
+
+Ich habe da Zweifel!
+
+   900 × 12 × 82E6 ≈ 900  Milliarden!
+
+Wo sollen die herkommen? Der Staat hat es nicht! Wenn wir knapp eine 
+Billion für das Grundeinkommen aufwenden, dann müssen wir eo ipso auch 
+eine Billion einnehmen, will heißen, da müßten etliche Steuern 
+dramatisch erhöht werden.
+
+Aber komplett unmöglich ist es auch nicht!
+
+Ad hoc mach eich mal ein Modell. Jeder Einwohner Deutschlands erhält ein 
+Grundgehalt von (und jetzt werde ich wahnsinnig) 1600 Euro, zahlt aber 
+eine Lohnsteuer von 50 Prozent vom ersten Euro an, ohne Freibetrag.
+
+
+Fall eins: gar kein eigenes Einkommen:
+
+  GG:      1600,--
+  Lst:      800,--
+          –––––––––
+  Netto:    800,--
+
+  * Das würd _jede_ derzeit gezahlte Sozialleistung substituieren,
+    ggf. sogar die gesetzliche Rente.
+
+
+Fall zwei: 1600€ Einkommen:
+
+  GG:      1600,--
+  Eink.    1600,--
+          –––––––––
+           3200,--
+  Lst:     1600,--
+          –––––––––
+  Netto:   1600,--
+
+  * Plus/minus null, quasi Steuerfreibetrag
+
+
+Fall zwei: 3000€ Einkommen:
+
+  GG:      1600,--
+  Eink.    3000,--
+          –––––––––
+           4600,--
+  Lst:     2300,--
+          –––––––––
+  Netto:   2300,--
+
+  * Steuer effektiv = 700,00€ (23,3%), derzeit sind es 536,25€ (17,9%)
+
+Kann man machen, muß man aber nicht!
+
+Gewiß, den Bedürftigen wäre geholfen, das garantierte Mindesteinkommen 
+von 800,00 Euro ist wahrscheinlich ausreichend für ein Leben in 
+einfachen Verhältnissen. Aber einerseits ist mir der aus dieser Formel 
+resultierende Freibetrag von 1600 Euro zu hoch, und zum anderen läge 
+hier der effektive Steuersatz bereits bei mittleren Einkommen höher als 
+nach der aktuellen Tabelle, und das ist gar nicht akzeptabel.
+
+Ich habe mich schon vor einem Jahr mit diesem Modell beschäftigt, habe 
+versucht die Formel irgendwie zu justieren, es ist mir nicht gelungen. 
+Egal wie ich rechne, immer wieder tauchen irgendwelche Ergebnisse auf, 
+die gar nicht gefallen wollen. Ergo: ich kann diesen Vorschlag aus 
+vernünftigen Gründen *nicht* unterstützen!
+
+Meine Alternative zum Grundeinkommen wäre die negative Lohnsteuer. Dabei 
+möge der Steuerfreibetrag, der derzeit bei 912,00€ liegt, auf 1000,00€ 
+angehoben werden. Wer weniger als diesen Freibetrag verdienst, dem soll 
+man 80% aus der Differnz zwischen seinem Einkommen und diesem Freibetrag 
+auszahlen. Wer gar kein Einkommen hat, der bekommt gleichwohl wieder die 
+oben zitierten 800,00€ und ist mithin bedient.
+
+Für Löhne/Gehälter >1000,00€ gälte dann wie gehabt das gewöhnliche 
+Steuerrecht, ein „Grundgehalt“ erübrigt sich und wird auch nicht gezahlt.
+
+
+Ich habe Dich verstanden, aber ich bin nicht überzeugt. Das 
+bedingungslose Grundeinkommen ist zwar eine geile Idee, aber es wirft 
+mehr Fragen auf als daß es Lösungen bringt. Die negative Lohnsteuer 
+hingegen könnte man, so man wollte, noch heute einführen.
+
+
+Glück auf!
+Friederike Aichinger, Crinitzberg/de
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://pvh.tliez-poqpnl.rj

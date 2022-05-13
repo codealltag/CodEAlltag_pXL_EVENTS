@@ -1,0 +1,19 @@
+Dietrich <zvwwsngu@kupxng.tl>:
+
+
+Die IBAN besteht im Wesentlichen aus der Kontonummer und der 
+Bankleitzahl, also Daten, die Du auch bisher schon zur Hand haben 
+mußtest. Beim Online-Banking brauchst Du deine eigene Kontonummer 
+i.d.R. gar nicht einzugeben, während Du die des �berweisungszieles 
+meistens per Copy'n'Paste ohne fehlerträchtiges Abpinnen übernehmen 
+kannst. Und wird die Nummer dabei unvollständig "gegriffen", werden 
+die Prüfziffern das sofort aufdecken.
+
+Die Online-Händlerschaft wird sich mit Sicherheit darauf 
+einstellen, weil eine gute Copy'n'Paste-barkeit die Wahrschein-
+lichkeit von erfolgreich abgewickelten Geschäften und damit von 
+Einnahmen erhöht.
+
+-- 
+Mit freundlichen Größen
+Claus J. Eisenhardt

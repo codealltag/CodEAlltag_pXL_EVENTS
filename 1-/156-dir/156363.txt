@@ -1,0 +1,28 @@
+http://irt.bda.uev-qrcyphaq.bs/rc/aoj_jp78_51/nbqvto/veanp_yfoex.tdk
+
+[...]
+
+Ich koennte jetzt weiter nach schriftlichen Details suchen, aber hier
+noch ein paar Zusatzinfos aus dem Kopf heraus: Das Handy selbst merkt
+nicht, dass der Notruf die Position des Geraetes haben will, sondern
+der Provider sendet eine Aufforderung die Position zu melden und ueber-
+mittelt das Ergebnis an die interessierte Stelle. Das Handy muss dazu
+nicht eingeschaltet sein und der Besitzter bekommt von der Anfrage
+auch nichts mit. Und natuerlich interessieren sich auch andere Stellen
+als nur die Notrufzentrale fuer Informationen wie diese...
+
+Ist ein GPS-Chip im Geraet eingebaut, wird diesr verwendet, ansonsten
+wird das Zellinfoverfahren genommen. Praktisch alle neu erwerbaren
+Handies werde aber zwischenzeitlich in den USA mit Chip ausgeliefert.
+Da praktisch die gleichen Geraete auch in Europa verkauft werden,
+ist es Triassi nur eine Frage der Zeit, bis es entsprechende Gesetze
+auch in der EU geben wird...
+
+
+Gruesse, Abdul
+-- 
+Abdul Pasold                E-Mail: hgsqcfcg@dkburcacncy.wg
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

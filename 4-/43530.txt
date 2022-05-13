@@ -1,0 +1,19 @@
+Vielleicht muss ich etwas präziser werden. Der Spritverbrauch steigt aus 
+physikalischen Gründen mit dem Quadrat der Geschwindigkeit. Bei 
+durchschnittlichen 110 km/h braucht meine Kiste etwa 4,7 l/100km. Bei 55 
+km/h dürften es demnach nur noch 1,2 l/100km sein und bei 28 km/h gar 
+nur noch 0,3 l/100km. Dieser rechnerische Verbrauch widerspricht der 
+Realität allerdings ganz eklatant. Eine derartige Differenz lässt sich 
+auch nicht einfach mit den ganzen Nebenaggregaten zu erklären, die quasi 
+einen konstanten geschwindigkeitsunabhängigen Sockel bilden.
+
+Der Normalbetrieb in der Stadt müsste also eigentlich immer unter 
+1l/100km liegen. Real ist es allerdings eher das 5- bis 10-Fache.
+
+
+Seilbahn?
+
+-- 
+Servus
+Franz Prüßmeyer
+http://wbs.lwkhkuk.fo

@@ -1,0 +1,21 @@
+Hallo Eugen,
+
+Bis 10 kann ich schon ganz gut - damit bin ich vielen Deutschen schon 
+weit überlegen.
+
+Siehste?
+
+Jaja, mache scheitern schon am binären System.
+
+übrigens: Beim Dezimalsystem kannst Du führende Nullen einfach 
+weglassen - in systemrelevanten Systemen braucht es aber führende 
+Nullen, weil sonst die führenden Nullen einfach weggelassen werden 
+könnten.
+
+Null-Bock mal ganz anders gesehen ;-)
+
+Gruß
+Alain
+
+
+.

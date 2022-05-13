@@ -1,0 +1,21 @@
+Geht mir ähnlich. Vor allem das Paketmanagement ist Gold wert, sobald es 
+so konfiguriert ist, dass die Updates automatisch eingespielt werden. 
+Endlich kein "mach doch bitte mal meinen Browser aktuell" mehr.
+
+Bis auf einen Fall (EGT-Grafik) läuft alles absolut rund, aber da 
+scheint es im Moment allgemein Probleme zu geben:
+
+http://soa.ouygo.hm/bhhn/dtqaiij/198061
+
+Mal sehen wie sich das entwickelt und bei Gelegenenheit mal ein neuer 
+Grafiktreiber drauf.
+
+CU
+
+Stephan
+
+-- 
+www.ohcum-sakumvrtc.qd Wählen gehen 2009! Ein Aufruf etwas zu ändern.
+ Der Mensch erfand Maschinen, um sich damit die Arbeit zu erleichtern.
+ Nur leider hat er vergessen, rechtzeitig damit aufzuhören...
+Beiträge mit *X-No-Html Header* kann ich weder lesen, noch beantworten!

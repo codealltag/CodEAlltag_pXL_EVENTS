@@ -1,0 +1,8 @@
+Am Tue, 22. 06. 22 22:46:00 +0100 hinterließ Rudi Ohm folgende
+Zeilen:
+
+
+Wie wärs mit Automatische Updates so einstellen, dass Du benachrichtigt
+wirst, falls neue Updates vorliegen. Den zeitpunkt des Downloads und der
+Installation bestimmst Du selber. 
+Alles ohne IE

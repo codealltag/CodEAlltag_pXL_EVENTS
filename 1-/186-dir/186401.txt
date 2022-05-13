@@ -1,0 +1,12 @@
+Worst-Case Szenario
+--------------------------
+ist-Zustand: pro Einwohner 100000 EUR Vermögen in BRD, angelegt in
+Anleihen, Aktien und Cash
+Worst-Case: Bundesanleihen sind wertlos, Einlagen bei Banken sind
+wertlos
+(das Bankensystem hat die Einlagen komplett in OTC-Derivate
+investiert, wenn ich bei der Eigenhaendig ein Girokonto eröffne ist
+das mit einem Hedge-Fonds vergleichbar)
+Folge: Totalverlust der 100000 pro Kopf-Vermögen, Deutschland beginnt
+wie 1946 bei Null, jeder Bürger erhält 50 DM Startguthaben
+Sicherheit gibt allein das Gold, Goldpreis steigt auf unendlich

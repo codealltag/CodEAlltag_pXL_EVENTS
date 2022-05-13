@@ -1,0 +1,19 @@
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Na was denn?
+
+
+peace
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+   tgpbdagate@icblbfv.rl
+     SMTP error from remote mail server after RCPT 
+TO:<tgpbdagate@icblbfv.rl>:

@@ -1,0 +1,11 @@
+On 22 Sep., 14:24, "Claudio . K u s m i e r z" <g...@cywukva.gmscnwr>
+wrote:
+
+DerCore wird von 2m Beton umgeben- die gesamte Abschirmwirkung wird
+mit 1e-12 angegeben. Ich finde, dass man in solchen Fällen durchaus
+von einem Nichtemmitieren sprechen kann- aber ich gebe zu, man wird
+nicht jedes einzelne Neutron erwischen, ein paar werden durchaus noch
+die Kuppel durchdringen.
+Vergleiche das mit den Neutronen aus Reaktionen in der Atmoshäre.
+Obendrein haben freie Neutronen doch glatt ne Halbwertszeit von ca10
+min.

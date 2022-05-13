@@ -1,0 +1,22 @@
+Mit viel gutem Willen. 11 bis 12 Uhr ist eine Zeitdauer und in dieser 
+Stunde werden insgesamt 13,4 GWh eingespeist bei konstanter Leistung. 
+Aber vielleicht bin ich auch nur ein bischen kleinlich, weil ich mich 
+immer noch über einen Autor in Gadad aufrege:
+Dieser Autor, ein Physiker, hatte im Januarheft einen Artikel zu 
+Windkraftanlagen geschrieben. Im Märzheft fragt ein Leserbriefschreiber 
+nach der Berechnung der CO2 Einsparung durch eine 7,5 MW Windkraftanlage 
+in diesem Artikel. Der Physiker antwortete:
+"Die Angaben zur UWPK E-126 habe ich wie folgt berechnet: 
+Energieversorger gehen davon aus, dass ein (deutscher) Haushalt heute im 
+Schnitt 3500 kWh Strom im Jahr verbraucht. Ich habe vorsichtshalber 
+einen Wert von 4500 kWh angenommen. Dividiert man ihn durch die Anzahl 
+der Stunden im Jahr (365 x 24 = 8760) macht das einen 
+Durchschnittsverbrauch von 514 Watt. Dann habe ich nur noch die 7,5 MW 
+durch 514 W geteilt und erhielt 14.591 Haushalte. Zur Sicherheit habe 
+ich den Wert großzügig auf 10.000 Haushalte abgerundet, weil die 
+Haushalte nicht immer gleich viel verbrauchen, sondern mal mehr und 
+weniger. Die Aussage kann also stehen bleiben und hat nichts mit 
+Schönfärberei oder gar Lobbyismus zu tun."
+
+
+Gruß  Philipp

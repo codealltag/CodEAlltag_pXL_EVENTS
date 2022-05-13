@@ -1,0 +1,8 @@
+Ein Bahnhof ist eine Haltestelle für DB-Züge. Diese ist in ausreichender
+Größe vorhanden.
+
+
+Größe,
+
+-- 
+Sébastien Winkels

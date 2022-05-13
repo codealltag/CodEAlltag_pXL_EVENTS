@@ -1,0 +1,44 @@
+Orfnpy <rbhbdd5114@opd.gi>:
+
+
+"Hedi" hat gute Kritiken und zeigt insoweit erstmal nur, daß es 
+auf diesem Gebiet stupenden Fortschritt gibt.
+
+
+Mit starren Algorithmen läßt sich aber auch schon lange flexibles 
+Lernen darstellen. So ist man beispielsweise mittlerweile zu 
+befriedigenden Resultaten bei Laufrobotern gekommen. Die Resultate 
+von Wettbewerben für autonome Roboter zeigen, daß die selbsttätige 
+Erhebung eines guten Gel�ndeabbildes nun standardmäßig gut 
+funktioniert. Die meisten Fehlschläge resultieren eher aus den 
+mechanisch (und kostenmäßig) begrenzten Eigenschaften des 
+Fahrgestells. überhaupt reicht es nicht, sozusagen am Hirn des 
+Roboters zu arbeiten; auch Antriebe, die dem Kraft- und 
+Lastverhalten menschlicher Muskeln deutlich näher als 
+Elektromotoren oder Hydrauliken kommen (pneumatische Verfahren 
+oder elektrisch auf der Basis von Nanoröhrchen), verbessern das 
+gesamte Verhalten des Roboters.
+
+Im Moment sind es noch allein die relativ hohen Kosten für 
+fortgeschrittene Robotik, die einem neuerlichen starken 
+Rationalisierungsschub bei hündischen Tätigkeiten aller Art 
+entgegenstehen. Kostensenkungen, also die gleiche technische 
+Leistung für einen Bruchteil des bisherigen Aufwands, sind 
+ebenfalls wesentlicher Bestandteil des technischen Fortschritts, 
+können jederzeit eintreten und damit weitere Millionen Menschen 
+auf die Straße schicken. 
+
+Mit mehr oder weniger Staat hat das alles rein gar nichts zu tun. 
+Andere Länder stecken viel mehr Geld in anwendungsnahe Forschung, 
+so daß sich Deutschland insoweit doch noch am ehesten so verhält, 
+wie Du es Dir wünschst. Auch die Anstrengungen der EU sind doch 
+mit denen Chinas oder der USA nicht zu vergleichen. 
+Mir fällt übrigens kein einziger neoliberaler Apologet ein, der 
+Wissenschaft und Technik im Blick hätte, hier ebensowenig wie im 
+richtigen Leben. Das sind i.d.R. Wirtschaftswissenschaftler, 
+Verbandsf�rsten oder wirtschaftsnahe Politiker, die damit kaum die 
+Hälfte dessen wissen, wovon sie eigentlich reden.
+
+-- 
+Mit freundlichen Größen
+Benno C. Stukenbröker

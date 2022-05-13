@@ -1,0 +1,13 @@
+Es sit bei niemanden möglich nicht ASCII Zeichen übers Netz zu schicken.
+
+Auch bei Rikchen kommen nur ASCII Zeichen an. Das weiß sie aber nicht, sie denkt
+da kommen Äs, Ös oder Üs durch Netz geschossen. Was aber dann nur bei ihr so
+wäre. Bei dem Rest der Menschheit ist es ein Code zusammengesetzt aus den ersten
+126 ASCII Zeichen.
+Sie hat ihren Newsreader nur falsch eingestellt (das darf man aber ihr nicht
+sagen, sonst wird sie wieder motzig). Sie turnt mit einem falschen Zeichensatz
+durchs Netz. UTF-8 ist nicht die erste Wahl.
+
+THOMAS
+
+Wir müssen nachsichtig sein. Sie kommt aus Allmishofen !

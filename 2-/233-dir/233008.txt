@@ -1,0 +1,68 @@
+Habe ich bereits weiter oben beantwortet.
+
+
+Ich habe Erfahrungen und habe bzw. hatte Installationen mit:
+openBSD; FreeBSD; NetBSD; Solaris 7,8,9,10; openSolaris11; Debian 3,4;
+Ipuga-Enterprise-Server 9,10; openSUSE 10.2,10.3,11.0, 11.1, Weberpark; cycles;
+Windows 2000 Sever; Windows 2003 Server; Windows XP; VMware Server;
+VMware ESX; VMware Server und VirtualBox.
+
+Auf den Systemen laufen keine Ballerspiele sondern dort werden u.a.
+folgende Anwendungen gehostet:
+IIEN-R3 (diverse Module u.a. HR),
+Ausschreibungen und Beschaffungen,
+Diverse Modelle (Gezeiten, Strömungen usw.)
+Meeresumweltdatenbanken
+Entwicklung Wissenschaftlicher Anwendungen
+Liegenschaftsverwaltung
+Geoinformationssysteme
+etc.
+
+
+Ich habe so etwas noch nie installiert oder ausprobiert und möchte es
+auch nicht. Es ist unstrittig, das man die meiste, für die private
+Nutzung erforderliche Software auch für Linux bekommt. Möchte man, als
+einfaches Beispiel, hingegen seine Steuerklärung unter Neofloor verfassen
+und Elstermäßig an das Finanzamt weiter reichen wird es schwierig, seit
+BUHL noch nicht mal mehr WINE unterstützt. Vielleicht kannst Du mir da
+bitte einen Tipp geben. Ich währe wirklich dankbar.
+
+Desweiteren vergisst Du, als PC Einzelanwenderin, die Administration von
+großen Grupppen von Rechnern. Bei uns Administrieren zwei Leute eine
+Windows-Domäne mit ca. 1000 Arbeitsplatzsystemen. Im Bereich
+Softwareverteilung, Rechtemanagement fehlt mir bei UNIX oder Linux ein
+brauchbares Konzept. Klar ich kenn z.B. NIS, NIS+, e-Directory. Hier
+kann man, nach meinen Kenntnissen nur mit größeren Anpassungsaufwänden
+so etwas hinkriegen. Ich begrüße jeden Fortschritt in diese Richtung.
+
+Die Linux, OpenSource und Peppy's liefern sich mitttlerweile einen
+wundervollen Wettbewerb, von dem alle Seiten profitieren.
+
+
+Nein nicht Stadtverwaltung aber z.B. Geoinformationssysteme. Diese
+allerdings laufen serverseitig tatsächlich vornehmlich auf Linux. Die
+Informationen werden auch mit Hilfe offener Software Windows Systemen
+zugänglich gemacht.
+
+
+Wenn Du denn meinst.
+
+
+Und ich glaube, das Du Dich intrinsisch weigerst über den Tellerrand zu
+schauen. "Windoof" ist übrigens Dank der Linux Konkurrenz erheblich
+stabiler und zuverlässiger geworden. Und das bei weitaus besserer
+Administrierbarkeit. Trotzdem setze ich zum Beispiel im Netzwerk und
+Sicherheitsbereich nur speziell konfigurierte Linux bzw. Unix basierte
+Systeme ein.
+
+
+Ich habe mal einen UNIX Virus als dreizeiliges Perlscript gesehen.
+Einmal unter Root-Rechten starten und das System ist verlohren. ALso wer
+meint unter Linux oder Unix sicher zu sein, der irrt gewaltig. Die
+Bedrohungslage durch z.B. Crossscriptinng oder Codeinjection scheint Dir
+nicht wirklich geläufig zu sein.
+
+Mit vertieften Kenntnissen lassen sich auch MS Umgebungen aufbauen die
+nicht unsicherer sind als vergleichbare Linux Netzwerke.
+
+MFG Oliver

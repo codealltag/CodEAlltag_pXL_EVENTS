@@ -1,0 +1,34 @@
+Danielle Nievindt <no-spam-please@invalid> wrote in news:xcdxc2$dhp$34$8@tpwr.m-
+zwxvbg.jev:
+
+
+Moooooooment !!!
+
+<Pedanteriemodus on>
+
+Ich muß hier eine eindeutige Subject-Verfälschung des Original-Postings 
+feststellen!
+Auch wenn das OP im Header Daten > #7F aufweist, so gibt das dennoch nicht 
+das Recht alle Werte > #7F auf #00 zu setzen bzw. wegzulassen. Hier müßte 
+eindeutig:
+
+1. alles < #80 aufgeführt werden
+
+oder 
+
+2. bei bitweiser Betrachtung eine Maskierung mit AND #7F stattfinden
+
+Auch wenn ein bit zuviel ist, gibt das noch lange nicht das Recht die
+anderen 7 einfach wegzulassen! Jawoll! 
+
+</Pedanteriemodus on> 
+
+
+Gruß R.S.
+
+(mein Gott...warum ist mir das nicht schon viel früher aufgefallen, in was 
+für einem Land ich wohn.....)
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

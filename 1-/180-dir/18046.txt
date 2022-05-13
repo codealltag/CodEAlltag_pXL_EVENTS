@@ -1,0 +1,26 @@
+valerius
+
+... zumal die Leitfähigkeit des Aluminiums nur 1/3des Kupfers
+beträgt, also der Leiterquerschnitt 3/2 Mal so gross sein muss.
+
+Der größere Querschnitt des billigeren Aluminiums würde eine
+größere Isolierhülle (teurer Isolierstoff) erforderlich
+und damit das gesamte Kabel teurer machen.
+
+Starkstromkabel aus Kupfer werden für die Energieübertragung
+und -verteilung in Städten und Großbetrieben eingesetzt. Der
+Leiter besteht aus mehreren Einzeldrähten (Seelen), so dass
+das Kabel Bewegungen folgen kann.
+
+Starkstromkabel für feste Verlegung mit nur einem Draht
+pro Ader werden aus Kupfer bis höchstens 16mm hergestellt.
+Bei Aluminium-Erdkabeln funktioniert die Aufteilung in
+mehrere Seelen nicht. Diese Kabel sind daher sehr steif,
+zumal der der Leiterquerschnitt 3/2 Mal so groß sein muss.
+
+Btw.
+Niederspannung geht nis 1000 Volt! Von 1kV bis 60kV
+  die Mittelspannung, Hochspannung bis 150kV, was
+darüber liegt, nennt man Höchstspannung.
+
+....

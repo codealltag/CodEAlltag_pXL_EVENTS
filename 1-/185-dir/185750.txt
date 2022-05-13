@@ -1,0 +1,12 @@
+Bei meinem Newsreader (Mauck) läuft Filterung defaultmäßig über
+die E-Mail-Adresse. Man könnte auch nach dem Namen filtern, aber das
+wäre mit viel ständig zu wiederholender Klickerei verbunden, besonders,
+da Filter beim Thunderbird offenbar ein Ablaufdatum haben, so daß man
+sie immer wieder neu einrichten muß.
+
+Mir fällt kein anderer Grund ein, das Tagesdatum in die E-Mail-Adresse
+einzubauen, als die Filterung zu erschweren. Spam könnte man
+beispielsweise viel einfacher mit einer verfälschten E-Mail-Adresse
+verhindern, wie beispielsweise ich das praktiziere.
+
+Gernot

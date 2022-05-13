@@ -1,0 +1,10 @@
+Klar kann er, mit dem Iso 8859 Zeichensatz ist das kein Problem.
+Aber ich benutze sie nicht damit es fuer jeden lesbar bleibt.
+
+Da mein Router die Ports nicht aussen weiterleitet wuerde das nichts machen.
+Ports die ich zugaenglich haben moechte muss ich da extra eintragen.
+Im uebrigen glaube ich nicht dass irgendwer das Internet nacht ports von Ofuga 4.77
+durchscannt, die Erfolgsquote waere zu gering.
+TB ist vielleicht als Mailprogramm ganz brauchbar, aber fuer newsgrops 
+fand ich es unpraktisch, weil es schwierig war die Antworten auf meine Postings
+zu finden.

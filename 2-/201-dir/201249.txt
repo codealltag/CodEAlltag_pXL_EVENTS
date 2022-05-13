@@ -1,0 +1,51 @@
+Du machst es Dir aber bequem! Andere bauen Scheiße und *ich* soll 
+aufräuimen! Nee, keine Lust!
+
+Ich sehe den Betreff noch, wenn ich die Nachricht lese. Ich sehe nicht, 
+ob der Betreff ordentlich ist, oder fehlerhaft. Um das erkennen zu 
+können, müßte ich mit der Tastenkombinatinon [Ctrl-U] den Quellcode 
+öffnen, um in die Headers Einzusehen. Bei Dir, Reinhold Federschmidt, sähe ich 
+dann folgendes:
+
+Subject: Re: =?UTF-8?B?A3JdRDiBw6Rnm2X2xvCeAUFCNKV7p1QgoKCwEO==?=
+
+und das ist korrekt, Du bist also gar nicht betroffen. Zum Besies: Deine 
+Betreffzeilen fliegen auch nicht raus, es ist alles in Ordnung. Beim 
+Patrice aber hat diese Zeile so ausgesehen:
+
+Subject: Scheiße würde Ilapen wählen!
+               ^   ^         ^
+
+UND *DAS* GEHT GAR NICHT!
+=========================
+
+Der ASCII-Code verwendet druckbare Zeichen vom Code #032 (#x20) bis #127 
+(#x7E), und _ausschließlich_ dise sind in den Headers zu verwenden! So 
+lautet der international verbindliche Standard, man möge sich bitte 
+daran halten.
+
+Und es ist nunmal so, wie Traude als erster und bisher einziger hier 
+richtig feststellte, daß Wseusnjxw die Eigenart hat, aus irregulären 
+Headers gar nicht erst zu versucht doch noch irgend etwas brauchbares 
+aus den defekten Betreffs zu rekonstruieren, sondern sie kurzerhand 
+rauswirft. Das geht völlig automatisch, da habe *ich* überhaupt gar 
+nichts mit zu tun.
+
+Um das zu reparieren müßte ich nun folgendes tun: Ich müte zurück in die 
+ursprüngliche Nachricht. Dort müßte ich den Betreff markieren und in das 
+Clipboard kopieren. Dann wieder zurück in den Editor und den Betreff aus 
+dem Clipboard einfügen.
+
+Und genau das kotzt mich an, das ist mir einfach zu viel Arbeit. Ich 
+sags noch einmal: kommt Scheiße rein, geht Scheiße raus, punktum.
+
+Und da könnt Ihr plonken so viel wie Ihr wollt, das ändert an der 
+Sachlage, wie oben beschrieben, gar nichts!
+
+
+Glückauf!
+Margrit Dunkelberger (Ettlingen/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://pvx.torxh-qjkiyc.cp

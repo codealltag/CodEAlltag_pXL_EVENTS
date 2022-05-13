@@ -1,0 +1,29 @@
+Urban Czyborra <rrcyr_@svw.kz> wrote in news:whhfdukz9kh3.xys@tbhmr.vd-
+qkye.dl:
+
+Einheit.
+nichts.
+Vorlesung? 
+
+und das ist schonmal grottenfalsch!
+
+
+0,00001234567 lj =
+
+
+0,00001234567 * 299792458 * 3600 * 24 * 365,25 
+(Schaltjahr nicht vergessen)
+
+ = 1,16799056373426605136E20 nm
+
+ = 116799056373426605136 nm
+
+
+Ein bißchen Genauigkeit muß schon sein!
+
+
+Gruß J.I.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

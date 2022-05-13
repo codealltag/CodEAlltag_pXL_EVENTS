@@ -1,0 +1,28 @@
+Die Vebrauchsanzeige kannst du bei Kurzstrckenfahrten vergessen. Die wertet 
+im wesentlichen den Unterdruck in der Luftzufuhr aus und unterstellt bei der 
+Umrechnung grundsätzlich, daß der höchste Gang eingelegt ist. Ist das nicht 
+der Fall, dann ist der Kilometerbezug grob daneben.
+Falsch. Die mechanische Leistung wird anderswo verbraten als durch Erzeugung 
+von Vorwärtsbewegung: im Motor selbst durch Reibung infolge der 
+zahlreicheren Umdrehungen in den unteren Gängen, beim Beschleunigen nach 
+Ampelstops und beim Ansaugen von Luft gegen großen Unterdruck. Deswegen 
+werden insbes. großvolumige oder auf Höchstleistung optimierte (und deshalb 
+in allen anderen Betriebszuständen entsprechend ineffiziente) Benzinmotoren 
+im Stadtverkehr zu Säufern. 
+Und die schönen grünen Plaketten könnte man auch gleich weglassen und dafür 
+die von Diesel-Kleinwagen etwas entren.
+
+'Der Kat arbeitet' heißt, daß der Sensor der Motorregelung brauchbare 
+Informationen über den Abgaszustand liefert. Dazu muß der Sensor in der Tat 
+einige 100 Grad warm werden. Zerstörungen am wirksamen Katalysatormaterial 
+(Edelmetall) durch 'falsche' Chemie im Abgas sind davon aber unabhängig und 
+fangen schon bei viel niedrigeren Temperaturen an. 
+
+Ich kann allerdings nichts dazu sagen, ob (bzw. in welchem Ausmaß) viel  
+Kurzstreckenverkehr mit kaum geregeltem Abgas die Kat-Lebensdauer verkürzt. 
+Schädlich für den Kat sind vor allem metallische Komponenten wie das 
+bekannte Blei und diese können nur durch richtigen Tanken aus dem Abgas 
+ferngehalten werden.  
+
+Gruß
+Gerald

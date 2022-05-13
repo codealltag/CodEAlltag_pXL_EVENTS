@@ -1,0 +1,4 @@
+Die Messungen der anderen Planetendaten sind im Rahmen der
+Meßgenauikkeit dazu geeignet ihre Ergebnisse als Fakt zu deklarieren.
+Was sollten sie denn sonst sein? Selbst über den Daumen gepeilte
+Partametererhöhungen wären Fakt, sollten sie reproduzierbar sein.

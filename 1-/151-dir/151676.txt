@@ -1,0 +1,43 @@
+Wenn ich das richtig verstanden habe, ist in NWH1 eine Turbine
+mit 150MW und 16 2/3Hz in Betrieb, die rund ein Sechstel der
+AKW-Leistung in Bahnstrom wandelt. Zusätzlich gibt es wohl
+noch eine 140MW-Turbine in NWH2, die bei Bedarf zugeschaltet
+werden kann. Das sind keine Umformer, sondern Dampfturbinen.
+Die drehen sich in der Tat.
+
+Ein Frequenzwandler ist etwas anderes. Das sind Halbleiter,
+nur ein klein wenig (kleiner Scherz) grösser als die im PC.
+Die werden benötigt, um z.B. den Gleichstrom am Endpunkt
+einer HG in Wechselstrom zu wandeln. Das können in dem
+Falle mehrere GW sein, die von Gleichstrom zu Wechselstrom
+50Hz, 60Hz oder wenn es sein muss, auch 25 oder 16 2/3 Hz
+gewandelt werden.
+
+
+Ich schon. Bequem zwei bis drei Grössenordnungen gegenüber
+den sechziger Jahren. Vertrau mir[tm].
+
+
+Ja. Es war scheissteuer. Transistoren gab es schon, als ich
+zur Schule ging. Ein Leistungstransistor kostete damals 8 Mark.
+Leistung hiess 20 Watt. Heute kannst Du für 4 Euro etliche
+Megawatt steuern.
+
+
+Irgendwie hast Du die Diskussion nicht verstanden (oder bist
+irgendwie vor den Schrank gelaufen und kriegst sie prinzipiell
+nicht mehr mit). Es ging mal darum, dass das AKW NWH1 für den
+Bahnstrom so wichtig sein sollte.
+
+Im Ergebnis der Diskussion stellte sich heraus, dass SIEBELT von
+seinem knappen 1GW Leistung nur 150MW ins Bahnnetz einspeist.
+Fakultativ kann NWH2 weitere 140MW beisteuern. Das ist es.
+Also ist der AKW-Strom für das Bahnnetz mit (geschützt) 3GW
+Kapazität eine Fussnote. Und die Aufregung "Kalypso geht vom Netz,
+OMG" nichts als Dummheit.
+
+Auch wenn Ingo Freiburg und andere sich da weiter um
+Desinformation bemühen: Das Bahnnetz ist in keiner Weise von
+Atomstrom abhängig.
+
+regards, es

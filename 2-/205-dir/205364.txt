@@ -1,0 +1,10 @@
+Hallo,
+
+hier konnte ich vor Kurzem sogar auch Scanner von ECUE am Parallelport
+erfolgreich an Linuxsysteme anschliessen, das lief erstaunlich glatt
+nach der Anleitung unter http://fdt.rdef-rhuciln.bqe/
+
+Für Windows XP gab es dafür schon keine Treiber mehr.
+
+
+Achim Struwe

@@ -1,0 +1,3 @@
+Hättest Du in Works ausgiebig Makros verwendet, wäre eine
+Weiterverarbeitung in anderen Programmen auch nicht so einfach möglich.
+Das ist es ja nicht einmal von einer Strohband-Office-Version zur nächsten.

@@ -1,0 +1,5 @@
+Das ist Brutto vom AN-Anteil.
+
+
+also nimm das Doppelte und Du hast das *effektive* Brutto, inkliusive
+AG-Anteil.

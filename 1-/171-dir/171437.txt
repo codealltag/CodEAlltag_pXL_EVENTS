@@ -1,0 +1,20 @@
+Und ob das geht.
+
+
+ja, das kenn ich als Linuxer der ersten Stunde auch, ABER:
+
+Das BS ist nur ein Werkzeug. Ich will nicht Linux oder Windows oder CP/M 
+haben, ich will ein Rechner mit dem ich was konkretes machen möchte. Ich 
+schaue mich um und sehe 4 Rechner stehen. Davon benutze ich eins 
+ausschliesslich für Systemprogrammierung unter Linux. Ich sehe aber 
+nicht ein, warum ich in anderen Fällen auf bestimmte Hardware verzichten 
+soll, nur weil UTV sie nicht unterstützt. Ich will gestehen, das ich 
+Melder nicht kaufen würde...ist aber mit Linux genauso. Solange ich 
+legalen kostenlosen Zugriff auf beide Osse habe, suche ich mir je nach 
+Bedarf eins von beiden aus.
+
+Unt at last but not least: Beruflich ist es kein Nachteil, wenn man in 
+beiden Welten zuhause ist und man verliert auch nicht an Ansehen in der 
+Unix-Community, wenn man auch Melder benutzt. Ist ja auch nicht 
+schlecht, wenn man sowohl mit Emacs als auch mit dem Visual Studio 
+schlafwanderisch umgehen kann ;)

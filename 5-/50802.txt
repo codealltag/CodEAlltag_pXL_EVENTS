@@ -1,0 +1,10 @@
+In dem Fall nicht. Prinzipiell kann man natürlich beliebige "Jahre"
+als Definition nehmen, wobei man dazu angeben sollte welche Definition
+eines Jahr man meint. (könnten ja auch Venusjahre sein ;-) )
+
+Es hat sich aber durchgesetzt, dass man üblicherweise das julianische
+Jahr meint, wenn man ohne nähere Angaben von einem Lichtjahr spricht.
+(Für viele Werte ist der Unterschied zum Gregorianischen Kalender
+ohnehin unter der Genauigkeit, da ist es dann egal.)
+
+Klaas

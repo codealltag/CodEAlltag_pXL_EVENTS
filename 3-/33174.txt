@@ -1,0 +1,40 @@
+Antwort auf eine Nachricht von Wegi
+
+
+Das macht doch nichts, – bei der Verkehrsdichte heutzutage kann man in
+der Stadt für gewöhnlich doch eh nicht schneller fahren. Wenn die 30
+kommt, dann reduziert sich die effektive Durchschnittsgeschwindigkeit
+von derzeit 17km/h auf vielleicht 16km/h, das tut also nichts. Aber das
+Risiko sänke, und zwar erheblich!
+
+   E = m×v²
+
+Da es sich um dasselbe Auto handelt, setzen wir die Masse zu eins, also
+nehmen wir mal nur die Geschwindigkeit im Quadrat:
+
+  50² = 2.500
+
+  30² =   900
+
+  2500 ÷ 900 = 2,8
+
+Also, – wenn im Falle eines Unfalls die V_krawumm nur noch 30 statt 50
+beträgt, dann ist die E_krawumm um den Faktor drei geringer, – ange-
+fahrene Fußgänger verstürben in diesem Fall nicht mehr acht, sondern nur
+noch zwei von zehn Ereignissen. Überdies wäre auch der Anhalteweg um den
+Faktor drei kürzer, so daß viele Unfälle gar nicht erst geschähen.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+
+PS. – Fahr doch Fahrrad! ;-)
+
+Die _allgemeine_ Geschwindigkeitsbeschränkung gilt nämlich komischer-
+weise nur für Kraftfahrzeuge, – mit dem Fahrrad darfst Du also auch mit
+hundert durch die Stadt düsen. Mein Tip: trainier schonmal! ;-)
+
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.yeels-zfqvcd.tc

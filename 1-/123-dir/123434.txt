@@ -1,0 +1,3 @@
+Welche Methode wäre denn richtig, wenn die Rechnung z.T. in Devisen,
+z.T. in der eigenen Währung vorliegt und die Preise in der eigenen
+Währung sowie der Umtauschkurs administrativ festgesetzt sind?

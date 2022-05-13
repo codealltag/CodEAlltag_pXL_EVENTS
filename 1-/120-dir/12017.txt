@@ -1,0 +1,37 @@
+Naja, das liegt eher am veränderten Verhalten der Pannenhelfer und am 
+Rückgang elementarer mechanischer Pannen.
+
+So gibts heutzutage nicht nur kaum noch Reifenschäden mit sofortiger 
+Immobilität (schleichende Plattfüße sind häufiger, werden aber oft so 
+rechtzeitig entdeckt daß es noch zur Werkstatt langt). Nein, es gibt 
+auch kaum noch einen Abschlepper, der ohne Androhung von Waffengewalt 
+auf dem Stand-/Mehrzweckstreifen ein Rad wechselt. Das ist nämlich 
+erstens vergleichsweise gefährlich, besonders an der Fahrbahnseite, und 
+zweitens weniger lukrativ für den. Deshalb wird der ein Fahrzeug mit 
+Reifenschaden lieber aufsammeln und in die Werkstatt mitnehmen.
+
+Viele andere zum Fahren essentielle mechanische Komponenten wie Motor, 
+Kupplung, Getriebe, Lenkung oder Bremsen sind einfach robuster geworden 
+- einerseits, weil sie von der Elektronik besser überwacht werden (was 
+ohnehin schon wegen der Abgasnormen erforderlich geworden ist), 
+andererseits weil die Wartungsintervalle so gesenkt wurden, daß 
+kritische Teile lange vor wirklichem Verschleiß getauscht werden können. 
+Wenn man mal in TV-freie Zonen nach Osteuropa oder Afrika führt und 
+sich die dort gelandeten Altfahrzeuge anschaut, sieht man, wie lange 
+z.B. ein Zahnriemen wirklich halten kann :-)
+
+Wetierhin ist es so, daß auch die fehleranf�lligste Komponente - die 
+Elektronik - bei Ausfall keineswegs sofort zum Fahrzeugstillstand führen 
+muß. Die Motorrelevanten Steuergeräte kennen meistens ein Notprogramm, 
+das dann halt mit höherem Kraftstoffverbrauch, schlechteren Abgaswerten 
+und Leistungsverlust verbunden ist, aber man kommt noch bis zur nächsten 
+Werkstatt. Und ein Ausfall von Unterhaltungselektronik, Navi oder 
+Beleuchtung nervt halt, legt aber nicht gleich die Karre still. Viele 
+Elektriksch�den sind eh nur kaputte Sensoren, die dann halt zu einer 
+Warnmeldung/-Lampe führen, aber sonst nichts nennenswertes zerstören.
+
+-- 
+Henrik Ullmer
+
+Profil SötebeerNielitz - http://lva.lpotzhizbayfqlm.fn/
+PBPD running System - http://dft.dmlxg.qdy/

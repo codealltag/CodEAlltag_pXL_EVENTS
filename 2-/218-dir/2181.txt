@@ -1,0 +1,23 @@
+Nein, eben nicht.
+
+Der Trick ist es, dafür zu sorgen, dass die Kühlung nicht ausfällt.
+Wie Fukushima zeigt, ist das nicht zu gewährleisten. Wenn man weiß,
+wie ein Reaktor aufgebaut ist, weißmann, dass es zwar mehrfahce
+Redundanzen gibt, wasser Recykling und und und. Man hat sogar nicht
+nur eine Notstromversorgung, sondrn mehrfachredunate, an
+unterschiedlichen Orten. Man bräuchte also schon einmal mehr als 1
+Rakete, die zusätzlich bunkerbrechend wirken müsste- die Aggregate
+sind nämlich mitlerweile verbunkert.
+Aber- sie könnten trotzdem noch ausfallen. DAmit ist nicht zu 100%
+eine Versorgung mit Kühlwasser gewährleistet, zumal auch
+Hauptkühlmittelleitungen bersten können.
+Kurz- eine aktive Kühlung kann nicht die letzte Fallbacklösung
+darstellen. Aus diesem Grund geht man mittlerweile von Kernschmelzen
+und deren Beherrschung aus. Genau aus diesem Grund baut m,an den
+Corecatcher auf, hier kann man definiert, die Schmnelze auffangen, auf
+eine Ggroße Flaäche verteilen, wo die Wärme besser mittels Konvektion
+abgeführt werden kann.
+
+Richtig. Es ist die Aufgabe, die Folgen kleinzu halten.
+Bleiben wir bei Kühlungsausfall. Es gibt Konstruktionen, die können
+die gesamte Nachwärme aufnehmen, ohne kaputtzugehn.

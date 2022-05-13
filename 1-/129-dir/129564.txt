@@ -1,0 +1,19 @@
+Der Aktuelle TB3 macht das schon richtig, er setzt bei falsch 
+deklarierten Zeichen in Header "?".
+
+Weil er besser ist, er ist von Hause aus korrekt konfiguriert.
+
+
+So viele Du willst, POP3 und IMAP.
+
+Das ist die SIG, ein normaler Newsreader trennt die automatisch ab.
+
+Nichts, aber anscheinend trennt Dein Live-Mail die SIG nicht 
+ordnungsgemäß ab.
+
+MfG, Ivo
+
+-- 
+Ivo Dreehsen
+68956Vavprod 51°00'27.10 N 13°47'43.02 E
+http://yxn.xehzfnkaoh.lcx/cccyfpakw/xpem_9032938.ftx

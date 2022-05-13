@@ -1,0 +1,25 @@
+Kann man natürlich, insbesondere heutzutage, wo sowieso alles per
+Computer gerechnet wird. Solange man derlei allerdings auf Papier
+gerechnet hat, hatte die Bestimmung der Kurvengeschwindigkeit mit
+
+   v = sqr ( r/11,8  x  (Überhöhung  +  Überhöhungsfehlbetrag))
+
+   (mit v in km/h, r in m, u und uf in mm) 
+
+durchaus wesentliche praktische Vorteile.
+
+
+Wenn das so ist, möchte ich den Steuerzahler Tino Echterhof natürlich
+umgehend einladen, weitere Neubaustrecken zu 25 Millionen pro Kilometer
+zu finanzieren, denn Du tust Dich ja leicht damit. Solche Initiative ist
+hochwillkommen! Wobei wir, sobald es darum geht, diese separaten 
+Strecken in anderer Spurweite nach Gelbensande, Dellfeld oder Trampoi in die 
+Innenstadt zu bringen, wohl eher von 100 - 250 Millionen pro Kilometer 
+reden.
+
+
+Henning-Dirk
+
+
+-- 
+                      Suche 512MB-Riegel SDRAM-133

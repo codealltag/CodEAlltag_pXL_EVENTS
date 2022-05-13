@@ -1,0 +1,11 @@
+Ist das so sicher?
+
+Ich möchte jetzt einfach mal behaupten, dass ich bis zu einer
+Außentemperatur von - 10 Grad mit einem Heizlüfter mit 2 kW Leistung
+die wenige Luft des Innenraums eines Autos ausreichend warm bekomme.
+
+Verglichen mit dem Antrieb eines Elektroautos, welches in der
+Größenordnung von 15 kWh pro 100 km braucht, ist das relativ wenig.
+Sofern man nicht gerade stundenlang im Stau steht. Z.B. bei einer
+durchschnittlichen Geschwindigkeit von 50 km/h wäre die
+durchschnittliche Leistung bei 7,5 kW.

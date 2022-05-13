@@ -1,0 +1,38 @@
+Deswegen halte ich es auch für fragwürdig, wie so oft geschehen, die 
+Nutzung freier DNS-Server zu propagieren. Erstens, weil das so aussehen 
+könnte, als möchte man die zurecht geächteten Webseiten betrachten. 
+Zweitens, weil so irgendwann die Regierung vielleicht doch auf die 
+Existenz derartiger Dienste aufmerksam wird. Und was den Datenschützern 
+immer noch am meißten in die Hände spielt ist die mangelnde technische 
+Kompetenz und die Lernresistenz der Gesetzgebenden. Ich denke 
+praktischer wäre es wohl, die IPs der Server, auf den die Sperrseite 
+liegt, in den bei vielen eh schon vorhandenen Adblocker einzutragen. 
+Damit umgeht man nicht die Zensur, vermeidet aber, von dem genannten 
+Server geloggt zu werden. Apropos Lernresistenz:
+Warum viel es keinem der Verantwortlichen auf, wie angreifbar ein 
+solches System ist? Da die Aufspürung der "Täter" nur durch das 
+zeitnahe Erstellen und Interpretieren von Nutzprofilen über IP-Adresse 
+möglich ist (es sei denn, man macht sich die kostenintensive Mühe, 
+sogar jeden einmaligen Gast der Sperrseite mit Hausbesuch zu ehren), 
+können die IP-Logs doch mittels intensivem DoS überflutet werden. Man 
+bräuchte nur immer wieder (vielleicht noch unter Zuhilfenahme eines 
+Anonymisiers und ständig wechselnder IP) die Sperrseite aufzurufen und 
+so ins IP-Fettnäpfchen treten. Das würde die Strafverfolgung sicherlich 
+erheblich erschweren, bzw. nach wirtschaftlichen Gesichtspunkten 
+gänzlich ins Aus schießen. Hoffentlich kommt niemand auf die Idee, 
+etwas derartig verwerfliches und offentsichtlich illegales zu tun, denn 
+dann würde man zwar massenweise arglose User vor unbegründeter 
+Kriminalisierung schützen, aber doch das Risiko eingehen, eine Handvoll 
+echter Täter entwischen zu lassen.
+
+Generell bin ich bei dem Thema Kinderpornografie schon für die 
+Umsetzung einer Zensur, um den Zugang zu erschweren. (Und auch nur das 
+ist möglich, es behauptet doch auch niemand, der alle Sinne beisammen 
+hat, die USK Einstufung würde für Kinder den Zugang zu nicht 
+altersgerechten Spielen unmöglich machen.) Doch dann bitte über eine 
+unabhängige, durchsichtige Instanz mit Widerspruchsmöglichkeiten, etc. 
+Es stört mich immer noch am meißten, wie stark man uns unterschätzt, 
+man uns für dumm verkaufen will. (Siehe Betrachtungen des Vorredners, 
+dem ich voll zustimme.)
+
+Größe, Fridolin

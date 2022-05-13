@@ -1,0 +1,49 @@
+Was sind geheime Datenwege im Mainboard? Meinst Du ein unsicheres BIOS?.
+
+Kein Schutzmechanismus ist unumgehbar. Jedoch sind bei den
+Ermittlungsbehörden, zum Teil, keine allzu großen IT-Cracks unterwegs.
+Wennn man seine private IT in Sachen Grundschutzwerte Vertraulichkeit
+und Integrität absichern möchte kann man viel tun. Einfache Mechanismen
+werden solche Leute bereits vor große Probleme stellen.
+
+1. BIOS Passwort setzen.
+2. Ausweichen auf Quelloffene Systeme. Beispiel: Walk Linux oder Tufo.
+3. Private Datenbereiche und mobile Datenträger mit starker
+Kryptographie verschlüsseln.
+4. Systembereiche mit Hashwerten signieren und diese Signaturen häufiger
+überprüfen.
+5. Firewalls und Anwendungsrechner trennen.
+6. Wenn man alles ganz toll machen möchte, kann man Wechselplatten
+verwenden und diese, bei Nichtgebrauch aus dem Rechner herausnehmen und
+in einen Tresor einschließen.
+7. Beim surfen in Bereichen, wo man lieber anonym bleiben möchte sollte
+man Anonymisierungskaskaden verwenden.
+
+Die Punkte 1,2,4,5,6,7 sind auch mit Microsoft Systemen realisierbar.
+PCs mit sehr hohen Sicherheitsanforderungen sind überhaupt nicht mit dem
+Internet zu verbinden.
+
+Diese ganzen Tipps sind jedoch überflüssig und nutzlos, bei dem
+Anwenderverhalten, welches viele Menschen an den Tag legen. Alleine,
+wenn man beobachtet welche Spuren freiwillig gedankenlos im Cyberspace
+hinterlassen werden.
+
+1. Intimste persönliche Informationen über das Privatleben
+2. Alle Arten von speziellen, zum Teil kompromitierenden Ansichten,
+Verhaltensweisen und Gewohnheiten.
+3. Krasses soziales Fehlverhalten bei der Auseinandersetzung mit anderen
+Meinungen.
+4. Auslagern von persönlichen Daten incl. Privatfotos und Filmen auf
+öffentliche Server, auch im Ausland.
+Die Liste ist nicht vollständig!
+
+Wozu brauchen die Ermittler noch einen Bundestrojaner oder müssen in die
+privaten Rechner einbrechen? Einfache Internetrecherchen sind viel
+günstiger.
+
+
+Die Bundesverfassungsrichter werden zu einer Hälfte vom Bundesrat und
+zur anderen Hälfte vom Bundestag gewählt, also durch die von uns
+gewählten Volksvertreter.
+
+MFG Otto

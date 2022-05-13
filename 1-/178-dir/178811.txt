@@ -1,0 +1,32 @@
+Das prüfe ich noch! Richtig ist allerdings, und da muß ich zugeben, der 
+defekte Betreff kam gar nicht von Dir, sondern von Detlef Niegeloh, und der 
+sah so aus:
+
+Subject: Parteisoldat Ueberschär
+
+Eben! Und genau das ist defekt! Die Charset-Deklaration schließt exclussiv 
+den Inhalt ein, im »technischen Bereich« werden nach wie vor ASCII-Zeichen 
+verwendet, und das hier prachtvoll zu sehende »ü« gehört definitiv nicht dazu.
+
+Aber Du hast Dich komischerweise angespochen gefühlt und mich angepöbelt, 
+obgleich Du weder betroffen noch angesprochen warst, oder anders gesagt, Du 
+hast eine phantastiche Möglichkeit ausgelassen, einfach mal die Klappe zu 
+halten.
+
+Und jetzt zu Dir!
+
+Subject: =?UTF-8?Q?Re:_Schei=C3=9Fe_w=C3=BCrde_SPD_w=C3=A4hlen?=
+
+Ja, in der Tat, *der* ist in Ordnung!
+
+Ich stelle also sachlich richtig fest, daß das gar nicht Dein Thema ist, 
+und daß Du Dich am besten einfach raushälst. Ich wiederhole: Du wurdest 
+weder persönlich angesprochen noch bist Du in der Sache betroffen, also 
+halte Dich doch einfach zurück!
+
+
+Glückauf!
+Silvia Imkamp (QTH: SK59KV)
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://ngl.nwhee-qjezit.mp

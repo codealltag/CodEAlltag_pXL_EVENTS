@@ -1,0 +1,24 @@
+"Knut Forsthuber" <jjpup.toiksot@ieq.xk> schrieb am Thu, 29. 12. 21
+14:38:06 +0100:
+
+
+Mein Gedankenexperiment: ein Raumschiff mit gläsernem Bug, bestehend
+aus einer Röhre mit Länge 1 Lichtjahr, fliegt mit Lichtgeschwindigkeit
+(um einfacher rechnen zu können)in Richtung Erde.
+
+Der Bug ist genau 1 Lichtjahr entfernt von einer Messstation zum
+Erfassen von Lichtsignalen nahe der Erde. Außen am Heck wird jetzt
+eine Lampe eingeschaltet. Da sich die Geschwindigkeit des Lichts nicht
+zu anderen Geschwindigkeiten aufaddieren kann, erreicht die
+Information, dass das Licht eingeschaltet wurde, die Erde nach 2
+Jahren.
+
+Ist die Lampe aber innen im Heck des der Raumschiffes angebracht, dann
+erreicht das Licht nach einem Jahr den Bug, der in dieser Zeit die
+Messstation erreicht hat und die registriert bereits nach einem Jahr,
+dass das Licht im Heck eingeschaltet wurde.
+
+Denk nicht zu viel darüber nach. Es zu verstehen ist nicht wichtig für
+das normale Leben ;-))
+
+Ivo Landwehr

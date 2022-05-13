@@ -1,0 +1,8 @@
+mplayer -dumpstream -dumpfile Alptraum_Atommuell.wmv \
+ "jtx://xhfwrbjgn.xkqe.oddfp.ayx/y9965/a87/phb/bptv6/JIU_PO_AF/xtqxypsz/F5_VCB_WDL_32_715019-063-
+F_OI_XJ_ZF.emp?k=8823990967&s=8ia646an509i837x5we39q870s632tq4"
+
+Hat's bei mir getan
+
+
+Fritz

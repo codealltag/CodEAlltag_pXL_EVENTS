@@ -1,0 +1,24 @@
+Genau genommen ist es umgekehrt. Es gibt im Normalfall keinen Grenzwert 
+für Radioaktivität in Lebensmitteln. Es ist zwar verboten, aktiv 
+Lebensmitteln radioaktive Stoffe zuzusetzen, aber ansonsten wäre nach 
+der Strahlenschutzverordnung erst die Freigrenze (Genehmigungspflicht) 
+eine Grenze. Dann gibt es noch das Lebensmittelrecht. Dort steht aber 
+nur, dass Lebensmittel nicht gesundheitsschädlich sein dürfen. Was das 
+hinsichtlich der Radioaktivität bedeutet, wird dort nicht geregelt. Erst 
+die EU Verordnungen setzen Grenzwerte.
+
+Wie Grenzwerte in Lebensmittel gesetzt werden, ist immer umstritten. Bei 
+Dioxinen nimmt man Werte, die knapp über den in der Umwelt gefundenen 
+Dioxinwerten liegen. In anderen Fällen nimmt man Grenzwerte, die knapp 
+über der analytischen Nachweisgrenze liegen.
+Die EU hat ein Dosiskonzept, meines Wissens 1 mSv/a. In die Rechnung 
+gehen ein, die Verzehrsmengen pro Jahr und die Dosiskoeffizienten. Dann 
+nimmt die EU noch zusätzlich an, dass im Mittel die verzehrten 
+Lebensmittel nicht mit dem Maximalwert belastet sind, sondern nur mit 
+10% dieses Wertes.
+
+
+Mir fallen zwar keine weiteren ein, aber vor Überraschungen ist man 
+niemals gefeit.
+
+Gruß  Gilles

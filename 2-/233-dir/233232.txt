@@ -1,0 +1,53 @@
+Nun ja, Du scheinst mir mehr Ahnung zu haben als dieser Nikolaus, denn 
+mit dem was Du schreibst hat Hand und Fuß.
+
+Du hast Recht - ein gleichgerichteter Wechselstrom ist zunächst mal 
+keine saubere Sinuswelle mehr, und das hat Folgen.
+
+Auch wenn es mit ASCII-Kunst nicht gut ausseiht, das soll eine ganze 
+Sinuswelle (360°) darstellen:
+
+  +   /¯\
+  -      \_/
+
+Da ist alles rund, haben wir also auch kaum Oberwellen. Und die richten 
+wir jetzt gleich:
+
+  +   /¯\/¯\
+  -
+
+Upps!
+
+Erstens hat das jetzt eine Frequenzverdopplung erfahren, schwingt also 
+schonmal auf der ersten Oberwelle, und zweitens hat das scharfe Zacken 
+in der Kurve, will heißen, das hat weitere Oberwellen wie'd Sau.
+
+Ja, da kann ich gar nicht widersprechen, das ist die reine Wahrheit. 
+Aber wir haben da noch einen Kondensator drin, was wird der wohl tun?
+
+Er macht aus dem gleichgerichteten Wechselstrom einen schönen 
+kontinuierlichen Gleichstrom, allenfalls einen leichen Restbrumm haben 
+wir da noch drauf. Aber Gleichstrom hat keine Wellen, weder Grundwellen 
+noch Oberwellen. Und außerdem stellt ein Kondensator für Wechselstrom 
+einen frequenzabhängingen Widerstand da, ist nämlich um so niederohmiger 
+je höher die Frequenz ist, will heißen, wenn doch noch ein Rest von 
+Oberwellen auf der Leitung sein sollte, werden diese im Kondensator 
+quasi kurzgeschlossen.
+
+Das alles schließt nicht aus, daß doch noch ein kleiner Rest an 
+Störstrahlung übrig bleibt, aber wenn man mit dem Transistorradio ganz 
+nah drangehen muß um diese nachzuweisen, können die nicht so schlimm 
+sein. Oder wie Kamerad Diedrich vom Raumschiff Enterprise sagen würde: das 
+funktioniert alles innerhalb der vorgesehenen Parameter.
+
+
+Den Eindruck habe ich auch, daß der auswendiggelernte Phrasen aufsagt 
+ohne zu wissen was es bedeutet.
+
+
+Glückauf!
+Natalie Müller-Stolz (Lüsberg/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://ety.axkuw-prrxsl.tc

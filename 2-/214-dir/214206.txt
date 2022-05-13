@@ -1,0 +1,17 @@
+On Sun, 22. 09. 22 18:30:37 +0200, "nicolas"
+
+Das hängt auch vom Modell ab. Je nachdem, wie Gewicht,
+Stromlinienförmigkeit, oder Effizienz des Motors sind. Wie das mit den
+Magnetschwebebahnen ist, weiß ich nicht.
+
+Es geht aber nicht nur den Verkehr auf Land oder an sich (auch Schiffe
+sind oft die reinsten Dreckschleudern), sondern auch um Wärmedämmung,
+industrielle Herstellungsprozesse und Materialienauswahl (Aluminium
+und Stahl sind etwa besonders energiehungrige Materialien). Im
+PC-Bereich ist prinzipiell viel möglich, aber da muss noch durch
+Innovation an den Kosten gedrückt werden für CPUs mit der Abwärme
+eines Atoms (ein paar statt 65-100 W) und der Leistung eines Core2Duo
+und für SSD statt HDD (0,1 - 1 W statt ca. 30 W). Das Beispiel PC
+zeigt aber, dass wir zZ viel zu viel Energie umsetzen, weil an den
+falschen Parametern geschraubt wurde. So wie die Amis mit ihren
+Pickups und Sargschlitten statt dem verbrauchsarmen Auto.

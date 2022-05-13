@@ -1,0 +1,4 @@
+Huch, kann man in deinem Basic Dialekt mal eben schnell und schmutzig 
+double floats in for-next Schleifen verwenden? Sachen gibts.
+
+-uebelacker

@@ -1,0 +1,9 @@
+finde ich einen faulen Kompromiss diesen Fehler beim Falschschreiben
+zukünftig auf den Kunden abzuwälzen.
+
+Kontonummern sollten aus diesem Grunde so geändert werden, das mit
+Hilfe einer eingebauten Kontrollnummer, einfache Schreibfehler (also
+eine falsche Ziffer) zu 100% unterbunden werden und bei mehreren
+falschen Ziffern es unwahrscheinlich wird.
+
+--=20

@@ -1,0 +1,9 @@
+Da diese Möglichkeit aber überall besteht, ist es naheliegend den
+Durchschnitt anzunehmen. Ansonsten müsste man jeweils die niedrigsten
+Preise vergleichen.
+
+2012 lag der EU-Durchschnitt für Haushalte mit 3500 kWh/a inkl. aller
+Abgaben und Steuern übrigens bei 17,61 Cent.
+
+-- 
+rs

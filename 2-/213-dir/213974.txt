@@ -1,0 +1,4 @@
+eigentlich reicht es, wenn er richtig vorbereitet
+
+Aber unsere Oled müssen ja ständig rummanipulieren können um sich 
+irgendwie durchzumogeln.

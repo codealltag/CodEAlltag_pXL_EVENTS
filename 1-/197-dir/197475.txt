@@ -1,0 +1,7 @@
+Mit einem XMLHTTP-Request, dessen Antwort man mit einem
+ADODB-Stream als Binary speichert. Oder it wget.
+
+Ausserdem kann der *Windows*-Explorer auch FTP.
+
+MfG,
+Alfred

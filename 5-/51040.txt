@@ -1,0 +1,8 @@
+wenn du keine Nachkommastellen möchtest änderst du einfach die Einheit.
+und schon werden aus Lichtjahren die gewünschten Nanometer.
+
+an der Geneuigkeit der errechneten Zahlenwerte ändert das aber nichts.
+
+
+-- 
+cu |_|

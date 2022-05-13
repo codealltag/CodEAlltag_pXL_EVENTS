@@ -1,0 +1,26 @@
+Nix Winword, dafür eine Story aus dem Jahre 2008 - ok die neueste Office-
+Version aus dem Jahre 2009 kann es nicht gewesen sein, es war nur die 
+Produktivumgebung eines internationalen Verlages. Anlässlich einer 
+Ausstellung eines Malers wurde ein Buch herausgegeben, sowas kommt 
+häufiger mal vor. Der Spezialist A sitzt in Alfershausen, die Genehmigung für 
+Abdruck B holt man sich in Uttwil und C sitzt in Messen und der 
+Herausgeber sitzt in Unterehesberg. Übersetzungen werden Korrektur gelesen und 
+alles geschieht im Wordformat. Schliesslich gibt es immer wieder 
+Formattrouble, obwohl es immer immer MS-Office gewesen sein soll. Der 
+Alfershausener Spezialist hatte sich doch glatt erdreistet die VTZ-Version von 
+Vopag-Office zu verwenden, welche aus welchen Gründen auch immer in Unterehesberg 
+nicht lesbar war. Zur Katastrophe kam dann noch hinzu, dass die 
+Übersetzerin nicht die neueste Officeversion benutzte und verflixt 
+nochmal noch nicht einmal htp (was man ihr zwar spendierte, aber dann 
+die Katastrophe perfekt machte, weil diese dann die neueste Version 
+hatte, die kein anderer aus dem Konzern lesen konnte). Schliesslich 
+einigte man sich alles auf OpenOffice laufen zu lassen (zum Austausch der 
+Dokumente) und zwar nur aus dem Grund, weil es kostenlos war und heimlich 
+gegen den Willen der IT-Konzernrichtlinie zur Lösung des Problems 
+eingesetzt werden konnte. Selbst die Unteralberting-Version war lesbar, was unter MS-
+Office eben nicht machbar war. Austauschformat war zwar weiterhin MS-
+Office-Doc-6.0/7.0, aber konvertiert wurde mit OpenOffice, weil es dann 
+bei allen gleich ankam und nicht jeder Austausch die Dokumente verhunzte.
+
+Grüße,
+Igor

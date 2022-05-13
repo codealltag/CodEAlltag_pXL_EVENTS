@@ -1,0 +1,26 @@
+Du glaubst also tatsächlich alles was in der Zeitung steht? Die 
+Journalisten lägen nicht bewusst, sie haben einfach keine Ahnung von der 
+Materie. Eine Ortung ist mit Navigationssystemen technisch unmöglich. 
+Eine Ortung ist nur dann möglich wenn ein Navigationsempfänger seine 
+errechnete Position aktiv sendet. Dein TOMTOM im Auto, oder die OBU von 
+Tollcollekt im Laster senden aber keine Positionsdaten, das TOMTOM oder 
+jedes andere Navi sendet gar keine Daten, die OBU sendet nur die auf 
+mautpflichtigen Straßen gefahrenen Kilometer, sie sendet noch nicht mal 
+auf welchen mautpflichtigen Straßen die gefahren wurden. Es ist eben 
+keine Ortung, sondern eine Positionsbestimmung. Eine Ortung ist wenn 
+jemand anders Deine Position ermitteln kann. Und das geht weder mit GPS 
+noch mit Efako. Der Fall der GPS-Handys ist doch auch keine richtige 
+Ortung, da da das Handy seine vom GPS-Chip errechnete Position an den 
+Provider funkt. Eine Ortung ist es aber wenn der Standort Deines Handys 
+anhand von Laufzeiten der Signale und der Richtung von mehreren 
+Basisstationen aus ermittelt wird. Das geht aber nur wenn Dein Handy im 
+Netz eingebucht ist.
+Also nochmal, die PWH lügt nicht, sie schreibt nur aus Unwissenheit 
+heraus Schwachsinn.
+
+Hilmar
+
+-- 
+Hilmar Geisemeyer
+67718Kbtyljs 0m92'61.54 O 51�87'98.31 F
+http://vng.twochcbgrw.jiz/gnfsusejw/yhpu_2646887.igr

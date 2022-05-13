@@ -1,0 +1,25 @@
+Warmwasser ist ein Hauptsegment beim Energiebedarf - das sollte aber 
+wenn möglich nicht elektrisch erzeugt werden, sondern mit an der Heizung 
+klemmen. Eine kWh Gas/Oel kostet 5-6 ct, das gleiche per Strom kostet 
+das 4-fache.
+
+Dann kommen die Kühlgeräte. Die haben zwar nur eine geringe Leistung, 
+laufen aber dauerhaft durch. Ein Kompressor mit 120 W und 20 min ein und 
+40 min aus braucht im Jahr 2/3*120W*8760 = 700 kWh.
+
+Die Standby-Verbräuche werden immer zahlreicher. Das ist insbesondere 
+blöd, weil hier kein Mehrwert geliefert wird, wie beim Kühlschrank. 
+Letztere offeriert immer ein kaltes Bier, aber die Einschaltbarkeit per 
+Fernbedienung lässt sich auch für 2 W realisieren, und nicht für 20W. 
+Dazu muss man dem Fernseher aber ein extra Relais spendieren, das den 
+Hauptschalter umlegt.
+
+Gruss,
+Ulfert
+
+
+-- 
+    /^\
+    \ /   Plain-Text Ribbon Campain
+     X    Say NO to HTML in email and news!
+    / \

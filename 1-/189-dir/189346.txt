@@ -1,0 +1,9 @@
+Diesel funktionieren sehr schnell, aber sie haben eben immer eine
+Anlaufzeit, wenn es zwingend unterbrechungsfrei sein soll, dann
+braucht man selbstverständlich einen Puffer.
+Wenn man nach Zeit x im Falle des Falles auf Strom verzichten kann,
+nimmt unter Umständen nur Akkus mit entsprechender Kapazität.
+Wenn man nicht verzichten kann ist der Diesel, evtl. Gas oder
+Benzinmotor unabdingbar.
+
+Oliver

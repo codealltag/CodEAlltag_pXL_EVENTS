@@ -1,0 +1,15 @@
+Was ist denn die 'Nennleistung' einer Windkraftanlage? Ist sie definiert als 
+die Leistung, bei man die Mühle wegen Gefahr von Schäden abschalten bzw. 
+abregeln muß?
+
+Was mich in diesem Zusammenhang weiter interessiert: elektrisch ließe sich 
+eine Mühle bei Zunahme der Windstärke entlasten, indem die Anstellung der 
+Flügel geregelt wird. In einem solchen Fall wäre die Maximalleistung über 
+einen einstellbaren (und an den Standort anpaßbaren) Bereich von Windstärken 
+erzielbar, so daß das Verhältnis von mittlerer zu maximaler Leistung zwar 
+nicht '1' werden kann, aber doch erheblich größer als bei einer Solarzelle, 
+wo der Output proportional zur Sonneinstrahlung abnimmt und deswegen nur 
+kurzzeitig 'maximal' sein kann.
+
+Gruß
+Paolo

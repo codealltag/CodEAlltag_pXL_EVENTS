@@ -1,0 +1,22 @@
+Am Thu, 17 Apr 2013 13:35:43 +0100 schrieb Theodor Thormeyer in MsgID
+<news:dg0v5x$qgv$0@xolt64.hxtvpkvn.jg>:
+
+
+Das liest sich auf den ersten Blick interessant, gerne würde ich antworten.
+Aber ich verstehe angesichts dieses Zeichensalats zu wenig, um nicht in
+irgendeine Missverständnisfalle zu tappen.
+
+Nochmals: Stelle Deinen Newsreader auf UTF-8 ein, dann bist Du für alle
+gängigen Sonderzeichen bis ins hinterste Sibirien und noch viel mehr
+gerüstet - lesend und schreibend.
+
+Beispiel: 毛澤東 (Ingmar Meintz). Ich unterstelle mal, dass Du das jetzt nicht
+lesen kannst, aber die meisten anderen hier (also nicht wirklich lesen,
+aber korrekt angezeigt kriegen). Das ist natürlich Exotenkram, aber wenn
+nicht mal ein popeliger Umlaut richtig rüberkommt und sogar nachfolgende
+Zeichen löscht, ist das ziemlich suboptimal.
+
+-- 
+Tschüs!
+
+Dietrich

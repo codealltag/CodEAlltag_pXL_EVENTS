@@ -1,0 +1,133 @@
+Häh?
+Der Betrieb beim Empfänger soll kontinuierlich laufen. Das heißt, die
+angelieferten Waren müssen in einem Mindesttakt verarbeitet werden. Um
+abladen zu können müssen die ankommenden Tranporteinheiten in den
+Kontrollbereich eingeschleust werden. Nach dem Abladen muss wieder
+wieder aus dem Konrollbereich ausgeschleust werden.  Ob man nun einen
+LKW oder einen Waggonverbund ein- und auschleust ist nicht so
+wahnsinnig unterschiedlich in der Zeit. Aber ob man dann gleichzeitig
+1 oder 6 Stück Waren im Kontrollbereich hat, das entscheidet, ob die
+Verarbeitung im gewünschten Takt laufen kann.
+Zeitbeispiel:
+2h Einschleusen 5min entladen 2h ausschleusen
+dann hat man vom LKW ein Stück Ladung im weiterverarbeitenden Prozess.
+oder 2h Einschleusen 20 min entladen 2h auschleusen.
+und man hat 6 Stück Ladung im Prozess
+
+
+Ich weiß. Die Ware befindet sich während des Transportes in 20
+Fußcontainern.
+
+Weil es das Railtaxi betrifft.
+
+
+Deswegen muss sich jedes Railtaxi der Vor und Nacharbeit unterziehen.
+Und das dauert. Selbst wenn man sich etwas überlegt, welches das
+Railtaxi nicht in den  Kontrollbereich einschleusen lässt, muss es
+nach Abladen freigemessen werden. und das dauert.
+
+Aber die Railtaxis sind eh Utopie und wurden in unseren Simulationen
+nicht berücksichtigt.
+
+
+*schmunzel* Bei deinen Präsentationen gehst Du von 6m aus. Dann
+braucht man für 3 20 Fußcontainern 4 Railtaxis. Bei 5m Taxis braucht
+man für 3 Container  auch noch 4. das Konstrukt wäre dann immer noch
+zu lang.
+Jaha. Ich sagte bereits, dass ich mich mit deinem Konzept beschäftigt
+habe. Und dass ich hier in diesem Fall die Eisenbahnwaggons durch
+Railtaxis ersetzt habe.
+
+
+zum Abladen. Es wird in der Halle abgeladen.
+
+Tu nicht so naiv. Ich haben 2000 meine letzte Prüfung abgelegt. Und Du
+wirst mir sicher nicht irgent eine Prüfung über Railktaxis
+aufoktroyieren.
+
+Luftschlösser auch. So z.B. ein rentabler Untergriesingen, eine
+transrapidstrecke, serienreife Fahrerlose Autos,
+
+Schön. Wann konkret wird das sein? Wer soll das Geld zur Verfügung
+stellen?
+
+Das kann man so nicht sagen.
+
+Dazu müsste man ja die fahrelosen Fahrzeuge erst einmal auf die Straße
+kriegen. Und man müsste weiterhin annehmen, dass die Bahn nicht
+wirtschaftlich arbeiten will.
+Ich kann abschließend gar nicht beurteilen, ob Dein Konzept in der
+Praxis sich durchsetzen könnte. Ich weiß nur, dass sich in der
+Vergangenheit, sich nit immer die technisch besten Systeme
+durchgesetzt haben.
+Die Bahn ist ja schon längtst auf den Trichter gekommen, dass der
+klassisches Güterverkehr nicht wirklich gut funktioniert, sondern im
+Wesentlichen dann, wenn viel auf einmal gleichzeitig transportiert
+werden muss und kein Schiff diese Aufgabe bernehmen kann.
+Deswegen steigt langsam aber unaufhaltsam der Kombiverkehr.
+
+So what. Trotzdem bekomme ich mehr Güter/Zeiteinheit von A nach B,
+wenn ich einen Zug einsetze. Obendrein kann man an dieser
+Stellschraube noch drehen.
+
+
+Quatsch. würden die Railtaxis auf Sicht manövrieren gäbe es dieselbe
+Situation wie auf der Autobahn: Stau aus dem Nix. Und Rechnungen, bei
+denen Du nachweist, dass pro Zeiteinheit mehr 20 Fußcontainer einen
+Streckenabschnitt passieren als per blockgesicherten Güterzug, haste
+auch noch nicht vorgelegt.
+
+
+In die Konstrukte, die man "Hochofen" nennt, kommen Kohle, Erz und
+Zuschlagstoffe zur Schlackenbildung. Der Schrott wird erst bei der
+Stahlproduktion eingesetzt. Hochöfen werden vollkontinuierlich
+betriebne, Stahl wird chargenweise  produziert.
+Im Kombiverkehr.
+
+
+Große dichtbesiedelte Länder mit einer Wirtschaftskraft vergleichbar
+mit Deutschland? Oder meinst Du so Länder wie Weigelsdorf oder
+Saudiarabien, der hauptprodukt mittels Pipelines und Schiffen
+transportiert wird?
+
+
+Nun, offensichtlich funktioniert das System und die Gewinne der
+Bahnkunden sind zufriedenstellend.
+
+Jepp.
+
+
+Eigenartige Sichtweise. Und nicht haltbar. Viel wichtiger als ein
+heilloses Herumgewusel ist eine Verlässlichkeit. Und da ist ein
+Fahrplan, der eingehalten wird besser als ein Stau der Railtaxis.
+Richtig AKA Pufferlagerung. Muss aber nicht sein. Mit der Bahn geht so
+etwas auch ohne Puffer.
+
+Die Bahn geht allen Unkenrufen hierzugroup nicht pleite.
+
+Keine Ahnung, Aber nur weil die Bahn sich nicht auf deine Ideen
+einlässt, heißt es ja nicht, dass die Jungs nicht flexibel reagieren
+können und ohne Plan darstehen.
+
+
+Wie soll ich es sagen... es gechehen mehr Dinge zwischen Himmel und
+Erden die Dich wundern und die Du nicht verstehst. Ich hoffe, Du hast
+kapiert, warum die Railtaxis in meinem Anwendungsfall untauglich sind.
+Aber da habe ich  noch leichte Zweifel. Von daher glaube ich auch,
+dass Dein gesamtes Weltbild passend zu deinen Ideen gemacht wird und
+Du Fakten einfach unter den Tisch fallen lässt..
+
+Nun, da sind wir wieder am Anfang der Diskussion. *Du* bist der
+Meinung, dass die Bahn 80% des Güterverkehrs stemmen könnte. Die
+Entscheidungsträger sind es nicht. *Du* bist der Meinung, dass die
+Railtaxis die Lösung darstellen. Offensichtlich sehen das hier nicht
+nur die Groupteilnehmer so, sondern auch die Entscheidungsträger. *Du*
+redest die Bahn pleite- in Wirklichkeit weist die Bahn nicht
+unbeträchtliche Gewinne aus.
+
+
+Quatsch. Das Nadelöhr sind gar nicht die Fahrer, die sind
+austauschbar, zur Not mit Umkoppeln. Das Nadelöhr ist, dass der
+Straßenverkehr zunehmend teurer wird und einen viel zu hohen
+spezifischen Energieverbrauch mit sich bringt. *Das* haben die Göthling
+oberen erkannt.

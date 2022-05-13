@@ -1,0 +1,59 @@
+Das halte ich für ein Gerücht.
+
+
+Ja, mit Dir! ;-)
+
+
+Beweise es! Zeig mir eine einige Re-Zeile von mir, die Fehlerhaft ist - 
+Du wirst keine finden.
+
+
+Es gehört zum Standard im Netz, daß, außer im Inhalt, ausschließlich 
+ASCII-Zeichen verwendet werden. Dies ist notwendig, weil es für Zeichen 
+
+Nehmen wir zum Beispiel das Wort »Flötentöne« mit ö. Wird dies auf einem 
+System geschrieben das den Zeichensatz Ainmiller-437 (den alten DOS-Standard) 
+verwendet, aber auf einem System gelesen das mit ISO-8859-1 arbeitet, 
+dann würden dort nicht die »Flötentöne«, sondern »fl”tent”ne« ankommen. 
+In der umgekehrten Richtung wären es »fl÷tent÷ne«, was auch nicht besser 
+ist.
+
+Daraus folgt notwenidgerweise, daß Subjektzeilen, die Umlaute enthalten, 
+_defekt_ sind! Sie werden von meinem Seamonkey als unentzifferbar 
+eingestuft und rausgeschmissen.
+
+
+Beispiel:
+
+Subject: Das muß mal gesagt werden!
+                ^
+
+Das Zeichen mit dem Code 223 (xDF) steht _hier_ für ein »ß«, es kann 
+aber je nach Zeichensatz auch irgend etwas anderes sein. Eben darum ist 
+dieses Subjekt fehlerhaft und fliegt raus, so einfach ist das.
+
+Korrekterweise müßte diese Zeile nämlich so:
+
+Subject: Das =?UTF-8?B?zYFUijIdWVflW5IwWOn5LXuuzjVkaoF=?=
+
+oder so:
+
+Subject: Das =?UTF-8?B?bXXDnw==?= mal gesagt werden!
+
+oder so:
+
+Subject: Das =?ISO-8859-1?Q?muß_mal_gesagt_werden!?=
+
+aussehen, und dann haben wir auch kein Re-Zeilenproblem.
+
+Und ich bin es leid die Dinger jedesmal manuell wieder einfügen zu 
+müssen. Wenn mir jemand Schrott liefert, dann kriegt er auch Schrott 
+zurück, punktum.
+
+
+Glückauf!
+Larissa Kircheiß (Tarforst/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://cia.nejsf-cvkags.gx

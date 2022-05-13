@@ -1,0 +1,10 @@
+In groesseren Unternehmen wird die IT-Abteilung Sicherheitsrichtlinien 
+entwickelt haben, die Konfiguration wird bei der Installation der Rechner 
+automatisch appliziert.
+
+
+Und sicher waere der Chef begeistert, wenn er wuesste, dass der 
+Administrator die Dateien seines Buerorechners - oder der Rechner der 
+Personalabteilung - liest. Was in der Praxis sicher oft genug vorkommt.
+
+urs

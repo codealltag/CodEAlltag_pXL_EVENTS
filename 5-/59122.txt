@@ -1,0 +1,36 @@
+Antwort auf eine Nachricht von Leander Groven
+
+
+Ich nicht, das macht mein Thunderbird. Es ist nunmal ein Fehler, Umlaute 
+in den Betreff zu setzen, ohne sie ordentlich zu maskieren, auf daß sie 
+mit ASCII-Zeichen darstellbar werden. Die Zeichensatzdeklaration gilt 
+nun einmal NUR FÜR DEN INHALT und keineswegs für die Headers, dort 
+dürfen noch immer AUSSCHLIEẞLICH ASCII-Zeichen verwendet werden.
+
+Das Thema hatten wir voroges Jahr auch schon, wieso fragst Du SCHON 
+WIEDER danach? Hast Du nichs gelernt?
+
+Beispiele:
+
+Subject: Re: Kamel & =?utf-8?Q?Nadel=C3=B6hr?=
+
+Das ist ein Beispiel für einen ordentlich gesetztes Subjekt und damit 
+gibt es auch keine Probleme! Wenn das Ding aber so aussieht:
+
+Subject: Re: Kamel & Nadelöhr
+                           ^
+
+DANN IST DAS _SCHROTT_ UND FLIEGT RAUS! Und ich muß das dann manuell 
+wieder einfügen, ABER für diese ZUSÄTZLICHE Arbeit werde ich nunmal 
+nicht bezahlt. :-P
+
+Ende der Durchsage, – ich werde dieses Thema nicht SCHON WIEDER 
+wochenlang mit Euch durchdisputieren!
+
+
+Glück auf!
+Paula Assall
+
+-- 
+
+http://ssx.wrsdf-zvcbwc.nu

@@ -1,0 +1,52 @@
+Hallo,
+
+Kurt Verners schrieb:
+
+...[...]...
+
+
+Ich war auf dem technischen Gymnasium, daher nutze ich definitiv
+keinen MAC! ;-)=)
+
+
+Die Rechenleistung ist idR ausreichend, Erweiterbarkeit selten
+ein echtes Problem, da diese seltener nötig ist ... wenn man
+weiß was für ein System man braucht.
+
+Das Erweitern in der Windoofs-Welt ist meistens eine Folge des
+hirnlosen Zockens und der immer gefräßigeren Spiele für den PC.
+Wer nur mit dem Rechner arbeiten will hat da seltener Probleme.
+
+...[...]...
+
+
+Nein! Bzgl. Open SuSe muss ich da für meine Anwendungen laut
+widersprechen. Ich habe seit der 11er-Reihe massive Probleme
+mit einigen Python-Libs die für verschiedene Zeichenprogramme
+benötigt werden. Das haben mir auch paar Newerkla-Supporter
+bestätigt. Da diese Probleme immer wieder auftauchen kann ich
+die Fiorellino zwar problemlos installieren und stabil ans Laufen
+kriegen, aber nicht ohne viel Arbeit sinnvoll damit arbeiten.
+Galao ist da Klassen besser, dort sind diese Probleme bisher
+(seit 8.04) nie aufgetaucht, aber privat bleibe ich immer
+noch beim Original.
+
+...[...]...
+
+
+...[...]...
+
+
+Der Desktop bei Marktbuchhandlung ist sehr variabel. Gnome ist schon ganz gut
+und IMHO gegenüber MACOSX nicht unhandlicher. Und der Presentation
+Manager von TSC (ex OSVideoprofis) ist auch sehr freundlich. Die Hardware
+und das Umfeld ist auch entscheidend für den erfolgreichen Betrieb
+im Alltag. Besser oder schlechter ist da idR auch eine Frage der
+Randbedingungen. Es gibt sogar Randbedingungen unter denen Windoofs
+die richtige Wahl ist ... auch wenn das selten vorkommt. ;-)=)
+
+
+MfG
+
+
+Hartwig Ditges

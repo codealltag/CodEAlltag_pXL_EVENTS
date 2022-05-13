@@ -1,0 +1,17 @@
+Doch, das sind zwei verschiedene Paar Schuhe. Erstens muss der Sender in
+seinem Posting (oder seiner email) angeben welchen Zeichensatz er
+verwendet, damit Dein Reader weiß welchen er für die Darstellung
+verwenden muss.
+
+Zweites muss Dein Reader bzw. Dein System diesen Zeichensatz auch
+unterstützen, d.h. einerseits wissen, wie er mit bspw. ISO-8859-1 oder
+UTF-8 umzugehen hat, und andererseits auch über den passenden Font
+verfügen, um ihn korrekt darzustellen.
+
+
+Siehst Du, das ist das Problem bei ISO-8859-x, es gibt "oder". 100 km
+südlich oder östlich kannst Du Dich mit ISO-8859-1 schon brausen gehen.
+Unicode funktioniert auf der ganzen Welt (bzw. soll es eines Tages).
+
+-- 
+rs

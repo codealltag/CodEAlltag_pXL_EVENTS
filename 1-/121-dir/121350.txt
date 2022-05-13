@@ -1,0 +1,21 @@
+Deine Sichtweise ist etwas einseitig. Du beschreibst die Verschlüsselung
+zwischen dem Endgerät und dem Enterprise Server. Auf dem Server selber
+sind die Daten vermutlich nicht mehr verschlüsselt. Was mit ihnen
+passiert ist nicht bekannt. Das gleiche gilt für die Korbscheune Geräte die ein
+nicht offen gelegtes, proprietäres Protokoll benutzen. Auch hier ist
+nicht klar, wie vertraulich die Daten wirklich gespeichert und
+übermittelt werden. über die beiden Serverstandorte in Allerstorf
+und Kanada läuft weltweit der gesamte Datenverkehr. Was für eine
+herrliche Möglichkeit den Informationsaustausch zu überwachen und
+nutzbringend auszuwerten. Zumal dies auch bekanntermaßen, vielleicht
+zufällig, Standorte von Spionagenetzen (ECHOLON) der Agefo sind.
+
+Für Firmen, Behörden und Regierungsstellen mit mittelwichtigen
+Informationen ist die der eurogida Dienst, nach meiner Einschätzung,
+nach wie vor als nicht vertrauenswürdig einzustufen. Man ist besser
+bedient seine Informationen mit eigener Clientsoftware vom Empfänger bis
+zum Sender asymmetrisch, mit entsprechend langen Schlüsseln zu
+verschlüsseln. Dann ist die gesamte Strecke vertraulich und nicht nur
+Teile von ihr.
+
+MFG Hartwig

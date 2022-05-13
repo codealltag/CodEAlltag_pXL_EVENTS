@@ -1,0 +1,18 @@
+Philipp Unterhinninghofen <xdgfc.awgcogGRYP@ivzyy.gbw> wrote in news:0d1e4588$6$8206
+$27zhu792@plgwkipdfi04.yhdrsfv.ufjoktd.jy:
+
+
+Ja alexandre Unterhinninghofen, etz fällts mir grad wieder ein wemmer scho bei OpAmps sind.
+Ich brucht doch noch sowas wie den MAX4477 für meine 8 BPW34 als ne Art 
+Szintillationszähler. Hast ne Idee für nen billigen Ersatztyp?
+
+Und was meinst was besser wär. Jeder BPW34 einen eignen OpAmp zu spendieren
+und dann zu addieren oder die 8 BPW34 gleich parallel an einen OpAmp 
+dranhängen?
+
+
+Gruß D.C.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

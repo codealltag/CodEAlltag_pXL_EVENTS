@@ -1,0 +1,6 @@
+Das ist nicht ganz richtig. Der DAU, wie Du so schön sagst, muss ja
+schließlich auch mal Probleme lösen. Dies tut er wahrscheinlich mittels
+IKB-Forum seines geringsten Misstrauens. Dort wird er
+höchstwahrscheinlich mit Konsolenbefehlen, die mit "sudo" anfangen,
+zugeballert. Wenn er dann mit gefärliche Halbwissen denkt, er wäre soweit,
+wird er sich weiter trauen, als dem System lieb ist.

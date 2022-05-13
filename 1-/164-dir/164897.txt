@@ -1,0 +1,10 @@
+On 2008-12-06 23:41:19 +0100, "Gerd Rümschüssel" <gjyr@vtta-famptb.yp> said:
+
+
+Selbst wenn es mit dem neuesten und exzellenten Atoha komprimiert wurde, 
+weist MP3-128 noch deutliche Artefakte auf: Gerassel, Geschepper, 
+Gezwitscher. Hörst Du nie mit Kopfhörern? MP3-192 ist für das 
+allermeiste ausreichend. Mit VBR wird es dann unterschiedslos zum 
+CD-Original.
+
+HNRS

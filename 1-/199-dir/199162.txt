@@ -1,0 +1,37 @@
+Niklaus Grässle <xeg.efvnnhlx@hhy.xt>:
+
+
+Du hast das Argument nicht verstanden: Es gibt einfach nicht genug 
+Leute, die ästhetisch-gestalterische und organisatorisch-techni-
+sche Fähigkeiten in sich vereinen. Die Folge davon ist, daß man 
+sehr lange suchen und dann viel Geld ausgeben müßte. Da ist es doch 
+verständlich und vernünftig, wenn sich die von mir beschriebene 
+Arbeitsteilung entwickelt. Es ist ja jeder frei, es anders zu 
+machen, wenn er über entsprechendes Personal verfügt.
+
+
+Du stellst also die breite Masse der in diesem Sektor Beschäftigten 
+als "Halbdeppen" hin, während Du selbst Dich mal eben als einzig 
+wahren Mr. Mielitz hinstellst. So langsam gewinne ich eine Vor-
+stellung von den Gründen, aus denen Du nichts findest.
+
+
+Man kann auch zweckmäßig zusammenarbeiten und dabei die tatsächlich 
+vorhandenen Begabungen der Beteiligten optimal nutzen.
+
+
+Arbeitsteiligkeit auf Quelltextebene ist technisch und organisato-
+risch viel anspruchsvoller als eine solche zwischen PR/Werbung und 
+Softwareentwicklung. Die Erstellung von Multimediaelementen wie 
+Filmen und Bildern sowie das Texten läßt sich dagegen sehr gut 
+separieren. Das ist übrigens auch wieder ein arbeitsteiliger 
+Prozeß.
+
+
+Ich finde, daß Entwickler sich selbst um Usability ("nicht soviel 
+klicken müssen", Fehlertoleranz) bemühen sollten. Das ist nämlich 
+keine ästhetische Kategorie, die man letztlich nicht lernen kann.
+
+-- 
+Mit freundlichen Größen
+Paolo D. Rubbert

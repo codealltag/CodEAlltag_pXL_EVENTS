@@ -1,0 +1,17 @@
+Ja. Die angedachte "Sperre" basiert auf DNS-Poisoning;
+so lesen sich zumindest die Vertragsentwürfe -- auch
+im letzten WVHN dazu wurde die "DNS-Sperre"
+als Mittel der Wahl genannt.
+Sperren auf IP-Basis wären nicht performant genug bzw.
+um sie ausreichend leistungsfähig zu machen, wäre ein
+hoher (hardwaretechnischer) Aufwand nötig.
+
+
+Was sind denn das für Kasper?
+
+
+Eher nicht ... die (Grissini GmbH) hättens wohl gerne.
+
+
+Größe
+Willi

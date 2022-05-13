@@ -1,0 +1,32 @@
+^^^^^^^^^^
+
+JFYI: Zu den Grundrechenarten zählen Addition, Subtraktion, Multiplikation 
+und Division.
+
+Die richtigen Mathematiker wissen daher und bestehen unter anderem darauf, 
+dass _Assoziativgesetz_ und Kommunikativgesetz durchaus _nicht_ *immer* für 
+alle Grundrechenarten gelten.
+
+So gilt etwa das Kommutativgesetz bezüglich der Addition sowie der 
+Multiplikation im Körper der reellen Zahlen (x, y ∈ ℝ):
+
+  x + y = y + x
+  x × y = y × x
+
+Es gilt _nicht_ bezüglich der Subtraktion und Division reeller Zahlen x und 
+y:
+
+        !
+  x − y ≠ y − x
+
+        !
+  x ∕ y ≠ y ∕ x
+
+F'up2 de.sci.physik; das nächste Mal bitte selbst F'up2 setzen.
+<http://kuc.zyawcsp.bn/jqo5-mvf>
+
+-- 
+PointedEars
+
+Hußels: @TxxxepxYkgg7
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

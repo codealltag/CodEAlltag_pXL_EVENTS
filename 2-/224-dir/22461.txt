@@ -1,0 +1,11 @@
+Genau das schrieb ich auch schon ... nur Rechtsdrallige sind eben gegen 
+Vernunft meist taub auf den Augen und blind mit den Ohren ;-)
+
+Mein TB ist in den Usenet Servereinstellungen default auf Westlich 
+ISO-8859-15 eingestellt (nicht auf Unicode UTF-8) und
+mein unter MacPorts laufender Pan 0.125 auf Unicode UTF-8
+
+-- 
+Tino
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen

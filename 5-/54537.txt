@@ -1,0 +1,12 @@
+Hans <gmkajv@0259.niespvj> schrieb am Sun, 28. 08. 21 14:52:58
++0200:
+
+
+Zumindest nicht die Version 1.93/32, die ich nutze. Ich erkundige mich
+gerade, ob es mit einer neueren Version möglich ist, die im Header
+aufgeführte X-Authenticated-User-Identifizierung zu filtern. 
+
+
+Vielleicht werde ich diesen Newsreader bei Gelegenheit mal testen. 
+
+Theo Unterstraßer

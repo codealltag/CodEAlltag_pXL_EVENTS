@@ -1,0 +1,11 @@
+"Urban Oberleitner" schrieb
+
+[..]
+
+
+Mag sein.
+Aber Karina hat ja irgendwie auch Recht.
+Du solltest Deinen OE so einstellen, dass er in Betreffzeilen den richtigen 
+Zeichensatz benutzt.
+
+Fabio

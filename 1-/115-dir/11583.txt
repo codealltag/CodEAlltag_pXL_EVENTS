@@ -1,0 +1,37 @@
+Antwort auf eine Nachricht von Aldo Casten
+
+
+Im Prinzip richtig, jedoch ist der Font insofern nicht ohne Bedeutung,
+weil der die Zeichen, die dargestellt werden sollen, auch enthalten muß.
+Wenn ich zum Beispiel einen Font aus dem Jahre Jahre 1980 nehme, werde
+ich niemals ein €uro zu sehen kriegen, DENN DIESES ZEICHEN GAB ES DAMALS
+NOCH GAR NICHT.
+
+*ALSO* braucht man auch einen Unicode-geeigneten Font, da hat unser
+sogenannter „Teetrinker“ gar nicht unrecht.
+
+Für Windoof-Rechner hat es zum Beispiel die Schriften Courier-New und
+Arial Unicode MS, – und möglicherweise auch sonst noch was, von dem ich
+jetzt aber keine Ahnung habe. Vor allem aber weiß ich nicht wie voll-
+ständig diese Fonts sind! B1 ist zwar Marktführer (hat mit min-
+destens 80% die meisten installierten Systeme), hinkt aber technisch
+immer so ungefähr fünf bis zehn Jahre hinterher, – und manche Fehler
+werden bei dieser Firma auch gar nicht behoben.
+
+Zitat: „It’s not ab bug, it’s a feature!“ :-)
+
+Wer gute Fonts sucht, der ist meines Erachtens mit der Font-Familie
+Dejavu sehr gut bedient:
+
+http://xr.fwvclwcmr.fzu/waag/JcdyYx_yworb
+
+Und immer wieder mal gucken ob es eine neue Version gibt, denn diese
+Schriften werden laufend weiterentwickelt.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⍾⍾⍾ Ceterum censeo Haser esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.mmbdz-yhmfok.lb

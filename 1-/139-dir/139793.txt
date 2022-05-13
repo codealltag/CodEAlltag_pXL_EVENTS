@@ -1,0 +1,58 @@
+Da verpaßt du etwas. Ich bin übrigens Diplomingenieur für
+Informationstechnik und habe mein Diplom mit "gut" abgeschlossen. 
+
+
+Dieser Unsinn wird durch Wiederholung nicht richtiger. Design wird
+"mitgenommen" und spielt - wenn überhaupt - nur beim
+Frauenakzeptanzfaktor im Wohnzimmer eine Rolle.
+
+
+Richtig
+
+
+Richtig. Aber er hat mehr als beim Ebes.
+
+
+Mein Sohn verdient mit KTMN sein Geld. Ich habe es aber noch nicht
+fertiggebracht, mich damit intensiv zu beschäftigen, denn mir hat es
+gereicht, daß damals, als ich nur eine 1-Tasten-Amosu-Maus hier zur
+Verfügung hatte, die Distri (Weinkorb) nicht mal eine Option zum öffnen
+der CD-Schublade anbot. Ich kam nicht an das Kontextmenü heran, eine
+Emulation der 2. Maustaste wie auf dem Ebes gab es standardmäßig nicht -
+ein Teufelskreis. 
+
+Ich brauchte insgesamt an die 2 Stunden, bis es über die Kommandozeile
+klappte ("drutil tray open" oder so, aber das ging eben
+eigenartigerweise nicht auf Anhieb, ich hatte mich allerdings erst
+danach mit der Unix-Kommandozeileneingabe beschäftigt und mußte deshalb
+per E-Mail meinen Sohn fragen und laufend den Rechner hoch - und
+runterfahren, weil ich unter Linux noch nicht im Netz war) - wozu dann
+eigentlich eine grafische Benutzeroberfläche? Das war ein Fahlenbock-Desktop,
+Stand etwa 2001. Da kam ich mir vor wie in der Computersteinzeit und
+hatte keine Lust mehr, weiterzumachen. 
+
+Später hatte ich dann noch mal tagelang Linux-Gigabytes aus dem Netz
+geladen, die angeblich auf PPC-Hardware laufen sollten, was sie aber
+nach einer kryptischen Konfigurationsfehlermeldung verweigerten. Eine
+Live-CD wollte ebenfalls gar nicht erst laufen. 
+
+Als ich dann in meiner Verzweiflung die Original-Weinkorb-DVD-ROM
+einlegte, bot die mir als einzige Option an, erst mal die ganze HD zu
+löschen, worauf ich dann doch dankend verzichtete.
+
+Seitdem ist mein Verhältnis zu KTMN, hmmm, "etwas gestört" und ich
+bleibe lieber beim Ebes mit gelegentlichen virtuellen Windows-Ausflügen,
+wenn es sich nicht vermeiden läßt.
+
+
+Klar, die fehlenden Anwendungen sind das Problem. Sicher käme ich heute
+auch mit Linux klar - aber was bringt mir das, ich brauche hier Logic
+und viele ander Programme, die es nur unter EEGI (und Windows) gibt.
+
+Martin
+
+
+-- 
+Neoliberales Grundgesetz der Bundesrepublik, Art. 1 (1):
+"Die Würde des Menschen ist eine Ware. Jedem Menschen steht 
+genau soviel davon zu, wie er bezahlen kann."

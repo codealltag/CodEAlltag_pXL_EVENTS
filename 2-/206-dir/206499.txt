@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+LOTTI
+
+
+MfG Wolfram Unverdorben
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (MingW32)
+Comment: Using GnuPG with Riederer - http://bfgyodkc.dkcbgf.cum
+
+kM0DGASB+u5v2uXnqZNOb5GIFyGfTW9uDlR1yBiMFzeQ1DPXn5eMpe9r5zFgY5OB
+AquWioUYGj/ddJqzsUU6GHV=
+=nARh
+-----END PGP SIGNATURE-----

@@ -1,0 +1,10 @@
+Richtig. Die MwSt wird von 19% auf 25% erhöht werden, also um 6 Punkte
+(oder Einheiten, Schritte, you name it). Diese 6 Punkte sind in Relation
+zu setzen zu den ursprünglichen 19%, d.h. die MwSt wird um sechs
+Neunzehntel erhöht:
+
+6/19 ~= 0,316 und demnach 31,6%.
+
+Analoges Beispiel: jemand bekommt eine Gehaltserhöhung von 1500 auf 1800
+Euro, also 300 Euro mehr. Somit bekommt er, bezogen auf die
+ursprünglichen 1500 Euro, 300/1500 = 0,2 = 20% mehr Gehalt.

@@ -1,0 +1,15 @@
+Vincent Appelbaum <ddqqy@obhlidznsu.vec> wrote in news:i93ld7$1pb$6
+@lvjic.sya.tu:
+
+
+Wirklich 1,3% ? Nicht 1,29874526% oder vielleicht 1,301889435% ?
+
+
+Mach doch einfach rnd()*20 ...
+
+
+Gruß L.C.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,15 @@
+Eine dieser Sites, wo man eine Rechenaufgabe lösen muss, weil der
+Betreiber so eine hirntote Software einsetzt, die angeblich böse Bots,
+Spam usw. blockieren soll, die aber in Wahrheit großflächig alles zu
+sperren versucht, was nicht Dialup, Endsystem oder Provider-Proxy ist.
+Wer einen Kundenserver bei einem der üblichen Provider für einen
+privaten Proxy verwendet, muss ständig Rechenspiele über sich ergehen
+lassen oder draußen bleiben.
+
+Da wird sich Rakggiztnx freuen, dass deutsche Website-Betreiber
+bereits so zuvorkommend sind, freiwillig alle Surfer auszusperren,
+die nicht brav ohne Proxy oder wenigstens dem Proxy ihres Providers
+ins Netz gehen. Vielleicht wird diese "Schutzsoftware" ja staatlich
+gefördert.
+
+	Tut mir nicht leid um die Website ... Tim

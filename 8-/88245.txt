@@ -1,0 +1,51 @@
+Wie das technisch und organisatorisch funktioniert ist ganz einfach, im 
+obi Active Directory steht welche Betriebssystem Version JEDER Rechner im 
+Netz hat. Da bei all diesen großem Projekten meist auch obi Consulter 
+dabei sind, hat einer dieser Leute nichts besseres zu tun gehabt als das 
+bei seinen »Herrl« zu melden!
+
+Da bei einen großen Migrationsprojekt diese Leute meist auch alle 
+Administratorenrechte haben, können sie theoretisch auch alles lesen.
+
+Bei obi hat ein Enterprise Admin ALLE Rechte, oder kann sie sich 
+zumindest holen. Natürlich taucht das auch in den Logs auf, aber wer 
+liest schon 100.000e Logs täglich ;->
+
+Gegen mitlesende Admins hilft nur ein gutes Verschlüsselungskonzept hoch 
+sensibler Daten!
+
+Beim österreichischen Kuban kostete die Sicherheit wesentlich mehr als 
+die Entwicklung der Datenbank und der Applikation.
+
+<http://dsy.vop.eu.lj/zty/KTY_Sbcgdamaxez/wjud/woepd.zqoy>
+
+Andrerseits kommt es hin und wieder vor das Entwicklern von 
+Datenbank-Applikationen die Echt-Daten (! - natürlich als Kopie auf 
+einen Entwicklungsserver) anstelle von anonymisierten Daten zur 
+Verfügung gestellt werden! Die heutigen Systeme erlauben es 
+technologisch, relativ leicht einen 1:1 Clone des gesamten Systems zu 
+erstellen!
+
+Hinzu kommt noch, das in den Rechenzentren der Hoheitsverwaltungen immer 
+mehr Fremd-Firmen, Subfirmen, Freelancer eingesetzt werden (wir haben ja 
+zu viele Beamte, wir müssen unbedingt schlank werden, Privat macht's 
+obendrein besser). Nicht das ich eine Leihkraft als generell unsicherer 
+darstellen will! Nur die »Reibungsverluste« sind höher.
+Ein Beamter steht im Budget als »Kopfzahl«, eine Leihkraft hingegen als 
+Sachaufwand! Interessant wo hoch die Sachaufwände im Vergleich zu den 
+Personalaufwänden in den letzten 20 Jahren gestiegen sind!
+
+Ich kenne die Branche nur zu gut und weiß wie das überall wo »unsere« 
+Daten liegen - Banken, Versicherungen, Hoheitsverwaltung, etc. - in den 
+Rechenzentren so abläuft!
+
+Nun denn, schlaf mal ganz beruhigt weiter, passiert eh nix ;->
+
+PS: Mich wundert nur das nicht schon mehr Daten DVD's - oder besser USB 
+Sticks gehandelt wurden! :->> Spricht für das Ehrgefühl der handelnden 
+Personen!
+
+-- 
+Manuel
+Junge, wilde Lümmel rupfen den aufgeblasenen Gockeln die Federn aus!
+Es is´ alles Chimäre, aber mich unterhalt´s!

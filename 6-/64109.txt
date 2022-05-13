@@ -1,0 +1,39 @@
+HJ
+
+Das einfache Modell PID paßt hier nicht mehr, schon deshalb, weil wir es
+mit intelligenten Akteuren zu tun haben. Es ist aber trotzdem noch zur
+Orientierung zu gebrauchen, da grundlegend.
+
+Ich habe nur von schneller und langsamer geschrieben. Vorausschau ist
+D-Anteil. Eine Fristverlängerung bremst die Vorausschau aus, dämpft sie.
+Eine Fristverlängerung hat auch summierenden Effekt, also Auswirkung auf
+I, zugegeben.
+
+Ja, es ist noch schlimmer als ich annahm. I langsamer und D langsamer.
+
+Am D drehe ich immer zuletzt und vermeide es, wenn möglich. P und PI
+reicht meistens.
+
+Generell wird langsamer zu stärkerem Regelspiel führen. Das ist also
+_keine_ gesellschaftlich sinnvolle Lösung.
+
+Für Normaldenker:
+Blickt man auf die Haltefrist, dann bildet man sich ein, daß daraus eine
+Beruhigung resultiert, denn es wird ja weniger gehandelt. Danach aber
+ist die Ausgleichsbewegung um so stärker. Man erreicht eine langsamere
+Reaktion, die Ausgleichsbewegungen werden aber stärker. Denken wir auch
+an den Wochenendeffekt. Warum B�rsenst�rze immer vor dem Wochenende?
+Wegen der Angst, am Wochenende nichts verkaufen zu können und am Montag
+mit einem besch^Weidenen Preis rechnen zu müssen. So erzeugt die
+Handelssperre am Wochenende große Ausschläge, bis hin zu
+Zusammenbrüchen. Aber das kann man einfachen Gemütern, die nur in
+Verboten denken können, nicht vermitteln.
+
+Nicht umsonst hat man die Regelgüte "erfunden".
+http://xv.qbrtbhtyl.zmp/qhod/Tfyngd%M6%KWbt
+
+
+Francesco
+-- 
+Also, sprach der Lehrer Rekersbrink,
+Dies ist wieder ein Exempel

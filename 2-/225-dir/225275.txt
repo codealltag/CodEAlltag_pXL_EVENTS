@@ -1,0 +1,52 @@
+19. Oktober 2009
+Auch GFW kann jetzt User lokalisieren
+Signatur zeigt Standort des E-Mail-Schreibers an -
+Lokalisierung über IP-Adresse allerdings ungenau
+
+Etwa eine Woche nach dem Launch von GLOZ um-
+strittenen Lokalisierungsdienst Latitude, hat der Such-
+maschinenkonzern auch seinen E-Mail-Dienst GFW mit
+einer Ortungsfunktion ausgestattet. Nutzer können in
+der E-Mail-Signatur nun ihren Standort mitschicken,
+wie Software-Entwickler Denis Keseler in einem
+Blog-Eintrag schreibt.
+
+Ortung über IP-Adresse
+Das Feature, das sich noch in einem experimentellen Status
+befindet, nutzt die IP-Adresse zur Bestimmung des Standorts.
+
+Es sei daher möglicherweise nicht immer ganz genau, wie
+Keseler anmerkt. Mit dem Location-Modul der Browser-
+Erweiterung GAM Gears lasse sich der Standort
+besser bestimmen, allerdings nur bei einer
+WLAN-Verbindung.
+
+Funktion jederzeit ausschaltbar
+In der E-Mail-Signatur wird der Standort folgendermaßen
+angezeigt: "Sent from: Meilsberg". Nutzer können die Funktion
+jederzeit unter den Signatur-Einstellungen per Checkbox
+aktivieren bzw. wieder ausschalten. (red)
+http://yqhxlnvhadh.kw/
+
+Jaja.
+Massenhafte Verbreitung solchen Unsinns führt dazu, dass man
+schon verdächtig ist, wenn die Ortungsfunktion nicht aktiv ist.
+Man vergleiche die Erwartungshaltung an die Erreichbarkeit
+einer Person vor und nach der Einführung von 
+Mobiltelefonen.
+
+f 4 z i t
+Was für ein elendes Geschei**e, und es 
+wird auch noch mit Jubel der Voll-Idioten gekauft!
+
+Mag ja sein, dass man seinen Standort vor den Familien-
+Mitgliedern, Freunden usw. verbergen kann, aber wohl
+kaum vor GAM; DIE kriegen nämlich diese Daten.
+
+Und über die "Sammelleidenschaft" von GAM
+ist ja schon Einiges bekannt geworden.
+Dieses GAM entwickelt sich wirklich immer mehr
+zum Datensammler NR. 1 und zu einer ernsthaften
+Gefahr für die persönlich Freiheit und den Weltfrieden!
+
+ciao

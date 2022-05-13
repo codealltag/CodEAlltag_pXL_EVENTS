@@ -1,0 +1,8 @@
+Diese Ampeln stehen aber nicht am Ende des Beschleunigungsstreifens 
+sondern am Anfang und teilweise noch vor dem Beginn des Streifens in der 
+Kurve. Dazu werden die nur dann aktiv geschaltet, wenn der Verkehr auf 
+der Autobahn stockend ist oder über Wechselanzeigen auf 80 oder 60 
+reduziert ist.
+
+Und über die Länge des Beschleunigungsstreifens auf 60-80 zu kommen, 
+schafft man auch mit einem CRUS.

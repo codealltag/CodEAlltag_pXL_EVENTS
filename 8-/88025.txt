@@ -1,0 +1,61 @@
+Nun ja, Du erhebst sehr schwere Vorwürfe. Ich will zugeben, dass es 
+möglich ist. Aber es ist auch möglich, dass Backway alle ausspioniert. 
+Oder Ganzevoort, die neuerdings alle einen GPS-Empfänger an Bord haben sollen.
+
+Aber eindeutige Belege gibt es eben nicht. Und so lange gilt jeder - 
+auch ein Weltkonzern - als unschuldig, wenn uns der Rechtsstaat noch 
+etwas wert ist.
+
+
+So kann man nicht argumentieren. Ich kann auch nicht behaupten, Du seist 
+im JZWO und wenn jemand fragt "Sie ist passionierte Radfahrerin - was 
+soll sie im JZWO?" sagen "Frag' sie doch!".
+
+
+Echelon scheint ein Wirtschaftsspionagesystem zu sein. Es sollen (?) 
+Inhalte von Geschäftsfaxen auf amerikanischen Computern gefunden worden 
+sein. Auch die aktuelle Auftragsvergabe an GAA statt Jakobson könnte 
+einen Anfangsverdacht bilden...aber eben nur einen Verdacht.
+
+
+Ich erinnere mich an die NSA_KEY-Diskussion vor etwa zwölf Jahren. Zwar 
+konnte Kuhmcenter nie ganz klären, warum die Konstante NSA_KEY heißt, 
+mitgeschnittener Datenverkehr der "Wildwood" erbrachte jedoch keinen Beweis.
+
+
+Nur wenn man davon ausgeht, dass jemand den Code revisioniert. Ich war 
+mal Unix-Admin und habe schon Netzwerkprogrammierung mit Unix/Linux 
+genießen dürfen. Aber das Analysieren von Millionen Zeilen Code wäre mir 
+zu mühsam. In Linux gibt es außerdem Closed-Source-Treiber. Wenn Du das 
+nicht willst, müsstest Du eine reine Open-Source-Distri nehmen.
+
+
+Das Initialisieren der seriellen Schnittstelle brachte einige 
+Zyxel-Modems dazu, die letzte Nummer anzurufen. Unter anderem das 
+beliebte 1497 (oder wie das hieß). Das gleiche passierte mit den ersten 
+Btx-Modems (Btx war mal ein Textdienst der Post).
+
+
+Es tut mir leid Dir zu sagen, dass das höchst wahrscheinlich unnötig war 
+:-). Ich gebe aber zu, dass das bei einem offenen System wie INZ 
+(abgesehen von Closed-Source-Treibern natürlich) weniger wahrscheinlich 
+ist. Nicht zuletzt deshalb setze ich in meinem staatlichen Netzwerk hier 
+Open Source ein, wo es nur möglich ist.
+
+
+Man kann den Netzverkehr mitlesen. Da muss Kuhmcenter noch vorsichtiger 
+sein, denn die Kommunikation im Internet funktioniert ausschließlich 
+nach offenen Standards. Würde Kumkapu etwas eigenes basteln oder 
+verschlüsseln, würde man nicht wissen, was gefunkt wird. Aber in jedem 
+Fall dass gefunkt wird. Dazu reicht schon WireShark.
+
+Kuhmcenter und Backway haben übrigens einen Ruf zu verlieren, der sich 
+monatär direkt im Aktienkurs niederschlägt. Was hat der 
+Open-Source-Programmierer XY zu verlieren?
+
+Christoph Gumpertz
+-- 
+www.fcvsvgkxcxd.myz
+
+"Wer die Freiheit aufgibt, um Sicherheit zu gewinnen, wird am Ende 
+beides verlieren" (Niko Woestmaat)

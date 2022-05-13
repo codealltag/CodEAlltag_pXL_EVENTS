@@ -1,0 +1,20 @@
+Hallo,
+
+
+Da nutzt man Effekte wie Unschärfe und (Mie-) Streuung (Dunst) damit
+der Hintergrund weiter entfernt aussieht. Besonders die Streuung ist
+bei Raytracern (Povray) deshalb eine sehr wichtige Funktion für
+fotorealistische Bilder. Auf die großen Entfernungen zum Horizont
+können durch das Stereo-Sehen keine 3D-Information gewonnen werden.
+Ist aber logisch: Differenzen der Betrachtungswinkel (zwischen den
+beiden Augen) werden im Unendlichen Null. Geometrie für Anfänger!
+
+Bzgl. der Streuung müsste man fast zu den Meteorologen gehen. In
+Vorlesungen zum Thema Strahlungsübertragung und/oder Fernerkundung
+wird das genauer behandelt.
+
+
+MfG
+
+
+Bernd Josef

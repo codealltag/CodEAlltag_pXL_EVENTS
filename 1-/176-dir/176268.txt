@@ -1,0 +1,18 @@
+Hallo,
+
+
+Es ist genauso ungeschickt zu Glauben dass ein Compilier Semantik
+verstehen würde.
+
+
+Diese wird es wohl kaum geben. Hier sind zwei Variablen, deren
+reales Vorbild dem Compilier nicht bekannt sind.
+
+
+Das sind dann aber syntaktische Mätzchen.
+
+
+MfG
+
+
+Claus Litzenroth

@@ -1,0 +1,29 @@
+Elfi.
+
+Auf
+http://ga.remicpcjx.ewe/wxdk/Kklkfstqgdxawmccq
+heißt es:
+
+
+Es ist also genau so, wie ich es gesagt habe: Die linke Seite deckt die 
+rechte Seite ab, bei der ZB laufen also Aktiv- und Passivseite mit 
+anderen Rollen als in einer normalen Großhandelsbuchhaltung.
+
+Also ich weiß nicht, wie es anderen geht, abeŕ ich habe bei unserer 
+Diskussion einiges gelernt.
+
+Vor allem habe ich die Kontokorrentkonten kennengelernt, mit denen 
+"unbare Überweisungen" (das war ja unser Disput) überhaupt erst 
+vernünftig handhabbar werden. Im Grunde ist das nichts anderes als ein 
+"Doppelkonto", weil für eine Bank Kunden sowohl als Debitor als auch als 
+Kreditor auftreten können. Nur ist es völlig unpraktikabel, für jeden 
+Kunden ein Debitoren- und ein Kreditorenkonto zu führen, um bei jeder 
+Buchung zu prüfen, ob ich eine Überweisung als Bilanzverlängerung, 
+Bilanzverkürzung oder Passivtausch buche.
+
+Wenn ich es richtig verstanden habe, werden Kontokorrentkonten jeweils 
+beim Buchungsschluß, ist das einmal täglich?, bewertet, ob der Kunde als 
+Kreditor oder als Debitor auftritt. Und folglich rechts oder links in 
+der Bilanz erscheint.
+
+Bei ZB ist dies aus den erwähnten Gründen unpraktikabel.

@@ -1,0 +1,24 @@
+Bei ausreichend inkompetenten Staatsanwälten langt es für eine Durchsuchung 
+dicke. Und die inkompetenten Idioten darf man hernach nichtmal zur 
+Rechenschaft ziehen.
+
+
+Tja. Und mit der Sperrliste hat sich das alles ja schön in Luft aufgelöst. 
+Wenn ich 184b richtig lese dann ist ja nur die vollendete Tat sanktioniert. 
+Der (erfolglose) Versuch bleibt straffrei. D.h. Du darfst alle URLs in der 
+Sperrlisten durchlaufen und *niemand* kann Dir alleine daraus einen Strick 
+drehen.
+
+
+Soso.
+
+
+Seit wann ist das Generieren sinnfreier Anklagen Computersabotage?
+
+
+Jetzt denkst Du das Ganze nochmal durch und erkennst daß die entsprechenden 
+Requests ja garnicht beim Zielsystem eintreffen sondern auf die "Sperrseite" 
+umgeleitet werden. Ob man da dann von Computersabotage im Sinn von 303b f. 
+sprechen kann sei mal dahin gestellt. Achja. Man sollte die Seite nicht 
+einfach nur aufrufen sondern dies mit hoher Frequenz betreiben so daß alleine 
+das Logging *richtig* teuer wird.

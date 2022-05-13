@@ -1,0 +1,23 @@
+Jean-Claude Ehrenberg <zjsbm.lzbleoAWQW@uarxe.ivu> wrote in news:3b447u79$8$5614
+$14rxp234@taqnnqibnk90.zvaddya.hoobmna.aa:
+
+
+Siehste Ehrenberg, und du würdest jetzt einfach den Thermostaten komplett
+entfernen (und den am Kessel {ich hab da übrigens nen NTC 1KOhm})
+und warten bis der heilige Heizungsgeist in den Keller rennt.
+
+Ich mein, im Endeffekt ist das sogar auch eine Regelung.
+
+Ton = Heizung einschalten
+
+Toff = Heizung fliegt in die Luft; neue Heizung kaufen
+
+
+harharhar
+
+
+Gruß G.D.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

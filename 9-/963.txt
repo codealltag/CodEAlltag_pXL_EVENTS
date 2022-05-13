@@ -1,0 +1,10 @@
+Nimmt er das wirklich oder labert er nur?
+
+Ausschnitt aus seinem header:
+
+User-Agent: G2/1.0
+X-HTTP-UserAgent: JUTA/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101
+Firefox/21.0,gzip(gfe)
+
+Das hat sich in den letzten 3 Monaten nicht geändert. Oder sehe ich da 
+was falsch? Gruss. Eckhard

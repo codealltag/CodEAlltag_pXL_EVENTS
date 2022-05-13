@@ -1,0 +1,15 @@
+Ich praktiziere schon seit Jahren Weisheit und Mitgefühl. Aber wie bei 
+allen Dingen ist es auch wichtig hier das richtige Maß zu finden. Du 
+scheinst es ja noch nicht gefunden zu haben..... Du steckst anscheinend 
+in einer Endlosschleife........
+
+10 Print "Edgar"
+20 Goto 10
+
+Selbst ein übermaß an Weisheit ist ungesund.
+
+Bis neulich
+Udo
+-- 
+Nach jahrelanger Weigerung.... benutze ich, jetzt auch, die Signatur für 
+schamlose Eigenwerbung ;) ... http://zeq.kjnmbzugvtjk6469.ax/meirc.vrw

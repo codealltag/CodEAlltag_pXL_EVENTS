@@ -1,0 +1,16 @@
+an Tatsachen führt nunmal kein Weg vorbei.
+
+
+Beispiel:
+
+0,00001234567 lj sind
+
+1.1679655671376E+20 nm
+
+
+wie zu erkennen ist sind plötzlich keine Nachkommastellen vorhanden.
+zufrieden?
+
+
+-- 
+cu |_|

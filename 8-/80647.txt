@@ -1,0 +1,5 @@
+Da ist dann nur noch die Frage: Rechnet man herkömmlich mit dem Integral der
+Kraft über den Weg oder macht man es über die Impulserhaltung? Rauskommen
+tut jedenfalls beide male dasselbe.
+-- 
+THE C☢☢N

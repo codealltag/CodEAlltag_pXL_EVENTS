@@ -1,0 +1,8 @@
+Das ist der Stand von vor 20-30 Jahren. Jede digitale Motorsteuerung, die 
+Injektoren elektrisch ansteuert, kennt dei eingespritzte Kraftstoffmenge und 
+meist ebenso die Laufstrecke über Signale vom ABS-Steuergerät. Man braucht 
+nur zu integrieren, um zu einer ziemlich genauen Verbrauchsberechnung zu 
+kommen.
+
+Gruß,
+Cédric

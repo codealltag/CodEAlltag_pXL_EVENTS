@@ -1,0 +1,14 @@
+Ich weiß, daß das internationaler Standard ist, daß in den Headers 
+ausschlißelich ASCII-Zeichen verwendet werden dürfen. Daraus ergibt sich 
+notwenidgerweise, daß nicht-ASCII-Zeichen mit ASCII-Zeichen codiert 
+werden müssen.
+
+INFORMIERE DICH, bevor Du Gefahr läufst dummes Zeug zu schreiben.
+
+
+Glückauf!
+Carla Bollensen (Finsternthal/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://emr.qsvcn-ejliey.jv

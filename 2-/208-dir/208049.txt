@@ -1,0 +1,6 @@
+Am Sat, 4 Jul 2009 16:49:42 +0200
+Ja und Nein. Ich kenne einige Systeme, da ist Vieraugenprinzip
+realisiert und der Admin ist keiner von beiden. Wenn man es darauf
+anlegt kann man das tun, besser in vielen Fällen wäre es besser den
+Single Point of Failure "Admin" auszuschalten. Macht auch die Arbeit
+des Admin einfacher, der muss dann nicht alles wissen...

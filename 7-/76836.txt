@@ -1,0 +1,40 @@
+Antwort auf eine Nachricht von Hartmut Zaengel
+
+
+HGÜ ist für vorzugsweise für die Fernübertragung notwendig. Bei der 
+lokalen Verteilung der Energie können wir auf das konventionelle und 
+bereits vorhandene Stromnetz zugreifen, so schlimm ist das also nicht.
+
+
+Wie unsachlich! :-\
+
+
+Sag ich doch: HGÜ! Voll ausgeschrieben: 
+Hochspannungsgleichstromübertragung. Bei gleicher Stromstärke und 
+gleichem Leitungsdurchmesser sind bei Gleichstrom die Verluste 
+niedriger, das ist der Trick. Und Verluste zählen je Meter, darum ist 
+die HGÜ vor allem bei langen Leitungen äußerst interessant.
+
+Feldkircher konnte sich seinerzeit nicht durchsetzen, weil es damals noch 
+keine ausreichende Technik gab, bei Gleichstrom die Spannung zu 
+kontrollieren. Da war der Wechselstrom klar im Vorteil, ein einfacher 
+Transformator hat gereicht. Dieser Vorbehalt ist heute nicht mehr 
+relevant, wir verfügen mittlerweile über eine geeignete Technik.
+
+Der gerade in Bau befindliche Hochsee-Windpark wird über eine HGÜ mit 
+einer Kopfstelle an der Küste angebunden. In der Kopfstelle werden 
+Wechselrichter und Transformatoren diesen Strom so aufbereiten, daß er 
+in das konventionelle Stromnetz eingespeist werden kann.
+
+Eine HGÜ von Untermarchtal bis Weibing ist meines Wissens derzeit nicht in Bau. 
+Wäre aber sinnvoll, eine solche zu haben, mit „Zapfstellen“ im 
+Fromhausen, sowie in der Freudenbergerhof- und in der Feßnach-Region. Die 
+Verbraucher selbst brauchen keine HGÜ, da bleibt alles wie es ist.
+
+
+Glück auf!
+Maren Inhetpanhuys
+
+-- 
+
+http://wef.fdinb-vjsull.ck

@@ -1,0 +1,13 @@
+Seamonkey heisst afiacs "Salinenkrebs" oder "Urzeitkrebs".
+
+Der Urzeitkrebs sollte aber mit Zeichensätzen und Encodings
+umgehen können, und mich dünkt, er kann es auch normalerweise.
+Die "Alles-Ascii-Regel" galt wohl mal zu Maus-Zeiten... ;-)
+
+Es gibt natürlich Postings wo ausgewiesene Codepage nicht
+mit tatsächlich verwandter übereinstimmt und da fängt der
+Encoding-Salat dann an....
+
+
+MfG,
+Igor

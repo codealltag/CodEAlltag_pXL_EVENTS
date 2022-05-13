@@ -1,0 +1,15 @@
+Ursina,
+du übersiehst dass die SM (Switching Mode) Netzteile auch regeln können 
+- bestes Beispiel sind die Computernetzteile in den Stand PC's.
+
+30A bis 50A auf der 5V Schiene sind da keine Seltenheit .... bei 
+höchsten Wirkungsgrad ... das schaffst du mit keinen herkömmlichen Trafo 
+und analogen Reglern!
+
+Nur in der analogen HiFi Branche sind SM Netzteile eher unerwünscht 
+(erhöhter Rauschteppich u.a. negativen Einflüsse).
+
+-- 
+Tom
+Hammelartige haben einen leicht-schräg-verzerrten Blickwinkel zur
+heutigen, rasch wechselnden Realität.

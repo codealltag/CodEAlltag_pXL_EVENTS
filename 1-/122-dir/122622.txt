@@ -1,0 +1,71 @@
+"Didier Curth" schrieb
+
+
+Das stimmt.
+Aber:
+Ein Langzeitarbeitsloser hat für seine Bewerbung nicht unendlich viel, aber 
+doch stets genügend Zeit, um ein ordentliches Ergebnis auch mit Works 
+abzuliefern. Zugegeben, ich würde heute Works (9.0 oder wo stehen wir 
+gerade?) nicht mehr verwenden, aber nur deshalb, weil ich eben Word _habe_, 
+und damit geht es sicher schneller. Nicht nur, weil ich mich daran gewöhnt 
+habe.
+InDesign, mit dem ich auch auf "höherem Niveau" umgehen kann, würde ich für 
+einen Lebenslauf nicht nehmen, weil das Programm im Gegensatz zu Word nur 
+bei Punkten sticht, die zum Lebenslauf definitiv gebraucht werden.
+
+Nenne ein Feature oder eine graphische Raffinesse, die Du bei der 
+Lebenslauf-Aufgabe mit einem Satzprogramm (wie LaTeX oder InDesign) im 
+Endergebnis besser darstellen könntest als mit Word/ OpenOffice ...
+Da wird der Künstler blass ...
+Kein Kommentar.
+
+[Es geht um die Behauptung, einen ordentlichen Lebenslauf könne man nur mit 
+einem Satzprogramm, nicht aber mit einer Textverarbeitung wie Word oder Open 
+Office schreiben]
+
+Das ist das Grundproblem.
+
+
+Hätte ich kein Word, dann hätte ich Open Office und würde bei der 
+Lebenslauf-Aufgabe wie mit Word volle 100 Punkte erzielen. Hätte ich kein 
+Word und kein Open Office (wieso nicht?), aber Works 8.0 oder höher, dann 
+käme ich damit auch auf besagte 100 Punkte, würde aber vielleicht etwas 
+länger brauchen,. Dem gedruckten Blatt Papier (!) sieht man das nicht an.
+
+
+Es fasziniert mich immer, wenn Leuten InDesign erwerben wollen, weil sie 
+nach eigener Bekundung mit Word nicht zurecht kommen.
+Wie wollen sie dann mit InDesign (oder meinetwegen mit LaTeX) zurechtkommen?
+
+Ich bin, das schrieb ich schon, nicht der LaTeX-Experte, weiß aber durchaus, 
+wo das Programm seine Stärken hat und für welche Aufgaben es quasi 
+unverzichtbar wird. Ich arbeite regelmäßig mit InDesign und mache auch ab 
+und zu Schulungen zu diesem Programm. Also kenne ich die Stärken des 
+Programms und weiß, wann InDesign unverzichtbar wird. Open Office kenne ich 
+nur von einem kurzen Test, der mich bei der Textverarbeitung (im Vergleich 
+zu Word) zu 100%  überzeugt hat. Die Einschränkung steht ein paar Zeilen 
+tiefer.
+
+Seit ich das gedruckte Buch zur Dissertation meiner Tochter in der Hand habe 
+(278 Seiten, unzählige Grafiken und Diagramme, Fußnoten auf fast jeder 
+Seite, Inhalts-und Indexverzeichnis, angepasste Kopfzeilen je nach Kapitel, 
+unzählige Querverweise mit korrekter Seitenzahl des Ziels etc.) kam mir noch 
+mal richtig das Gefühl rüber: Das geht nur mit Word!
+Nein, das geht nicht mit InDesign und erst recht nicht mit LaTeX.
+
+Wie das geht, habe ich ihr im Wesentlichen in den letzten 12 Jahren immer 
+wieder mal häppchenweise beigebracht.
+Und nein, ich habe bei dieser Arbeit nicht geholfen, sie hat das ganz allein 
+geschrieben und gesetzt, hat es in PDF umgewandelt und per Mail zur 
+Druckerei geschafft. Man sollte dabei noch bedenken, dass so eine angehende 
+Frau Dr. nicht im Sinn hat, autodidaktische Expertin für Satztechnik zu 
+werden, sondern nur intuitiv und kostengünstig und vor allem schnell zum 
+Ziel kommen will. Alle drei Kriterien wurden komplett erfüllt.
+
+Den Satz eines wissenschaftlichen Buches mit den oben genannten 
+Anforderungen traue ich Open Office dann doch nicht zu, ohne zu wissen, ob 
+das jetzt stimmt.
+Aber wenn das mit Word geht, warum sollte man dann für den Lebenslauf nicht 
+Word verwenden sondern LaTeX benutzen?
+
+Daniel

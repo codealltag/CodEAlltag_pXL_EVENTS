@@ -1,0 +1,22 @@
+An anderer Stelle schreibt er, in deutsch-großspuriger Manie, daß 
+er mit dem Strom schwimmend das meistverwendete Readerprogramm 
+verwende und das in der Standardeinstellung. Und das sei ihm 
+genug, was die anderen user dazu sagen, ist ihm egal.
+
+Nun falle ich deswegen auf, weil ich utf-8 als charset im Fall 
+eines undefined eingestellt habe statt des DEUTSCHEN iso-8859-1
+oder -15. Mir kanns egal sein aber die quotings sind unleserlich.
+
+Ich weiß nicht, was er in seinem Outlook Express fürn Häkchen 
+einstellen muß, damit es im header das charset=",,,," angibt, ich 
+habe sowas noch nie gehabt. Die scheiß-Karadeniz machen mir bloß bei 
+den upgrades (un)regelmäßig ihre Programme zu den 
+Hauptanwendungsprogrammen und dann geht nix mehr mit OO, firefox 
+und thunderbird.
+
+Gl
+-- 
+wenn ich mich armselig theologisch definieren müßte, dann wäre
+ich kein Katholik mehr.
+ich bin ja auch nicht Österreicher aus Begeisterung über unsere 
+§§Verfassung.

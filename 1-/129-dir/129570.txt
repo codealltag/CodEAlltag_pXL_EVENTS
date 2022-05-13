@@ -1,0 +1,38 @@
+Ich hatte ihn vor Jahren (unter Win 98?) einmal getestet, und war
+nicht begeistert.
+
+
+Was meinst Du mit ordnungsgemäßem "Abtrennen"?
+
+Bei mir wird die Sig. angezeigt, wie normaler Text.
+Was für Alternativen sind denkbar?
+
+- Soll die Sig in einem eigenen Fenster aufpoppen?
+- Soll die Sig verborgen werden?
+- soll die Sig immer sichtbar sein?
+
+Da ist die FFUT- Variante schon OK und es passiert auch nichts,
+wenn ich folgenden Fehler mache:
+
+Ciao, M.
+
+Beispiel: (Was macht Thunderbird?)
+
+Ein paar Diskussionspunkte:
+
+- Punkt 1
+- Punkt 2
+-- BlaBlaBla Punkt 2.1
+-- BlaBlaBla Punkt 2.2
+--
+<Superlink_Superlink_Superlink_Superlink_Superlink_Superlink_Superlink_Superlink_Superlink_Superlink_Superlink_BlaBlaBla>
+-- BlaBlaBla Punkt 2.2
+- Punkt 3
+
+Viel Text und neue Erkenntnisse. Viel Text und neue Erkenntnisse. Viel Text 
+und neue Erkenntnisse. Viel Text und neue Erkenntnisse. Viel Text und neue 
+Erkenntnisse. Viel Text und neue Erkenntnisse. Viel Text und neue 
+Erkenntnisse. Viel Text und neue Erkenntnisse. Viel Text und neue 
+Erkenntnisse. Viel Text und neue Erkenntnisse.
+
+mfg. A.C.

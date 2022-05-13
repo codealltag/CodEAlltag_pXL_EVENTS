@@ -1,0 +1,9 @@
+Der NTBA liefert bis zu 400 mW für einen Notstrombetrieb, aus dem Port
+der Vst. Daher kann ich deine Aussage als Verallgemeinerung nicht
+zustimmen.
+Bei einem reinen Betrieb über eine TK-Anlage mit eigener
+Stromversorgung kann der NTBA auch vom Netz getrennt werden.
+Bei geeigneten ISDN-Telefonen ebenfalls, vgl. als Begründung die 0,4
+Watt.
+
+Gruß Ullrich

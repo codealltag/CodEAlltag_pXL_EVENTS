@@ -1,0 +1,43 @@
+Hallo, karen-Moderation:
+
+Gegen das Result zu de.soc.arbeitslos erhebe ich Einspruch, weil meine 
+Stimme nicht mitgezählt wurde. Sie ist empfängerseitig beim Faweh
+zurückgebounct.
+Siehe unten. Das konnte ich wegen beruflicher Überlastung nicht früher
+bemerken.
+
+Ich untermauere meinen Einspruch mit folgenden Argumenten:
+1.) Es besteht kein Grund zur Annahme, ich sei der einzige, dessen Stimme
+zurückgebounct ist. Es handelt sich höchstwahrscheinlich nicht nur um eine
+Stimme,
+deren Berücksichtigung am Ergebnis nichts ändern würde.
+2.) Wahlberechtigt ist man auch dann, wenn man so wenig Zeit hat, dass man
+nicht
+täglich oder mehrmals pro Woche seine privaten E-Mails lesen kann,
+sondern erst nach Ende der Abstimungsfrist den Hauch einer Chance hat,
+so ein Bounce zu bemerken.
+3.) Die Unmöglichkeit, so eine Panne rechtzeitig zu bemerken, dürfte kein
+individuelles Problem von mir sein. Jedes privatwirtschaftliche
+Unternehmen versucht zum Jahresende eine gute Bilanz hinzubekommen und
+setzt die Kollegen unter Stress, alle Projekte soweit abzuschließen,
+dass die Rechnung 'raus kann. Hinzu kommt der Stress mit den
+Weihnachtsvorbereitungen.
+Das Jahresende ist für uns alle mit Zeitmangel behaftet. 
+4.) Die Wahlbeteiligung ist so gering, das Desinterese ist so groß, dass
+wahrscheinlich eine Menge Leute so gerade eben noch das nötige Interesse
+aufgebracht haben abzustimmen, aber dann zu desinteressiert waren zu
+überprüfen, ob die Stimme auch mitgezählt wurde. Fehlende Einsprüche
+sind also kein Beweis, dass - abgesehen von mir - alle anderen 
+eingereichten Stimmen korrekt berücksichtigt wurden.
+
+Man möge bitte entscheiden, ob es gelingt, die Logfiles des kaputten 
+Mailservers zuverlässig nach _ALLEN_ zurückgebouncten Stimmen zu 
+durchforsten oder ob es nötig ist, die Abstimmung komplett zu wiederholen.
+
+danke
+Jérôme
+
+On Mon, 20. 04. 23 17:36:26 +0100, Mail Delivery System
+507c6877656564657c38342e32332e3235342e3232347c3152613872482d303030
+Ja/Nein
+Option

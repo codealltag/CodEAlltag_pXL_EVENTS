@@ -1,0 +1,22 @@
+... mein Seeäffchen hat noch nie eine unzulässige Codierung für die 
+Header-Zeilen produziert, für den lege ich meine Hand ins Feuer.
+
+
+Du meinst, *das*:
+
+Subject: Re: Wahldebakel =?UTF-8?B?RmR0aiKBBKSjmI3iPGKhr1Af?=
+
+sei unrichtig? Da vertust Du Dich aber! Das ist 100% korrekt. Alles 
+ASCII, wie es sich gehört, und wie es decodiert wird, steht auch da: UTF8.
+
+
+Du bist ja auch gar nicht gemeint (TB produziert so einen Mist nämlich 
+gar nicht), was mischt Du Dich da also ein?
+
+
+Glückauf!
+Kathi Sievernich (Schapbach/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://lyq.cckzk-jpzlbx.sb

@@ -1,0 +1,18 @@
+www.hzjbjlx.re = 765.27.52.51 -> Access Denied
+
+
+Die meisten Webserver auf dieser Welt kannst Du ohne weiteres
+nicht über die IP-Adresse erreichen, weil sie entweder nicht
+eindeutig ist oder die Konfiguration das nicht erlaubt.
+
+Wenn die Zensurprovider zusätzlich alle DNS-Abfragen außer zu
+ihren eigenen DNS-Servern sperren (was viele Provider bei SMTP
+schon seit Jahren so machen), ist es auch nicht damit getan,
+einfach bloß andere Nameserver bei sich einzutragen (wozu man
+ja nun kein großer Experte sein muss).
+
+Die Anbieter "bösen" Contents werden natürlich genau das machen,
+was Du sagst, nämlich ihre Angebote optional per blanker IP-Adresse
+zugänglich machen.
+
+	Der Zensurwettkampf hat begonnen ... David

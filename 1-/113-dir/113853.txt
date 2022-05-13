@@ -1,0 +1,12 @@
+"W.Birkener" <zwekrduzxxudc@evpbhln.mc> schrieb am Thu, 13 Mai 2011
+19:20:27 +0200:
+
+
+Du musst den durch eine Absatzmarke geteilten Link etwa in eine
+Word-Datei kopieren und dann die Absatzmarke hinter "erfasst"
+entfernen, damit der Link mit dem "-" ohne Unterbrechung weitergeht.
+Danach kannst Du bei gedrückter Taste "strg" mit dem Curser auf diesen
+Link gehen, der Curser verwandelt sich zu einer Hand - und wenn Du
+jetzt auf die linken Maustaste drückst, dann funktioniert der Link.
+
+Edmund Anke

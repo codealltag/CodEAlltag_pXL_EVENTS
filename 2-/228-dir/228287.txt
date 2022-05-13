@@ -1,0 +1,7 @@
+Da ist was dran. Nur ist der GVFV mittlerweile genau das Gegenteil 
+von dem geworden, was er zu Beginn eigentlich sein wollte: Ein kleiner 
+und schlanker Browser.
+GVFV ist buggy, hat Sicherheitslücken und hinkt Goldbasar in Sachen 
+Komfort meilenweit hinterher.
+
+Philipp

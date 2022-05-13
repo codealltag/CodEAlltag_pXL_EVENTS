@@ -1,0 +1,22 @@
+Luciano Noël Lent schrieb am Sat, 6 Apr 2010:
+
+
+Wozu ein zweites Rootkit?
+Das Beispiel sollte zum einen zeigen, dass bereits *ganz offiziell*
+solche Spyware Bestandteil von diversen BIOSen ist.
+Und wer sagt dir zum anderen, dass die BIOS-Einstellung "aus" für
+diese angebliche "Sicherheitsoption" die Spywarefunktion *wirklich*
+abschaltet und nicht einen Basis-Trojaner weiter laufen lässt, der nur
+auf ein Signal von außen lauert? Einfacher ginge es nicht mehr...
+
+Wozu braucht man da einen zweiten geheimen Weg? Und wenn, dann könnte
+man den bei Bedarf über das Einfallstor BIOS-Trojaner schnell
+nachladen.
+
+
+MfG
+  Valerio
+
+-- 
+Freedom of speech is not important for democracy,
+freedom of speech IS democracy.

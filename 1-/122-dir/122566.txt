@@ -1,0 +1,24 @@
+Hallo,
+
+Nicolas Nathrath schrieb:
+
+...[...]...
+
+
+Doch! Solche Bücher werden je nach Anforderungen mit InDesign
+oder LaTeX gesetzt. Word wird da normalerweise nicht genommen
+da es zu instabil ist und einen zu schlechten Satz liefert.
+LaTeX wird gerne bei wissenschaftlichen Verlagen gesehen und
+InDesign geht mehr in die Publizistische Ecke.
+
+Word ist da nur ein absoluter Notbehelf und soll in der Praxis
+OO unterlegen sein. Den Vergleich OO vs MS-Office habe ich aber
+nie gemacht, nur die Ergebnisse zeigen lassen. Zumindestens
+zu den Zeiten von Comma (Courage) war es definitiv so das SO
+dem damaligen Word bzgl. Stabilität überlegen war.
+
+
+MfG
+
+
+Klaas Fraaß

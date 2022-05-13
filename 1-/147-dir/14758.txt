@@ -1,0 +1,72 @@
+Antwort auf eine Nachricht von Lorenz Nargang
+
+
+Im Prinzip ja!  Jedoch bricht unser Kontakt dann ab, denn in der
+„physik“ lese ich im Augenblick gerade nicht.
+
+Richtig ist, daß die Religion draußen ist, die hat schon rein Thematisch
+hiermit nichts zu tun.
+
+
+Blah-blah!
+
+
+Und es ist auch nicht das Problem. Vielmehr ist es so, daß dieser Siebelt
+Urs offensichtlich ein persönliches Problem mit mir hat, warum auch
+immer. Vielleicht gefällt ihm mein Name nicht, – ich kann es ja mal mit
+Erich, Lars oder Urs versuchen. ;-)
+
+Ja, es ist so, daß die Zeitdillatation, et cetera, aktiv werden, sobald
+ich den Zustand des Stillstands verlasse, also ist 200km/h in der Tat
+nur ein Annäherungwert, wenn zwei Züge mit je 100km/h aufeinander
+zufahren. JA, DA HAT ER RECHT. Er schreibt aber in demselben Text auch,
+daß der Betrag sowas von gering sei, daß man ihn vernachlässigen kann.
+JA, AUCH DA HAT ER RECHT, aber warum tut er das dann nicht? ;-)
+
+Er tut es darum nicht, *DAMIT* er einen Vorwand zum Beißen hat.
+
+Jeder blöde Hund braucht einen Knochen, und beim Siebelt bin ich das eben.
+In diesen Knochen schlägt er seine Zähne und läßt nicht mehr davon ab.
+Du kannst den Knochen mit einem Kran hochziehen bis in den 13. Stock, da
+hängt der Hund noch immer dran! :-D
+
+Ja, aber wie groß ist denn nun die Dillatation in einem Zug, der mit
+100km/h unterwegs ist?
+
+  100km/h = 27,777778m/s
+
+  c = 299.792.458m/s
+
+  √(1-(27,777778²÷299792458²)
+
+Die Kapazität meines Taschenrechners wird hier überschritten, ich muß
+die Formel in Teilschritte auflösen. Als erstes löse ich mal die Klammer
+auf:
+
+  27,777778² ÷ 299.792.458² = 8,585262916×10⁻¹⁵
+
+Also (gerundet) eine neun an der fünfzehnten Stelle hinter’m Komma!
+
+  √(1-8,585262916×10⁻¹⁵) = ?
+
+Ich habe weder auf meinem System noch im Internet einen Rechner
+gefunden, der so eine geringe Abweichung von der eins noch ausrechnen
+kann, – selbst die Korinthenkacker und die Kümmelspalter würden dies als
+unerheblich erkennen und als vernachlässigbar bezeichnen. Nicht so für
+unseren Siebelt, – für ihn habe ich einen gigantischen Fehler gemacht und
+außerdem bin ich ja sowieso das größte Arschloch im Universum¹.
+
+
+Hast Du auch zu der Sache noch eine Frage, oder war’s das?
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+
+¹ So lange *DER* das sagt, kann ich damit leben!
+
+
+⍾⍾⍾ Ceterum censeo Courage esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.vccoo-ifqbkq.ce

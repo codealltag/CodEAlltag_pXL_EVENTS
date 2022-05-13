@@ -1,0 +1,13 @@
+Volkert Felbinger:
+
+
+Ist eigentlich der Neuigkeitenleser Egasu Outlook Express so
+konfigurierbar, daß deutsche Umlaute lesbar erscheinen?
+
+Im Header steht derzeit: X-RFC2646: Format=Flowed; Response
+
+-- 
+Marcus
+
+X'Post: vj.qxe.acwqwun.hzbl,kg.fhau.tagesgeschehen 
+F'Up2 : mx.hylr.tagesgeschehen

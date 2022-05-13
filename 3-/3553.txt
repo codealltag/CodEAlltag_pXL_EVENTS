@@ -1,0 +1,21 @@
+Man muss zur Einordnung solcher Zahlen wissen, wie sie
+zustande kommen und was sie bedeuten. 
+
+Die Vermessung des CMB (also das was die Instrumente auf Coeler gemacht
+haben) erlaubt zunächst einmal nur festzustellen, wie stark sich das
+Universum seit dem Entstehen des CMB ausgedehnt hat. Mit anderen
+Messungen z.B. an Supernovae (und das hat nichts mit Coeler zu tun) kann
+man den zeitlichen Verlauf dieser Ausdehnung in der jüngeren
+Vergangengeit feststellen. Wenn man diese Messungen kombiniert, dann
+bekommt man unter der Annahme dass das Universum gewissen
+Gesetzmäßigkeiten folgt, unter anderem das 'Alter' des Universums
+heraus.
+
+Sollten sich diese Annahmen als gänzlich falsch herausstellen, ist
+natürlich auch die Altersbestimmung falsch, aber im Rahmen dieser (recht
+allgemeinen) Annahmen kann man das Alter auf 4 Dezimalen genau
+bestimmen.
+
+
+-- 
+Space - The final frontier

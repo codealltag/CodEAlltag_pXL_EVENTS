@@ -1,0 +1,19 @@
+1800 Vollaststunden jährlich sind 5 Vollaststunden täglich. Aber was macht 
+die Mühle in den anderen 19h? Stillstehen, weil betriebswirtschaftliches 
+Denken sich 'Arbeit' (außer der eigenen) prinzipiell nur mit maximaler 
+Intensität vorstellen kann?
+Nehmen wir mal an, in den 19 restlichen Stunden läuft sie im Mittel mit 
+halber Maximalleistung. Dann erzeugt sie in den 19 Teillaststunden nochmal 
+etwas das Doppelte wie in den 5 Vollaststunden oder Strom für etwa 9000 
+Haushalte. Die Rechnung im Vorposting kam auf 15_000 Haushalte und rechnete 
+das über eine pauschale Fehlerkorrektur auf 10_000 runter. Es bleibt eine 
+Differenz von 50% bzw. 10% - vorausgesetzt 'Nennleistung' und 
+Maximalleistung sind wirklich dasselbe. 
+Unsicherheiten um Faktoren 2 sind in der Praxis gang und gäbe und werden 
+konstruktiv pauschal als Sicherheitsmarge berücksichtigt. Kriminell wird es, 
+wenn die Diskrepanzen auf die Größenordnung wie in Risikovorausberechnungen 
+von AKWs steigen: 1Gau/zigtausend_Jahre theoretisch vs. 2Gaus/50Jahre 
+praktisch. Oder wie in Wirtschaftsprognosen.
+
+Gruß
+Oswald

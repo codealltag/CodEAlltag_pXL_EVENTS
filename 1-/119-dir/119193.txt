@@ -1,0 +1,4 @@
+Warum nicht die ISP in die Pflicht nehmen, die ja den ganzen Unfug
+forwarden? Ursache > Wirkung: Der "Müll" läuft in Klartext über die ISP;
+wenn die nicht zu unseriösen Servern weiterleiteten, wäre das Problem auch
+vom Tisch. Oder? ..

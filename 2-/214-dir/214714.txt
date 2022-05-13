@@ -1,0 +1,37 @@
+Luc Ophüls schrieb am Sat, 28. 12. 22:
+
+
+Die beste und gleichzeitig blödeste Erklärung, weil sie das
+Grundproblem wirklich deutlich aufzeigt: Die Unfähigkeit zwischen
+Korrelarion und Kausalität zu unterscheiden und zu erkennen, dass man
+die Folgerungsrichtung Ursache->Wirkung nicht umdrehen kann.
+Letzteres wird scherzhaft als "Modus Idioticus" bezeichnet.
+(Auch ein "Sozialexperte" sollte sich mit Grundlagen der Logik
+auskennen, weil die auch im ganz normalen Leben vorkommt.)
+
+Einfacheres Beispiel (an dem hier trotzdem schon ein Versager
+gescheitert ist):
+Wenn es irgendwo regnet, ist dort meist auch die Straße nass. 
+*Aber*: Wenn die Straße irgendwo nass ist, muss es dort noch lange
+nicht geregnet haben.
+
+Und selbst wenn die Korrelarion zwischen Regen und nasser Straße ganz
+nah an 1 liegt, ist die nasse Straße immer noch nicht die Ursache für
+Regen.
+
+über eins staune ich immer wieder: Dieses triviale Beispiel aus dem
+Alltag ist den meisten Menschen (bis auf die oben genannte Ausnahme)
+sofort klar. Wieso fallen dann sogar (selbsternannte) Experten im Fall
+eines Amoklaufs so schnell darauf rein?
+Weil es eine so einfache "Lösung" ist, die prima von den wirklichen
+Problemen ablenkt?
+
+
+MfG
+ Dietrich
+
+
+-- 
+Aus A folgt B, B ist erfüllt, also ist A auch erfüllt.
+Mein Logiklehrer nennt diesen Schluß "Modus idioticus".
+(Bernard R. in dsrm)

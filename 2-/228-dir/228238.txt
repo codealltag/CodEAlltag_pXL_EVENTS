@@ -1,0 +1,48 @@
+.. in weniger als 100 Jahren (= ca. ein Menschenleben)
+
+Nehmt euch Zeit diesen Beitrag zu lesen:
+-
+3 % exponentielles Wachstum (jedes Jahr 3 % vom Vorjahr) ergäben 
+aufgrund des "Zinseszinseffekts" einen Anstieg auf mehr als das 19fache! 
+(Das Zwanzigfache wäre schon nach knapp 102 Jahren erreicht.)
+
+Aber auch eine reale Vervierfachung wie in der linearen Variante des 
+Beispiels ist allerhand, wenn man bedenkt, dass 100 Jahre nicht viel mehr 
+sind als ein Menschenleben. Betrachten wir noch einen kürzeren Zeitraum:
+
+Unser Indexwert steigt im 1. Jahr von 100 auf 103 (also um 3 Einheiten, die 
+in diesem Anfangsjahr auch 3 Prozent entsprechen) und dann jedes Folgejahr 
+nicht mehr um 3 %, sondern konstant um 3 Einheiten. Das führt im 10. Jahr 
+zu einem Anstieg von 127 auf 130 (= 2,4 %) und im 20. Jahr von 157 auf 160 
+(= 1,9 %). 1,9 % hören sich natürlich wesentlich schlechter an als 3 %, 
+obwohl die gleiche Güter- und Dienstleistungsmenge dahinter steht.
+
+In nur zehn Jahren ergibt dieses lineare Wachstum einen Zuwachs von 
+30 % des Ausgangswertes. Bei exponentiellem Wachstum (jedes Jahr 3 % 
+vom Vorjahresergebnis) sind es im gleichen Zeitraum 34,4 %. 
+Nach 20 Jahren ergibt die exponentielle Variante des 
+Rechenbeispiels ein Plus von 80,6 % und die lineare 
+immerhin ein Plus von 60 % des Ausgangswertes.
+
+Halten wir uns vor Augen, was beispielsweise eine BIP-Zunahme der 
+USA um 30 % bedeutet: 30 % von 13,2 Billionen Int $ sind rund 
+4 Billionen Int $, das entspricht etwa dem BIP (KKP) 2005 
+Japans, der drittgrößten Volkswirtschaft der Welt! 
+
+- Und das in 10 Jahren?
+
+Die rund 3 % Wirtschaftswachstum (2005) der USA erbrachten grob 
+gerechnet 400.000 Millionen = 0,4 Billionen international dollars 
+(in einem Gesamt-BIP KKP von 13,2 Billionen Int $). Ein konstanter 
+linearer Zuwachs in dieser Höhe ergäbe in nur drei Jahren ein Plus 
+von 1,2 Billionen Int $ - die Wirtschaftsleistung Kanadas 
+(immerhin Mitglied der G8 bzw. seit 1975 Mitglied der G7).
+
+"Kanada in drei Jahren" als linearer Wachstumspfad für die USA? 
+
+Da müssen eigentlich Zweifel aufkommen. Doch Börsianer (jenseits 
+und diesseits des Atlantiks) und alle, die sich gerne von der großen 
+Weltwirtschaftslokomotive ziehen lassen, träumen vermutlich sogar von 
+3 oder auch 4 Prozent exponentiellem Wachstum, sobald die USA
+ihre gegenwärtige "Krise" überwunden haben. 
+mehr: http://oqi.bqmm.pj/

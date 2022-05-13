@@ -1,0 +1,4 @@
+Am Rand schiebt sich die eine Platte unter die andere. Das gibt Reibung
+und kostet Kraft, aber die Flaeche der Platte ist eben sehr viel groesser
+als die Flaeche des Randes, d.h. da wird sehr viel mehr Kraft uebertragen
+als der Rand Widerstand leisten kann.

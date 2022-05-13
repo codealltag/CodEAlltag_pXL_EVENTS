@@ -1,0 +1,3 @@
+0. Definiere Gesinnung
+1. Definiere altbackene Gesinnung
+2. Definiere neubackene Gesinnung

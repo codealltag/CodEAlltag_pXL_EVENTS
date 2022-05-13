@@ -1,0 +1,32 @@
+Silke Erlemann <dummy@invalid> wrote in news:eujdvs$d3n$23$9@jqjc.u-
+jhzdim.pll:
+
+
+Wieso?
+
+Ich mein, das sieht doch Scheiße aus. Was für eine sinnlose Verschwendung 
+von Speicherplatz!
+
+
+Da könnte man ja gleich so schreiben:
+
+z.B. Br
+
+
+B;;;;;
+{ISO31415926535897{reserved_for_next_millenium{ISO_EUROPEAN3857239857};
+{ISO_GERMAN};{ATTENTION_ATTENTION_ATTENTION};{A_CHARACTER_IS_FOLLOWING};
+{NON_STANDARD_CARACTER=TRUE};{NON_NON_STANDARD_CHARACTER=FALSE};
+{LENGHT=00000001};{OH_YEAH};{OH_MY_GOD_ITS_REALLY_NON_STANDARD};
+{INCREDIBLE};{ITS_A_SIGN_WITH_TWO_POINTS};{GERMANY_GOT_TWO_POINTS};
+a;;;;;;
+{END_END_END_END_END};{STOP_IT};{OH_YEAH};{ITS_THE_END}
+;;;;;
+r
+
+
+Gruß A.F.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

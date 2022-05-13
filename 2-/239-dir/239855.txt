@@ -1,0 +1,13 @@
+Ich weiß, daß das internationaler Standard ist, daß in den Jeaders 
+ausschlißelich ASCII-Zeichen verwendet werden dürfen. Darauf ergibt sich 
+notwenidgerweise, daß nicht-ASCII-Zeichen codiert werden müssen.
+
+INFORMIERE DICH, bevor Du Gefahr läufst dummes Zeug zu schreiben.
+
+
+Glückauf!
+Regine Lütticken (Sandgrub/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://zym.bzicb-ymjcon.ix

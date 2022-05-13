@@ -1,0 +1,7 @@
+Du gehst von einer falschen Grundannahme aus. Die MwSt wird auf den
+Nettobetrag fällig, d.h. ö00 netto ergeben bei 19% MwSt 191ö brutto.
+Deine Rechnung hingegen geht fälschlicherweise davon aus, dass 19% des
+Bruttobetrags die MwSt ausmachen.
+
+Also: brutto = 1,19*netto, demnach MwSt = 0,19*netto
+oder: netto = brutto/1,19, demnach MwSt = 0,19*brutto/1,19

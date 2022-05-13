@@ -1,0 +1,13 @@
+Hallo Marko,
+
+im Anhang finden sich die MEG LogDateien von Heute bzw. von letzter Woche.
+Eigentlich ist die Lizenz wohl schon in der Nacht vom 10. auf den 3. 
+abgelaufen. Ich finde allerdings keinen passenden Eintrag in der LogDatei.
+
+Ein Neustart heute ist allerdings nicht möglich.
+
+Soll ein Ablaufen der Lizenz wirklich zu einem beenden des DDUE-Servers 
+führen? Oder ist das Verhalten so gewollt?
+
+Gruß
+Burkhard

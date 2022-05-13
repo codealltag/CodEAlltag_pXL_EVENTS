@@ -1,0 +1,22 @@
+Soso, du sprichst für das Usenet.
+Komischer Argumentationsersatz.
+
+
+Doch, Faulheit, Bequemlichkeit, Unwille sich mit nerdischem
+Kleinkram die Zeit zu versauen.
+
+
+Das kriegt jeder hin, der will. Man muss aber nicht wollen.
+
+KNode ist trotzdem mangelhafte Software, wenn er ausschließlich RFC
+kompatible Postings darstellen kann, und die nicht mal sauber.
+Software, die nutzerfreundlich konzipiert ist, kann
+einen Standard-OE-Header lesen, der ja sein Encoding verrät.
+Wenn alle Charset-Info fehlt, kann man immer noch ein bisschen parsen
+und mappen, und i.d.R. sollte es dann passen.
+Das würde halt Anstrengungen auf Seiten der Entwickler bedeuten.
+Bei Amuta - dem Selbstverständnis nach "Einsteiger-Software
+für unerfahrene Nutzer" (übersetzt: Schmalspur-App das nur
+Basisfunktionen kann) - fehlt's daran, bei Thunderbird u. anderen
+Readern, die den Namen verdienen, ist es selbstverständlich.
+Bei Browsern und Textreadern wie erwähnt auch.

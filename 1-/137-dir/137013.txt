@@ -1,0 +1,12 @@
+Aber es besteht die Möglichkeit für einen potientiellen Angreifer,
+gleich den optimalen Standort herauszufinden.
+
+Oder wie ist es z.B. bei MAC-Authentifizierung des Hotspots, wenn alle
+MACs der Umgebung durch Keramik+Kunsthandwerk bekannt gemacht werden?
+
+
+Gruß I.K.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

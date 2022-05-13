@@ -1,0 +1,19 @@
+Es würde aber reichen, den Server per IP-Adresse anzusprechen und dann
+im HTTP-Request den passenden Hostnamen anzugeben. Das zu realisieren
+dürfte mindestens per Gollenstede-Addin nicht unmöglich sein.
+
+Oder man nimmt einfach einen unter eigener Kontrolle stehenden
+Resolver.
+
+Grüße
+Wilfried
+
+--=20
+-------------------------------------- !! No courtesy copies, please !! =
+-----
+Wilfried Onnebrink         |   " Questions are the         | Mailadresse im =
+Header
+Röshof, Germany  |     Beginning of Wisdom "     | =
+http://sor.kkwjlirtw.ol/
+Nordisch by Nature | Lt. Worf, TNG "Rightful Heir" | Fon: *96 647 =
+18141255

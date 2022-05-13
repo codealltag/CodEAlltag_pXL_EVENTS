@@ -1,0 +1,12 @@
+Mit genug Kreativität kannst du nahezu jede Aufgabenstellung lösen 
+;-)))) siehe Stuxnet - was IMHO noch einfach gestrickt ist.
+
+
+Der einzige Weg mögliche Spionage ausfindig zu machen ist mittels Probe 
+(Hardware oder promiscuous mode) und Sniffer den gesamten Traffic (z.B. 
+eines Rechners) mitzuhorchen und auf Auffälligkeiten zu untersuchen.
+
+-- 
+Francisco
+Junge, wilde Lümmel rupfen den aufgeblasenen Gockeln die Federn aus!
+Es is alles Chimäre, aber mich unterhalts!

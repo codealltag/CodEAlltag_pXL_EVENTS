@@ -1,0 +1,14 @@
+OK. das wars dann aber auch schon.
+
+
+sie muss es sein, sonst wären die Datenmengen zu hoch.
+
+Das aufgezeichnete Frequenzband ist jedenfalls oben und unten gekappt, d.h.
+Ober- und Untertöne werden einfach abgeschnitten.
+Wie würdest du das nennen, wenn nicht "komprimiert"?
+
+Klaas
+-- 
+Im übrigen bin ich der Meinung, dass TCPA/TCG verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

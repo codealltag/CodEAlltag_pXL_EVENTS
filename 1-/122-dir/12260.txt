@@ -1,0 +1,15 @@
+Das exerziert man nicht durch. Die kleine Überlegung, warum Zwei die
+einzige gerade Primzahl ist, versteht jedes Kind:
+
+Nehmen wir an, es gebe eine von 2 verschiedene gerade Primzahl x. Eine
+gerade Zahl ist eine Zahl die durch 2 teilbar ist. x ist also durch zwei
+teilbar. Da x nicht 2 ist, ist x/2 größer als 1. x hat also einen von 1
+und sich selbst verschiedenen Teiler, nämlich x/2. Deshalb ist es keine
+Primzahl. Aus der Annahme es gebe eine gerade Primzahl x folgt also, daß
+x keine Primzahl ist. x kann aber nicht gleichzeitig Primzahl und keine
+Primzahl sein. Folglich gibt es so ein x nicht.
+
+fup2 dsr
+
+-- 
+PLÖGER

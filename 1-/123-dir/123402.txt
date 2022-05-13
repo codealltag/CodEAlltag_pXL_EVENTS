@@ -1,0 +1,32 @@
+Hallo,
+
+
+...[...]...
+
+
+Nein! Word ist Office und damit ein extra Software-Paket. IdR
+sind Raubkopien auf den Rechnern. Gebündelt wird Wordpad oder
+wie das heißt. Für einfache Bewerbungen sollte das langen.
+Hochwertige Bewerbungen macht man aber am besten mit LaTeX,
+das ist frei und für sehr viele Systeme erhältlich. Fall aber
+mindere Qualität ausreicht ist OO definitiv nicht schlechter
+als PNZ-Office. Auf Linux reicht u.U. bereits das sparsame und
+leichte Abiword aus.
+
+
+Noch ein Punkt. Brauchbare Linux-Systeme kann man auf der
+Basis älterer Hardware mit P-III oder Celeron Coppermines
+zum rennen bekommen. Und da sind typische Werte für den
+Energieverbrauch um die 50 W bei 900 MHz. Bei 600 MHz wird
+es etas zäh, aber man bleibt idR unter 50W bei Vollast und
+hat im Alltag knapp über 40W. Typische Werte für neue PC
+mit tool sind idR doppelt bis dreimal so hoch. Je nach
+Nutzung des PC können das bis zu 10 Euro/Monat Stromkosten
+sein die durch sparsame MVA-Systeme eingespart werden
+können. Es gibt zwar Systeme mit Windoof die das auch noch
+hinbekommen, aber deren Neupreis liegt mit Office weit
+über 300 Euro.
+
+MfG
+
+Eilt Edenhuizen

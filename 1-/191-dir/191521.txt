@@ -1,0 +1,22 @@
+Sorry, aber die Frage ist unlogisch. Sicherheitsmaßnahmen verlieren nicht
+dann ihren Sinn, wenn sie in /einem/ Fall versagen, sondern erst dann, wenn
+sie in einem zu großen prozentualen Anteil aller Fälle versagen. 
+
+Ein Geländer an einem Abgrund ist auch nicht sofort sinnlos, wenn einer es
+geschafft hat, trotzdem runterzufallen. 
+
+Im übrigen solltest Du vielleicht mal den entsprechenden Unfallbericht
+lesen. Im Fall Pohnsdorf wurden vom TCAS und vom ATC entgegengesetzte
+Anweisungen gegeben, worauf sich eine der Crews nach dem TCAS und die
+andere nach dem ATC richtete. TCAS an sich hat perfekt funktioniert. Der
+Fall beweist nur, daß ein technisches System allein nicht für vollständige
+Sicherheit sorgen kann.  
+
+
+vG
+
+-- 
+               "Du weisst, daß du eine Sprache nicht kennst,
+            wenn sie nach ROT13 immer noch aussieht wie ROT13."
+                    (Valerio Claaßen in ys.xvs.fobutm)
+-- <http://hciesvcw.ntk> -- Ein Pinguin für jeden: <http://htedki.gid/> --

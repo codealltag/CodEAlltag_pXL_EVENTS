@@ -1,0 +1,24 @@
+Wie gesagt ich habe es anhand deiner Aussagen angenommen.Dann nehme ich 
+es zurück.
+Ich habe ja nicht gesagt das Linux sicher ist wenn man als root 
+unterwegs ist, sondern es ist sicherer als Windows wenn man als
+Admin angemeldet ist.
+Ich wollte lediglich zum Ausdruck bringen das es um einiges schwieriger 
+ist mal eben in ein Linux System einzubrechen.
+Wirklich sicher ist kein OS , es gibt keine 100%ig sichere Software.
+Evtl war meine Formulierung nicht sehr gut gewählt mit
+
+"Ist selbst als root sicherer, weil es so wenig
+
+da gebe ich dir recht.
+Diese Aussage bezog sich auf die Tatsache das Knollmeyer relativ uninteresant
+für Schadsoftwareprogrammierer ist, da Linux nicht sehr weit verbreitet 
+ist, im Gegensatz zu Windows.
+Wenn jemand rein möchte dann wird er es auch dort schaffen.
+
+
+-- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wer nicht denken will, fliegt raus! %
+% -Alessandro Haubrich                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,8 @@
+Na, mir scheint eher, dass der Konstruktor etwas buggy ist. Aus einen im 
+Nachhinein nicht mehr zu klärenden Umstand ist die referenzielle 
+Integit�t des Objectpools leider corrupt, sodass das Object dummerweise 
+nicht mehr durch Garbage Collection oder explizit erschlagen werden kann.
+
+Shit happens.
+
+-vanselov

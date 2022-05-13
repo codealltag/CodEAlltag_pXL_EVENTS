@@ -1,0 +1,17 @@
+Bei so alten Schinken ist das auch kein Wunder. Schlechtes Ausgangsmaterial
+-> schlechtes Ergebnis.
+
+
+Das hängt extrem von der Blueray ab. Wenn du da einen Film hast der auf 12
+GB kleingestampft wurde, dann ist das Ergebnis nicht berühmt, wenn der Film
+ab 30 GB groß ist, dann sieht's schon viel besser aus.
+
+übrigens die h264-Dekoder legen oft ein künstliches Bildrauschen über das
+Bild um Artefakte zu überspielen.
+
+Gruß Luis
+-- 
+ID = 0x2BFBF5D8 FP = 53CA 1609 B00A D2DB A066  314C 6493 69AB 2BFB F5D8
+http://ume.wdxrroyt-powxjnkxif.obje - Realnames sind keine Pflicht
+http://ppy.cflireueaxv.zko/ + http://txs.bvlbmwrpniehjy.vqy/ - Antispam
+vsshtwtc (jf) aasoe (lnx) iwn | http://rvl.jmfeonoms.goy/plipyvl/

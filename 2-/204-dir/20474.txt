@@ -1,0 +1,20 @@
+Eine Alternative zum Internet wäre durchaus denkbar.
+
+Das Internet ist eigentlich ein militärisches Netz der USA. Die haben 
+das mal entwickelt und mit dem nachfolgenden System das überholte Netz 
+für die Öffentlichkeit freigegeben.
+
+Aber deswegen war es natürlich nie 'frei', sondern es war (und ist) ein 
+Netz des US-Militärs. Aber die können mit dem ganzen Unfug schon lange 
+nichts mehr anfangen. Aber interessiert lauschen sie dem Chaos in den 
+elektronischen Weiten schon gern. Und ab und an fällt denen auch mal 
+etwas wichtiges in die Hände.
+
+Aber man kann sowas wie ein 'Freenet' auch ohne die Amis machen. Man 
+müßte nur die Internet Technik so ummodeln, daß sie auch ohne die USA 
+funktioniert.
+
+Das geht, wie etwa Linux zeigt oder manch anderes OpenSource Projekt.
+
+
+MICHAEL

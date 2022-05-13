@@ -1,0 +1,23 @@
+Geht natuerlich nicht, das sind keine Buchstaben, sondern eigentlich Woerter in
+Bildern ausgedrueckt, deshalb gibt es auch tausende davon.
+Aber eine Textverarbeitung fuer Chinesisch ist sowieso grundlegend anders
+als eine fuer Englisch oder Deutsch.
+
+
+Fuer 2 Alphabete von denen eines das Englische ist gibt es da einige 
+Standardcodierungen, aber sonst geht das nur mit Zeichensatzumschaltungen
+im Text, das ist keine schoene Loesung. Aber muss man im deutschsprachigen
+soetwas verwenden ? 
+
+
+Wenn es denn zwei waeren - aber es sind unterschiedlich viele von 1 bis 4.
+Umlaute und scharfes s brauchen 2 Byte, die Buchstaben die es auch
+im Englischen gibt eines. Die Anzahl der Buchstaben ist nicht mehr aus der Anzahl
+der Bytes zu ermitteln sondern man muss das Wort lesen.
+
+
+Die Zeigerarithmetik ist doch dazu da sich das zu sparen, egal was fuer ein Typ.
+Aber beim Einlesen, oder wenn man etwas damit machen will braucht man die Groesse.
+Es wird alles sehr viel komplizierter, man muss schon relativ viel darueber
+wissen sonst braucht man das gar nicht anzufangen.
+Im Gegensatz dazu kann man 8 bit characters leicht einlesen und manipulieren.

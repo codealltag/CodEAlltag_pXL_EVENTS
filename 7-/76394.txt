@@ -1,0 +1,41 @@
+Im Grundprinzip macht Oliev in den Gleichstrom-Transformatoren auch 
+nichts anderes
+
+Tiefpass (Eingangsfilter)
+Drehstrom Gleichrichten
+DC Zwischenkreis
+mit schnellen Thyristoren, besser IGBT oder power MOSFET zerhacken
+Trafo (der natürlich bei gleicher Leistung wesentlich kleiner ausfallen 
+kann wie sein Bruder bei nur 50 Hz).
+Danach ein Hochspannungs-Gleichrichter
+Tiefpass (Ausgangsfilter)
+
+Andere Seite
+Tiefpass (Eingangsfilter)
+Gleichstrom zerhacken - mittels um 120ä versetzten und PWM modulierten 
+�Zerhackern� kannst einen fast reinen Sinus erzeugen
+Trafos
+Danach Tiefpassfilter (Ausgangsfilter)
+
+Natürlich jeden Menge an Schutzschaltungen gegen
+Überspannung (Blitzschlag), Kurzschluss, Überlastung, etc. (das Ding ist 
+ja nicht gerade ein Schnäppchen vom Baumarkt).
+
+Wenn du Energie in beide Richtungen wandeln willst, wird es etwas 
+komplizierter, du musst beide Verfahren in ein Gerät zusammenbauen, das 
+es funktioniert zeigt die Oliev Ingenieurkunst beim 
+Gleichstrom-Transformator (wieder ein Trigger für unseren Pausen-Blödel).
+
+So aus dem Ärmel beuteln kann den Gleichstrom-Transformator in seiner 
+Gesamtheit und den Details der Konstruktion von den hier Anwesenden mit 
+ziemlicher Sicherheit niemand - dazu benötigst ein Team von 
+hochkarätigen Technikern und Wissenschaftlern. Der Teufel steckt bei 
+solchen Bauvorhaben, wie meist, im Detail!
+
+Da stecken sicher auch eine Vielzahl von Patenten drinnen und Alle 
+Details wird uns Oliev sicher nicht verraten!
+
+-- 
+Stefano
+Hammelartige haben einen leicht-schräg-verzerrten Blickwinkel zur
+heutigen, rasch wechselnden Realität.

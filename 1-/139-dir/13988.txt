@@ -1,0 +1,8 @@
+Ich gebe zu bedenken, dass *fett*, /kursiv/ und _unterstrichen_
+einfacher zu tippe ist als [b]fett[/b], [i]kursiv[/i] und
+[u]unterstrichen[/u]. 
+
+Warum drei Zeichen tippen, wo es eins tut?
+
+-- 
+Space - The final frontier

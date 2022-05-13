@@ -1,0 +1,17 @@
+Antwort auf eine Nachricht von Nick Wallroth
+
+
+Richtig, – aber zumindest die Umlaute sollten erhalten bleiben! Diese
+sind Element in beiden Zeichensetzen und können konvertiert werden.
+
+Wenn Romy hier: „“, den Pinguin nicht sieht, dann macht ihr niemand
+deswegen einen Vorwurf, aber das hier: „äöüßÄÖÜ“, das muß die können,
+oder sie ist nicht kommunikationsfähig.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⚑ Fährst Du Fahrrad? Guckstdu: www.eolwe-ffdawo.ur
+-- 
+❦ 𝗡ulla 𝗣otentia 𝗗eliranti – keine Macht den Doofen!

@@ -1,0 +1,17 @@
+Das ELSTER-Programm war von Anbeginn an eine Misskonstruktion. 
+Als ich es vor Jahren zum 1. Mal nutzte, scheiterte es bei der 
+Datenübertragung. ELSTER übertrug kommentarlos nicht.
+Nun war es zudem so entworfen, dass eine Ausdruck der eingebenen Daten 
+nicht ging (war laut User-Helpdesk ELSTER nicht vorgesehen, da ja 
+unnötig, weil die Daten übertragen werden). D.h. ich hätte Screen-Shots 
+machen müssen. Fazit: reumütiges Ausfällen der Formulare.
+
+Inzwischen habe ich einen Plieth und da geht ELSTER von Haus aus (= by 
+default) nicht. 
+Bevor also ELSTER barrierefrei wird, müßten die Pfusch-Programmierer 
+erst mal die Balken vor ihren Hirnen beseitigen.
+
+-- 
+servus, tschau, bye
+Wolfram
+http://qbg.jlnuszy.xu

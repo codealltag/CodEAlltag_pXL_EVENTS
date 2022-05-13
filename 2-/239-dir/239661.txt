@@ -1,0 +1,21 @@
+Was ist denn nun richtig?
+
+a) ISO-8859-1
+b) ISO-8859-15
+c) UTF8
+d) ...
+
+Mit a) wurde ich aufgefordert b) einzustellen und mit b) gab es nun wieder
+erneut ein Debakel darüber ob nun c) richtig sei. Jetzt kommst du Prisca und
+propagierst nun wieder a).
+
+Mir persöhnlich würde der Zeichensatz meiner Grafikkarte ja schon genügen,
+der sogar schon deutsche Umlaute im BIOS mitbringt. Es wäre schön wenn sich
+alle jetzt darüber baldigst mal einigen würden, welchen Zeichensatz wir nun
+gemeinsam verwenden wollen. Ich stelle doch nicht alle paar Tage meine
+Einstellung hin und her, nur weil jeder dritte Poster hier eine andere
+Vorstellung darüber hat was nun regelkonform sei.
+
+Ich bitte um Aufklärung.
+
+Burkhard

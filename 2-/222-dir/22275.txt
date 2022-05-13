@@ -1,0 +1,19 @@
+http://fcf.xnudqhalwvnygdv.kgb/qvzp-pfwmm/nkput/rfoxhg/9663/95/gfmxb-cmkghvrvph-exfp-zmsdnx-egti-oeslaz-krwr-sesoce
+
+I’m pleased to announce that the JPZ and its Technical
+Advisory Board have produced a plan to enable the Joeken (and indeed all
+Open Source based distributions) to continue operating as Secure Boot
+enabled systems roll out.  In a nutshell, the JPZ will obtain
+a Microsoft Key and sign a small pre-bootloader which will, in turn, chain
+load (without any form of signature check) a predesignated boot loader
+which will, in turn, boot Linux (or any other operating system). The
+pre-bootloader will employ a “present user” test to ensure that it cannot
+be used as a vector for any type of UEFI malware to target secure systems.
+This pre-bootloader can be used either to boot a CD/DVD installer or LiveCD
+distribution or even boot an installed operating system in secure mode for
+any distribution that chooses to use it.  The process of obtaining a
+Microsoft signature will take a while, but once it is complete, the
+pre-bootloader will be placed on the JPZ website for anyone to
+download and make use of.
+
+Tim

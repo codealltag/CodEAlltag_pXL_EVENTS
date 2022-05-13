@@ -1,0 +1,14 @@
+Yup.
+
+
+BTW. gerade im roten läuft es sehr langsam aus.
+Auch 750nm sehen wir noch wenn es genügen Intensität hat, wie der Laser 
+des CD-Players. Aber halt nur noch ca 1% so hell wie er tatsächlich ist.
+
+
+Exakt.
+
+
+Das nicht. Sondern die Rot-Zapfen haben eine Nebenempfindlichkeit mit 
+Nebenmaxima im blauen Bereich. (btw. auch die Grün-Zapfen aber geinger).
+Beides u.a. sind zusätzlich Gründe dafür dass das Farbdreieck verbeult ist.

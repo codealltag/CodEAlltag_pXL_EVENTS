@@ -1,0 +1,15 @@
+BTW weiß jemand eigentlich, wie das genau funktioniert? Ok, der Film
+wird vermutlich per Beamer auf eine perforierbare Leinwand
+(=Verbrauchsartikel) projiziert. Aber wie wird erkannt, wo getroffen
+wird? Ist da eine Kamera, die die entstehenden Löcher filmt, die dann
+von einem Computer erkannt werden? Oder ist die Leinwand mit feinen
+Drähten in einem X-Y-Raster versehen, deren Unterbrechung als Treffer
+erkannt wird?
+
+Oder sind die Waffen mit einem Laser versehen, dessen Reflexion auf der
+Leinwand dann (statt eines scharfen Treffers) erkannt wird?
+Wikiallwissend schweigt sich dazu aus.
+
+-- 
+Gruß,
+      Norbert

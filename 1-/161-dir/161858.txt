@@ -1,0 +1,56 @@
+Das würde ich nicht so unterschreiben. Wie du schon sagst :
+
+"Das muss nicht so sein. Im Prinzip kann ein Betriebssystem
+
+Wie soll das denn bitte funktionieren?
+das schliesst dann mit ein das der User keine eigene Software 
+installieren darf und das gesamte Betriebssystem in einem nicht 
+löschbaren **rom steht.
+Dann sind aber auch keine updates möglich es sei denn man tauscht immer 
+das komplette **rom.
+Leider kann der Hacker auch "rechnen" und genauso wie heute trojaner zB 
+aus den ach so sicheren Virtuelle Maschinen ausbrechen können, kann auch 
+dort dem Bestriebssystem vorgegaukelt werden das eine semantische 
+verifizierung stattgefunden hat.
+Jeder Rechner wird irgendwann ans Internet angeschlossen und spätestens 
+dann braucht man keinen physikalischen Zugriff mehr.
+In den meisten Fällen ist ja noch nicht mal das Betriebssystem, sondern eine
+third party Anwendung die den Eingang eröffnet.
+
+Viele Sachen die man für unmöglich hielt sind heutzutage machbar.
+In dieser Beziehung ist es leider nur eine dumme Masschine die man immer 
+austricksen kann.
+
+Ich will deine Idee nicht nieder reden , gehen wir mal davon aus das es 
+machbar ist was du sagst, dann glaube mir gibt es eine Gefahr auf die 
+immer verlass ist und das ist der User.Aus faulheit,unwissenheit usw 
+werden dann wieder Türen geöffnet die vorher niemand kannte.
+
+So einfach ist es leider nicht!
+
+
+"
+I.B. braucht man dazu keine Anti-Viren-Software, siehe zB
+
+Ja so in etwa meinte ich das. Auch xp zB hat einige Sachen an Bord die 
+es sicherer machen könnten nur leider sind diese versteckt, schwer und 
+aufwendig einzurichten, und es mact das OS für den durchschnittlichen, 
+faulen, Nutzer  unbenutzbar.
+Wie gesagt die grösste Schwäche ist nicht immer die Software.
+Vista ist glaube ich sogar schon recht sicher , wurde aber nicht 
+angenommen, weil "man muss ja zB öfters sein passwort eingeben um rechte 
+zu ändern"
+
+Abschliessend, wenn den Leuten ihre daten so unwichtig sind das sie noch 
+nicht mal öfters ihr passswort eingeben wollwn, dann bitte sollen sie 
+doch von Trojanern in Grund und Boden befallen werden!
+
+
+MfG
+
+
+-- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wer nicht denken will, fliegt raus! %
+% -Ludwig Eifels                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

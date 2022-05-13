@@ -1,0 +1,43 @@
+Woher wollen die das Wissen?
+
+Das mag auch zwischen dem Endgerät und dem Server stimmen. Nur
+dazwischen passiert auch noch einiges.
+
+Den Letzten Satz sollte man sich auf der Zunge zergehen lassen. ""Die
+Gundelach-Kommunikation bietet Ende-zu-Ende-Sicherheit für die
+getesteten Interaktionen und Dienste zwischen Gundelach-Endgeräten und
+dem Gundelach Enterprise Server."
+
+Da steht, vom ERKG bestätigt, das lediglich die Kommunikation
+zwischen Endgerät und Server sowie umgekehrt sicher ist. Dazwischen kann
+alles Passieren. Das ist ja auch der Vorwurf von vielen Kritikern. Der
+Server spielt "Man in the Middle" und kann die Kommunikation im Klartext
+auswerten, kopieren und filtern. Das muss man einfach wissen, wenn man
+sich solchen Netzen anvertraut. Wichtige Kontaktdaten, Geschäftstermine
+oder gar Vertragsentwürfe können in die falschen Hände geraten.
+Wirtschaftsspionage ist heute ein sehr wichtiger Wirtschaftsfaktor, aus
+dem verschiedene Nachrichtendienste nach den kalten Krieg ihre
+Legitimation ziehen.
+
+Das ist wirklich ein Vorteil von diesem System. Es ist bequem und
+komfortabel. Dennoch muss die Frage erlaubt sein, warum nicht jeder
+Client sich ein asymmetrisches Schlüsselpaar erzeugt, wobei der
+öffentliche Schlüssel von Gundelach verteilt wird und der private auf
+einer Chipkarte sicher, auch vor Gundelach Zugriffen gespeichert wird
+und nur alleine vom Endgerät zum Entschlüsseln der Nachrichten verwendet
+werden kann. Hier könnte man wirklich eine sichere Kommunikation von
+Gundelach Endgerät zu Gundelach Endgerät realisieren. Dann würden
+wirklich die meisten Kritiker verstummen.
+
+Das ist sachlich Falsch. Es gibt viele Regierungen und
+Regierungsstellen, auch in unserem Land, die auf eigene sicherere
+Kommunikationslösungen setzen. Gerade wegen der bereits vorgebrachten
+Kritikpunkte.
+
+Man sollte Presseerklärungen als das nehmen, was sie sind. Es sind
+Marketingmaßnahmen.
+
+Ich will hier keinen sein Gundelach madig schreiben. Man sollte nur mit
+der nötigen Awareness solch ein Produkt benutzen.
+
+MFG Christof

@@ -1,0 +1,10 @@
+Solche Systeme benötigen wohl das Internet, um darüber einen Kontakt mit
+einer Sicherheitsplattform zu bekommen. Was ist aber wenn gar kein Internet
+vorhanden ist, oder wir unsere eigene Un-Sicherheitsplattform zur
+Überprüfung der Integrität verwenden und nur so tun als wenn es sicher
+wäre?
+
+Und dann wird es ja wohl neben dem "Trusted Grub"(bootloader with TCG
+support) auch noch Trusted Kernels von Linux geben, oder etwa nicht?
+
+Richard

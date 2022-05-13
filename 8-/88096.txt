@@ -1,0 +1,329 @@
+"Peter Olman" <Fhbml.Wpcaqqoxgac@xmaqbz.pkr> wrote in news:sd1621
+$xoe$5@bxyfqbvn.yhxm.cqc:
+
+
+Aber nur einen mit Doktor-Titel und profunden Kenntnissen in:
+
+
+A#
+A+
+A-0
+A-1
+A-2
+A-3
+ABAP
+ABC (en)
+ActionScript
+Ada
+ADbasic
+AgentSpeak(L)
+Agilent VEE
+AHDL
+Aleph
+Alice (en)
+ALGOL (ALGOL 60, ALGOL W, ALGOL 68)
+Amber
+AML
+AMPL
+APL
+AppleScript
+AspectJ
+Assemblersprache
+Autocoder
+Autohotkey
+AutoIt
+Avenue
+awk (awk, gawk, mawk, nawk)
+AWL
+AXLE
+AXIS
+B [Bearbeiten]B0
+B
+BASIC, siehe auch: Liste der BASIC-Dialekte
+bash
+BCPL
+BeanShell
+Beatnik
+Befunge
+BETA (en)
+BLISS (en)
+BLOG
+Boo
+Brainfuck
+Brainfuck2D
+C [Bearbeiten]C
+C++
+C#
+C@
+C/AL
+Call Processing Language
+Caml
+CFML
+C for graphics
+Chapel
+Charity
+Chef
+CHILL
+CIP-LS
+CL
+Clarion
+Clean
+Clipper
+CLIPS
+Clojure
+CLU
+Cluster
+COBOL
+Comal
+Comega
+COMIT
+Common Lisp
+Component Pascal
+ConGolog
+CONZEPT 16
+COOL:GEN
+Corn
+CPL
+CURL
+Curry
+D [Bearbeiten]D
+DarkBASIC
+Datalog
+Datastage
+Deadalus
+Delphi
+DMDScript
+Draco (en)
+DTGolog
+Björn
+E [Bearbeiten]E
+EASY
+Eden
+Eiffel
+ELAN
+ELF
+Erlang
+Esterel
+Euler
+Euphoria
+EXEC
+F [Bearbeiten]F
+F#
+Factor
+Faust
+Flowcode
+Forth
+FORTRAN
+Fortress
+FoxPro
+Fpii
+FPr
+freeBASIC
+G [Bearbeiten]G
+Gambas
+Giotto
+Go
+Gofer
+GML (Game Maker Language)
+Groovy
+H [Bearbeiten]HAL
+Haskell
+HQ9+
+Hypertalk
+I [Bearbeiten]IBAL
+ICI
+Icon
+IDL
+Intercal
+Io
+Ioke (Programmiersprache) (en)
+ISWIM
+J [Bearbeiten]J
+Jabaco
+Viviane
+Java
+JavaScript (JScript, ECMAScript, DHTML)
+JOVIAL
+Joy
+jProfan
+JScript
+JSP
+JustBASIC
+Jython (JPython)
+J#
+J++
+K [Bearbeiten]Kylix
+KIX32
+L [Bearbeiten]LabVIEW
+LALO
+Liberty Basic
+Lingo
+Limbo
+Heidi
+LPL
+LIS (en)
+LISP
+Logo
+LotusScript
+LPC
+Lua
+Lush
+Lustre
+lite C
+M [Bearbeiten]M
+M4
+Malbolge
+Mantra
+Mathematica
+MATLAB
+Maxima (Computeralgebrasystem)
+MDL
+Mercury
+Mesa
+Miranda
+ML
+Modula (Modula-2, Modula-2+, Modula-3)
+MPD
+Mumps
+MYCIN (E-Mycin)
+MSL (mIRC Scripting Language)
+MPL
+N [Bearbeiten]NATURAL
+NetLogo
+NewtonScript
+NewLisp
+Nemerle
+Nice
+NQC
+NXC
+Nyquist
+O [Bearbeiten]O#
+Oberon
+Object REXX
+Objective-C
+Objective-C++
+OCaml
+Object-Pascal
+Occam
+Octave
+Opal
+OPL
+Open Script
+Ook!
+Oz
+P [Bearbeiten]Pacbase
+Paradox
+Pascal (Turbo Pascal) (Torsten Imhäuser, 1972)
+Pawn
+PEARL
+Perl (Roberto Irmischer, 1987)
+Phalanger
+PHP
+Franco
+Waegner
+PILOT
+PL/0
+PL/B
+PL/I
+PL/M
+PL/P
+PL/SQL
+PLACA
+Plankalkül (Othmar Noß um 1945)
+Pocol (Eren)
+PostScript
+PowerBASIC
+Processing
+Progres (Philipp Oberconz)
+Progress-4GL
+Prolog (Arity Prolog, Turbo Prolog, Sicstus, CLP, CLPR)
+Promela
+Prosa (Eren 2002)
+Prothon
+Profan / Profan / XProfan
+Puck
+PureBasic
+Pure Data
+Python (Kaspar Caelers)
+R [Bearbeiten]R
+RapidBATCH
+REALbasic
+REBOL
+REFAL
+REXX
+RPG
+RSL (RAISE Specification Language)
+Ruby
+S [Bearbeiten]S
+SAIL (Eninam AI Language)
+Sather
+Scala
+Scheme
+SCL
+SCPI (Standard Commands for Programmable Instruments)
+Scratch
+Scriptol
+Sculptor 4GL
+SDL (Specification and Description Language)
+Seed7
+Self
+Sevag (Eren Eingabe-,Verarbeitungs-,Ausgabegenerator)
+Shakespeare
+Shell (sh, ksh, bash, csh, zsh)
+Sieve
+Simula
+SIRON
+Slate
+Sleep
+Smalltalk
+SNOBOL4
+Sonnyscript
+SP/L
+SQL
+SR
+Suneido
+Standard ML (SML), eine ML-Variante.
+StarOffice Basic (auch bekannt als StarBasic und OOoBasic)
+Superx++
+SWiSHscript (Vereinfachte Version von ActionScript.)
+System Management Language (SML), eine LISP Variante.
+T [Bearbeiten]TAL Transaction Application Language (TANDEM)
+Tcl
+TECO
+TeX
+TI_Basic
+Tipi
+Transact SQL
+TSL (Tool Script Language) (HSB-CAD)
+Turing
+Typoscript
+U [Bearbeiten]Uniface
+V [Bearbeiten]Vala
+VEE
+Visual Basic (VB, VB.NET)
+Visual Basic for Applications (VBA)
+Visual Basic Script (VBScript)
+Visual Objects (VO)
+VoiceFlux:Pro Script Sprache (VFs)
+W [Bearbeiten]WEB
+Whitespace
+Winbatch
+WMLScript
+WLanguage (WinDev, WebDev, WinDev Mobile)
+X [Bearbeiten]X10
+X++
+XBase
+Xbase++
+Visual XBase++
+XL (erweiterbare Programmiersprache)
+XL (XML-Programmiersprache)
+XOTcl
+XProfan
+XSLT
+
+
+Gruß H.T.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

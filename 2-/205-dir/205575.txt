@@ -1,0 +1,15 @@
+Vermutlich vermisst er eher eine einheitliche Benutzeroberfläche des OS
+und aller Programme mit Befehlen an derselben Stelle, also intuitive
+Benutzerführung und ohne massig (verwirrend vielen) Einstellungs-
+möglichkeiten. So wie der Colordec: schickes Design mit erstklassig simpler
+und dennoch großartiger Benutzerführung über ein simples Clickwheel, so
+dass damit auch Oma Tschach zurechtkommt. Negatives Gegenbeispiel
+grausamer Benutzerführung wäre das "Programmieren" eines Videorecorders.
+
+
+Auf dem Ulafa kann man parallel (gleichzeitig) ohne Emulator Ufun,
+Windows und Linux laufen lassen. Kein Problem. Windows-Programme kann
+man so sogar ohne häßliches Windowsged�ns im Hintergrund innerhalb des
+Ufun laufen lassen, parallel zu den Mac-Programmen.
+
+Uwe

@@ -1,0 +1,617 @@
+Gruppe : ys.talk.tagesgeschehen
+Benötigte Zeit für Berechnung : 00:00:01
+Statistikzeitraum von 22.10.2009 bis 21.11.2009
+
+****** Wer hat die meisten Beiträge geschrieben ? ******
+ ...| Name                | Anzahl Beiträge | Größe   | Disk. | %
+----|---------------------|-----------------|---------|-------|--------|
+  1 | cornelius zum-bruch      |             291 | 536.254 |     1 |  7,07% 
+  2 | neoDeppen-Hunter    |             143 | 270.845 |     1 |  3,48% 
+  3 | Edo Theodor Schober |             133 | 363.647 |     0 |  3,23% 
+  4 | nick clewe     |             119 | 265.839 |     0 |  2,89% 
+  5 | Gisèle Holtorff        |             111 | 323.244 |     0 |  2,70% 
+  6 | Italo Jopp      |              96 | 182.195 |    10 |  2,33% 
+  7 | Km. Tobias             |              95 | 298.407 |     0 |  2,31% 
+  8 | Siebelt Maysner           |              93 | 186.326 |    20 |  2,26% 
+  9 | Paul Biebighäuser    |              92 | 143.264 |    26 |  2,24% 
+ 10 | Raymond Dulweber        |              81 | 165.139 |     1 |  1,97% 
+ 11 | Ingolf . K u s m  ... |              74 | 181.585 |     0 |  1,80% 
+ 12 | Luca "Unsorg ... |              68 | 180.807 |     0 |  1,65% 
+ 13 | Horst Trauvetter        |              65 | 261.394 |     0 |  1,58% 
+ 14 | Theodor Feuchtner |              64 | 110.410 |     2 |  1,56% 
+ 15 | Ingmar Bergrath      |              63 | 311.630 |    39 |  1,53% 
+ 16 | Emanuel Altenburger        |              61 | 180.997 |     0 |  1,48% 
+ 17 | Niels Thielcke          |              60 | 107.283 |     3 |  1,46% 
+ 18 | Raphaël Darscheid     |              54 | 150.987 |     0 |  1,31% 
+ 19 | Theodor Cristensen   |              50 | 133.776 |     0 |  1,22% 
+ 20 | Eduard Reinhold         |              48 | 136.414 |    10 |  1,17% 
+ 21 | Adolf             |              47 | 197.624 |     0 |  1,14% 
+ 22 | Luca Osenbrück   |              44 | 168.129 |     1 |  1,07% 
+ 23 | TrscqjCgdrn         |              44 | 112.434 |     0 |  1,07% 
+ 24 | Georg                |              42 | 176.827 |     1 |  1,02% 
+ 25 | Pasquale Aichelin  |              42 |  90.700 |     0 |  1,02% 
+ 26 | Fabian Miggelbrink     |              42 |  77.583 |     0 |  1,02% 
+ 27 | Bruno                |              40 | 133.681 |     0 |  0,97% 
+ 28 | Ingo Juran         |              38 |  97.133 |     1 |  0,92% 
+ 29 | Alexandre Finnenkötter        |              36 |  81.490 |     7 |  0,87% 
+ 30 | Karlheinz K Ueberholz        |              36 |  89.943 |     0 |  0,87% 
+ 31 | CAMPHAUSEN 130       |              33 |  68.500 |     8 |  0,80% 
+ 32 | Roman Mörs ... |              33 | 130.142 |     0 |  0,80% 
+ 33 | starless&bibleblack |              32 |  63.715 |     2 |  0,78% 
+ 34 | Horst C. Türcke   |              31 |  82.154 |     2 |  0,75% 
+ 35 | Kurt Unverhaun       |              29 |  76.287 |     0 |  0,70% 
+ 36 | Mike Aschbichler        |              29 |  73.274 |     0 |  0,70% 
+ 37 | arno               |              29 |  68.139 |     0 |  0,70% 
+ 38 | Francis Czerner        |              29 |  55.044 |     0 |  0,70% 
+ 39 | Focko Oßenbrügge          |              27 |  59.555 |     0 |  0,66% 
+ 40 | Leon Haltermann       |              27 |  52.889 |     0 |  0,66% 
+ 41 | Heide Camphausen     |              26 |  71.274 |     0 |  0,63% 
+ 42 | Zehetleitner               |              23 |  61.167 |     0 |  0,56% 
+ 43 | Florian Witthoefft        |              23 |  39.310 |     0 |  0,56% 
+ 44 | Veit Tannenberger       |              22 |  35.533 |     3 |  0,53% 
+ 45 | Luca Termohlen        |              21 |  42.289 |     1 |  0,51% 
+ 46 | Rupert                |              21 |  42.013 |     0 |  0,51% 
+ 47 | francesco             |              20 |  45.580 |     8 |  0,49% 
+ 48 | JjxjjNkfzt          |              20 |  40.088 |     5 |  0,49% 
+ 49 | Tom Oehrl      |              20 |  46.605 |     2 |  0,49% 
+ 50 | Stephan Cleve       |              19 |  58.832 |     1 |  0,46% 
+ 51 | Veit Isenesee      |              19 |  46.829 |     0 |  0,46% 
+ 52 | Julian Clasen  |              19 |  38.608 |     0 |  0,46% 
+ 53 | Ullrich Giersiepen      |              18 |  30.574 |     1 |  0,44% 
+ 54 | ybgecbdns@u-aqs ... |              18 |  46.749 |     0 |  0,44% 
+ 55 | Willi Dilge      |              18 |  44.750 |     0 |  0,44% 
+ 56 | Jens Alterau     |              18 |  35.107 |     0 |  0,44% 
+ 57 | Ehczdoigevqtd       |              18 |  31.561 |     0 |  0,44% 
+ 58 | K.Oberschmidt           |              18 |  31.516 |     0 |  0,44% 
+ 59 | Feßel            |              17 | 107.148 |    13 |  0,41% 
+ 60 | Niels Denzler       |              17 |  30.736 |     4 |  0,41% 
+ 61 | Ralph               |              17 |  25.743 |     3 |  0,41% 
+ 62 | Ivan Duncklenberg      |              17 |  23.562 |     2 |  0,41% 
+ 63 | Heinz Föcker      |              17 |  47.959 |     0 |  0,41% 
+ 64 | Roman              |              17 |  31.325 |     0 |  0,41% 
+
+ 66 | Urs Althofen       |              17 |  26.305 |     0 |  0,41% 
+ 67 | Heiner Kaspar         |              16 |  57.849 |     9 |  0,39% 
+ 68 | Mike Aevermann       |              16 |  25.381 |     2 |  0,39% 
+ 69 | Jonas Dirlewanger     |              16 |  37.409 |     1 |  0,39% 
+ 70 | Sebastian Aichmeier      |              15 |  38.532 |     0 |  0,36% 
+ 71 | Reginald Imfeld ... |              15 |  35.152 |     0 |  0,36% 
+ 72 | Roman Fessel         |              15 |  28.439 |     0 |  0,36% 
+ 73 | Cornelius                |              14 |  36.882 |     8 |  0,34% 
+ 74 | Italo Davids             |              14 |  84.829 |     7 |  0,34% 
+ 75 | Albert westra I ... |              14 |  49.914 |     0 |  0,34% 
+ 76 | Massimo Mertgen          |              14 |  20.141 |     0 |  0,34% 
+ 77 | Horst Schwietz        |              13 |  29.649 |     3 |  0,32% 
+ 78 | Niels Ahrndt          |              13 |  28.197 |     0 |  0,32% 
+ 79 | Erich J            |              13 |  20.088 |     0 |  0,32% 
+ 80 | G. Unruh          |              12 |  24.797 |     5 |  0,29% 
+ 81 | Oliver Kutschbauch        |              12 |  23.629 |     2 |  0,29% 
+ 82 | Cornelius Voogt        |              12 |  45.479 |     0 |  0,29% 
+ 83 | Mark L         |              12 |  24.821 |     0 |  0,29% 
+ 84 | Ingolf Johnsson          |              12 |  23.550 |     0 |  0,29% 
+ 85 | Klaas Fäßle         |              12 |  17.966 |     0 |  0,29% 
+ 86 | roman                 |              12 |  17.173 |     0 |  0,29% 
+ 87 | Siegfried Arenz       |              11 |  32.362 |     4 |  0,27% 
+ 88 | Deborah Nebendahl         |              11 |  15.609 |     2 |  0,27% 
+ 89 | Urban Schrammek       |              11 |  41.525 |     0 |  0,27% 
+ 90 | Raymond Carmanns       |              11 |  27.885 |     0 |  0,27% 
+ 91 | Fscctjtqcothmar ... |              11 |  20.275 |     0 |  0,27% 
+ 92 | fztEzdfe            |              11 |  15.225 |     0 |  0,27% 
+ 93 | N. Wappenschmitt      |              10 |  22.574 |     6 |  0,24% 
+ 94 | Cornelius Averhage        |              10 |  13.521 |     3 |  0,24% 
+ 95 | Niels Raymond          |              10 |  15.016 |     1 |  0,24% 
+ 96 | Albert Ihno ... |              10 |  30.004 |     0 |  0,24% 
+ 97 | Maximilian Ingenhoven        |              10 |  20.995 |     0 |  0,24% 
+ 98 | konrad allerman         |              10 |  12.021 |     0 |  0,24% 
+ 99 | Karsten Ostsieker       |               9 |  11.307 |     2 |  0,22% 
+100 | Rupert Ahland          |               9 |  24.223 |     0 |  0,22% 
+
+
+***** Wer hat die meisten Diskussionen gestartet ? *****
+ ...| Name                | Disk. | Anzahl Beiträge | Größe   | %
+----|---------------------|-------|-----------------|---------|--------|
+  1 | Ingmar Bergrath      |    39 |              63 | 311.630 | 11,85% 
+  2 | Paul Biebighäuser    |    26 |              92 | 143.264 |  7,90% 
+  3 | Siebelt Maysner           |    20 |              93 | 186.326 |  6,08% 
+  4 | Abaxkmbs            |    13 |              17 | 107.148 |  3,95% 
+  5 | Italo Jopp      |    10 |              96 | 182.195 |  3,04% 
+  6 | Engelbert         |    10 |              48 | 136.414 |  3,04% 
+  7 | Heiner Kaspar         |     9 |              16 |  57.849 |  2,74% 
+  8 | CAMPHAUSEN 130       |     8 |              33 |  68.500 |  2,43% 
+  9 | francesco             |     8 |              20 |  45.580 |  2,43% 
+ 10 | Cornelius                |     8 |              14 |  36.882 |  2,43% 
+ 11 | Alexandre Finnenkötter        |     7 |              36 |  81.490 |  2,13% 
+ 12 | Italo Davids             |     7 |              14 |  84.829 |  2,13% 
+ 13 | D. Wappenschmitt      |     6 |              10 |  22.574 |  1,82% 
+ 14 | JjxjjNkfzt          |     5 |              20 |  40.088 |  1,52% 
+ 15 | G. Unruh          |     5 |              12 |  24.797 |  1,52% 
+ 16 | Maik              |     5 |               7 |  14.236 |  1,52% 
+ 17 | Francis Oßenbrügge         |     5 |               6 |   7.084 |  1,52% 
+ 18 | Rudolf           |     5 |               5 |  10.218 |  1,52% 
+ 19 | Niels Denzler       |     4 |              17 |  30.736 |  1,22% 
+ 20 | Siegfried Arenz       |     4 |              11 |  32.362 |  1,22% 
+ 21 | Johann Dengs |     4 |               7 |  11.084 |  1,22% 
+ 22 | Kraushaar           |     4 |               5 |   9.810 |  1,22% 
+ 23 | Niels Thielcke          |     3 |              60 | 107.283 |  0,91% 
+ 24 | Veit Tannenberger       |     3 |              22 |  35.533 |  0,91% 
+ 25 | Ralph               |     3 |              17 |  25.743 |  0,91% 
+ 26 | Horst Schwietz        |     3 |              13 |  29.649 |  0,91% 
+ 27 | Cornelius Averhage        |     3 |              10 |  13.521 |  0,91% 
+ 28 | Karlheinz Jakobfeuerborn,St ... |     3 |               7 |  11.218 |  0,91% 
+ 29 | Ldnjufclwsn         |     3 |               4 |   6.692 |  0,91% 
+ 30 | Alberto Froh       |     3 |               3 |   3.875 |  0,91% 
+ 31 | Theodor Feuchtner |     2 |              64 | 110.410 |  0,61% 
+ 32 | starless&bibleblack |     2 |              32 |  63.715 |  0,61% 
+ 33 | Horst C. Türcke   |     2 |              31 |  82.154 |  0,61% 
+ 34 | Tom Oehrl      |     2 |              20 |  46.605 |  0,61% 
+ 35 | Ivan Duncklenberg      |     2 |              17 |  23.562 |  0,61% 
+ 36 | Mike Aevermann       |     2 |              16 |  25.381 |  0,61% 
+ 37 | Oliver Kutschbauch        |     2 |              12 |  23.629 |  0,61% 
+ 38 | Deborah Nebendahl         |     2 |              11 |  15.609 |  0,61% 
+ 39 | Karsten Ostsieker       |     2 |               9 |  11.307 |  0,61% 
+ 40 | Bruno               |     2 |               7 |  21.732 |  0,61% 
+ 41 | Italo Freyschmidt           |     2 |               6 |   9.459 |  0,61% 
+ 42 | Cornelius Claß         |     2 |               5 |  15.365 |  0,61% 
+ 43 | Raymond Meinholz         |     2 |               5 |  10.128 |  0,61% 
+ 44 | Giorgio Aufdermauer |     2 |               5 |   9.048 |  0,61% 
+ 45 | François Cremerius       |     2 |               4 |   6.183 |  0,61% 
+ 46 | Max Leon         |     2 |               2 |   6.962 |  0,61% 
+ 47 | Leo               |     2 |               2 |   6.269 |  0,61% 
+ 48 | Eyckmann Amborn     |     2 |               2 |   5.312 |  0,61% 
+ 49 | Serge R.           |     2 |               2 |   5.194 |  0,61% 
+ 50 | thunderhand         |     2 |               2 |   3.039 |  0,61% 
+ 51 | Heiliger Bibelt ... |     2 |               2 |   2.913 |  0,61% 
+ 52 | UkjraOskar        |     2 |               2 |   2.898 |  0,61% 
+ 53 | AnniOlaf   |     2 |               2 |   1.977 |  0,61% 
+ 54 | cornelius zum-bruch      |     1 |             291 | 536.254 |  0,30% 
+ 55 | neoDeppen-Hunter    |     1 |             143 | 270.845 |  0,30% 
+ 56 | Raymond Dulweber        |     1 |              81 | 165.139 |  0,30% 
+ 57 | Luca Osenbrück   |     1 |              44 | 168.129 |  0,30% 
+ 58 | Georg                |     1 |              42 | 176.827 |  0,30% 
+ 59 | Ingo Juran         |     1 |              38 |  97.133 |  0,30% 
+ 60 | Luca Termohlen        |     1 |              21 |  42.289 |  0,30% 
+ 61 | Stephan Cleve       |     1 |              19 |  58.832 |  0,30% 
+ 62 | Ullrich Giersiepen      |     1 |              18 |  30.574 |  0,30% 
+ 63 | Jonas Dirlewanger     |     1 |              16 |  37.409 |  0,30% 
+ 64 | Niels Raymond          |     1 |              10 |  15.016 |  0,30% 
+ 65 | Libero              |     1 |               8 |  15.053 |  0,30% 
+ 66 | Reginald Notarp     |     1 |               7 |  13.865 |  0,30% 
+ 67 | Ober Brutsch          |     1 |               7 |   9.286 |  0,30% 
+ 68 | oliver kay       |     1 |               6 |  12.684 |  0,30% 
+ 69 | Thorsten Mühleisen         |     1 |               6 |  12.164 |  0,30% 
+ 70 | Jonas Czech      |     1 |               4 |  13.635 |  0,30% 
+ 71 | Vonau              |     1 |               4 |   8.906 |  0,30% 
+ 72 | René Rudloph      |     1 |               4 |   7.532 |  0,30% 
+ 73 | Kay Forwig       |     1 |               4 |   6.489 |  0,30% 
+ 74 | Ingmar Oliver FAQ  |     1 |               3 |  36.915 |  0,30% 
+ 75 | John Ohr      |     1 |               3 |   4.631 |  0,30% 
+ 76 | Italo Nöltner       |     1 |               2 |  14.550 |  0,30% 
+ 77 | b.qtvcn@zjydy.pw    |     1 |               2 |   2.800 |  0,30% 
+ 78 | Tofu Sammler        |     1 |               2 |   2.480 |  0,30% 
+ 79 | Das Emanuel-Bosa ... |     1 |               1 |  13.126 |  0,30% 
+ 80 | Hinweis fuer Ne ... |     1 |               1 |   8.151 |  0,30% 
+ 81 | Ronald Meißener        |     1 |               1 |   6.423 |  0,30% 
+ 82 | Serge              |     1 |               1 |   3.539 |  0,30% 
+ 83 | Österreiches Fr ... |     1 |               1 |   2.802 |  0,30% 
+ 84 | Franziska Owerdieck        |     1 |               1 |   2.632 |  0,30% 
+ 85 | Ich weis Bescheid   |     1 |               1 |   2.604 |  0,30% 
+ 86 | ulrich analeo         |     1 |               1 |   2.518 |  0,30% 
+ 87 | fabienne cleef      |     1 |               1 |   2.438 |  0,30% 
+ 88 | Ipsacher VAU |     1 |               1 |   2.198 |  0,30% 
+ 89 | Othmar Eulenspiegel   |     1 |               1 |   2.193 |  0,30% 
+ 90 | Ralph               |     1 |               1 |   1.930 |  0,30% 
+ 91 | Aussteiger          |     1 |               1 |   1.918 |  0,30% 
+ 92 | Steffen Harry          |     1 |               1 |   1.608 |  0,30% 
+ 93 | Theodor Cassebohm    |     1 |               1 |   1.571 |  0,30% 
+ 94 | Reinhold Züllighofen         |     1 |               1 |   1.331 |  0,30% 
+ 95 | Karlheinz Knipper        |     1 |               1 |   1.328 |  0,30% 
+ 96 | cc1                 |     1 |               1 |   1.308 |  0,30% 
+ 97 | Oliver Juergen      |     1 |               1 |   1.207 |  0,30% 
+ 98 | Finalmente, est ... |     1 |               1 |   1.156 |  0,30% 
+ 99 | Ferschel      |     1 |               1 |     888 |  0,30% 
+100 | Cortsen  |     1 |               1 |     818 |  0,30% 
+
+
+****** Wer hat die längsten Beiträge geschrieben ? *****
+ ...| Name                | Größe   | Anzahl Beiträge | Disk. | %
+----|---------------------|---------|-----------------|-------|--------|
+  1 | cornelius zum-bruch      | 536.254 |             291 |     1 |  5,42% 
+  2 | Edo Theodor Schober | 363.647 |             133 |     0 |  3,67% 
+  3 | Gisèle Holtorff        | 323.244 |             111 |     0 |  3,27% 
+  4 | Ingmar Bergrath      | 311.630 |              63 |    39 |  3,15% 
+  5 | Km. Tobias             | 298.407 |              95 |     0 |  3,02% 
+  6 | oulTtdvjpOscar    | 270.845 |             143 |     1 |  2,74% 
+  7 | nick clewe     | 265.839 |             119 |     0 |  2,69% 
+  8 | Horst Trauvetter        | 261.394 |              65 |     0 |  2,64% 
+  9 | Adolf             | 197.624 |              47 |     0 |  2,00% 
+ 10 | Siebelt Maysner           | 186.326 |              93 |    20 |  1,88% 
+ 11 | Italo Jopp      | 182.195 |              96 |    10 |  1,84% 
+ 12 | Ingolf . K u s m  ... | 181.585 |              74 |     0 |  1,83% 
+ 13 | Emanuel Altenburger        | 180.997 |              61 |     0 |  1,83% 
+ 14 | Luca "Unsorg ... | 180.807 |              68 |     0 |  1,83% 
+ 15 | Georg                | 176.827 |              42 |     1 |  1,79% 
+ 16 | Luca Osenbrück   | 168.129 |              44 |     1 |  1,70% 
+ 17 | Raymond Dulweber        | 165.139 |              81 |     1 |  1,67% 
+ 18 | Raphaël Darscheid     | 150.987 |              54 |     0 |  1,53% 
+ 19 | Paul Biebighäuser    | 143.264 |              92 |    26 |  1,45% 
+ 20 | Der Habakuk         | 136.414 |              48 |    10 |  1,38% 
+ 21 | Theodor Cristensen   | 133.776 |              50 |     0 |  1,35% 
+ 22 | Bruno                | 133.681 |              40 |     0 |  1,35% 
+ 23 | Roman Mörs ... | 16. 07. 21 |              33 |     0 |  1,31% 
+ 24 | TrscqjCgdrn         | 16. 07. 21 |              44 |     0 |  1,14% 
+ 25 | Theodor Feuchtner | 16. 07. 21 |              64 |     2 |  1,12% 
+ 26 | Niels Thielcke          | 16. 07. 21 |              60 |     3 |  1,08% 
+ 27 | Nils            | 16. 07. 21 |              17 |    13 |  1,08% 
+ 28 | Ingo Juran         |  97.133 |              38 |     1 |  0,98% 
+ 29 | Pasquale Aichelin  |  90.700 |              42 |     0 |  0,92% 
+ 30 | Karlheinz K Ueberholz        |  89.943 |              36 |     0 |  0,91% 
+ 31 | Italo Davids             |  84.829 |              14 |     7 |  0,86% 
+ 32 | Horst C. Türcke   |  82.154 |              31 |     2 |  0,83% 
+ 33 | Alexandre Finnenkötter        |  81.490 |              36 |     7 |  0,82% 
+ 34 | Fabian Miggelbrink     |  77.583 |              42 |     0 |  0,78% 
+ 35 | Kurt Unverhaun       |  76.287 |              29 |     0 |  0,77% 
+ 36 | Mike Aschbichler        |  73.274 |              29 |     0 |  0,74% 
+ 37 | Heide Camphausen     |  71.274 |              26 |     0 |  0,72% 
+ 38 | CAMPHAUSEN 130       |  68.500 |              33 |     8 |  0,69% 
+ 39 | apwng               |  68.139 |              29 |     0 |  0,69% 
+ 40 | starless&bibleblack |  63.715 |              32 |     2 |  0,64% 
+ 41 | Zehetleitner               |  61.167 |              23 |     0 |  0,62% 
+ 42 | Focko Oßenbrügge          |  59.555 |              27 |     0 |  0,60% 
+ 43 | Stephan Cleve       |  58.832 |              19 |     1 |  0,59% 
+ 44 | Helmuth         |  57.849 |              16 |     9 |  0,58% 
+ 45 | Francis Czerner        |  55.044 |              29 |     0 |  0,56% 
+ 46 | Leon Haltermann       |  52.889 |              27 |     0 |  0,53% 
+ 47 | Albert Wiener ... |  49.914 |              14 |     0 |  0,50% 
+ 48 | Heinz Föcker      |  47.959 |              17 |     0 |  0,48% 
+ 49 | Veit Isenesee      |  46.829 |              19 |     0 |  0,47% 
+ 50 | ybgecbdns@u-aqs ... |  46.749 |              18 |     0 |  0,47% 
+ 51 | Tom Oehrl      |  46.605 |              20 |     2 |  0,47% 
+ 52 | francesco             |  45.580 |              20 |     8 |  0,46% 
+ 53 | Cornelius Voogt        |  45.479 |              12 |     0 |  0,46% 
+ 54 | Willi Dilge      |  44.750 |              18 |     0 |  0,45% 
+ 55 | Oliver Denkena        |  43.159 |               7 |     0 |  0,44% 
+ 56 | Luca Termohlen        |  42.289 |              21 |     1 |  0,43% 
+ 57 | Rupert                |  42.013 |              21 |     0 |  0,42% 
+ 58 | Urban Schrammek       |  41.525 |              11 |     0 |  0,42% 
+ 59 | JjxjjNkfzt          |  40.088 |              20 |     5 |  0,41% 
+ 60 | Florian Witthoefft        |  39.310 |              23 |     0 |  0,40% 
+ 61 | Julian Clasen  |  38.608 |              19 |     0 |  0,39% 
+ 62 | Sebastian Aichmeier      |  38.532 |              15 |     0 |  0,39% 
+ 63 | Jonas Dirlewanger     |  37.409 |              16 |     1 |  0,38% 
+ 64 | Ingmar Oliver FAQ  |  36.915 |               3 |     1 |  0,37% 
+ 65 | Cornelius                |  36.882 |              14 |     8 |  0,37% 
+ 66 | Veit Tannenberger       |  35.533 |              22 |     3 |  0,36% 
+ 67 | Reginald Imfeld ... |  35.152 |              15 |     0 |  0,36% 
+ 68 | Jens Alterau     |  35.107 |              18 |     0 |  0,35% 
+ 69 | Siegfried Arenz       |  32.362 |              11 |     4 |  0,33% 
+ 70 | Ehczdoigevqtd       |  31.561 |              18 |     0 |  0,32% 
+ 71 | K.Oberschmidt           |  31.516 |              18 |     0 |  0,32% 
+ 72 | Roman              |  31.325 |              17 |     0 |  0,32% 
+ 73 | Niels Denzler       |  30.736 |              17 |     4 |  0,31% 
+ 74 | Ullrich Giersiepen      |  30.574 |              18 |     1 |  0,31% 
+ 75 | Albert Jongen ... |  30.004 |              10 |     0 |  0,30% 
+ 76 | Horst Schwietz        |  29.649 |              13 |     3 |  0,30% 
+ 77 | Roman Fessel         |  28.439 |              15 |     0 |  0,29% 
+ 78 | Niels Ahrndt          |  28.197 |              13 |     0 |  0,28% 
+ 79 | Günther Wellbrink        |  28.007 |               8 |     0 |  0,28% 
+ 80 | Raymond Carmanns       |  27.885 |              11 |     0 |  0,28% 
+
+ 82 | Urs Althofen       |  26.305 |              17 |     0 |  0,27% 
+ 83 | Ralph               |  25.743 |              17 |     3 |  0,26% 
+ 84 | Mike Aevermann       |  25.381 |              16 |     2 |  0,26% 
+ 85 | Mark M         |  24.821 |              12 |     0 |  0,25% 
+ 86 | G. Unruh          |  24.797 |              12 |     5 |  0,25% 
+ 87 | Rupert Ahland          |  24.223 |               9 |     0 |  0,24% 
+ 88 | Oliver Kutschbauch        |  23.629 |              12 |     2 |  0,24% 
+ 89 | Ivan Duncklenberg      |  23.562 |              17 |     2 |  0,24% 
+ 90 | Ingolf Johnsson          |  23.550 |              12 |     0 |  0,24% 
+ 91 | fairer dauerhaf ... |  22.772 |               5 |     0 |  0,23% 
+ 92 | D. Wappenschmitt      |  22.574 |              10 |     6 |  0,23% 
+ 93 | Georges Czerny        |  22.118 |               8 |     0 |  0,22% 
+ 94 | Bruno               |  21.732 |               7 |     2 |  0,22% 
+ 95 | Wilhelm Blömer          |  20.996 |               6 |     0 |  0,21% 
+ 96 | Maximilian Ingenhoven        |  20.995 |              10 |     0 |  0,21% 
+ 97 | Fscctjtqcothmar ... |  20.275 |              11 |     0 |  0,20% 
+ 98 | Massimo Mertgen          |  20.141 |              14 |     0 |  0,20% 
+ 99 | Erich J            |  20.088 |              13 |     0 |  0,20% 
+100 | Peter Orth    |  19.726 |               9 |     0 |  0,20% 
+
+
+**** Wann wurden die meisten Beiträge geschrieben ? ****
+ ...| Datum      | Anzahl Beiträge | Größe   | Disk. | %
+----|------------|-----------------|---------|-------|--------|
+  1 | 21.11.2009 |             253 | 635.141 |    12 |  6,15% |
+  2 | 27.10.2009 |             247 | 634.052 |    12 |  6,00% |
+  3 | 20.11.2009 |             200 | 461.404 |    12 |  4,86% |
+  4 | 24.10.2009 |             187 | 500.656 |    20 |  4,54% |
+  5 | 26.10.2009 |             167 | 434.439 |     8 |  4,06% |
+  6 | 04.11.2009 |             160 | 428.735 |    14 |  3,89% |
+  7 | 28.10.2009 |             160 | 379.896 |     7 |  3,89% |
+  8 | 31.10.2009 |             155 | 367.230 |    10 |  3,77% |
+  9 | 02.11.2009 |             154 | 384.418 |    12 |  3,74% |
+ 10 | 25.10.2009 |             146 | 400.619 |    11 |  3,55% |
+ 11 | 06.11.2009 |             144 | 355.240 |    16 |  3,50% |
+ 12 | 22.10.2009 |             140 | 334.274 |     7 |  3,40% |
+ 13 | 08.11.2009 |             139 | 323.652 |    12 |  3,38% |
+ 14 | 15.11.2009 |             139 | 291.743 |    11 |  3,38% |
+ 15 | 03.11.2009 |             135 | 291.142 |    10 |  3,28% |
+ 16 | 19.11.2009 |             133 | 293.895 |    14 |  3,23% |
+ 17 | 07.11.2009 |             129 | 285.465 |    12 |  3,13% |
+ 18 | 10.11.2009 |             124 | 258.299 |    14 |  3,01% |
+ 19 | 29.10.2009 |             121 | 282.332 |     9 |  2,94% |
+ 20 | 23.10.2009 |             118 | 299.598 |    12 |  2,87% |
+ 21 | 05.11.2009 |             106 | 242.281 |     9 |  2,58% |
+ 22 | 01.11.2009 |             105 | 257.418 |    10 |  2,55% |
+ 23 | 30.10.2009 |              99 | 235.635 |     6 |  2,41% |
+ 24 | 14.11.2009 |              95 | 215.026 |    15 |  2,31% |
+ 25 | 16.11.2009 |              85 | 182.297 |     5 |  2,07% |
+ 26 | 13.11.2009 |              84 | 195.702 |     6 |  2,04% |
+ 27 | 11.11.2009 |              83 | 177.918 |     8 |  2,02% |
+ 28 | 18.11.2009 |              81 | 222.219 |    10 |  1,97% |
+ 29 | 12.11.2009 |              81 | 194.459 |     7 |  1,97% |
+ 30 | 09.11.2009 |              75 | 181.876 |    12 |  1,82% |
+ 31 | 17.11.2009 |              70 | 150.213 |     6 |  1,70% |
+----|------------|-----------------|---------|-------|--------|
+
+
+********* Diskussion mit den meisten Beiträgen *********
+ ...| Titel               | Anzahl Beiträge | Größe   | Disk. | %
+----|---------------------|-----------------|---------|-------|--------|
+  1 | MR-Ware empfiehlt ... |             207 | 695.893 |     0 |  5,03% 
+  2 | "Schwarz-Gelb"  ... |             137 | 381.274 |     1 |  3,33% 
+  3 | Tonner ver ... |             128 | 334.063 |     1 |  3,11% 
+  4 | Das Märchen vom ... |             122 | 429.751 |     1 |  2,96% 
+  5 | Alle AKW sollen ... |             115 | 280.508 |     1 |  2,79% 
+  6 | Wir brauchen ei ... |             105 | 321.697 |     1 |  2,55% 
+  7 | GZJV-Streetvi ... |              95 | 202.639 |     1 |  2,31% 
+  8 | Eilmeldung: Uns ... |              82 | 212.220 |     1 |  1,99% 
+  9 | Dumme EU-Schafe ... |              67 | 166.163 |     1 |  1,63% 
+ 10 | Re: update zu S ... |              66 | 170.406 |     1 |  1,60% 
+ 11 | Pranger 2.0 für ... |              64 | 139.545 |     1 |  1,56% 
+ 12 | Re: 30/1 nicht  ... |              62 | 128.481 |     1 |  1,51% 
+ 13 | Ab 2011 Kriege  ... |              58 | 152.333 |     1 |  1,41% 
+ 14 | Diddens offene  ... |              54 | 137.796 |     1 |  1,31% 
+ 15 | Schrott-Regierung   |              51 |  91.824 |     1 |  1,24% 
+ 16 | Wenn so der Auf ... |              50 | 124.435 |     1 |  1,22% 
+ 17 | Goldregistrieru ... |              45 | 108.103 |     0 |  1,09% 
+ 18 | Strom wird durc ... |              43 | 100.327 |     1 |  1,04% 
+ 19 | Atomkonzerne st ... |              42 |  95.923 |     1 |  1,02% 
+ 20 | Sichtweise will die ... |              42 |  83.052 |     1 |  1,02% 
+ 21 | Atomlobby will  ... |              40 | 100.513 |     1 |  0,97% 
+ 22 | Luxus-Linker Er ... |              40 |  76.373 |     1 |  0,97% 
+ 23 | Wir sind Billig     |              38 | 102.019 |     1 |  0,92% 
+ 24 | wer zahlt die S ... |              38 |  93.016 |     1 |  0,92% 
+ 25 | Unsere Zukunft.     |              38 |  76.868 |     1 |  0,92% 
+ 26 | Cloth & Rass ... |              34 |  56.895 |     1 |  0,83% 
+ 27 | Noch mehr Milli ... |              34 | 169.528 |     0 |  0,83% 
+ 28 | Vertrauen auf " ... |              32 |  86.072 |     1 |  0,78% 
+ 29 | Die kranke Oana ... |              31 |  66.098 |     1 |  0,75% 
+ 30 | Neoliberale (EU ... |              31 |  59.287 |     1 |  0,75% 
+ 31 | "Gay Games" in  ... |              31 | 101.539 |     0 |  0,75% 
+ 32 | Sozialsysteme m ... |              30 |  49.902 |     0 |  0,73% 
+ 33 | 49 Jahre wäre s ... |              29 |  53.384 |     1 |  0,70% 
+ 34 | Rentengarantie!     |              29 |  53.138 |     1 |  0,70% 
+ 35 | (#7) Aufruf zum ... |              28 |  66.742 |     1 |  0,68% 
+ 36 | Chwalisz neues ... |              27 |  69.101 |     1 |  0,66% 
+ 37 | Das ist der Gip ... |              26 |  61.488 |     1 |  0,63% 
+ 38 | Ein Genosse sah ... |              26 |  43.821 |     1 |  0,63% 
+ 39 | Warum die Deuts ... |              25 |  55.634 |     1 |  0,61% 
+ 40 | G.u.T.: Warnung ... |              24 |  64.492 |     1 |  0,58% 
+ 41 | Unternehmer: De ... |              24 |  45.283 |     1 |  0,58% 
+ 42 | Warum sind wir  ... |              23 |  51.971 |     1 |  0,56% 
+ 43 | Deutsche Millia ... |              23 |  51.817 |     1 |  0,56% 
+ 44 | Hollywood berei ... |              23 |  44.219 |     1 |  0,56% 
+ 45 | Meinungsmache d ... |              22 |  56.983 |     1 |  0,53% 
+ 46 | 52% aller Deuts ... |              22 |  47.270 |     1 |  0,53% 
+ 47 | Re: Atomlobby w ... |              21 |  58.056 |     1 |  0,51% 
+ 48 | Empörung in Ita ... |              21 |  51.093 |     1 |  0,51% 
+ 49 | http://flh.kvyu ... |              21 |  49.332 |     1 |  0,51% 
+ 50 | Gunter 2.0           |              20 |  42.246 |     1 |  0,49% 
+ 51 | G.u.T.: Neues,  ... |              19 |  44.358 |     1 |  0,46% 
+ 52 | G.u.T.: Serie s ... |              19 |  42.548 |     1 |  0,46% 
+ 53 | Ohlhoff entgleit ... |              19 |  38.897 |     1 |  0,46% 
+ 54 | Gelachic in Zizenhausen ... |              19 |  32.987 |     1 |  0,46% 
+ 55 | G.u.T.: Mesenbrink ... |              18 |  53.922 |     1 |  0,44% 
+ 56 | G.u.T.: Die Sch ... |              18 |  50.056 |     1 |  0,44% 
+ 57 | Immer neue Lüge ... |              18 |  35.487 |     1 |  0,44% 
+ 58 | G.u.T.: Zu: G.u ... |              18 |  34.079 |     1 |  0,44% 
+ 59 | Vorbildlich! -  ... |              17 |  37.086 |     1 |  0,41% 
+ 60 | Die SED-Deppen  ... |              17 |  29.910 |     1 |  0,41% 
+ 61 | Bulgarien: Beli ... |              16 |  54.026 |     1 |  0,39% 
+ 62 | (#9) Aufruf zum ... |              16 |  50.659 |     1 |  0,39% 
+ 63 | Arbeiter erschi ... |              16 |  38.588 |     1 |  0,39% 
+ 64 | EU-Hilfsgüter:  ... |              16 |  38.515 |     1 |  0,39% 
+ 65 | Warum Bundesmit ... |              16 |  38.335 |     1 |  0,39% 
+ 66 | Cartman: Bitte  ... |              16 |  37.181 |     1 |  0,39% 
+ 67 | Luzia Eckleder ... |              16 |  30.750 |     1 |  0,39% 
+ 68 | Warnschuss          |              16 |  28.545 |     1 |  0,39% 
+ 69 | Reisefreiheit:  ... |              15 |  32.280 |     1 |  0,36% 
+ 70 | Wieso sind Kill ... |              15 |  27.807 |     1 |  0,36% 
+ 71 | Die Wirtschaft  ... |              15 |  24.882 |     1 |  0,36% 
+ 72 | G.u.T.: Warnung ... |              15 |  23.478 |     1 |  0,36% 
+ 73 | verschenke Tofu ... |              15 |  20.573 |     1 |  0,36% 
+ 74 | Deutsche Touris ... |              14 |  25.220 |     1 |  0,34% 
+ 75 | G.u.T.: Warnung ... |              14 |  20.299 |     1 |  0,34% 
+ 76 | Altheiner will d ... |              14 |  48.825 |     0 |  0,34% 
+ 77 | Im Lucky I Was ... |              14 |  37.960 |     0 |  0,34% 
+ 78 | Beschönigende B ... |              13 |  30.062 |     1 |  0,32% 
+ 79 | Virtuelle Strei ... |              13 |  29.804 |     1 |  0,32% 
+ 80 | Keine Spenden f ... |              13 |  29.109 |     1 |  0,32% 
+ 81 | Das deutsche Wu ... |              13 |  27.434 |     1 |  0,32% 
+ 82 | GZJV ist der  ... |              13 |  26.644 |     1 |  0,32% 
+ 83 | Helfen Sie Shiv ... |              13 |  25.894 |     1 |  0,32% 
+ 84 | Die Generation  ... |              13 |  24.102 |     1 |  0,32% 
+ 85 | Albertini und Ac ... |              13 |  21.366 |     1 |  0,32% 
+ 86 | also ein Fernse ... |              13 |  20.638 |     1 |  0,32% 
+ 87 | Altheiner will B ... |              13 |  23.614 |     0 |  0,32% 
+ 88 | Die Thesen des  ... |              12 |  26.203 |     1 |  0,29% 
+ 89 | Iran baut zweit ... |              12 |  25.505 |     1 |  0,29% 
+ 90 | Ich bekomme den ... |              12 |  24.284 |     1 |  0,29% 
+ 91 | Israel gehört d ... |              12 |  22.817 |     1 |  0,29% 
+ 92 | Gotzler: Bunde ... |              12 |  21.987 |     1 |  0,29% 
+ 93 | Stuttgart 21        |              12 |  20.334 |     1 |  0,29% 
+ 94 | Wedel-Inside: S ... |              12 |  19.666 |     1 |  0,29% 
+ 95 | Tragt mehr Vera ... |              12 |  34.690 |     0 |  0,29% 
+ 96 | (#11) Aufruf zu ... |              11 |  41.068 |     1 |  0,27% 
+ 97 | Grundrechte-Ver ... |              11 |  23.646 |     1 |  0,27% 
+ 98 | [Wir klaeren Be ... |              11 |  19.873 |     1 |  0,27% 
+ 99 | Greenpace go home!  |              11 |  17.150 |     1 |  0,27% 
+100 | Arabische Staat ... |              10 |  39.758 |     1 |  0,24% 
+
+
+******* Die am häufigsten verwendeten Newsreader *******
+***** inklusiver unterschiedlicher Versionsnummern *****
+Gesamtzahl der Beiträge für die Berechnung : 3568
+ ...| Newsreader        | Anzahl Beiträge | Größe     | Disk. | %
+----|-------------------|-----------------|-----------|-------|--------|
+  1 | G2/1.0            |             477 | 1.409.369 |    63 | 13,37% 
+  2 | 40tude_Dialog ... |             312 |   713.415 |     4 |  8,74% 
+  3 | Microsoft Win ... |             255 |   477.872 |     1 |  7,15% 
+  4 | Microsoft Out ... |             193 |   326.730 |    16 |  5,41% 
+  5 | Mozilla/5.0 ( ... |             174 |   371.626 |    25 |  4,88% 
+  6 | Xnews/5.04.25     |             172 |   412.300 |    14 |  4,82% 
+  7 | Microsoft Out ... |             113 |   207.451 |     2 |  3,17% 
+  8 | Mozilla/5.0 ( ... |             102 |   270.855 |     0 |  2,86% 
+  9 | Andere            |             100 |   254.425 |     2 |  2,80% 
+ 10 | Forte Agent 2 ... |              88 |   176.471 |    17 |  2,47% 
+ 11 | Mozilla/5.0 ( ... |              70 |   136.004 |     0 |  1,96% 
+ 12 | Mozilla 4.75  ... |              68 |   166.592 |     0 |  1,91% 
+ 13 | Mozilla/5.0 ( ... |              61 |   115.881 |     6 |  1,71% 
+ 14 | MacSOUP/D-2.7 ... |              46 |   130.485 |     9 |  1,29% 
+ 15 | Mozilla/5.0 ( ... |              45 |   122.032 |     0 |  1,26% 
+ 16 | Microsoft Out ... |              41 |    79.362 |     5 |  1,15% 
+ 17 | Mozilla/5.0 ( ... |              41 |   103.818 |     0 |  1,15% 
+ 18 | 40tude_Dialog ... |              38 |    68.835 |     0 |  1,07% 
+ 19 | KNode/4.4.5       |              36 |    73.589 |     0 |  1,01% 
+ 20 | FreeXP (Cross ... |              34 |   128.296 |     1 |  0,95% 
+ 21 | Unison/2.0.4      |              33 |    68.500 |     8 |  0,92% 
+ 22 | MacSOUP/D-2.8 ... |              31 |    56.731 |    12 |  0,87% 
+ 23 | Mozilla/5.0 ( ... |              31 |   121.532 |     0 |  0,87% 
+ 24 | Mozilla/5.0 ( ... |              29 |    76.287 |     0 |  0,81% 
+ 25 | Mozilla/5.0 ( ... |              29 |    56.085 |     0 |  0,81% 
+ 26 | Xnews/16. 07. 21 ... |              28 |    74.408 |     2 |  0,78% 
+ 27 | Mozilla/5.0 ( ... |              27 |    89.028 |     1 |  0,76% 
+ 28 | Forte Agent 6 ... |              27 |    58.126 |     0 |  0,76% 
+ 29 | Mozilla/5.0 ( ... |              26 |    64.205 |     0 |  0,73% 
+ 30 | Mozilla/5.0 ( ... |              25 |    74.543 |     0 |  0,70% 
+ 31 | Mozilla/5.0 ( ... |              25 |    67.344 |     0 |  0,70% 
+ 32 | Ogeh/1.08. ... |              24 |   120.439 |    12 |  0,67% 
+ 33 | KNode/0.10.9      |              24 |    38.901 |     3 |  0,67% 
+ 34 | Mozilla 4.77  ... |              24 |    63.818 |     0 |  0,67% 
+ 35 | Aeiggbeikm.hr ... |              24 |    59.397 |     0 |  0,67% 
+ 36 | Forte Agent 5 ... |              23 |    59.363 |     1 |  0,64% 
+ 37 | Erug/24.11.22    |              22 |    33.272 |     6 |  0,62% 
+ 38 | Mozilla/5.0 ( ... |              22 |    38.812 |     3 |  0,62% 
+ 39 | Forte Agent 1 ... |              22 |    63.332 |     0 |  0,62% 
+ 40 | Mozilla/5.0 ( ... |              21 |    42.013 |     0 |  0,59% 
+ 41 | Mozilla/5.0 ( ... |              20 |    30.520 |     4 |  0,56% 
+ 42 | Mozilla/5.0 ( ... |              20 |    47.588 |     0 |  0,56% 
+ 43 | Mozilla/5.0 ( ... |              19 |   148.973 |     9 |  0,53% 
+ 44 | Mozilla/5.0 ( ... |              19 |    88.664 |     5 |  0,53% 
+ 45 | KNode/0.10.4      |              19 |    34.847 |     5 |  0,53% 
+ 46 | Pan/0.133 (Ho ... |              18 |    40.892 |     0 |  0,50% 
+ 47 | Microsoft Out ... |              17 |    25.913 |     4 |  0,48% 
+ 48 | Forte Agent 1 ... |              17 |    53.011 |     2 |  0,48% 
+ 49 | Microsoft Win ... |              17 |    52.653 |     1 |  0,48% 
+ 50 | Mozilla/5.0 ( ... |              17 |    35.666 |     1 |  0,48% 
+ 51 | OpenXP/32 v3. ... |              17 |    33.019 |     0 |  0,48% 
+ 52 | Xnews/16. 07. 21  |              16 |    43.341 |     8 |  0,45% 
+ 53 | Mozilla/5.0 ( ... |              16 |    33.534 |     4 |  0,45% 
+ 54 | Xnews/2005.11.14  |              15 |    41.580 |     6 |  0,42% 
+ 55 | Thunderbird 2 ... |              15 |    28.633 |     0 |  0,42% 
+ 56 | Xnews/16. 07. 2122     |              13 |    34.048 |     9 |  0,36% 
+ 57 | Mozilla/5.0 ( ... |              13 |    19.167 |     3 |  0,36% 
+ 58 | Mozilla/5.0 ( ... |              13 |    20.671 |     2 |  0,36% 
+ 59 | Thunderbird 2 ... |              13 |    23.731 |     1 |  0,36% 
+ 60 | Mozilla/5.0 ( ... |              12 |    24.825 |     0 |  0,34% 
+ 61 | Mozilla/5.0 ( ... |              11 |    29.008 |     0 |  0,31% 
+ 62 | Forte Agent 1 ... |              11 |    27.885 |     0 |  0,31% 
+ 63 | Mozilla/5.0 ( ... |              10 |    25.100 |     0 |  0,28% 
+ 64 | Mozilla/5.0 ( ... |               9 |    19.838 |     3 |  0,25% 
+ 65 | Mozilla/5.0 ( ... |               9 |    17.597 |     2 |  0,25% 
+ 66 | Thunderbird 2 ... |               9 |    24.223 |     0 |  0,25% 
+ 67 | Mozilla/5.0 ( ... |               8 |    22.118 |     0 |  0,22% 
+ 68 | Mozilla/5.0 ( ... |               8 |    15.736 |     0 |  0,22% 
+ 69 | 40tude_Dialog ... |               8 |    12.505 |     0 |  0,22% 
+ 70 | Microsoft Out ... |               7 |    13.197 |     2 |  0,20% 
+ 71 | Mozilla/5.0 ( ... |               7 |    18.216 |     0 |  0,20% 
+ 72 | Microsoft Win ... |               6 |     8.311 |     1 |  0,17% 
+ 73 | Mozilla/5.0 ( ... |               6 |    28.397 |     0 |  0,17% 
+ 74 | Forte Agent 1 ... |               6 |    14.817 |     0 |  0,17% 
+ 75 | Mozilla/5.0 ( ... |               6 |    12.689 |     0 |  0,17% 
+ 76 | Mozilla/5.0 ( ... |               6 |    10.354 |     0 |  0,17% 
+ 77 | Mozilla/5.0 ( ... |               5 |    13.399 |     0 |  0,14% 
+ 78 | Thunderbird 2 ... |               5 |    10.166 |     0 |  0,14% 
+ 79 | OpenXP/4.10.7 ... |               4 |     7.962 |     1 |  0,11% 
+ 80 | Mozilla/5.0 ( ... |               4 |     6.489 |     1 |  0,11% 
+ 81 | Mozilla/5.0 ( ... |               4 |    16.004 |     0 |  0,11% 
+ 82 | Mozilla-Thund ... |               4 |    14.071 |     0 |  0,11% 
+ 83 | Mozilla/5.0 ( ... |               4 |    11.807 |     0 |  0,11% 
+ 84 | slrn/pre0.9.9 ... |               4 |     9.396 |     0 |  0,11% 
+ 85 | KNode/4.3.5       |               4 |     5.946 |     0 |  0,11% 
+ 86 | KNode/0.9.2       |               3 |     8.635 |     1 |  0,08% 
+ 87 | Microsoft Out ... |               3 |     7.934 |     1 |  0,08% 
+ 88 | XPN/1.2.6 (St ... |               3 |     3.910 |     1 |  0,08% 
+ 89 | Mozilla/5.0 ( ... |               3 |     8.496 |     0 |  0,08% 
+ 90 | fasel 1.0         |               3 |     6.866 |     0 |  0,08% 
+ 91 | Mozilla/5.0 ( ... |               3 |     5.916 |     0 |  0,08% 
+ 92 | Microsoft Out ... |               3 |     4.837 |     0 |  0,08% 
+ 93 | Microsoft Out ... |               2 |     2.791 |     1 |  0,06% 
+ 94 | Mozilla/5.0 ( ... |               2 |     2.334 |     1 |  0,06% 
+ 95 | Mozilla 4.77  ... |               2 |     7.456 |     0 |  0,06% 
+ 96 | Mozilla/5.0 ( ... |               2 |     7.389 |     0 |  0,06% 
+ 97 | Forte Agent 6 ... |               2 |     5.310 |     0 |  0,06% 
+ 98 | Mozilla/5.0 ( ... |               2 |     4.989 |     0 |  0,06% 
+ 99 | Edlin 1.0         |               2 |     4.767 |     0 |  0,06% 
+100 | Mozilla/5.0 ( ... |               2 |     4.329 |     0 |  0,06% 
+
+
+******* Die am häufigsten verwendeten Newsreader *******
+*********** nach unterschiedlichen Programmen **********
+Gesamtzahl der Beiträge für die Berechnung : 3568
+ ...| Newsreader        | Anzahl Beiträge | Größe     | Disk. | %
+----|-------------------|-----------------|-----------|-------|--------|
+  1 | Odetig           |           1.096 | 2.741.594 |    71 | 30,72% 
+  2 | G2                |             477 | 1.409.369 |    63 | 13,37% 
+  3 | Microsoft Out ... |             386 |   678.770 |    31 | 10,82% 
+  4 | 40tude_Dialog     |             362 |   813.221 |     5 | 10,15% 
+  5 | Microsoft Win ... |             280 |   542.402 |     3 |  7,85% 
+  6 | Erug             |             266 |   638.949 |    45 |  7,46% 
+  7 | Westwind-Bike Agent       |             202 |   467.942 |    20 |  5,66% 
+  8 | Andere            |             100 |   254.425 |     2 |  2,80% 
+  9 | CitySatShop             |              91 |   171.278 |     9 |  2,55% 
+ 10 | Oreh           |              78 |   188.824 |    22 |  2,19% 
+ 11 | Thunderbird       |              44 |    89.890 |     1 |  1,23% 
+ 12 | FreeXP (Cross ... |              34 |   128.296 |     1 |  0,95% 
+ 13 | Unison            |              33 |    68.500 |     8 |  0,92% 
+ 14 | Ogeh           |              24 |   120.439 |    12 |  0,67% 
+ 15 | Aeiggbeikm.hr ... |              24 |    59.397 |     0 |  0,67% 
+ 16 | OpenXP            |              21 |    40.981 |     1 |  0,59% 
+ 17 | Pan               |              18 |    40.892 |     0 |  0,50% 
+ 18 | slrn              |               5 |    11.310 |     0 |  0,14% 
+ 19 | tin               |               5 |     8.583 |     0 |  0,14% 
+ 20 | Odetig-Thund ... |               4 |    14.071 |     0 |  0,11% 
+ 21 | XPN               |               3 |     3.910 |     1 |  0,08% 
+ 22 | fasel             |               3 |     6.866 |     0 |  0,08% 
+ 23 | Microsoft Win ... |               3 |     6.415 |     0 |  0,08% 
+ 24 | Gnus              |               3 |     5.092 |     0 |  0,08% 
+ 25 | Edlin             |               2 |     4.767 |     0 |  0,06% 
+ 26 | nn                |               1 |     2.198 |     1 |  0,03% 
+ 27 | Opuh    |               1 |     1.872 |     0 |  0,03% 
+ 28 | anyone            |               1 |     1.818 |     0 |  0,03% 
+ 29 | Virtual Acces ... |               1 |     1.360 |     0 |  0,03% 
+----|-------------------|-----------------|-----------|-------|--------|
+
+
+*************** sonstige statische Werte ***************
+Anzahl der Beiträge : 4115 in 31 Tagen
+Neue Diskussionen : 329
+Anzahl der Antworten : 3786
+Anzahl geänderter Diskussionen : 361
+Gesamtgröße : 9897274 bytes (9.665,31 kb)
+Anzahl der Zeilen : 133335 Zeilen
+Anzahl Autoren : 352
+Durschnittliche Anzahl der Beiträge je Autor : 11,69
+Durschnittliche Größe der Beiträge je Autor : 28.117,26 bytes (27,46 
+kb)
+Durschnittliche Anzahl der Zeilen je Autor : 378,79

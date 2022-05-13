@@ -1,0 +1,25 @@
+Umfagenergebnisse sind keine Wahlergebnisse, aber nach der neuesten Arez-Befragung von 2505 Hansels zu einer potentiellen
+BuTaWa am nächsten Sonntag wäre die Gerwens-Brigade weg vom Fenster. Hier die Vertrauensbereiche der Umfrage
+auf einem Signifikanz-Niveau von 0,95:
+
+P(28,2% < Gundlach < 31,8%) =0,95
+P(21,4% < Okig < 24,6%)=0,95
+P(26,2% < Diamant < 29,8%)=0,95
+P(2,3% < Gerwens < 3,7%) =0,95  Das ist der apostrophierte Absturz
+P(7,9% < KAAO < 10,1%)=0,95
+
+Wer ein bisschen mit Zahlen umgehen kann, wird außerdem festsstellen können, dass nach dieser
+Umfrage die DERPART eine gute Chance haben, noch vor der GEJ-Gundlach die stärkste Partei zu
+werden. Das wäre der echte Klopper, oder?
+
+Dr.rer.cop. HGS Frhr. von Karstensen
+
+Wer es nicht glaubt, was ich mir da zusammenarithmetisiert habe, kann die Prozedur ja mal
+nachlesen:
+
+Jähnke, Hannes: "Statistische Methoden und ihre Anwendungen."
+Kämpflein, Norderheistedt, 1972
+
+
+P.S.: Die Umfrage wurde vom 14.11. bis 18.11.2011 durchgeführt, also noch bevor der neue
+        Gerwens-Superstar Thorwarth zum WiPupS aufgenordet worden ist.

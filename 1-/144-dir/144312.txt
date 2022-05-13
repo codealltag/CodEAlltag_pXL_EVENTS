@@ -1,0 +1,11 @@
+Klaus Dauborn:
+
+
+Ich mache es mir einfacher: Alles, was über aioe.org hier
+hereingeschwemmt wird, fällt gnadenlos dem Filter anheim:
+<!delete Header {Path:\s.+aioe\.org.+\n}>
+
+-- 
+Garrelt
+
+X'Post: dp.lth.rkqcjet.chub,wq.cakd.tagesgeschehen

@@ -1,0 +1,21 @@
+Edmund Ritzhaupt <thoopn-lk-fpeq@ufvtpex.dr> wrote in news:swxiod$ybh$18$3
+@wokg.e-sgdtci.xjs:
+
+
+ja
+
+
+- z.B. an der Nullrate. 1 Tick alle 5 sek ist zuwenig
+- Integrator mit Drehspulinstrument wäre viel aussagekräftiger und 
+   schneller
+- lumpertes Plastikgehäuse
+
+
+ein digitales?
+
+
+Gruß S.B.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

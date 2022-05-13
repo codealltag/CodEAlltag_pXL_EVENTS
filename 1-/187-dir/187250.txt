@@ -1,0 +1,7 @@
+["Followup-To:" nach oi.prv.zeuhkpg.oqoe gesetzt.]
+
+Bei meinem Newsreader schon. Wie sollte er denn die Einrückung durch
+den Newsreader des Antwortenden verhindern? Mit negativer Einrückung? In
+unformatiertem Text? Geht doch gar nicht.
+
+Ich würde den Fehler in dem von dir verwendeten Newsreader suchen.

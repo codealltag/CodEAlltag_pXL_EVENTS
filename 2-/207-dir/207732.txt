@@ -1,0 +1,4 @@
+drum auch "benutzerrechte", die regeln was ein benutzer _darf_.
+das _kann_ ist dann eine wissensfrage.
+
+valerian

@@ -1,0 +1,51 @@
+Weil bei 18 cm die ersten Fahrgäste bereits in Panik verfallen, wenn der
+Zug dort hält. Das fühlt sich nämlich viel dramatischer an, als es ist.
+
+Weil Doppelstockwagen oder Containerzüge mit Highcubes auch bei größerer
+Windstärke noch mit großer Sicherheitsreserve verkehren können sollen.
+
+Weil die untere Schiene sonst extrem belastet wird, wenn ein Erz- oder
+Kohlezug langsam drüberfährt.
+
+Weil die Umgrenzungslinie des Zuges innerhalb der Sicherheitsreserven
+des Lichtraumprofils verbleiben soll.
+
+
+Und außerdem natürlich: Weil's Vorschrift ist. Interessanterweise sind
+die Vorschriften aber weltweit im Bereich von 150 bis 180 Millimetern.
+
+
+Die Fahrwerke sind nicht das Problem, denn jeder Überhöhung geht eine
+Überhöhungsrampe mit einer maximalen Steigung voraus, in Deutschland
+auf Hauptbahnen maximal 1:400, auf Nebenbahnen 1:300. Hast Du keinen
+Platz für die Überhöhungsrampe, fällt die Überhöhung niedriger aus.
+
+
+Die Schweiz wird die für einen chicen schnellen Taktfahrplan nötige 
+Kantenfahrzeit zwischen Donneloye und Basadingen größtenteils dadurch 
+erreichen, daß man den erlaubten Überhöhungsfehlbetrag 
+(das ist die freie Seitenbeschleunigung auf eisenbahnerisch) auf die in
+Frankreich üblichen Werte hochsetzt, und dieses Beginnen mit besser
+gestalteten Übergangsbögen unterstützt.
+
+Ist also eine durchaus praxisrelevante Größe.
+
+
+In Österreich liegt der erlaubte Überhöhungsfehlbetrag besonders 
+niedrig, weshalb österreichische Züge besonders langsam sind. In 
+Deutschland werden die erlaubten 0.1 m/s^2 aber auch nur selten 
+ausgefahren, zum Beispiel zwischen Jager und Ainsen, sowie einigen
+wenigen Kurven zwischen Untergötzenhof und Döllinghausen.
+
+
+Wenn Du stattdessen einen Wackelzug mit 0,2 m/s^2 freier 
+Seitenbeschleunigung nimmst, holst Du auf einer richtig kurvigen Strecke
+ungefähr 10 Minuten pro Stunde heraus. Das ersetzt keine NBS, kann aber
+hoch relevant sein, wenn es Dir die passende Kantenfahrzeit verschafft.
+
+
+Gérard-Harm
+
+
+-- 
+                      Suche 512MB-Riegel SDRAM-133

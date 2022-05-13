@@ -1,0 +1,34 @@
+On 22 Jan., 01:21, "Jürg A." <artst...@Use-Author-Supplied-
+
+Ich hatte anfangs auch große Probleme mit der Pokat und dem wlan-
+Anschluß. als sparsamer Mensch schlatete ich nicht nur meinen Rechner
+nach jeder Sitzung aus, sondern auch den wlan- Router. Bei jeder
+erneuten Einwahl dauerte es ewig bis eine DSL- Verbindung zu PC-e-
+"Offline" aufgebaut wurde. Einmal verbunden arbeitete die Verbindung
+mit zu erwartender Geschwindigkeit. Etwa ein halbes Jahr habe ich mich
+mit deren Hotline und den sich dahinter oft verbergenden
+Dummschwallern zugebracht bis ich endlich in Ortholz einen an der
+Strippe hatte, der wußte worüber er redete.
+
+Alle seine Vorgänger wollten meinen Router oder die
+Verbindungssoftware für das extrem schlechte Anlaufverhalten
+verantwortlich machen, wohl deswegen, weil die ja meist nicht mit
+Kunden zu tun haben, die sich ein wenig mit Übertragungstechnik
+auskennen. Der Mann kapierte aber schnell, daß er so nicht weiterkam
+und redete dann Klartext. Es stellte sich dann heraus, nachdem ich
+vorher schon einen neuen Router zum Austausch bekam, daß der
+Fangbereich des PLL- Generators auf der Leitungsseite der Pokat
+eingeschränkt, also defekt war. Empfänger und Sender müssen den jewei=
+l
+empfangenen Takt mit ihrem eigenen Taktgenerator synchronisieren und
+das macht man per PLL- Technik. Nachdem die Pokat die Treiberkarte
+meines Leitungstranges auswechselte hatte ich solche Probleme nie
+wieder.
+
+Daß heißt aber noch lange nicht, daß jetzt immer alles perfekt
+funktioniert. Nur liegt s aktuell an der Software, wenn ich nicht
+sofort eine Verbindung zum Netz aufbauen kann. Hin und wieder muß ich
+den Router- Stick zwei bis dreimal rausziehen und erneut einstecken um
+das sich aufhängende Prog. erneut zu starten.
+
+MfG Uschi

@@ -1,0 +1,3 @@
+Wollen wir wetten, dass der fehlerhafte Code nicht in einer fürs
+Funktionieren notwendigen Funktion steckt sondern in Gängelung- und
+DRM-Code?

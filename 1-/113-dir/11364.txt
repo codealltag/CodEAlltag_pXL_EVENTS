@@ -1,0 +1,14 @@
+Hi(vincenzo)!
+
+
+Chinesisch? Oder wenn man (z. B. als Althistoriker, Theologe, 
+Islamwissenschaftler, Indologe, Japanologe, Kartwelist...) in lateinisch 
+geschriebenen Texten Zitate in anderen Alphabeten einbauen will, kann 
+ein Byte schon ziemlich knapp werden! Abgesehen davon: wieso soll 
+Textverarbeitung mit einem Byte pro Zeichen so grundlegend einfacher 
+sein als mit zweien? Nur weil man sich als C(++)-Programmierer bei der 
+Zeigerarithmetik das sizeof(char-Typ) sparen kann?
+
+See you in orbit (ohne Zucker!)
+
+Eugen

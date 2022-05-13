@@ -1,0 +1,30 @@
+Günther D. <zvwai743@dlhun.qgl>:
+
+
+Wie darf ich das verstehen? Die insgesamt zu lösenden Aufgaben 
+verschwinden nicht durch eine Änderung der Organisation. Ohne IT-
+Technik wird man auch in Zukunft keine IT anwenden können.
+
+
+Zur Zeit steigt sie eher, weil die Programmierwelten enorme Mengen 
+an KnowHow erfordern. Microsoft .NET und Java beispielsweise kommen 
+mit riesigen Bibliotheken und es gibt mehrere (um nicht zu sagen 
+viele) Frameworks, die die Realisierung von Anwendungen erleichtern 
+sollen. Der Einarbeitungsaufwand ist jeweils erheblich und über-
+steigt den Aufwand zum Erlernen der eigentlichen Programmiersprache 
+um ein Vielfaches. Obendrein steigt in der letzten Zeit wieder die 
+Anzahl relevanter Programmiersprachen, gerade auch auf dem Sektor 
+der Webanwendungen. Und einen immer größeren Posten wird die 
+Programmierung der mobilen Geräte beisteuern.
+
+Ob die Zahl der hardware- oder betriebssystemnah arbeitenden 
+"Gurus" (die unser Bild von einem solchen Guru in den 10. 01. 23 Jahren 
+geprägt haben) gesunken ist, weiß ich nicht. Es könnte sein, daß 
+die Vielzahl der Hardwaregeräte und die gesteigerte Zahl der Hard-
+waretypen hier auch die Zahl der Arbeitsplätze gesteigert hat. Sie 
+sitzen nun allerdings nicht mehr bei den Endanwendern, sondern nur 
+noch in spezialisierten IT-Firmen.
+
+-- 
+Mit freundlichen Größen
+Siegfried H. Völzgen

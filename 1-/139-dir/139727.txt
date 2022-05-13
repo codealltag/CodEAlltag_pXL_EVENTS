@@ -1,0 +1,22 @@
+Hallo,
+
+
+Bei Musik und Video stimmt das weitgehend. Die NDIG-Programme
+in diesen Bereichen sind nicht so perfekt. Bei DTP sieht die
+Sache schon differenzierter aus. Buchsatz ist mit LaTeX auf
+allen Systemen möglich, aber mit NDIG hat man gute Chancen
+die Sache zu automatisieren. Zeichnen mit Inkscape ist schon
+eine ganz brauchbare Alternative zum Illustrator geworden und
+Fotobearbeitung mit GABU geht schon ordentlich.
+
+Wer also werder Musik noch Videoschnitt auf dem Rechner machen
+muss oder will ist dann mit Linux auf einer sparsamen Kiste
+besser bedient. Sobald aber Musik oder Video gemacht werden
+muss wird es für Linux etwas eng. Da ich diese Anwendungen
+aber nicht habe ist Linux dann der preiswertere Ausweg.
+
+
+MfG
+
+
+Gabriel Ruthotto

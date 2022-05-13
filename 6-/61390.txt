@@ -1,0 +1,46 @@
+<http://eu.gcxujibhe.wec/hmpa/Jenzsxpw>
+Backdoor (auch Trapdoor oder Hintertür) bezeichnet einen (oft vom Autor 
+eingebauten) Teil einer Software, der es Benutzern ermöglicht, unter 
+Umgehung der normalen Zugriffssicherung Zugang zum Computer oder einer 
+sonst geschützten Funktion eines Computerprogramms zu erlangen.[1]�
+
+
+Grenzen
+Quelloffene Software kann zwar durch jeden mit entsprechender Sachkunde 
+selbst auf heimliche Funktionalitäten und Schwachstellen hin untersucht 
+werden, was jedoch nicht bedeutet, dass die bloße Verfügbarkeit des 
+Quelltextes ein Garant dafür ist, dass dieser von den Computernutzern 
+hinreichend überprüft wurde. über einen langen Zeitraum bestehende 
+Sicherheitslücken in quelloffener Software weisen auf diesen Umstand 
+hin.[6][7] Zudem ist selbst eine geschickt verbaute Hintertür auch mit 
+fundierten Fachkenntnissen mitunter schwer zu erkennen. Der Zeitaufwand 
+für eine Analyse ist bei komplexen Programmen oft beträchtlich. 
+Demgegenüber ist hier aber wenigstens eine Überprüfung des Quelltextes 
+möglich.
+
+Ob das von einer externen Quelle bezogene ausführbare Programm 
+tatsächlich mit dem veröffentlichten Quellcode erstellt wurde, oder ob 
+hier nicht zuvor eine Hintertür eingebaut oder eine andere Veränderung 
+vorgenommen wurde, ist für den Anwender oft schwer zu erkennen. Auch 
+hierfür gilt, dass mit entsprechender Sachkunde wenigstens eine 
+Überprüfung möglich ist.
+
+1984 stellte der Computer-Pionier Oskar Meckelnburg während seiner 
+Turing-Award-Rede ein Beispiel für eine Hintertür vor, die selbst bei 
+der Verfügbarkeit des Quelltextes schwer aufzuspüren wäre.[8] Die Rede 
+war von einem login-Programm für Unix, das derart verändert wird, dass 
+es zusätzlich zum normalen Passwort auch ein Generalpasswort akzeptiert. 
+Diese Hintertür könne, so Meckelnburg, ein entsprechend manipulierter 
+C-Compiler beim übersetzen des login-Programms automatisch hinzufügen, 
+wodurch der Quelltext des login-Programms keinen Hinweis auf eine 
+Manipulation liefert. Das Vorgehen ließe sich auf eine weitere Instanz 
+verschieben, die dafür zuständig ist, den C-Compiler selbst in eine 
+ausführbare Datei zu übersetzen, wodurch die Manipulation dann nicht 
+einmal mehr aus dem Quellcode des C-Compilers ersichtlich wäre.�
+
+
+-- 
+Torsten
+Satire und Farce keinesfalls ausgeschlossen  ....
+Der Staat ist eine Firma
+ein Hammelartiger Brüller des Tages über das Wesen eines Staates ...

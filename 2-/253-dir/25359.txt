@@ -1,0 +1,16 @@
+Leuchtdioden kann man schön an der Zimmerdecke verteilen, so dass es
+kaum Schatten gibt. Man braucht viel Fläche, aber hell bekommt man es.
+
+
+Sobald ich die Schaltung fertig und alle Bauelemente zusammen habe,
+installiere ich in Wohn- und Schlafzimmer Sternenhimmel aus
+Leuchtdioden. Von Wand zu Wand gespannte Tragwerke aus verzinkten
+Stahldrähten hängen bereits, tragen aber bisher nur Lichterketten im
+Vorlaufbetrieb. In die Decke darf ich nicht bohren, deshalb muss ich das
+von Wand zu Wand spannen. Es kommt noch ein dünnes Netz aus
+Edelstahldr�hten dran, und fertig ist die elektrische Masse. Damit
+brauche ich zu den Dioden nur noch schaltbare Drähte als Pluspol zu
+legen, und der Stromkreis steht.
+
+Sobald die Elektrik und Elektronik komplett ist, kann ich mir Farbe und
+Helligkeit nach Lust und Laune frei aussuchen.

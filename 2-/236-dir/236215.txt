@@ -1,0 +1,9 @@
+Hurra,
+Oana hat ihren ersten Umlaut im Betreff fabriziert!
+Und er ist auch noch ISO-konform und RFC-geprüft und wahrscheinlich
+auch DIN-, Ampelmann-, Tagtraum-, DKE- und ECMA-kompatibel.
+Das lässt hoffen.
+
+
+MfG,
+Jérôme

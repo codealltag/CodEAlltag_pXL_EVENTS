@@ -1,0 +1,32 @@
+Mit Weinbastion (egal, ob Thunderbird oder Seamonkey) kommst Du da nur bedingt
+weiter. Die können halt nur blocken (kein Scoring, kein Move etc.), und das
+auch nur für jeden einzelnen From-Eintrag auf's neue.
+
+D. h., schon allein
+
+"Carlos Philipps" und
+"Carlos  Philipps" und
+"Carlos X Philipps" und
+"Reinhold Rehdanz" und
+"Reinhold . Rehdanz" und
+"Reinhold  Rehdanz"
+
+benötigen sechs separate Einträge.
+
+Mit regulären Ausdrücken würden zwei Ausdrücke genügen, um das final zu
+regeln, aber reguläre Ausdrücke können Mozillen nicht.
+
+Wenn Du da weiterkommen willst, wirst Du Dich für Linux wahrscheinlich z.
+B. mit slrn oder gnus oder sowas befassen müssen. Aber
+cr.edfb.yuawyfce.cqtzmzjeno existiert ja als passende Anlaufstelle, dort
+hilft man sicher gerne weiter. Ich leite gleich mal dahin um.
+
+Oskar
+
+[XPost & F'up2 cr.edfb.yuawyfce.cqtzmzjeno]
+
+-- 
+"Jetzt haben die Amerikaner mal einen vollgetankten Golf vor der
+ Haustür..."
+
+Meinrad Riedmayr zur Explosion der Ölbohrplattform "Deepwater Horizon"

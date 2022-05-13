@@ -1,0 +1,6 @@
+Die IP wurde serverseitig schon immer gespeichert. Das ist nichts neues 
+oder schlimmes. Die Herausgabe der zugehörigen persönlichen Daten ist 
+das Problem. Ob nun Model-Kartei etc. die IP jahrelang speichern oder 
+nicht ist völlig egal. Wichtig ist nur, ob diese IP einer Person 
+zugeordnet werden kann und das obliegt nur den ISP, welche diese Daten 
+leider auch schon immer grundlos längere Zeit speicherten.

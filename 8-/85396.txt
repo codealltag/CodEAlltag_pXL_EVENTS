@@ -1,0 +1,25 @@
+[]
+
+Jaa ... Aber: bei einer thermischen leistung von 460 oder 780 MW hast du
+dann immer noch 4,6 und 7,8 MW pro Reaktorkern an Nachw�rmeleistung
+abzuführen!  Und ohne funktionierende Kühlung geht das schlecht...
+
+Dampfablassen hilft da auch nicht unbegrenzt. Dann siedet in Folge
+nämlich das noch im Reaktorkern befindliche restliche Kühlwasser
+leichter als vorher, was bedeutet, daß der Druck wieder steigt. Wenn man
+wieder Dampf abläßt ist noch weniger Wasser im Reaktor und wegen des
+verminderten Druckes siedet das wieder leichter, so daß man wieder ....
+Ein unguter Kreislauf, bei dem früher oder später dann die Brennstäbe
+trockenfallen. Und schmelzen können. 
+
+Bei intakten Brennstäben sollte doch gar kein Jod und Cäsium freiwerden
+können, oder täusche ich mich da?
+
+Wenn aber im Kern die Temperatur auf so über 800 � steigt und der
+Wasserdampf mit dem Zirkonium reagiert, entsteht nicht nur das H2 für
+die Knallgasexplosion, sondern die Brennstabumh�llungen dürften
+schwächeln. Statt ner Metallhülse nur noch "Zirkoniumrost".
+
+MfG
+
+Der Habakuk.

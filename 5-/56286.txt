@@ -1,0 +1,13 @@
+Leider nicht. Die Wasserstoffatome sind so klein, dass sie aus jeder 
+Leitung und jedem Tank diffundieren.
+
+
+Ich hab noch keine Berechnungen gesehen, aber IMHO würden nur 
+Supraleiter gehen.
+
+
+Zu geringe Energiedichte. Es hilft nur, Energieverbrauch zu reduzieren, 
+ME um mindestens 80%
+
+
+Anton

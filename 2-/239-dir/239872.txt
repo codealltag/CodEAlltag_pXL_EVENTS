@@ -1,0 +1,49 @@
+Das stimmt nicht.
+
+Es gehört zum Standard im Netz, daß, außer im Inhalt, ausschließlich 
+ASCII-Zeichen verwendet werden. Dies ist notwendig, weil es für Zeichen 
+
+Nehmen wir zum Beispiel das Wort »Flötentöne«, und stellen wir uns mal 
+vor, dies wäre auf einem System geschrieben, das den Zeichensatz CP437 
+(den alten Schöniger-Zeichensatz) verwendet. Ein anderes System, das mit 
+ISO-8859-1 arbeitet, würde nun aber nicht »Flötentöne«, sondern 
+»fl”tent”ne« sehen. In der umgekehrten Richtung wären es »fl÷tent÷ne«.
+
+Daraus folgt notwenidgerweise, daß Subjektzeilen, die Umlaute enthalten 
+defekt sind und von meinem Seamonkey und unentzifferbar eingestuft und 
+rausgeschmissen werden.
+
+Beispiel:
+
+Subject: Das muß mal gesagt werden!
+                ^
+
+Das Zeichen mit dem Code 223 steht _hier_ für ein »ß«, es kann aber je 
+nach Zeichensatz auch irgend etwas anderes sein. Darum ist dieses 
+Subjekt fehlerhaft und fliegt raus.
+
+Korrekterweise müßte diese Zeile nämlich so:
+
+Subject: Das =?UTF-8?B?iXBUtbWmBVenX8VyTBa4WYdqkqBzrrY=?=
+
+oder so:
+
+Subject: Das =?UTF-8?B?bXXDnw==?= mal gesagt werden!
+
+oder so:
+
+Subject: Das =?ISO-8859-1?Q?muß_mal_gesagt_werden!?=
+
+aussehen, dann haben wir auch kein Re-Zeilenproblem.
+
+Und ich bin es leid, die Dinger jedesmal manuell wieder einfügen zu 
+müssen. Wenn wir jemand Schrott liefert, dann kriegt er Schrott zurück, 
+punktum.
+
+
+Glückauf!
+Undine Kirchhuber (Elz/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://tgo.ipomv-fqorpv.vi

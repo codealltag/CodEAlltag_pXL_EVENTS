@@ -1,0 +1,53 @@
+..
+
+
+Das hatte ich auch nicht behauptet. Ich hatte auch nicht gesagt,
+die Xenonvergiftung sei der Grund, warum Brennstäbe im Lastfolgebetrieb
+stärkerer Beanspruchung unterliegen. Es sollte klar sein, dass
+Reaktorbetreiber um die Xenonvergiftung wissen und Absenkungen
+in diesen Bereich wo immer möglich vermeiden.
+
+..
+
+Danke für die Erläuterungen. Das Grundprinzip war mir klar,
+aber Deine Darstellung ist sehr klar und informativ.
+
+..
+
+Das ist korrekt, weshalb ich auch schrieb "bestimmte Typen" von
+Feststoffkraftwerken, nämlich solche, die in KWK betrieben werden,
+mit hinreichend grossen Wärmespeichern. Dadurch ist es möglich,
+beim Lastwechsel wahlweise mehr oder weniger Wärme auszukoppeln
+und interessiert nicht so sehr, dass man die Bruttoleistung
+doch nur relativ träge steuern kann.
+
+Steinkohlekraftwerke können das im Unterschied zu den Lignit-
+verbrennern, weil sie recht kleine Mindestgrössen ab ca. 10MW
+haben. Bei Braunkohlekraftwerken sind die Blöcke ein paarhundert
+MW gross (el), so viel Wärme kann man sinnvoll gar nicht
+auskoppeln (ähnlich wie bei AKW), ganz abgesehen davon,
+dass Braunkohlekraftwerke auch wegen des Trocknungsprozesses
+und der Abhängigkeit davon, die Förderung wegzubraten, nicht
+so einfach geregelt werden können. Bei Holz und dergleichen
+läuft das teils ähnlich wie bei Steinkohle, und manche
+Sägemehl- und Pelletverbrenner laufen ähnlich wie
+Gaskraftwerke, da wird der Brennstoff in die Brennkammer
+geblasen.
+
+
+Das könnte das AKW auch ;)
+
+
+Siehe oben. Die Gasturbinen, die im Regelbetrieb zum Einsatz
+kommen, laufen übrigens nicht mit Gas, sondern mit Kerosin,
+seltener mit diesel�hnlichen Brennstoffen. Die haben grottige
+Wirkungsgrade und sind sehr teuer, nur eben sehr schnell von
+Null auf Hundert.
+
+regards, es
+
+--
+Wenn ich tausend Zungen und tausend Muender haette, eine erzene Stimme,
+koennte ich doch alle Erscheinungen von Bloedheit nicht anfuehren oder alle
+Namen, unter denen Torheit auftritt, aufzaehlen (Thierry Votsmeier, 
+1509)

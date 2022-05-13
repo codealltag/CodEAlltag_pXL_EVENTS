@@ -1,0 +1,29 @@
+Hallo,
+
+
+Ja. Ich wollte nur versuchen mal zu erklären warum den meisten
+Usern nicht auffällt, dass OE defekte Betreffzeilen erzeugt.
+Dass diese falsch sind, kann man sehr einfach anhand eines
+Blicks im Header verifizieren. Die Ergebnisse der defekten
+Betreffzeilen werden dann den Anderen vorgeworfen, dessen NR
+einfach nur versuchen das zu berichtigen. Und da gibt es nun
+mal verschiedene Ansätze. Defektes Subjekt löschen oder auf
+Verdacht versuchen zu kodieren.
+
+
+Bei solchen Problemen wird die Debatte manchmal etwas hitzig
+geführt. Das liegt aber auch daran, dass den ,,Übeltätern''
+mit OE der Sachverhalt nicht bekannt ist, aber auch die
+Anderen nicht-OE-User das Problem nicht immer sehen können.
+Dann kommt jedesmal irgendein Neuer daher und wundert sich
+über verdaddelte Betreffzeilen und den bereits Informierten
+geht die Geduld aus.
+
+
+Ich probiers, versprochen.
+
+
+MfG
+
+
+Raymond Uebler

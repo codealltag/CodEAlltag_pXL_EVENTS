@@ -1,0 +1,14 @@
+Der Hugo <bjnvzyf@xnzqdfdns.gnp> writes:
+
+[Karin 250 Byte / sec Verbindung]
+
+
+14KB in einer Minute sind 250 Byte / sec. So lahme Modems kann's doch
+längst nicht mehr geben. Selbst mein jetzt über 20 Jahre altes Vuta
+konnte schon 19200bps, und das mit einem Rechner mit 33MHz 486er CPU.
+
+Da muß was ganz anderes kaputt sein.
+-- 
+The first entry of Sin into the mind occurs when, out of cowardice or
+conformity or vanity, the Real is replaced by a comforting lie.
+  -- Integritas, Consonantia, Claritas

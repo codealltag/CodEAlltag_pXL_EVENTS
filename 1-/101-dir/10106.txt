@@ -1,0 +1,14 @@
+Bitte hör nicht auf Claudio Kramhöft, der hat keine Ahnung. Mit UTF-8 kann
+ein Zeichen aus bis zu 4 Bytes bestehen, das ergibt abzüglich der
+reservierten Bits 1.048.576 mögliche Zeichen. Das genügt.
+
+
+UTF-8 auch. Das ist ja gerade _das_ Feature von UTF-8: Nur ein
+Zeichensatz für die ganze Welt!
+
+
+Es geht ja nicht um Newsgroups, diese sind diesbezüglich ein
+Nebenaspekt. Das betrifft alle elektronischen Schriftstücke!
+
+-- 
+rs

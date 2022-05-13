@@ -1,0 +1,18 @@
+["Followup-To:" header set to eh.rgz.modmqximt.]
+[...]
+
+Ja, allerdings ist es nicht der einzige. Gerade in einer
+technisch/wissenschaftlichen Newsgroup kann es durchaus mal vorkommen,
+dass jemand Formeln mit griechischen Buchstaben, Wurzelzeichen, etc.
+postet. Und es ist für den Verlauf der Diskussion hilfreich, wenn andere
+Diskussionsteilnehmer das dann auch lesen und zitieren können. 
+
+Insofern wäre es praktisch, wenn Du Dir einen Newsreader zulegen
+würdest, der Dir zumindest erlaubt, Postings mit Zeichen jenseits von
+U+00FF korrekt zu zitieren. Alternativ solltest Du das, was Dein
+Newsreader verunstaltet, selbst korrigieren ...
+
+	hp
+
+-- 
+   _  | Gabriel S. Schimmelpennig    | Fluch der elektronischen Textverarbeitung:

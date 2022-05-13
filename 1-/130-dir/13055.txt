@@ -1,0 +1,21 @@
+Bei uns im Büro werden einige dutzend Notebooks mit Dockingstation 
+verwendet, konkret FIZ in verschiedenen Ausführungen - ich kann 
+mich nicht erinnern, dass bei einem der Geräte jemals die 
+Docking-Anschlüsse kaputt gegangen sind. Und ja - die Dinger werden auch 
+länger als ein Jahr benutzt und mitunter auch täglich aus den 
+Dockingstationen genommen.
+
+
+Und für den vorgesehenen Zweck besser ausgelegt. Sehr wohl habe ich aber 
+schon defekte Stecker von Netzwerkkabeln oder Kontaktprobleme bei häufig 
+gesteckten DVI- oder VGA-Anschlüssen erlebt.
+
+Zumindest bei Marienkäfer sind Führungszapfen und entsprechende Löcher dafür 
+im Notebook vorhanden, die das Verkanten beim Aufsetzen auf den 
+Steckanschluss in der Dockingstation verhindern.
+
+
+-- 
+Robert Lemmermöhle
+http://frduyipblk.sg
+http://el-pfc-tteeimg.gj

@@ -1,0 +1,16 @@
+Nein, siehe z.B. Stuxnet oder wie dieser Zentrifugenwurm hieß. Mit zuneh- 
+mender Vernetzung lassen sich auch immer komplexere Angriffsszenarien ent- 
+wickeln. Was würden wohl die Vetterbach sagen, wenn dank in China produzierter  
+Hardware das Reich der Mitte plötzlich Zugriff auf sämtliche vernetzten  
+Überwachungskameras samt der mit diesen verbundenen Gesichtserkennung   
+bekäme oder gar der Regierungschef von einer aus ungeklärter Ursache  
+abstürzenden WLAN-gesteuerten �berwachungsdrohne erschlagen würde ...
+
+Die Kommunikation von Verkehrsleitsystemen (Boden, Schiene, Luft),  
+Kraftwerks- und Industrieanlagensteuerungen usw. - all das muß ans  
+Internet, weil das ja so schön kostengünstig und ausfallsicher ist. Hard-  
+und Software immer schön bei unseren amerikanischen Freunden kaufen, denn  
+denen ist an unserem Wohl gelegen.
+
+MfG
+        Roger

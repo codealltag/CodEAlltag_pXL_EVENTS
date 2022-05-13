@@ -1,0 +1,5 @@
+Natürlich reicht der Wert um eine Größenordnung zu bestimmen, aber
+auf eine Nachkommastelle genau ist der Wert bestimmt nicht.
+Bedenke auch wo Werte mit mehr als 2000 Befragten "zufällig" ermittelt 
+werden. Da sind Aktionen am 14.Oktober oder Telefonumfragen etc., die
+sind dann überhaupt nicht ernst zu nehmen.

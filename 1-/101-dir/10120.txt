@@ -1,0 +1,11 @@
+Das fängt schon damit an, dass es zwei "Westeuropäisch" gibt, nämlich
+8859-1 und -15 (Latin 1 und 9). Mitteleuropäisch ist 8859-2 (Latin 2)
+und bestenfalls veraltet. ISO-8859 ist der alte ISO-Standard, der neue
+ist ISO-UCS, also UTF-8.
+
+Wenn Dich die genauen Unterschiede der verschiedenen 8859 interessieren:
+
+<http://qp.urtwuusxq.jgh/ehxr/YWU_9146#Vycncvc>
+
+-- 
+rs

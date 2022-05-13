@@ -1,0 +1,12 @@
+Was aber nix an der schlechten Energieeffizienz ändert!
+Ich vermute ja, daß es sich, ähnlich der Elektrozahnb�rsten, um ein
+induktives System handelt, daß im Infra-Langwellenbereich sich adaptiv
+auf den Empfänger-Saugkreis anpaßt. Nur schluckt so ein Ferrit halt auch
+nicht alles. D.h. 20 und mehr Watt Verlustleistung auf diesem Bereich ist 
+doch ne Menge Holz und wird recht gern durch umliegende nichtlineare
+Bauteile in Oberwellen verwandelt!
+
+Gruß U.P.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

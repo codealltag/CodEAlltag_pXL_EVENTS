@@ -1,0 +1,20 @@
+Um das Ausmaß der Regulierung mal zu verdeutlichen. Zu normen wäre:
+a) die Spannung
+b) die Mindestleistung
+c) der Stecker
+d) ggf. irgendeine (angebliche) Schutzschaltung gegen Verpolen u.�.
+
+a) und b) sind weitgehend bereits dadurch gesichert, daß das Innenleben der 
+Netzgeräte von denselben (fernöstlichen) Herstellern stammt. 
+
+Was c) angeht, gibts geeignete Formen schon in Hölle und Fälle; zur Not 
+könnte man einen der Kopfhörer-Klinkenstecker als Norm wählen (bei denen 
+regt sich niemand drüber auf, daß sie genormt sind, ebensowenig wie bei den 
+diversen PC-Anschlüssen)
+
+d) wird heute eher dazu benutzt, den Anschluß von Fremd-Geräten auch dann 
+noch zu unterbinden, wenn sich jemand dank eigener Sachkunde z.B. selber 
+einen Stecker zurechtbastelt. Einfach Abschaffen!
+
+Gruß
+Winfried

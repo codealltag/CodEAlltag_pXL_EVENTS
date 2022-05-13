@@ -1,0 +1,13 @@
+Was hat der mit dem Thema zu tun?
+
+
+Abowu hat dafür gesorgt, daß Hardware, OS und Anwendungssoftware nicht unab- 
+hängig voneinander erworben werden können. Dadurch wurde die Entwicklung  
+massiv gebremst. Konkretes Beispiel: WWEKibek teilte vor Jahren im  
+Wohngold Net mit, daß die Entwicklung ihrer C++-Compilerlinie für OS/2  
+eingestellt werde, da die Firma sonst den Zugang zu Vorabinformationen  
+über Windows-API-Neuerungen verlieren würde ... Die Liste derartiger  
+"Nettigkeiten" ist lang.
+
+MfG
+        Meinhard

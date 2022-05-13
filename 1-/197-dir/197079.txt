@@ -1,0 +1,8 @@
+1,5 bis 6 Jahre, sehr genau erscheint mir das aber nicht...
+Ausserdem wird hier nur der _direkte_ Energieaufwand für die
+Siliziumherstellung berücksichtigt, nicht aber die vorgelagerten
+Produktionsschritte und die Wartung der von starkem Verschleiss
+betroffenen Anlagen.
+Das mit der Mindestlebensdauer ist auch nur ein Märchen. Schließlich
+lebt eine technische Anlage nie so lange wie die Mindestlebensdauer
+ihrer Bestandteile.

@@ -1,0 +1,15 @@
+Komplettes Abschalten der USB-Schnittstellen ist unklug, denn PS/2
+Tastaturen und PS/2 Muse sind als Neuware selten geworden und selbst wenn
+den Musen ein Adapter beiliegt, was bei Tastaturen nicht funktioniert,
+heisst das nichts: die PS/2 Schnittstelle stirbt aus.
+
+Also bleibt nur eine Software einzusetzen, die Laufwerke erkennt -- und
+deren Betrieb verhindert.
+
+Aber: solche Tools greifen tief in das System ein, ich halte nichts davon.
+
+Karlheinz
+-- 
+Im übrigen bin ich der Meinung, dass TCPA/TCG verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

@@ -1,0 +1,29 @@
+Offenbar hat das gesessen. Wie kann schließlich sein, was nicht sein
+kann? Aber es kommt noch schlimmer (Quelle: GGA):
+
+"Die Herstellung photovoltaischer Solarzellen ist ein chemischer
+Prozess, bei dem gasförmige, flüssige und feste Chemikalien zum
+Einsatz kommen, die gesundheits- und umweltschädlich sind. Dazu kommt,
+dass bei einigen Zelltypen Stoffe wie z. B. toxisches und/oder
+karzinogenes Cadmium, Arsen bzw. deren Verbindungen sowie
+Kupfergalliumdiselenid verwendet werden. Ein typisches Cadmiumtellurid-
+Solarmodul enthält zum Beispiel ca. 22 g des gefährlichen
+Schwermetalls Cadmium und 25 g Tellur pro m2 Zellfläche.[25] Bei der
+Produktion werden beide Substanzen durch Co-Verdampfung auf das
+Trägermaterial aufgebracht. Die Co-Verdampfung ist ein ungerichteter
+Prozess, bei dem die gesamte Innenoberfläche der Beschichtungskammer
+mit Dünnschichten aus Tellur, Cadmiumtellurid, Cadmiumsulfid und
+Antimontellurid überzogen werden. Der Materialverbrauch erhöht sich
+dadurch um mindestens weitere 40 %. Bei der regelmäßigen Reinigung der
+Produktionskammer mit wässriger Säure - die Reinigung erfolgt manuell
+- werden die Rückstände in eine wässrige Lösung überführt. Nebe=
+n der
+eigentlichen Zellproduktion stellt also auch die Reinigung der
+Produktionsanlagen eine Herausforderung an Umweltschutz und
+Arbeitsschutz dar.[26] Eine neuere Untersuchung versucht, die
+geringere Gefährdung, die von Cadmiumtellurid-Zellen im Vergleich zur
+Kohleverbrennung ausgeht, nachzuweisen.[14] Produktionsrückstände und
+Emissionen können zu Langzeitschäden und Altlasten führen. Gleiches
+gilt bei unsachgemäßer Entsorgung für die Altzellen. Die Photovoltaik
+unterscheidet sich in diesem Aspekt von anderen Technologien zur
+Nutzung regenerativer Energien."

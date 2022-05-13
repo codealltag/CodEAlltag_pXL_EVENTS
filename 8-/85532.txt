@@ -1,0 +1,25 @@
+Das ist der Punkt... aber der Betreiber soll ja schon sehr viel Dreck
+am Stecken haben. Japanischen Ingenieuren traue ich ohne weiteres zu
+exzellente Sicherheitstechnik konstruieren zu können... aber deren
+Bossen ist nicht zu trauen. Darüber hinaus hat der Japaner einen
+charakterlichen Vorteil bei der peniblen Massenproduktion von Technik,
+er hält sich strickt an Qualitätsstandards und befolgt akribisch den
+vorgegebenen Arbeitsablauf. Aber genau DAS kann bei unvorhergesehenen
+Abläufen wie z.B. in der jetzigen Katastrophe ein entscheidendes
+Hindernis sein, trotz exzellenter Kenntnisse schnelle Gegenmaßnahmen
+zu ergreifen die zwar dringend notwendig sind.... aber eben nicht im
+Handbuch stehen.
+
+Es ist wohl so, ohne genaue Kenntnis dessen was dort genau passiert
+ist helfen die prinzipiellen Konstruktionsmerkmale auch nicht weiter
+bei der möglichen Fehlersuche.
+
+WAS, sooo viel?
+Das wären ja bei 1,6 GW noch 48MW!!!
+DAS geht doch gar nicht mit einem Notstromaggregat. Ich nehme mal an,
+daß im abgeschalteten Zustand die benötigte Hilfsenergie wesentlich
+geringer ist.
+
+
+Auch möglich, immerhin könnte die riesige Masse bei der hohen Drehzahl
+und Unwucht zur Bombe werden.

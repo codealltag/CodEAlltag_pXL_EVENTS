@@ -1,0 +1,46 @@
+Wir werden sehen. 
+
+
+Ich habe selbst in de.sci.physik selten einen solch kompletten Unfug
+gelesen. Ist es deine Absicht, die Leute zu verwirren? Falls ja, dürfte
+dir das gut gelungen sein.
+
+Die (Ruhe-)masse [1] von Photonen ist Null. Die Aussage, es gibt nur
+*deswegen* Photonen, *weil* sie die Masse Null haben, ist allerdings nur
+halb richtig. Wenn sie eine von Null verschiedene Masse hätten, bewegten
+sie sich nicht mit Lichtgeschwindigkeit, blaues Licht wäre schneller als
+rotes Liht, die elektrostatische Anziehungskraft hätte nur eine endliche
+Reichweite (was insbesondere einen Einfluß auf die Ionisierungsenergien
+von Atomen und Molekülen hätte) und elektromagentische Wellen könnten
+auch longitudinal polarisiert sein.
+
+Nichts davon ist im Experiment beobachtet worden, weswegen die unter
+Fachleuten anerkannte Masse des Photons gleich Null ist, wer es genauer
+nehmen will, merkt an, dass die experimentelle Schranke für die Masse
+des Photons kleiner als 2*10^{-54}kg ist.
+
+
+Man kann natürlich beliebige Widersprüche konstruieren, wenn man
+Falsches voraussetzt. Selbstverständlich können auch masselose Teilchen
+Impuls besitzen.
+
+Den ganzen faulen Zauber mit '0/0' kann man sich sparen, wenn man den
+relativitischen Energiesatz (oder Impulssatz, je nach Geschmack) kennt:
+
+m^2 c^4 = E^2 - p^2 c^2
+
+Daraus ergibt sich zwanglos, dass für masselose Teilchen (m=0) der
+Impuls und die Energie bis auf eine proportionalitätskonstante vom
+Betrage her gleich sind, und zwar unabhängig davon, aus welchem
+Bezugssystem man sie betrachtet.
+
+
+[1] Die Unterscheidung zwischen Ruhemasse und bewegter Masse entspricht
+nicht der modernen Sichtweise, in der man bemüht ist, gleichen Dingen
+gleiche Namen, verschiedenen Dingen verschiedene Namen zu geben. Daher
+spricht man in der modernen Physik von Masse und Energie, dabei ist
+Masse eine Eigenschaft des betreffenden Teilchens und hängt nicht von
+seinem Bewegungszustand ab. Bedauerlicherweise hat sich das nicht zu
+allen Verfassern populärwissenschaftlcher Artikel herumgesprochen.
+-- 
+Space - The final frontier

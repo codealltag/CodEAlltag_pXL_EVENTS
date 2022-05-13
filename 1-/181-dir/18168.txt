@@ -1,0 +1,7 @@
+Wofur braucht man da das Kupfer ?
+Leitungen kann man auch aus Aluminium machen, 1kg Aluminium
+transportiert die gleiche Menge Strom mit weniger Verlusten als
+1kg Kupfer.  In den USA hat man frueher einmal Natrium fuer unterirdische
+Stromleitungen verwendet, pro kg ist das noch besser als Aluminium.
+Das Problem ist dass die Leitungen dicker sind und deshalb mehr Isoliermaterial 
+brauchen.

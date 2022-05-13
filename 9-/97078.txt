@@ -1,0 +1,4 @@
+Bisher war es eine 10-stellige Kontonummer und 8-stellige Bankleitzahl
+Künftig ist es eine 22-stellige IBAN und eine 8 oder 11-stellige BIC.
+
+Fällt Dir da kein Unterschied auf?

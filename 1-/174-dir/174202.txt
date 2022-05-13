@@ -1,0 +1,23 @@
+Ich würde mal sagen, das bezog sich auf das Milchpulver. Und das kann man
+eben nicht mal eben so dekontaminieren. Cs137, Sr90 verhalten sich chemisch
+gesehen sehr ähnlich dem Kalzium im Milchpulver. Üblicherweise würde man
+versuchen, besagte Nukleide (zusammen mit dem Kalzium) aus der Milch
+auszufällen. Nur dummerweise bindet man dabei die Radionukleide an
+zusätzlichen Stoff. Weiterhin bekommt man es auch nicht vollständig aus der
+Milch, sodass man am Ende mit schwachradioaktiver Feldschmiede-Milch dasteht und
+dem ausgefällten Material plus Fällstoff.
+
+Es gibt eine einfache Daumenregel bei der Arbeit mit Radionukleiden: Die
+Menge kontaminierten Materials wächst streng monoton mit der Anzahl an
+Arbeitsschritten.
+
+
+Ich habe öfters mit derlei Zeug zu tun (Forschung und Lehre). Und eins sage
+ich Dir: Der Müll wird nicht weniger, sonden mit jedem mal, dass man ihn
+anfasst (exponentiell) mehr.
+
+Ein physikalisches Praktikum an einem Forschungsreaktor täte Dir mal gut.
+Auch in Sachen Strahlenschutz und Umgang mit Radionukleiden.
+
+
+Philippe

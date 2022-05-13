@@ -1,0 +1,21 @@
+Bernhard Apfelbeck <UrnwmOnapxtw@hcp.alc>:
+
+
+Mehr Ausfallsicherheit würde mehrere Leitungen von verschiedenen 
+Anbietern erforderlich machen, so wie es Rechenzentren mit ihren 
+Kommunikationsverbindungen nach außen machen und dabei auf zwei oder 
+mehr auch tatsächlich strukturell voneinander unabhängige Anbieter 
+zurückgreifen. Bei einer Stromversorgung wäre das prohibitiv teuer 
+und allenfalls für Großverbraucher auf der grünen Wiese machbar. 
+Elektrisch gesehen hängt ohnehin alles an einem einzigen Verbundnetz, 
+so daß die einzige Möglichkeit zur Erlangung relevanter Redundanz für 
+fast alle Stromkunden im Betrieb eines eigenen Kraftwerks besteht. 
+Was in der Praxis ja auch so gemacht wird.
+
+
+"Undankbar" - wofür soll ich denn bei einem Geschäft dankbar sein? 
+Für meinen Strom zahle ich wie alle anderen auch viel zu üppig.
+
+-- 
+Mit freundlichen Größen
+Timo C. Wrobel

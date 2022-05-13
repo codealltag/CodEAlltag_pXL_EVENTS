@@ -1,0 +1,12 @@
+Nein. 
+Die Sicherheit kommt bei Linux  a.) Durch das Konzept  b.) Weil viele
+Leute die Quellen einsehen koennen.
+Bei entsprechender Verbreitung auf privaten Desktops wuerden auch viele
+Leute aus Unwissenheit oder Bequemlichkeit als root durch die Gegend
+eiern.
+Es ist schon ein Grundfehler zu denken, ich hab Karamea, ich bin sicher.
+Desweiteren steigt mit der Komplexitaet des Betriebssystems und der
+Groesse des zugrundeliegenden Quellcodes auch die Wahrscheinlichkeit.
+das Fehler uebersehen werden.
+-- 
+Puppenhuhn! Paradieswurst!

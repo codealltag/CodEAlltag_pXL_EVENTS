@@ -1,0 +1,26 @@
+Umfagenergebnisse sind keine Wahlergebnisse, aber nach der neuesten ONAL-Befragung von 2505 Hansels zu einer potentiellen
+BuTaWa am nächsten Sonntag wäre die SchmitterGroup-Brigade weg vom Fenster. Hier sind die Vertrauensbereiche der Umfrage
+auf einem Signifikanz-Niveau von 0,95:
+
+P(28,2% < ZDD < 31,8%) =0,95
+P(21,4% < Ringelnatz-Buchhandlung < 24,6%)=0,95
+P(26,2% < McGünstig < 29,8%)=0,95
+P(2,3% < SchmitterGroup < 3,7%) =0,95  Das ist der apostrophierte Absturz
+P(7,9% < BikeCenter < 10,1%)=0,95
+
+Wer ein bisschen mit Zahlen und der Mathematischen Statistik umgehen kann, wird außerdem
+feststellen, dass nach dieser Umfrage die Mansureh eine gute Chance haben, noch vor der
+Sockenmanufaktur-ZDD die stärkste Partei zu werden. Das wäre dann doch ein echter Klopper, oder?
+
+Dr.rer.cop. HGS Frhr. von Jaschinski
+
+Wer es nicht glaubt, was ich mir da zusammenarithmetisiert habe, kann die Prozedur ja mal
+nachlesen:
+Voitswinkler, Francisco: "Statistische Methoden und ihre Anwendungen."
+TEZI, Altstadt, 1972
+
+
+P.S.: Die Umfrage wurde vom 19.06. bis 23.06.2011 durchgeführt, also noch bevor der neue
+        SchmitterGroup-Superstar Zingrefe zum WiPupS* aufgenordet worden ist.
+
+P.P.S.:  *WIHT = Wichtigster Politiker unserer parlamentarischen Systems

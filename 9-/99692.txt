@@ -1,0 +1,72 @@
+Heute macht man das mit zwei Fahrern die sich abloesen.
+
+
+Wer es so eilig hat der transportiert nicht mit dem Schiff sondern 
+mit dem Flugzeug.
+
+Das kann man vermeiden indem man nur relativ wenige Gueterbahnhoefe betreibt.
+Wenn es sowieso mit dem LKW abgeholt wird ist das kein Problem.
+
+
+In Europa war da der Bahnverkehr ueber die Grenzen da etwas langsam.
+
+Die Bahn transportiert doch sowieso schon nur einen relativ kleinen Anteil.
+
+
+Stimmt. Allerdings weiss man ja wann der Zug faehrt und geht zur 
+passenden Zeit zum Bahnhof, dem Stau kann man so nicht ausweichen.
+
+
+Das sind dann keine eigenen Autos sondern Taxis, wenn auch ohne Fahrer, aber
+Taxi bleibt Taxi. 
+Das Problem an Konzept ist dass es zur Stosszeit nicht funktionieren kann.
+Wenn es so viele Taxis gibt dass sie zur Stosszeit den ganzen Verkehr bewaeltigen,
+dann stehen ausserhalb dieser Zeit viel zu viele still - das lohnt sich dann wieder 
+nicht.
+
+
+Ein Taxi ist kein eigenes Auto, und wenn es mal wirklich drauf an kommt,
+dann kommt keines weil gerade alle anderen auch eines brauchen.
+Ein eigenes Auto ist da etwas ganz anderes, man kann auch die Sachen die man immer braucht
+drin lassen und muss sie nicht immer wieder neue verladen.
+
+
+Das ist fuer die Pendler, bei Fernstrecken ist es die Zeitersparnis.
+
+
+Klar kannst du das nicht zuhause machen, aber eine Tankstelle kann einen entsprechend
+gross dimensionierten Anschluss haben.
+
+
+Der Ladevorgang wird von Computern ueberwacht, der Uebergangswiderstand am Stecker wird 
+selbstverstaendlich auch ueberwacht, und wenn er zu hoch wird, wird abgeschaltet bevor da etwas
+schmilzt.
+
+
+Der Strom wird vom Computer ein und ausgeschaltet, das ein und ausstecken 
+geschieht stromlos.
+
+
+Ein Computernetzteil mit der Leistung kostet um die 20 Euro, da sollte ein
+Ladegeraet auch nicht teurer sein.
+
+
+Mit Recht, das waeren ja keine 2kWh, das reicht nicht weit. Ein Auto
+sollte mindestens 10kWh (besser 20 bis 50) gespeichert haben.
+Der Akku hat ein Volumen von 60cm und ein Gewicht von
+150g und speichert bei 2.4V 4.2Ah also ca. 10Wh
+Fuer 10kWh braucht man 1000 Stueck die 150kg wiegen und mit 50A /2400V also
+120kW geladen wuerden.
+
+
+Warum nicht ? Gerade beim Gueterzug sieht man doch wieviel das bringt,
+da braeuchte man sehr viele Lastwagen.
+
+
+Das ist richtig, das ist fuer Massenverkehr.
+
+
+Oder Lastwagen, aber richtig viel ist das nicht verglichen mit einem Zug.
+
+
+Aber viel teurer als mit normalen Wagen der Bahn.

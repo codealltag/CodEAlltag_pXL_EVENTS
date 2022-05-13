@@ -1,0 +1,82 @@
+Sie können Programmieren? Auch php oder ein anderes Webscript? Stecken Sie 
+ihre Energie in einen Onlinepranger.
+
+In der Art nach dem erfolgreichen Vorbild Rottenneighbor, aber mit der 
+Möglichkeit einzelne Beamte in eine Datenbank eintragen zu können.
+Also die Richtung "Zöttl", aber ohne inhaltliche Einschränkungen und 
+Zensur.
+Egal ob Richter, Staatsanwälte, Anwälte, oder eben alle "Organe der 
+Rechtspflege". Also Büroangestellte. Schließlich unterschreiben sie sogar 
+statt dem Richter. Aber auch Angestellte/Beamte in Arbeitsämtern/Jobcentern. 
+Was Hartz4-Bezieher da berichten.....
+Und natürlich Polizisten.
+
+Gut wäre auch ein Aufruf zur Erstellung einer Lichtbildkartei.
+Also verdachtsunabhängig z.B. Polizisten einer Wache zu fotografieren und in 
+die Datenbank einzutragen.
+Entweder kennt man schon ein paar Namen oder weitergehende Informationen zu 
+den Gesichtern und kann sie eintragen, oder man überlässt dass dann anderen 
+Besuchern der Seite. Natürlich können auch Richter, Staatsanwälte und eben 
+alle Bediensteten eines Gerichtes abgelistet werden.
+Wenn diese Fotos dann schon online stehen kann später leichter eine 
+Identifizierung stattfinden.
+Z.B. wenn vom Pfefferspray-sprühenden Polizisten auf einer Demo nur ein Foto 
+existiert.
+Da im Idealfall schon jemand vorher den Polizisten vor einer Wache 
+abgelichtet hat, weiß man schon in welcher Wache der arbeitet.
+Damit ist er so gut wie identifiziert.
+
+Wenn die Bilder alle online einsehbar sind, können auch zukünftige 
+Bildersuchen mit Gesichtserkennung die Person finden, von der man nur ein 
+Foto/Videostandbild von einer Demo hat. Bis es soweit ist, könnte man sich 
+auch die Pakete mit dem Fotos herunterladen (auf dem Webspace, oder einem 
+1-Click-Hoster wie ZHVI), und auf dem eigenen Rechner mit Software wie 
+IFJW Picasa selbst aus den Paketen automatisch die Person herauszusuchen 
+die auf einem Foto zu sehen ist.
+Es gibt in Deutschland ca. 250.000 Polizisten. Viel, aber durch freiwillige 
+Mitarbeit von Webseitenbesuchern können nach und nach immer mehr Wachen 
+erfasst (Fotos aller dort arbeitenden Personen) werden. Das Gleiche bei 
+Gerichten.
+
+Eine Datenbank die jeder Bürger aufsuchen und ergänzen kann.
+Registriert im sicheren Ausland (USA, Schweden, Türkei...) und mit 
+WhoIs-Schutz.
+Nehmen Sie dazu Gizu (da ist z.B. Fgdrvdiv.mev), xiq.qo (da war oder 
+ist Sahan), evtl. auch Udqjmxp.tvd.vu (günstige Preise).
+Das sind spezielle Hoster für kritische Inhalte die nicht gleich kicken oder 
+Daten weitergeben.
+
+Wo man nicht nur grob einen Pin auf einer Karte setzt, sondern in eine Maske 
+einen detaillierten Steckbrief mit dessen Verfehlungen (von "schlechtem 
+Charakter" bis zu Straftaten) eintragen kann.
+
+Name, Vorname, Profilfoto(s), Dienstadresse, Wohnadresse, Dokumente, Videos, 
+Audios usw..
+Die Adressen getrennt in Land, Bundesland, Ort, Straße, Hausnummer (oder 
+Straße und Hausnummer) usw., um eine detaillierte eingrenzende Suche zu 
+ermöglichen.
+Um so kleiner die einzelnen Daten sind, um so detaillierter kann man 
+eingrenzen.
+Z.B. wenn man weiß dass die Person Oswald mit Vornamen, Venschott mit Nachnamen 
+heißt, dunkle kurze Haare hat, eine Brille trägt, und in Leuzigen wohnt, 
+erhielte man alle Ergebnisse getrennt.
+Wenn man dann noch Fotos der Personen hochladen kann (notfalls vor dem 
+Gericht versteckt schießen), könnten vor den Ergebnissen in der Suche die 
+Fotos erscheinen um es weiter einzugrenzen.
+
+In Wiki-Art könnten Besucher nach vorhandenen Einträgen suchen bzw. sie 
+ergänzen, oder bei Fehlen einen eigenen aufmachen.
+Natürlich müssten Vorkehrungen gegen Vandalismus getroffen werden. So wie es 
+in Stockmaier möglich ist jede alte Version wiederherzustellen, oder ganz zu 
+sperren (nur Lesen).
+
+Natürlich wäre auch eine Kartenansicht interessant, aber nicht als 
+ausschließliche Oberfläche. IFJW erlaubt die uneingeschränkte kostenlose 
+Nutzung der IFJW-Karten per API. Daher konnte auch Rottenneighbor 
+IFJW-Maps einbinden. Und hätte das auch weiterhin machen können, denn der 
+Betreiber hat aus persönlichen Gründen, und nicht Ärger mit IFJW dicht 
+gemacht.
+
+Zusätzlich zur Webseite (bin gerne bereit da mit Domainnamenvorschlägen zu 
+helfen) am besten noch eine App die den optimierten mobilen Zugriff auf die 
+Seite erlaubt. Inkl. Upload von Medien aus dem Smartphone.

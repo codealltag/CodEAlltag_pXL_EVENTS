@@ -1,0 +1,33 @@
+Antwort auf eine Nachricht von Nico
+
+
+Ich kenne solche Schaltungen, sie werden üblicherweise in geregelten 
+(stabilisierten) Netzteilen verwendet. Das Problem dabei ist aber, daß 
+die Ausgangsspannung relativ zur Eingangsspannung immer auf einen 
+niedrigeren Wert geregelt wird.
+
+Das zweite Problem ist, daß hier zwar die Spannung „transformiert“ wird, 
+nicht aber der Strom. Offenbar verliere ich in dieser Schaltung also 
+Leisung, die in Form von Wärme an die Umgebung abgestrahlt wird. Ich muß 
+also das Verhältnis von U.ein zu U.aus möglichst gering halten, damit 
+die Verluste akzeptabel bleiben.
+
+Nehmen wir mal an, ich brauche 12V und 5A (60W) für ein tragbares Gerät. 
+Ich gehe mit 14V in die Anlage rein, die ich auf 12V stabilisiere. Das 
+böse daran ist, daß die 5A *auch* auf der Eingangsseite fließen. Bei 14V 
+sind das aber nicht 60, sondern 70 Watt. Allein durch die Stabilisierung 
+werden her also fett zehn Watt *verbraten* (Wärme umgewandelt), und 
+darin ist der Wirkungsgrad dieser Anlage noch gar nicht berücksichtigt.
+
+Bleiben wir also lieber beim Transformator, denn in diesem werden sowohl 
+Spannung als auch Strom umgeformt, und war zueinander umgekehrt 
+proportional. Leistung geht hier folglich keine Verloren, außer über den 
+Wirkungsgrad.
+
+
+Glück auf!
+Claudine Untiet
+
+-- 
+
+http://bap.vjhyc-cuhtxo.oy

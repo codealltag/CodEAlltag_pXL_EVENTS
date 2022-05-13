@@ -1,0 +1,27 @@
+Otmar sagt, dass "%" eine Einheit ist, wie z.B. Meter. Wenn man zwei
+Strecken addiert, dann geht das so: 5 m + 7 m = 12 m.
+
+Analog sollte das auch mit Prozent gehen: 19% + 6% = 25%
+
+Nur ist "%" keine Einheit, sondern benötigt einen Grundwert. Wenn der
+Grundwert ein Nettobetrag ist, dann hat Otmar Recht, denn 19% * Netto
++ 6% * Netto = 25% * Netto = Brutto. Anschaulich zu sehen, wenn man, wie
+ich schon schrieb, von einem Brutto-Preis von 119 Euro ausgeht, in dem
+19 Euro MwSt. enthalten sind. Nach Erhöhung der MwSt. auf 25% ist der
+neue Bruttopreis dann 125 Euro und die darin enthaltene MwSt. dann 25
+Euro. Es sind also 6 Euro mehr ans Finanzamt zu zahlen als vorher.
+Bezogen auf die vorherigen 19 Euro sind das 6/19*100% = 31,16% mehr.
+
+Wenn man jetzt also sagt, die MwSt wird um 6% erhöht, ausgehend von 19%,
+dann ergibt sich: 19% + 6%*19 = 19% + 1,14% = 20,14%. Also 19% plus 6%
+_von_ den 19%, was die genannten 20,14% ergibt.
+
+Tatsächlich aber wird die MwSt um 6/19 des ursprünglichen MwSt-Satzes
+erhöht, also 19 + (6/19)*19 = 19 + 0,316*19 = 19 + 31,16%*19 = 19 + 6 = 25.
+
+Deshalb spricht man ja in solchen Fällen von Prozentpunkten, um die ein
+Prozentsatz erhöht oder verringert wird.
+
+Wenn das jemand besser erklären kann, dann bitte vor!
+
+S.

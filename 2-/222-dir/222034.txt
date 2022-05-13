@@ -1,0 +1,10 @@
+Hallo Pierre,
+
+
+bin halt fast von Anfang an dabei, die meisten hier koennen sich garnicht vorstellen wie muehsam das
+frueher war eine Datei zu laden. Erst mit dem VT100 ueber die serielle Schnittstelle im Rechnenzentrum
+einloggen, dann per CommandlineFTP mit der Uni in Amiland verbinden, dann die Datei auf den Account
+laden und anschliessend seriell mit Tino die Datei auf den PC ziehen, das war richtige Pionierarbeit.:-)
+
+Gruss
+Fernand

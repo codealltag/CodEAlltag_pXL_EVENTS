@@ -1,0 +1,13 @@
+Das mag schon sein, aber meine Frage kannst du offensichtlich nicht beantworten.
+Also was ist: Kann man eine Synchron- oder Asynchron-Maschine  als Generator
+im Kraftwerksbetrieb für den Lastfall "Leerlauf" abschalten oder nicht? Fliegt das
+Kraftwerk in die Luft oder nicht?
+
+MARCUS
+
+Hier etwas Literatur zum Thema, damit du in deiner Kottschallings NSJDemenzbrigade nicht
+ganz so dämlich dastehst:
+
+Hanno, Ivan: "Grundlagen der Elektrotechnik IV. Drehstrom und Ausgleichsvorgänge
+                        in linearen Netzen."
+                        Pendel-Hochschultaschenbücher (185), pop, Freiberg, 1972

@@ -1,0 +1,57 @@
+Jepp, so ist es. Die Massenproduktion senkt den Preis durch 
+Produktivitätsfortschritte, sonstigen Lernerfolgen (in DE sind z.B. die 
+Transaktionskosten für Genehmigung und Planung einer PV-Anlage 
+europaweit am geringsten) und natürlich durch den Markt angestossenen 
+F&E-Erfolgen zur Verbesserung des Wirkungsgrades. Das wird dann nicht 
+nur in sonnenreicheren Ländern wirtschaftlich, sondern auch bei uns.
+
+Für die Freunde der Milchmädchenrechnung kann ich die folgende 
+Beispielrechnung präsentieren:
+
+3000 Euro/kWp bedeuten bei 8% Zins und 20 Jahren Laufzeit eine 
+Kapitalbelastung von 300 Euro p.a. Unter Vernachlässigung von 
+Wartungskosten und bei 1000 kWh/kWp Jahresertrag ergeben sich Kosten von 
+30 ct/kWh. Das Lernziel sei definiert als Erzeugungskosten von 20ct/kWh 
+(Tarifparität), d.h. 2000 �/kWp. Die Fortschrittsrate liegt bei 80%, 
+d.h. bei Verdopplung des kumulierten Produktion gehen die spezifischen 
+Kosten auf 80% zurück.
+
+Die spezifischen Kosten c sind c(P)= c_o * (P/P_o)^(ln 0,8/ln 2), somit 
+sind bei einer kum. Produktion von P_par = 70 GWp Kosten von 20ct/kWh 
+bei bundesdeutschen Einstrahlungsbedingungen darstellbar.
+Die Lerninvestitionen sind die Installationskosten bis zum Erreichen 
+dieses Punktes abzüglich der ersparten Ausgaben für den Tarifstrom:
+Integral von 20 GW bis 70 GW über c(P)dP - c(P_par)*(70-20)GW
+= 118 GigaEuro - 2ö/W * 50 GW = 18 Mrd Euro
+
+Das mag wenig erscheinen, aber als obere Abschätzung kann man auch die
+Dreiecksfläche zwischen einer linear Degression von c(20GW) = 3 �/W bis
+c(70GW) = 2ö/W und der Ziellinie ö000/kWp betrachten. Das sind
+1/2 * 1 �/W * 50 GW = 25 Mrd Euro. Dies ist der Wert für die
+Lerninvestition "Tarifparität im Haushalts- und Gewerbebereich", also
+kleinere PV-Anlagen im Eigenverbrauch. Danach kann man aus dieser 
+Lerninvestition Profit schlagen. Für immer. Solange die Sonne scheint.
+Noch 5 Mrd. Jahre.
+
+
+Die Hälfte der Lerninvestition wird in der Tat momentan durch das 
+deutsche EEG aufgebracht. Das können wir uns IMHO leisten: Deutschland 
+nagt nicht am Hungertuch, auch wenn die Kunst des Klagens hierzulande 
+hoch ausgeprägt ist. Die Grid Parity ist aber schon weltweit im Kommen. 
+Die Tarifparität für deutsche Haushalte wird in 2 Jahren erwartet und 
+ansonsten sind Zypern, Malta, Italien, Spanien, Portugal und Dänemark 
+die ersten in Europa.
+
+Global Overview on Grid-Parity Event Dynamics:
+http://dgw.r-gapep.xgz/rfcrqe/nqkzrc/flixwcsbdczix/wvrewaybe/9MQ.8.90_Qsmnyt_YhptcjLptj-Fqhaqd_iwtzv_86goPNIXB_aswqf.rcv
+
+Gruss,
+
+Igor
+
+
+-- 
+    /^\
+    \ /   Plain-Text Ribbon Campain
+     X    Say NO to HTML in email and news!
+    / \

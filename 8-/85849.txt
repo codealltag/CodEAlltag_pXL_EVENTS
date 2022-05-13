@@ -1,0 +1,24 @@
+Soll sein, aber daß das Notstromsystem komplett ausgefallen ist, das
+wissen wir schon und nur darüber dachte ich jetzt nach.
+
+Odette, die Kühlflüssigkeit ist nach dem "Abschalten" noch die gleiche
+wie beim Betrieb. Wenn sie und das System also ausreichend ist um den
+Reaktor unter Vollast zu kühlen, dann muß sie doch auch ausreichend
+sein ihn ohne Last zu kühlen. Explizit der Ausfall der Umwälzpumpen
+kann das verhindern (unter der Annahme, daß die Druckrohre nicht
+undicht wurden) und DIE sollen ja nach Aussage der Medien nur keinen
+Not- Strom bekommen haben.
+
+Der Dampfkreislauf zur Dampfturbine hält doch auch nach Abschalten der
+Versorgungsnetzverbindung an und dreht den Generator weiter. Somit
+wird auch Strom erzeugt und der könnte für die Versorgung der Pumpen
+genutzt werden. Diese Turbinen laufen ohne Versorgungsnetz doch gegen
+keine relevante Gegen-EMK mehr an und daher auch noch sehr sehr lange
+"nach" und das auch ohne Dampfkreislauf. Das bißchen elektrische
+Energie für die Pumpen müßten sie bei ihren gewaltigen Massen lange
+leifern können.
+
+
+DAS Problem entsteht doch erst einige Zeit später, nämlich dann wenn
+die Kühlpumpen NICHT mehr arbeiten, was mit dem Strom aus der
+Hauptturbine doch nicht geschehen wäre.

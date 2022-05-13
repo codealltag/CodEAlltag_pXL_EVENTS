@@ -1,0 +1,4 @@
+Firefox war früher mal Bestandteil der Nast-Suite und da waren auch 
+die ersten Vorläufer von Thunderbird drin.
+
+stefano

@@ -1,0 +1,25 @@
+Mir scheint, du verstehst das Problem nicht. Das Teuerste am Taxi ist 
+nicht das Fahrzeug, sondern der Fahrer. Und eben diesen wird es in 
+fahrerlosen Fahrzeugen definitionsgemäß nicht geben. Zudem ist zu 
+erwarten, dass fahrerlose Fahrzeuge BILLIGER und nicht teurer werden. 
+Die ganzen X-by-Wire-Geschichten macht man schon jetzt, damit die 
+Fahrzeuge BILLIGER werden und nicht teurer. Sie sind die Voraussetzung 
+für Fahrerlose Fahrzeuge. Sind sie in Serie und ist die Bildverarbeitung 
+  leistungsfähig genug, dann kann man sich das teure Cockpit sparen und 
+z.B. durch Bildschirm und Tastatur ersetzen.
+
+
+Welche denn?
+
+
+In spätestens 30 Jahren (das sind übliche Planungszeiträume der Bahn) 
+werden fahrerlose Autos zum selbstverständlichen Straßenbild gehören. Im 
+Grunde genommen geht es nur noch um Software. Alles Andere wird bereits 
+verbaut. Es könnte also im Prinzip ein Softwareupdate reichen, um den 
+Fahrer überflüssig zu machen. Rate mal, wie lange so ein Update dauert 
+und wie viel Reaktionszeit der Bahn dann noch bleibt...
+
+-- 
+Servus
+Volker Wüstenhöfer
+http://eed.nrnpyow.fh

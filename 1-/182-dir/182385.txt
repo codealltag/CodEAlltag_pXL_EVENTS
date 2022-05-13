@@ -1,0 +1,31 @@
+Dirk Lohoefer <vkjh@xqjbudc.bej> wrote in news:0m0jy4u2$4$52665$7a1u0t66
+@vfljkihlf8.whkfa-nsnvhy.fkf:
+
+es 
+
+JessasMariaundJosef!
+
+Mir geht es um die Datensicherheit!
+Wenn du beispielsweise 1 Informationsheit über 1 Server an 100 User über 
+http versendest, somit hat 1 Server gleich 100 Assoziationen von 
+100 Realpersonen gespeichert!
+Es genügt das Knacken EINES Servers.
+
+Wenn du aber beispielsweise einen Majordomo benützt, so mußt du 
+100 SMTP - IPs +
+1 Majordomo - IP +
+100 POP3 - IPs
+
+= ZWEIHUNDERTUNDEIN Server knacken!
+
+um an dieselben Verknüpfungen zu kommen !!!
+
+
+capisce???
+
+
+Gruß J.T.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

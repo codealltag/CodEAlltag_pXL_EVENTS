@@ -1,0 +1,6 @@
+after = Arschloch
+eight = Acht
+
+= Arschloch Acht
+
+Und das ganze schokoladig. Passt irgendwie.

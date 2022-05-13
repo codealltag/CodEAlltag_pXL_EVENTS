@@ -1,0 +1,5 @@
+Ja, aber die Aussage, auf die du geantwortet hattest, war:
+
+"Durch den höheren effektiven Wirkungsgrad des E-Motors braucht man 
+eine deutlich geringere Kapazität in kWh". Dafür ist aber nur der 
+Wirkungsgrad ab Akku relevant.

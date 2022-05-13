@@ -1,0 +1,1 @@
+Du könntest eine GnuPG Signatur verwenden, das wäre eindeutiger.

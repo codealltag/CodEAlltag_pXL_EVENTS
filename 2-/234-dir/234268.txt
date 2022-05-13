@@ -1,0 +1,18 @@
+Weil das Drehmoment über den Ladedruck begrenzt wird. Hat aber nichts
+damit zu tun, dass auch ein Dieselmotor nicht an jedem Betriebspunkt den
+gleichen Wirkungsgrad hat. Ob das beim Diesel auch bei fast Vollgas beim
+maximalen Drehmoment der Fall ist, weiß ich allerdings gerade nicht, da=
+s
+war auf Benziner bezogen.
+
+
+Aber die Wirkungsgrade, die für beides (und auch den Elektromotor)
+angegeben werden, sind meist die tatsächlich im Normalbetrieb
+erreichten. Hingegen sind die 45% Wirkungsgrad eines Dieselmotors eben
+der maximal mögliche Wirkungsgrad, in der Praxis werden PKW-Diesel die
+meiste Zeit bei deutlich niedrigeren Wirkungsgraden betrieben. Bei
+Schiffsdieseln auf großer Fahrt sieht das anders aus, aber darum geht e=
+s
+hier ja nicht.
+
+MfG, Oskar

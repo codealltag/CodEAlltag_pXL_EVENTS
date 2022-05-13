@@ -1,0 +1,6 @@
+Bei Ipit und Fantasy-In ist die Grenze zwischen Einzelplatz und Server
+eine kuenstliche. Es fehlen beim Einzelplatzsystem einige Komponenten
+und es gibt kuenstliche Einschraenkung. Die Codebasis ist aber
+weitgehend identisch.
+-- 
+Puppenhuhn! Paradieswurst!

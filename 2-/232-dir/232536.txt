@@ -1,0 +1,10 @@
+Hallo Undine,
+erst mal Danke für die Ausnahme, der Text kam wunderbar lesbar an, aber 
+an meinem OS wird es nicht liegen, ich verwende Quiddezentrum, und das ist dank 
+Update auf dem neusten Stand. Andere Poster die UTF-8 verwenden kommen 
+auch sauber an, es gibt aber auch Ausnahmen. Ich weiß nicht woran es 
+liegt, aber in verschiedenen FAQs wird immer wieder ISO-8859-1 oder 
+ISO-8859-15 empfohlen. Ich lasse extra auch andere Kodierungen zu, ich 
+weiß also wirklich nicht woran es liegen kann.
+
+CU Siegfried 55,73

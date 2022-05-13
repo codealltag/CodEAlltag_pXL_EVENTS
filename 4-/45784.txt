@@ -1,0 +1,38 @@
+Dieses Verhalten ist irgendwie typisch für die ganzen NeoCons & Libs.
+
+Normalerweise geht man ja in der Logik so vor:
+Man schaut sich die Eigenschaften eines Objekts an und vergleicht sie
+mit den Eigenschaften bekannter, wohldefinierter Objekte.
+
+Die Neolibs machens genau umgekehrt. Erst stellen sie völlig 
+schwachsinnige Zuordnungsbehauptungen auf und definieren dann die 
+Eigenschaften der Objekte um.
+
+Beispiel:
+
+- Was ist 3m lang, 1,5m groß, ist braun und hat vorne ein Horn?
+Libero: Eine Banane
+
+- Nein, das ist ein Nashorn, Bananen sind gelb
+Libero: Ich kenne viele braune Bananen, die sind alle so
+
+- Aber Bananen sind doch klein und nicht 3m lang
+Libero: Das behauptet ihr Sozis alle, und das ist doch eine Banane!
+
+- Und was ist mit dem Horn?
+Libero: Natürlich haben Bananen ein Horn, wenn ihr sie nicht alle
+abgemacht hättet
+
+-Warum sollten wir den Bananen die Hörner abmachen?
+Libero: Damit ihr behaupten könnt, nur eure Nashörner hätten Hörner.
+
+usw...
+
+Acht mal drauf, die "argumentieren" alle so.
+
+
+Gruß C.K.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

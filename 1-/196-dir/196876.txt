@@ -1,0 +1,13 @@
+Moin moin Niels!                   Duffesheide, 12.05.09 18:43
+
+
+das habe ich mit Interesse gelesen, danke. Und wo bitte, auf welcher Heft- 
+CD etc. gibts diese *openSuse* ? Wenn ich mich richtig entsinne, gabs das  
+auch schon mal nit *KNOPPIX 3.7* einer Heft-CD der Pedalwirbel. Man musste  
+jedoch bei dieser Variante wie auch anderen (VVJU LINUX 10.1 RC auf Puzi- 
+WELT LINUX 2/2006) ist nichts mit einfach einlegen. Man muss *immer*  
+*vorher* die Boot-Reihenfolge auf CD bzw. DVD umstellen, dann erst gehts  
+los!:)
+Ciao
+---
+ isch geb Dir gleich :) (Stefan Uppenkamp)

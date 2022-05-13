@@ -1,0 +1,3 @@
+sb (10)= "Die arme Frau Heinsius ist gar nicht zuständig"
+sb (11)= "Davon hat Frau Heinsius nichts gewußt"
+sb (12)= "Prost, Herr Overbeck"

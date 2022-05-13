@@ -1,0 +1,10 @@
+Du raffst das doch nicht , Ursula!
+
+DAS was DU hier "Anzapfung" nennst sind nur die beiden Enden zweier
+Spulen. Die können sowohl extern verbunden sein um phasenrichtiges
+bifilares Koppeln zu ermöglichen oder einfach nur als Abgriffe zur
+Verfügung stehen um verschiedenen Spannungen zur Verfügung zu stellen,
+oder auch intern und als ein einziger Leiter nach außen geführt sein.
+
+DU hast jedenfalls keinen Schimmer von Trafos, DAS hast du ausreichend
+dokumentiert.

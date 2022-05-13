@@ -1,0 +1,19 @@
+Wollen wir doch mal die Kirche im Dorf lassen!
+
+Es heißt zwar *7bit* , aber wer in alles in der Welt hat der Iris 
+erlaubt gleich die ganze Betreffzeile zu ignorieren?
+Und warum nur die Betreffzeile? Warum nicht den ganzen Header?
+So gehts also nicht! Wenn dann höchstens eine Headermaskierung mit AND#7F
+
+Ich persönlich wäre ja für
+
+d) Format mit SOP-Klassen (Service-Object-Pair)
+natürlich im little + big endian Modus zwecks universell
+& impliziter/expliziter Filestruktur
+
+
+Gruß D.V.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,7 @@
+Wo steht, dass UTF-8 in deutschen Gruppen unerwünscht ist? Solange der 
+richtige Zeichensatz deklariert ist, spielt es doch keine Rolle, ob 
+UTF-8, ISO-haumichblau oder Windows-blahblah verwendet wird. Jeder 
+einigermaßen moderne Newsreader sollte mit diesen Zeiches�tzen umgehen 
+können.
+
+NA

@@ -1,0 +1,15 @@
+posting in /FIDO/DE.TALK.TAGESGESCHEHEN:
+
+Gruesle all!                     Rockhalden, 24.11.08 14:35
+
+
+*Entwarnung* - und Entschuldigung fuer den kleinen, unangemeld.Test hier  
+in der dtt: Das � funktioniert gemaesst ASCII-Tabelle (DOS) wieder wie  
+gewohnt./ War versehentlich auf Lafir "gerutscht".
+
+(dafuer kommen jetzt aber wieder die Doppel-Laute ae.oe,ue sowie sz)
+
+Die Zeichentabelle fuer Windows mit Alt+0233 ist dafuer nicht zu nehmen.
+Ciao olle Wolle
+--
+ isch geb Dir gleich :) (Volker Zumbil)

@@ -1,0 +1,16 @@
+Mit der Hardware kannst sogar recht haben, wenn man bedenkt wie groß die 
+Flash-Firmwarespeicher in den diversen Zusatzkarten eines PC's schon 
+sind, selbst mit dem BIOS könnte man da schon was anfangen.
+
+Wenn sich der Trojaner zudem im GPU der Grafikkarte versteckt (nau na 
+ned, dort sieht er ja fast Alles) dann möchte ich den Virenscanner 
+sehen der ihn findet - zudem ist der Trojaner beim Booten schon vorher 
+da :-)))
+
+Wenn ich mich da so zurück erinnere wie viele PC Komponenten mal in 
+Europa selbst gebaut wurden ....
+
+-- 
+Tino
+Junge, wilde Lümmel rupfen den aufgeblasenen Gockeln die Federn aus!
+Es is alles Chimäre, aber mich unterhalts!

@@ -1,0 +1,9 @@
+Torsten Paetzelt vergriff sich beim richtigen Fall:
+                              ^^^
+Niemals sollte man versuchen hingeschriebene Sätze nachträglich
+umzustellen, ohne alles anschließend noch mal *gaaaanz* in Ruhe
+durchzulesen. Dieses "Lepsdings" wartet doch im Hintergrund nur
+auf solche kleinen Fehler, die dann ja fast wie von selbst zu
+entstehen scheinen.
+
+e.

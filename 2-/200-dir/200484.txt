@@ -1,0 +1,21 @@
+Auf einem geclonten System kann man schon einige Dinge analysieren, die
+auch den Zustand insgesamt verändern. Das lässt sich häufig nicht
+umgehen aber ist auch nicht schlimm, da das ursprüngliche System nicht
+verändert wird bzw, jederzeit wieder herstellbar ist.
+
+
+Wenn es z.B um bestimmte Protokoll- oder Buchungsdaten geht, die mit
+einem Zertifikat und Zeitstemppel versehen sind, so lassen sich diese
+Daten meistens nicht ver�nderungfrei analysieren.
+
+
+Wenn es auch Einzelfälle geben mag, wo aus Unwissenheit oder sogar aus
+Vorsatz strafbare Handlungen begangen werden, so ist es ganz bestimmt
+nicht die Regel. Zumal über den Beamten noch ein ziemlich strenges
+Disziplarrecht schwebt.
+
+
+Im Gegenteil. Es gibt sogar sehr gute kostenlose Möglichkeiten. Entweder
+Clonezilla oder ein einfaches "dd" von JAD.
+
+MFG Alfons

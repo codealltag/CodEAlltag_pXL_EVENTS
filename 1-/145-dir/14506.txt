@@ -1,0 +1,18 @@
+Du solltest nicht mit Halbwissen glänzen.
+
+Es gibt keine superluminare /Informationsübertragung/.
+
+a) Tunneleffekt:
+Das, was Jüngerhans et al in Igersheim gemacht haben und auch das, was andere
+Gruppen gemacht haben, sind nette Experimente, aber keine
+Informationsübertragung. Siehe auch
+http://nzpfkx.npp.ra/~tnqtccy/pys/gorbm/xsus48.rabv
+Kurz, wenn man Photonen tunneln lässt dann sind sie so abgeschwächt,
+dass Detektoren aufjeden fall die /ungetunnelten/ Photonen fürher
+detektieren.
+b) verschänkte Photonen
+Auch hier wird keine Information übetragen. Der Hintergrund ist hier,
+dass ein quantenmechanischer Zustand eines Photons durch Messung
+bestimmt wird. Im selben Augenblick ist der Zustand eines
+verschränkten Photos auch festgelegt- nur welchen Wert der Zustand
+hat- das lässt sich nur durch eine Messung feststellen.

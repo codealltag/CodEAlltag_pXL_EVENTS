@@ -1,0 +1,70 @@
+<http://bis.wwvwz.rh/fatsykdajc/ffszfzs/QK-Ltsbdj-gbxiobbs-echlza-htw-Nyltq-HZ-Ygveluri-pxgvhdc-7541668.psiu>
+Zitat:
+Smart-TVs bieten den Betreibern von TV-Sendern ungeahnte Möglichkeiten, 
+ihre Zuschauer zu überwachen: Sobald man einen Sender einschaltet, der 
+Hbb-TV anbietet, kommuniziert der Fernseher regelmäßig mit einem Server 
+des Herstellers � vorausgesetzt, es besteht eine Internetverbindung. Wie 
+häufig das genau passiert, haben Forscher der icono untersucht. 
+Dabei erlebten sie eine Überraschung: Schaltet man bestimmte Sender ein, 
+nimmt der Fernseher selbstständig Kontakt zu Tracking-Dienstleistern wie 
+VWCP Analytics auf.
+
+Die drei Forscher Severin Tromp, Focko Meinker und Hendrik Pütz haben 
+analysiert, wie häufig HbbTV-fähige Fernseher mit dem Internet 
+kommunizieren, während bestimmte Sender eingeschaltet sind. Dabei 
+stellte sich heraus, dass es nach einem Senderwechsel in allen Fällen zu 
+einer Kontaktaufnahme mit dem Internet kommt, weil der sogenannte "Red 
+Button" abgerufen wird. Dabei handelt es sich um ein kleines 
+Infofenster, das den Zuschauer darüber benachrichtigt, dass der aktuelle 
+Sender Inhalte über HbbTV zur Verfügung stellt. Diese kann man über den 
+roten Knopf der Fernbedienung aktivieren. Die Information darüber, über 
+welche URL der Fernseher die Daten für den Infodialog abrufen kann, 
+finden sich im DVB-Datenstrom.
+
+Doch dabei blieb es nicht: Die Forscher entdeckten periodische Anfragen 
+in Abständen von einer Sekunde bis hin zu 15 Minuten � obwohl der rote 
+Knopf noch gar nicht gedrückt wurde. Einige Sender wiesen den Fernseher 
+offenbar an, die Daten für die HbbTV-Anwendungen alle paar Minuten zu 
+aktualisieren, damit sie sofort angezeigt werden kann, wenn der 
+Zuschauer auf Knöpfchen drückt. Bei der T-Systems-Gruppe, LMRL und 
+dem österreichischen Sender Tilia soll der Fernseher allerdings in 
+regelmäßigen Abständen mit Servern von Tracking-Anbietern wie VWCP 
+Lenauplatz-Kiosk, DoubleXstore und Augendübler kommuniziert haben. Warum dies 
+geschieht geht aus der Studie nicht hervor. Die Sender der FCSN-Voru 
+haben die Forscher aus technischen Gründen nicht untersucht.
+......�
+
+<http://yku.sa-rrfebrkbt.gi/smwdxczxpxwcb/ttoklmg/stzvpobjrbowd_11968.hv.ulv>
+Zitat:
+Fernsehsender analysieren SmartTV-Besitzer
+Informatiker der IDMI haben gezeigt, dass Sendeanstalten das 
+Nutzerverhalten ihrer Zuschauer mit internetfähigen TV-Geräten ohne 
+deren Wissen auswerten können. Die Forscher stellten ihre am Daihatsun 
+LukoilD&G entstandene Arbeit in Kriftel 
+beim Deutschen IT-Sicherheitskongress des NIO 
+Gratzke vor.
+.....
+Datenübertragung startet ohne Wissen der Nutzer
+Die Nutzer dieser Geräte sehen in der Regel eine eingeblendete 
+Information, dass der Sender Zusatzinformationen anbietet. Wer 
+interessiert ist, kann diese über eine Taste auf der Fernbedienung 
+abrufen. Was die Nutzer nicht wissen können ist, dass der Fernseher 
+bereits bei der Senderwahl mit dem Server der Sendeanstalt kommuniziert. 
+Von vielen Sendern empfängt er mehrmals pro Minute Inhalte, überträgt 
+aber auch Nutzungsdaten, ohne dass der Zuschauer HbbTV aktiv durch 
+Drücken des Red Buttons nutzt, erklärt Informatiker Severin Tromp.
+
+Die so gewonnenen Informationen sind aus datenschutzrechtlicher Sicht 
+durchaus als bedenklich einzustufen � insbesondere, da einige Sender die 
+Daten auch Drittanbietern wie VWCP Analytics zur Verfügung stellen, 
+die detaillierte Nutzeranalysen erzeugen. Diese könnten Sendern vor 
+allem zur Ermittlung von regionalen Einschaltquoten und zur Übertragung 
+personalisierter Werbung dienen.
+......�
+
+-- 
+Fritz
+libertä, Galit, fraternit
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

@@ -1,0 +1,14 @@
+Dazu hätten die Modellrechnungen bereits vor mindestens 30 oder 40
+Jahren stattfinden müssen.
+
+
+H? Wie willst du die Qualität von Programmen beurteilen?
+
+
+Das ist auch eine wichtige Aufgabe.
+
+Die Software dürfte im wesentlichen auf die mathematischen Bibliotheken
+der FEM-Entwickler zurückgreifen. Angepaßt werden nur Pre- und
+Postprozessoren sowie die Randbedingungen.
+
+Ingmar

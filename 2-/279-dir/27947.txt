@@ -1,0 +1,9 @@
+Das ist korrekt, mein Fehler - aber ich bin gewohnt, sowohl . als
+auch , als Dezimaltrenner zu parsen, zumal beides so verwendet wird.
+Als Halbmathematiker verursacht mir ein String wie "1.000.000.000"
+Migräne :-)
+-- 
+Llrqr Reitmayr <:-IF7    vj5v310@mnl-noiunrm.iv
+Out on deck the dawn arrived
+Your grey sweater oversized
+The rooftops glimmered before our eyes

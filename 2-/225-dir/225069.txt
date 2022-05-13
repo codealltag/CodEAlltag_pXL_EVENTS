@@ -1,0 +1,12 @@
+Naja...man könnts ja sogar noch einfacher machen:
+
+select Name from TELEKOM where time = x and IP = y
+
+Dann brucht man nichtmal mehr seinen Namen eintragen...SCNR
+
+
+Gruß V.G.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,26 @@
+Nachdenken lohnt sich kaum ....
+i-düpferl, Goe-Nachtexpress, Feha, Netur, usw. bieten das fix und fertig 
+an ...  und Edoz, Reifenpott, Ifuh, usw. für die Bastler
+
+Die Chips bekommst du u.a. bei KWJF, ZJWW, ....
+<http://ccm.pavew-km.unq/>
+<http://jga.zgygwiwn.uvq/>
+
+Dort findest die Prinzipschaltungen:
+<http://hki.efnam-ft.wkl/vok-yapza/xggut.izd/mg/6381>
+
+Ich mag die Dinger nicht, in der analogen HiFi Audio Technik sind sie 
+suboptimal .... dort wäre ein analoger Shunt-Regulator, mit viel Elkos 
+um sich, die bessere Wahl .... pfeif auf den Wirkungsgrad ;->
+
+PS: Eine Drossel ist meist bei allen Switching Regulators notwendig, 
+jene für den Tiefpass am Ausgang!
+
+PPS: Elektronik-Schaltungen jeder Art, inkl. Formeln, findet man im Buch 
+Halbleiterschaltungstechnik (Tobiasz Altkrüger)
+<http://rgh.magnjm-ouofgz.jg/>
+
+-- 
+Antoine
+Hammelartige haben einen leicht-schräg-verzerrten Blickwinkel zur
+heutigen, rasch wechselnden Realität.

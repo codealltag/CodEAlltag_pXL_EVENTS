@@ -1,0 +1,29 @@
+Ich rede hier gar nicht von Bausätzen, sondern von fix und fertigen 
+Black Boxen (denglish)
+
+
+Eine alte, mit Gleichstrom betriebene, Haustürglocke mit 
+Selbstunterbrecher - machte dies (zwar primitiv) auch schon ;-)
+
+
+In meinen letzten Beispiel gings um low power
+
+
+Funktional ist nur am Ausgang eine Drosselspule notwendig, wenn du aber 
+die EMV beachten willst, natürlich auch am Eingang ... und am Besten in 
+ein Mu Metallgehäuse stecken. Schon mal nachgesehen welchen 
+Rauschteppich die meisten Steckernetzteile so erzeugen, einfach köstlich 
+dies anzusehen ....
+
+Ich hatte mal vor längerer Zeit einen Switch ein neues 5V Netzteil 
+spendiert (das Alte war abgeraucht) und hatte nach einen Providerwechsel 
+immer wieder Probleme mit der ADSL Leitungsstabilit�t, der Tilgin Router 
+hing sich immer nach einiger Zeit auf (bildlich in IT Deutsch 
+gesprochen) - gemeinsam mit dem Provider machte ich Ursachenforschung - 
+letztendlich stellte sich das SM (SwitchingMode) Netzteil (das einige m 
+daneben stand) als Störenfried heraus ....
+
+-- 
+Patrick
+Hammelartige haben einen leicht-schräg-verzerrten Blickwinkel zur
+heutigen, rasch wechselnden Realität.

@@ -1,0 +1,29 @@
+Hallo,
+
+Am 13.05.2013 18:11, schrieb Cyrsipr Edgar:
+
+...[...]...
+
+
+Das nennt sich Softstart und ist IIRC notwendig wenn die Lampe nicht
+mit reinem Hg sondern Amalgan gefällt wird.
+
+
+Nein. Der Kaltwiderstand bei Zimmertemperatur ist locker mal 1/10 vom
+Widerstand im Betrieb. Nehme einfach ein Ohmmeter und messe zuerst den
+Kaltwiderstand eine Glühlampe aus. Dann berechne den Hei�widerstand
+aus U und P nach der Formel U/P=R. Schaue und staune!
+
+
+Mit konventionellem Vorschaltgerät (KVG). Hänge ein elektronisches
+Vorschaltgerät (EVG) dran und es sieht besser aus.
+
+
+Bei einer ESL hast Du eine Leuchtsofflampe (LS) mit EVG im E14 oder
+E27 Edinsonsockel. Da weiß man auch was man hat. Hier mal aus der
+Sicht eine Hobbyknipsers auf der dunkeln Schattenseite des Lebens:
+http://dsab.jwnrv-ptso.gc/cxrakneg/Qxpmx/hotwd.qmoq
+
+MfG
+
+Cédric Fischlin

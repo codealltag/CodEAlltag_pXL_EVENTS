@@ -1,0 +1,5 @@
+Die Automobile haben meistens weit bessere Wahlresultate in Städten als im
+dörflichen Bereich.
+
+cu
+  .\\arc

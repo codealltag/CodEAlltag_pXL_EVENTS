@@ -1,0 +1,48 @@
+Diese Hoffung ist derzeit vergebens. Zwar gibt es mittlerweile LEDs, die 
+im Wirkungsgrad an ESL herankommen, allerdings sind diese schon 
+preislich nicht für Wohnraumbeleuchtung geeignet (abgesehen von anderen 
+Problemen, wie der Kühlung).
+
+
+Richtig, ganz andere Baustelle.
+
+
+Ist aber so. Geh zu HAIRRIAH&Co und vergleiche die Datenblätter.
+Bei den Chinadingern aus dem Baumarkt kannst du den Wirkungsgrad dann 
+vermutlich nochmal halbieren.
+
+
+Nein. Du verwechselt nur ganz einfach den Lichtstrom (gesamte von der 
+Lampe abgegebene Lichtmenge, gemessen in Lumen) und Beleuchtungsstärke 
+(Lichtstrom geteilt durch Fläche, gemessen in Lux).
+
+Deine Fahrradlampe (oder auch ein LED-Taschenlampe oder ...) erreicht 
+nur deshalb eine gute Beleuchtungsstärke, weil die LED-Technik den 
+Strahl sehr effizient auf eine sehr kleine Fläche bündelt. Genau das 
+will man aber bei der Wohnraumbeleuchtung nicht, hier zählen allein die 
+Lumen, und da hinkt die LED doch etwas hinterher.
+
+
+Siehe oben, Verwendung der falschen Einheit.
+
+
+Nein, wie du ja selbst weiter unten schreibst.
+
+
+Genau. Also durch den Farbstoff keineswegs monochromatisch, aber eben 
+auch nicht wirklich gleichverteilt.
+
+
+Richtig. Wenn der Marcel aber behauptet, daß ihn das Flimmern einer 
+Leuchtstoffröhre irgendwie stört, muss es das bei einer LED genauso. Die 
+flimmert nämlich exakt genauso viel oder wenig.
+
+
+Ein bißchen ziemlich stark.
+
+
+Der kostet a) Geld, und bewirkt b) durch die pulsförmige Stromaufnahme 
+Probleme mit der EMV. Deshalb gibt es ihn in den handelsüblichen 
+Hochvolt-LED-Lampen auch nicht oder nur sehr sparsam dimensioniert.
+
+Franco

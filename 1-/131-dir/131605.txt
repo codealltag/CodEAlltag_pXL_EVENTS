@@ -1,0 +1,18 @@
+Das sagt das eine Konto (in einer Bilanz) nie, wo der Gegenwert
+dafür herkommt. Vereinfacht: von allen anderen Konten.
+
+Die 100EUR "auf dem Tisch"-Konto können von der Tante Marita oder
+von der Bank geliehen sein oder vom Briefträger für einen Verein
+eingezahlt worden sein.
+
+Im Kassabuch steht, woher es gekommen ist. Da kann wohl ein
+Hinweis versteckt sein über eine Verwendung aber das ist Sache
+einer Gegenbuchung, die "eigentlich" in der Buchhaltung ohnedies
+simultan erfolgen mußte, zB. bei einem Schuldnerkonto eine Abbu-
+chung. (Ein einzelnes Konto verwaltet nur ... ein Konto :-)
+
+Gl
+-- 
+Zuerst ignorieren sie dich, dann lachen sie über dich,
+dann bekämpfen sie dich und dann gewinnst du.
+<I. Sunderer>

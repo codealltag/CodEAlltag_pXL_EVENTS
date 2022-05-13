@@ -1,0 +1,18 @@
+Also Ulrike! Los gehts! Jetzt klär mich mal auf, wie man heutzutage
+einen DC-DC-Spannungswandler baut!
+
+1. einmal mit Spulen
+
+und 
+
+2. als Krönung einen komplett ohne Spulen,
+  z.B. 20V 1A  ==>  10V 2A
+
+Wirkungsgrad >90% bitte!
+
+
+Gruß D.L.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

@@ -1,0 +1,187 @@
+Ich denke, das ist ein ganz wichtiger Punkt. Es geht darum, ob hier 
+einfach "Geld gedruckt" wird - oder ob dem ausgereichten Geld ein realer 
+Wert gegenüber steht.
+
+
+Also, das ist doch ein Ansporn, dieses Verständnis zu entwickeln ;-)
+
+
+Bis dahin hatte ich mir das ja nun schon zusammengereimt.
+
+Wobei Kontokorrentkonten allein schon bei den meisten Banklehrlingen die 
+Spreu vom Weizen trennen dürften ;-)
+
+
+Ich bin abstraktes Denken gewohnt, aber als ich beim 
+Kundenkontokorrentkonto angekommen bin, mußte ich erstmal frische Luft 
+schnappen.
+
+
+Die Frage ist, wie dieses Geld auf das Pflichtkonto draufkommt? Sofern 
+die GB keine Einlage hat (das KK ZB also kein Debitorenkonto ist), würde 
+die GB z.B. einen Kredit aufnehmen, das KK also nach "links" wandern. 
+(Die GB hätte also eine Forderung an die ZB...)
+
+Alternativ könnte die ZB Geld auf das KK drauftun, dann muß die ZB aber 
+eine Bilanzverlängerung buchen, sonst geht das doch schief, oder?
+
+Was bucht die ZB also "links"?
+
+
+Das ist mir klar.
+
+Aber die Stufe davor ist es nicht.
+
+
+Dann würden die GB gegenüber der ZB also als Kreditoren laufen? Auf 
+Deutsch: als Gläubiger?
+
+Du siehst mich etwas fragend schauen....
+
+
+Ich meine, verstanden zu haben, daß aus Banksicht die Passiv-Seite eher 
+die Kreditorenseite ist und die Aktiv-Seite die Debitorenseite.
+
+Und wenn eine GB eine Einlage vorhandenen Geldes bei der Bumo hat, liegt 
+die ZB in der Bilanz der GB doch auf der Kreditorenseite also rechts, 
+konsequenterweise müsste das korrespondierende KK bei der Bumo doch links 
+gewertet werden?
+
+
+Aha!
+
+Dann liefe die Kreditaufnahme nicht zwingend durch Einzahlung von Geld, 
+sondern durch Einzahlung von Geld_wert_!
+
+Also schubsen die GB das "KK ZB" nach links, bei der ZB fliegt das Zeug 
+nach rechts und die Banken zahlen untereinnader, ich übertreibe es mal 
+maßlos, zum Teil durch Kompensationsgeschäfte die geldwert gebucht werden.
+
+Dann kriegt auch Dein Bargeld auf der Passivseite Sinn, dann bucht die 
+ZB das als Passivtausch. Also ich erahne, worauf Du hinauswillst.
+
+
+Das ist mir im Kopf noch nicht klar, aber im Bauch kriege ich es schon, 
+weil das Einzahlen etwa von "Häusern" bei der ZB zu einer Erhöhung der 
+Bilanzsumme der ZB führt, da muß also eine Bilanzverlängerung 
+stattfinden, es muß also links was passieren. Und da die ZB im Zweifel 
+die Sicherheiten fordert, müssen die _links_, auf der Debitorenseite stehen.
+
+Also doch: Die rechte Seite wird durch die linke abgedeckt.
+
+
+  Sie können es nebenbei
+
+Danke.
+
+
+Die sind gut, aber es ist besser, noch Zusatztexte zu haben.
+
+Ich habe bisher nur am Rande mit Bilanzen zu tun gehabt. Und in der Tat 
+ist Leuten, die das zu lernen versuchen, eines gemeinsam....
+
+Sie verstehen es nicht....
+
+s scheint für manche Leute grauslig verwirrend zu sein.
+
+
+Wenn es so läuft, daß die Sicherheiten der GB, die sie der ZB als 
+Sicherheiten gestellt haben, bei der ZB links als Forderungen verbucht 
+sind, ist das Bargeld zwingend rechts, denn dann ist Geldschöpfung eine 
+Bilanzverlängerung und die Umwandlung von Buchgeld in Bargeld ein 
+Passivtausch.
+
+
+Ich habe das letzte Woche als Aktivtausch gesehen, aber da bin ich mit 
+den Kontenseiten durcheinandergekommen und hatte mich noch nicht mit 
+Kontokorrentkonten beschäftigt.
+
+Wenn ich aber als GB sowohl die ZB als auch die Kunden und 
+Geschäftspartner in Kontokorrentkonten führe und etwa die ZB und 
+"Sparkunden" als Debitoren, den Rest je nach Kontenstand, dann kriegt 
+das ganze auf einmal eine Logik.
+
+
+Sie hat aber Zugriff auf die Sicherheiten. Du müsstest dann aber links 
+noch ein Konto "ausgereichtes Bargeld" haben. Diese Forderung ist zwar 
+keiner GB zugeordnet, aber Du brauchst es, um die Bilanz in Ordnung zu 
+halten.
+
+Du nimmst also Geld von einem Konto einer GB, wandelst es passiv in 
+Bargeld (Passivtausch, dann würden auch �-Scheine, die bisher 
+"bedrucktes Papier" sind zum "Geldleben" erweckt und an eine GB 
+ausgereicht, dann muß aber irgendwo ein (anonymes) Forderungskonto hin 
+"kurantes Bargeld", das wieder gemehrt wird, wenn etwa eine OLIVIA 
+Altscheine zurückgibt, um die gegen neue Scheine einzutauschen.
+
+Könnte das in etwa so funktionieren?
+
+Ich durchdenke es noch mal, ich bin hier ein lernender.
+
+
+  - Wieso der Bargeldumlauf auf der
+
+Ich bin im Kopf gerade in zwei Konten, da hätte ich passiv "geschöpftes 
+Bargeld" und aktiv "kurantes Bargeld".
+
+Oder rede ich jetzt völligen Unsinn?
+
+
+Wir kommen da noch hinter.
+
+
+Richtig. So schreibe ich das ja die ganze Zeit, oben habe ich die 
+Passiva auch schon als Kreditoren und die Aktiva als Debitoren gesehen.
+
+(Wenn ich es nicht schon wieder durcheinanderbringe.... Man muß bei 
+sowas immer nachdenken. Jedenfalls rechts: Verbindlichkeiten, links: 
+Forderungen.)
+
+
+Wenn ich GB mit Guthaben als Kreditoren ansehe, die also der ZB Geld 
+leihen, dann geht das.
+
+Im Grunde hast Du dann einen Aktivtausch in drei Teile zerlegt:
+1.: Buchgeldschöpfung durch Bilanzverlängerung,
+2.: Bargeldschöpfung durch Passivtausch,
+3.: Bargeldausreichung durch Bilanzverkürzung.
+
+Aber dann brauchst Du zwei Bargeldkonten. Eins für geschöpftes, eines 
+für kurantes, oder ich habe irgendwo eine Klemme im Hirn.
+
+Oder, vielleicht noch klarer, ich belasse es beim Passivtausch, und 
+verplichte die GB, der ich das Bargeld gebe, dieses ggf. in Buchgeld 
+umzutauschen (sic!) also auf ihr Konto einzuzahlen.
+
+Dann wäre das ausgereichte Bargeld eine Art anonymer Kreditor. Jemand, 
+der mir Geld leiht, den ich aber nicht namentlich zuordnen kann.
+
+Ich fürchte, ich rede langsam Blödsinn..
+
+
+Genau das dachte ich mir doch.
+
+
+Oder sie währen eben Unterb�cher der ZB.
+
+
+Moment, eigentlich ist es doch ganz einfach.
+
+Wenn die Trinkgut Tybussek Bargeld in Umlauf bringt, hat "die Bevölkerung" das 
+Recht, eben dieses Bargeld in Buchgeld umzutauschen (i.e. auf ein Konto 
+einzuführen), und damit ist eben die Bevölkerung in diesem Augenblick 
+Gläubiger der Trinkgut Tybussek und kann, nämlich durch Einzahlen von Geld auf 
+das private Girokonto, dieses Geld von der Trinkgut Tybussek zurückzuverlangen, 
+was wieder ein Passivtausch ist.
+
+Also nach _dieser_ Logik hättest Du nur ein Bargeldkonto, und das wäre 
+in der Tat ein Kreditorenkonto, denn die Trinkgut Tybussek hätte hier Kredit 
+bei den Bürgern. Abgesichert durch die links verbuchten 
+Verbindlichkeiten der Geschäftsbanken.
+
+Und ich als Bürger habe mit Bargeld eine Forderung an die Trinkgut Tybussek, 
+daher ist mein "Geldbeutel" in meiner Buchführung ein _Debitorenkonto_, 
+denn ich kann das Geld von der Trinkgut Tybussek fordern. Dann muß es bei der 
+ZB rechts liegen....
+
+So in etwa?

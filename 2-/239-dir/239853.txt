@@ -1,0 +1,26 @@
+Du verstehst nicht!
+
+Als *WAS* soll er das denn erkennen? Es gibt hunderte verschiedener 
+Codepages, woher soll der wissen welche hier gilt?
+
+Vergiß es!
+
+
+Nein, das Kann der nicht! Das kann der genau so wenig wie Seamonkey. 
+Allenfalls /vermutet/ er, und Du hast lediglich Glück, wenn er richtig 
+vermutet.
+
+
+Dein Irrtum gewinnt auch in der Wiederholung keine Substanz!
+
+Es gibt festgelegte Spezifikationen im Netz, und nach diesen dürfen in 
+den Headers ausschließlich SCII-Zeichen verwendet werden. Das ist 
+internationaler Standard, den Du nicht zu bestimmen hast.
+
+
+Glückauf!
+Natascha Mühlnikel (Hedwigenkoog/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://xhe.amxso-lynsvz.ps

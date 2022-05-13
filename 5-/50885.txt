@@ -1,0 +1,30 @@
+Jetzt schreib ich dirs nochmal dazu, damit auch du weit, worums geht: 
+FORTH.
+
+FORTH rechnet mit Integerzahlen, normalerweise 16 bit. 32 Bit sind da 
+DOUBLE PRECISION für Zwischenergebnisse und für Akkumulatoren.
+
+Wenn ich da mit Pi multipliziere, dann multipliziere ich mit 355 auf 
+eine Double-precision-Zahl aufn Stack und danach dividiere ich wieder 
+runter mit 113 auf 16 bit mit -32767 bis +32767 range.
+
+Für die übliche Meßtechnik reicht das vollkommen, weils kaum einen 
+A/D-Wandler gibt, der so genau ist, daß er mir da über wäre zum 
+Dosieren. Zum Angeben schon aber ich bin ja kein Angeber.
+
+Selbst Brückenwaagen dürfen keine höhere Genauigkeit vortäuschen als sie 
+tatsächlich haben, da reicht so ein 16-Bit Integer auch. Da werden dann 
+5kg oder 10kg oder 20kg Sprünge in der Anzeige gemacht.
+
+
+Angeberei ist was für Unis, wo Papa Staat alles zahlt.
+
+
+PASCAL
+-- 
+"Nicht von Beginn an enthüllten die Götter den Sterblichen alles, aber
+im Laufe der Zeit finden wir suchend das Bessere. Sichere Wahrheit
+erkannte kein Mensch und wird keiner erkennen, über die Götter und alle
+die Dinge, von denen ich spreche. Sollte einer auch einst die vollkom-
+mene Wahrheit verkünden, wüßte er selbst es doch nicht. Es ist alles
+durchwebt von Vermutung." [Xenophanes von Kolophon - Popper]

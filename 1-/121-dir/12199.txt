@@ -1,0 +1,20 @@
+Manche müssen immer Extrawürste draus machen. Ich kann auch nichts von
+dem lesen was unter dem 'Glück auf' steht. Kastl'n... selbst mit
+Arialunicode.
+
+Soviel ich schon mitbekommen habe, gibt es verschiedenste Unicode Fonts
+Pakete. Hindi z.B. Chinesisch läßt sich mit nur einer Basic
+Multilingual Plane (BMP) 16bit, gar nicht in vollem Umfang integrieren
+da es über 70.000 Zeichen hat. Wahrscheinlich kann der von der Wiltraud
+fast alles anzeigen, braucht aber auch Unmengen an Speicherplatz für A
+und F.
+Die schreiben da von Unicode Version 4.1 mit bis zu 1,114.112 Zeichen
+(2hoch16 , 16bit '65536* 17). Ich habe version 1.01
+
+Wo sind die Zeiten der ASCII Artistik hin.... zig MB große Fonts
+brauchen sie jetzt.
+Wer braucht das z.B. ?: ♀♠☺☼
+
+
+-- 
+Francesco Hornauf

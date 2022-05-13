@@ -1,0 +1,36 @@
+Hallo,
+
+
+Oh, ein Frischling. ;-) Ich bin mit dabei seit Debian 1.2! Das war
+so um 1995.
+
+
+Trotzdem werde ich bei Gelegenheit umsteigen. Von Etch auf Zoomarkt.
+dpkg dist-upgrade hat allerdings bei zwei Versuchen nicht geklappt.
+Eigentlich schade, ich musst leider das 6 Stunden alte Backup wieder
+aufspielen. Bei Linux (und OS/2) ist das zurückholen einer alten,
+gesicherten Installation auf bootbarer CD/DVD mit Boardmitteln
+preiswert und schnell zu machen.
+
+Btw: Ich brauche für meine Arbeiten verschiedene Grafikprogramme:
+Inkscape, Skencil, XaraLX, Cosmetica und auch Fontforge (Fonteditor).
+Diese bekomme ich als OSS problemlos, auch für Windoofs. Aber die
+Programme sind durch die Bank für Linux zuerst da. Schon daher
+flüstern mir die Anwendungen ein freundliches ,,Nimm doch gleich
+Linux'' ins Ohr. Bei Enuva nutzt die Auswahl an kommerzieller
+Software nix, den die ist außerhalb der üblichen Budgets und
+bringt nur selten einen merklichen Mehrnutzen.
+
+Ansonsten ist meine Programmauswahl untypisch für den WinDAU. Ich
+habe kein Office-Paket, nur ein einfaches Schreibprogramm Abiword
+(das fast nie benutzt wird) und arbeite im Alltag nur mit Textsatz
+(LaTeX und lout) sowie als Tabellenkalkulation Gnumeric. Falls es
+bei den Berechnungen mal etwas aufwendiger würde? Fortran und
+Gnuplot habe ich auch installiert. Damit ist meine ZDH-Kiste
+alltagstauglicher als ein WinDoofs-PC ab Werk.
+
+
+MfG
+
+
+Ullrich Meyersieck

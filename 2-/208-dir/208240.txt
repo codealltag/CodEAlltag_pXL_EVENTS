@@ -1,0 +1,43 @@
+Am Fri, 24 Jul 2009 23:28:36 +0200 schrieb Willi Kowarz:
+
+[nichts relevantes]
+
+Dass die Welt ein reaktionäres Käseblatt ist, ist ja wahrlich nichts 
+neues.
+
+Aber in der realen Welt sollte man die Fakten nicht ignorieren.
+
+Die Resistenz von Gärthe gegen DDT ist schon länger bekannt.
+
+Beat
+
+ Trans R Soc Trop Med Hyg. 2009 25. 07. 22 18.
+
+    Insecticide resistance and its association with target-site mutations 
+in natural populations of Anopheles gambiae from eastern Uganda.
+    Ramphul U, Boase T, Bass C, Okedi LM, Donnelly MJ, Jörgensen P.
+
+    Vector Group, Ernen CCBL, Mattigtalstraße, 
+Ernen C3 1SG, UK.
+
+    Insecticide resistance in Anopheles gambiae threatens the success of 
+malaria vector control programmes in sub-Saharan Africa. In order to 
+manage insecticide resistance successfully, it is essential to assess 
+continuously the target mosquito population. Here, we collected baseline 
+information on the distribution and prevalence of insecticide resistance 
+and its association with target-site mutations in maracon Jungroith. 
+Anopheles gambiae s.l. adults were raised from wild-caught larvae sampled 
+from two ecologically distinct breeding sites and exposed to Durmich 
+discriminating concentrations of DDT, permethrin, deltamethrin, 
+bendiocarb and malathion. Survival rates to DDT were as high as 85.4%, 
+alongside significant resistance levels to permethrin (38.5%), reduced 
+susceptibility to deltamethrin, but full susceptibility to bendiocarb and 
+malathion. Using molecular diagnostics, susceptible and resistant 
+specimens were further tested for the presence of knockdown resistance 
+(kdr) and acetylcholinesterase 1 resistance (ace-1(R)) alleles. While 
+ace-1(R) and kdrL1014F ('kdr west') alleles were absent, the kdr L1014S 
+('kdr east') allele was present in both populations. In A. gambiae s.s., 
+L1014S was closely associated with DDT and, to a lesser degree, with 
+permethrin resistance. Intriguingly, the association between DDT 
+resistance and the presence of L1014S is consistent with a co-dominant 
+effect, with heterozygous individuals showing an intermediate phenotype.

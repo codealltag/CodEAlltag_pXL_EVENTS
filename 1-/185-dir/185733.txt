@@ -1,0 +1,23 @@
+Für den großen Lauschangriff, für Betreibsspionage?
+
+
+So zeigt sich das hier etwas im argen liegt.
+
+
+Solche Garantien gibt es wohl nirgendwo.
+
+
+Um die Sicherheitsexperten ebenfalls in die Irre zu locken?
+
+
+Ich kenne mich mit dem Bios ja nicht wirklich aus, doch ich vermute das
+dort bekannte Portadressen und bekannte Datenleitungen dafür verwendet
+werden und genau diese lassen sich im verwendeten Protectmode
+kernelseitig überwachen und damit könnte man jegliche Zugriffe auf diese
+Ports unterbinden.
+
+Mit unbekannten Datenleitungen die gar nicht erst im Adressraum
+eingeblendet werden stelle ich mir das Überwachen und Sperren als
+etwas nicht Realisierbares vor.
+
+Jean-Pierre

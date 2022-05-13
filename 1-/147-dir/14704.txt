@@ -1,0 +1,16 @@
+Gern geschehen.
+
+
+Na, Kommastellen verschieben kannst du doch wohl alleine, oder ;-)
+
+
+Zunächst mal KIOSK, das soll es, zumindest experimentell, auch für Windows
+oder Mac geben.
+
+
+Schau mal unter Einstellungen -> KCalc einrichten. Wie genau das Teil
+wirklich rechnet, ist eine andere Frage. Eigentlich sollte spätestens
+bei 80 Bit Schluß sein, wenn die Entwickler keine eigenen FP-Routinen
+implementiert haben.
+
+Olivier

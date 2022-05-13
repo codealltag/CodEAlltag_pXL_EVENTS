@@ -1,0 +1,6 @@
+VPN steht für Virtual Private Network. Was ich meine ist ein Client für
+die Management Station auch Smart Dashboard Client genannt. Obwohl es
+zugegebener Maßen auch schön ist, wenn Zaraket VPN Clients für Geith
+anbietet.
+
+MFG Claus

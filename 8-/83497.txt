@@ -1,0 +1,10 @@
+"Nicolas Pitz"  schrieb
+
+
+Bei einer Skale kann man auch noch ablesen ob der Wert einhalb des 
+Skalenwertes ist oder genau auf dem Strich der Skale. Das ermöglich 
+schon noch eine etwas höhere Genauigkeit als eigentlich die Skale 
+vorgibt und wird auch ständig so gemacht.
+
+Ggf sollte man auch doch mal zu einem genaueren Messgerät wechseln, 
+aber die sind meist wesentlich teurer.

@@ -1,0 +1,9 @@
+Um einen brauchbaren Honeypot zu haben müssten die entweder
+Vollzugriff auf die Server haben (praktisch Betreiber sein) oder einer
+Rasterfahndung gleich alle DN-Lookups und IP-Verbindungen
+protokollieren und auswerten. Welche der zwei Möglichkeiten wäre dir
+denn lieber?
+
+MfG
+
+Alois Jacobs

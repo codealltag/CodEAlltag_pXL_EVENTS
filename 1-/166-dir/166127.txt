@@ -1,0 +1,5 @@
+Obiges stammt von einem Faker, der mich ständig durch alle NGs
+verfolgt und sein Unwesen unter meinem Namen treibt, was anhand der
+Host-IP im Header zu erkennen ist.
+
+Uwe Dario

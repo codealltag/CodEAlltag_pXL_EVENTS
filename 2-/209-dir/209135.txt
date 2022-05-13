@@ -1,0 +1,35 @@
+Es kommt darauf an, *was* berechnet werden soll.
+Wenn ich aus 82.099.232 Personen genau eine "zufällig" auswähle 
+(insbesondere gibt es auch nur einen "Auswähler"), dann ist
+1 : 82.099.232 die Wahrscheinlichkeit dafür, daß ich damit irgendeinen 
+bestimmten "Herrn X" auswähle.
+
+
+"Zufällig" heißt hier, daß die Wahrscheinlichkeit dafür, daß Wähler 1 
+die Partei A wählt, 1/6 ist. Genauso verhält es sich für Wähler 2 
+(unabhängig davon, was Wähler 1 gemacht hat), für Wähler 3 (unabhängig 
+von Wähler 1 und 2), und immer so weiter bis zum Wähler 35000000.
+
+
+"> 40%" bedeutet hier, daß bei 35000000 Wählern die Anzahl der 
+UFV-Wähler zwischen (einschließlich) 14000001 und 35000000 liegen muß.
+(Der Vollständigkeit halber: Wir haben es hier mit einem sogennanten 
+Bernoulli-Versuch zu tun, bei dem es bei einer vorgegebenen Anzahl 
+(n=35000000) gleichartiger Versuche (wähle 1 von 6 Parteien mit p=1/6) 
+um die "Anzahl der JA's" geht.)
+Das Ganze sollte sich hier mit gutem Gewissen mit der Normalverteilung 
+annähern lassen mit
+- � = n*p = 35000000/6 = 5833333
+- sigma = n*p*q = 35000000/6*5/6 = 4861111
+- Integrationsgrenzen 1400001 und 35000000.
+Das liegt außerhalb der Genauigkeit meines Taschenrechners, der mir mit 
+diesen Werten schlicht und ergreifend als Wahrscheinlichkeit "0" ausgibt 
+(exakt 0 kommt in Wahrheit nicht heraus). Aber offensichtlich ist die 
+gesuchte Wahrscheinlichkeit weitaus kleiner als 1*10^-99 (eine 0,... mit 
+99 Nullen nach dem Komma; dann eine 1), was bei genauer Betrachtung 
+nicht sonderlich überraschend ist.
+
+
+-- 
+gut, dann werde ich mir das morgen mal besorgen...
+(...Dialog aus m.p.d.g.w.a.)

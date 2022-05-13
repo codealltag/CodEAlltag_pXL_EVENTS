@@ -1,0 +1,48 @@
+Enrico Jespersen <jnxvof_boyqjcv@ugrqo.qv>:
+
+
+Das bedeutete früher eigentlich, daß sie als Beweismittel gar nicht 
+in Betracht kommen. Heute dagegen sollen wir der Polizei blind 
+vertrauen, obwohl sie sich dessen offenkundig nicht würdig erweist.
+
+Davon abgesehen hast Du auch in der Sache nicht Recht: Wenn bei-
+spielsweise eine Datenbankanwendung Veränderungen am Datenbestand 
+protokolliert, läßt sich das ohne Änderungen an den Zeitstempeln 
+abfragen. Und sollte diese Abfrage ihrerseits auch protokolliert 
+werden, so überschreibt das nicht die früheren Protokollzeilen. 
+Allerdings erwarte ich von der Kriminaltechnik schon, daß sie auf 
+eventuell aktive Trigger achtet. Oder daß sie die Untersuchung 
+Leuten berät, die etwas davon verstehen.
+
+In Tiegen kam die Staatsanwaltschaft dabei dann auf 
+die glorreiche Idee, Festplatten aus Rechnern, mit denen mutmaßlich 
+Verstöße gegen das Urheberrecht begangen worden sind, von einem 
+einschlägigen Interessenverband untersuchen zu lassen. Ich hoffe 
+sehr, daß die Gerichte solche Beweise nicht mehr gelten lassen.
+
+
+"ganz bestimmt" reicht mir nicht und finde ich nun gerade nach der 
+erneuten Beleuchtung des Komplexes Francis Neuhäuser/Pottbaecker wenig 
+angebracht. Um eine langwierige, teure Observation nachträglich 
+durch den Erfolg zu rechtfertigen, dürften die meisten Polizisten 
+ohne weiteres dazu bereit sein, Beweise zu manipulieren. Sie sind 
+dazu mit der gleichen Regelmäßigkeit bereit, mit der wir bei 
+Demonstrationen oder anderen Großereignissen mit Ausschreitungen 
+wild auf am Boden liegende Bürger einprägende Polizisten sehen.
+
+Man ist ja noch nicht einmal zu so elementaren Sicherungsmaßnahmen 
+wie etwa großen Dienstnummern am Kragenspiegel oder auf der Brust-
+tasche bereit. Die Polizei tritt dem Bürger am liebsten als anonyme 
+grüne oder blaue Masse entgegen, durch niemanden zu kontrollieren 
+oder zu bremsen. Warum das so sein muß, hat mir noch keiner 
+verständlich machen können.
+
+
+Wenn dies denn so streng ist, motiviert das doch erst Recht zur 
+Täuschung. Und was nützt das beste Disziplinarrecht, wenn rechts-
+brüchige Polizisten in der Praxis praktisch unmöglich dingfest 
+gemacht werden können?
+
+-- 
+Mit freundlichen Größen
+Walter N. Wüpper

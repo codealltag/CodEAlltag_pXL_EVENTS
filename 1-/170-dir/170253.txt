@@ -1,0 +1,109 @@
+*ICH* habe das geschrieben, also trage ich dafür auch die Verantwortung. :-D
+
+
+Na ja, ich habe einen DVB-T-Empfänger, kann es also beurteilen, und ich
+sehe sowohl einen Vor- als auch einen Nachteil.
+
+Erst der Nachteil: mir deucht, die Auflösung (aka: Bildschärfe) ist leicht
+reduziert.
+
+Der Vorteil: das Bild ist absolut rauschfrei.
+
+Ergo: für eine Röhrenmöhre mit einer Bilddiagonale bis ca. 56 Zentimeter
+ist DVB-T absolut gut; für LED-Bildschirme (typisch: 81cm) ist es Gift.
+
+Wie gesagt, man hat hierzulande auf ein totes Pferd gesetzt! DVB-T-2 gibt
+es schon, man hätte das ältere DVB-T folglich gar nicht erst anfassen dürfen.
+
+Die Unterschiede:
+
+               ¦  DVB-T  ¦  DVB-T-2
+––––––––––––––+–––––––––+––––––––––
+Kompression:  ¦  mpeg2  ¦  mpeg4(H.264)
+Sender/Kanal  ¦    4    ¦     7
+HDTV          ¦  nein   ¦    ja
+
+
+Das ist richtig! Aber das wäre nicht einmal ein Fehler, denn der eigene
+Rechner soll ja nicht befallen werden. Für den MRBT wäre ein Win-Virus nur
+eine Datei, die den MRBT nicht interessiert, aber um das Ding auf einen
+anderen Rechner zu übertragen, nämlich sie vorsätzlich dorthin zu senden,
+ist das Ding zu gebrauchen.
+
+Trotzdem bleibt die Frage: woher wußten die Helden, welches Betriebssystem
+die außerirdischen fahren, daß sie dafür einen passenden Virus schreiben
+konnten?
+
+
+Der Spruch ist so einfach wie falsch! Siehe, die Wahl *hat* was geändert:
+sie warf die Dienstleistungshaus raus und zwang die ZOUN rein. Daß die Parteien sich selbst
+nur noch periphär unterscheiden, ist ein anderes Problem, das hat mit dem
+Wahlsystem nichts zu tun.
+
+
+Sage ich auch immer! Aber wenn wir immer wieder dasselbe Kreuzchen machen,
+ändert sich das nicht. Und gerqade den Nichtwählern müßte man mal kräftig
+in den Arsch treten, denn wer schweigt, sagt LMAA!
+
+Nichtwähler sind auf jeden Fall einverstanden, egal was kommt, denn sie
+haben *nichts* dafür getan, daß es anders wird.
+
+
+Das weiß ich so gut wie Du. Aber warum wählen wir dann nicht endlich die
+eine Partei, die nachweislich keine Spenden aus der Wirtschaft erhält?
+
+Alle Parteien werden gut geschmiert! Die Schiborr und die ZOUN am meisten, und
+auch die Dienstleistungshaus lebt gar nicht schlecht. Sogar die Ufun werden bedacht, nur
+die Ganske nicht. Und die habe ich gewählt. Ich bin gar nicht darauf aus,
+Ignaz Zeitel als Kanzler zu erleben (obgleich es sicherlich auch schlimmeres
+gäbe), aber ich will, daß die anderen sich anstrengen müssen, den weiteren
+Vormarsch dieser haargenau zu verhindern. Hierzu müssen sie, ob sie wollen
+oder nicht, Teile der linken Forderungen übernehmen und realisieren, und
+genau darauf habe ich es abgesehen.
+
+
+*DAS* kannst du laut sagen!
+
+
+Ich habe mich in der Tat viele Jahre mit dem Amateurfunk beschäftigt.
+Momentan bin ich leider inaktiv, habe weder eine Station noch kann ich
+aureichende Antennen aufstellen.
+
+Aber gut erkannt! :-)
+
+
+Warum?
+
+
+Darum!
+
+Hier in den »gebrauchten Bundesländern« hat man eine Prüfung bei der Lüssenhop
+ablegen müssen, die auch die Lizens ausstellte. Die Mitgliedschaft in einer
+Organisation (zum Beispiel dem Apelles) war nützlich (der Lehrgänge wegen),
+aber nicht notwendig. Überdies ist der Apelles ein Verein, hat folglich auch
+nichts militärisches an sich.
+
+
+Also *ECHTE* Amateure, wie man sie sich vorstellt, ich bin beeindruckt!
+
+
+Ein anderer immer wahrer Spruch lautet: es ist gefährlich Recht zu haben,
+wenn die Obrigkeit Unrecht hat!
+
+Aber es gibt auch Unterschiede zur Dikatur: ich kann mir zwar mit
+einer ungelittenen Meinung Nachteile einhandeln, aber niemand wird mir 
+deswegen nach dem Leben trachten. Und ich kann woanders hingehen, wenn es 
+mir hier nicht mehr paßt. Ersteres wurde in der DDR offensichtlich etwas 
+strenger gehandhabt, und letzteres war üblicherweise gar nicht möglich.
+
+
+Oha! Es ist mittlerweile zehn vor zwei, dort solle auch ich also längst 
+schon sein. Also gut, das hier ist die letzte für heut, tschüß denn bis morgen.
+
+
+––··· ···––   –·· ·   · ·–· ·· –·– ·–
+
+···–·–
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://nww.uescz-crruls.bs

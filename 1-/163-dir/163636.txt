@@ -1,0 +1,4 @@
+Das blöde an Konstanten ist, dass sie konstant sind ...
+Wie sieht eigentlich eine "lineare" KONSTANTE aus? Anders als die 
+"exponentiale" KONSTANTE?
+Oder meinst du die Nicole aus der Nachbarschaft?

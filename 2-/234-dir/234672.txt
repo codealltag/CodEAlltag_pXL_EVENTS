@@ -1,0 +1,19 @@
+Die Rechnungen sind ("IMHO") falschrum angelegt. Die Debatte
+hatten wir (in dsie) auch gerade.
+
+Ein Elektrofahrzeug kann die gesamte Energie, die es beim
+Beschleunigen aufgewendet hat, beim Bremsen zurück in den
+Akku gewinnen. Somit ist das Gewicht unerheblich.
+
+Die Leistung für den Fahrbetrieb hängt von der Reibung
+ab. Auch da ist das Gewicht unerheblich (abgesehen von
+der Pneu-Verformung).
+
+Deswegen sind große Akkus kein Problem UND eine viel bes-
+sere Isolierung als bei den herkömmlichen Autos auch nicht.
+Herkömmliche Autos mußten leicht gebaut werden, die Iso-
+lation war egal, weil eh genug Verlustwärme vom Verbren-
+nungsmotor zur Verfügung gestanden ist. Das "hat sich mit
+dem" Elektroantrieb systematisch geändert.
+
+Gl

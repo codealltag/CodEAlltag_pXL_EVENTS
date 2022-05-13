@@ -1,0 +1,4 @@
+Die "manchen Fälle" wo es zutrifft reichen schon, dass nicht alles
+ausgegeben wird!
+
+Bei HartzIVern wird dagegen *alles* ausgegeben.

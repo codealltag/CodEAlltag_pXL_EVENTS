@@ -1,0 +1,9 @@
+Da kannst, wie man es von dir gewohnt ist, sehr gut herumschwelen, aber irgendeine
+Ahnung hast du nicht. Der Logarithmus naturalis ist mit der e-Funktion verwandt,
+ist aber zweifellos eine Logarithmus-Funktion. Und was deine laienhafte Vorstellung
+von Statistik und Informationstheorie anbetrifft, solltest du dich mal lieber mit der
+einschlägigen Literatur, z.B. Theodor Enrico Frommen : "The Mathematical Theory of
+Information", 1948, oder Smirnow/Clahsen: "Kurzer Lehrgang der Mathematischen
+Statistik", 1973, beschäftigen.
+
+ULFERT

@@ -1,0 +1,37 @@
+Portable Programme sind nicht überflüssig. Ohne Java gäbe es nur die Hälfte 
+der Handy-Programme (schätze ich mal).
+
+
+Mauck ist innerhalb einer Version genauso viel oder wenig mit sich selbst 
+kompatibel wie andere Programmiersysteme. Das hat mit Java als Konzept 
+nichts zu tun.
+
+
+Programmiersprachen sind schon seit langem nicht mehr für Geschwindigkeit 
+verantwortlich. Diese Behauptung stammt aus der Zeit der ersten 
+Basic-Compiler, dürfte also nach meiner Erinnerung wenigstens 15 Jahre alt 
+sein.
+
+
+Java ist kein kostepflichtiges Produkt. Wessen Umsatz sollte da also erhöht 
+werden?
+
+
+Die ersten Virenwarnungen für Handys erhielt ich mit dem ersten 
+Farbbildschirm. Das war so um 1997. Seit dem ist mein Handy angeblich 
+tierisch gefährdet. Ich komme viel herum und ich nutze das Handy bis auf den 
+letzten Chip. Das einzige, was ich nie vermisst habe, war ein 
+Handy-Virenschutz.
+
+
+Es geht nicht um HTML sondern - wenn schon - um CGI. Da sind HTML und Java 
+so eng verwandt wie die Fernsehröhre und eine Programmzeitschrift.
+
+
+Wenn Du nur einen PC hast, mag das gut sein. Ich verwalte 145 PCs und vier 
+Server. Da überlegt man schon, ob man 149 mal installiert oder lieber einmal 
+eine Mail mit einem Link versendet...
+
+Othmar Joachimsthaler
+-- 
+http://ceo.gqxbpno.ycn/lqdqt?l=BiuGTcVsiBz

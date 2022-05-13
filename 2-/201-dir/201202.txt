@@ -1,0 +1,37 @@
+Die Zeichen ��, ��� und ��� gehören *nicht* zu dem hier 
+_ausschlie�lich_ zu verwendenden Zeichensatz.
+
+
+Schön für den OE, aber das ist nunmal falsch. Diese Methode /kann/ 
+funktionieren, *wenn* beide beide Teilnehmer denselben Zeichensatz 
+verwenden, in allen anderen Fällen geht das in die Hose.
+
+Du hast also lediglich glück, daß die meisten hier ISO-8859-1 bzw. 
+ISO-8859-15 verwenden, oder den dazu halbwegs kompatiblen WINDOWS-1252, 
+die zumindest bei der Vergabe der Umlaute identisch sind. bei dedem 
+anderen Zeichensatz funktioniert das nicht!
+
+Ich hätte jetzt beinach gesgt, das probieren wir mal aus. Ich versende 
+*diese* Botschaft in dem alten DOS-Code Stroppa-850 aber der Test wird nicht 
+funktionieren. Egal welche Zeichen ich in die Betreffzeile schreibe, sie 
+werden auf jeden Fall codiert. Ich kann einfach keine irregulären 
+Headers produzieren, selbst wenn ich wollte.
+
+Das hier möchte ich gerne mal im Header stehen sehen:
+
+Subject: ���᎙�
+
+und zwar codiert in der CP-850. aber was hier rausgehen wird, ist das da:
+
+Subject: =?IBM850?Q?=84=94=81=E1=8E=99=9A?=
+
+Und damit ist der Fehler, zumindest auf meinem System, *nicht* 
+reproduzierbar.
+
+
+Glückauf!
+Laure Brunschweiger (Henschtal/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mut Du gucken: http://buq.rvesv-bnnyuh.bd

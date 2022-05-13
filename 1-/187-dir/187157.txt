@@ -1,0 +1,18 @@
+"Nils Matis" schrieb
+
+
+Wieso das?
+
+
+Na dann such mal schön. Ich habe andere Hobbys.
+
+Es muss wohl eine Lieblingsbeschäftigung von Linuxern sein, Guckenberger als Wurzel 
+allen Übels zu entlarven.
+
+Tatsache ist, dass Du wie ich und alle anderen hier 
+"Content-Transfer-Encoding=8bit" gesetzt haben, und uwe hat das eben 
+nicht. Dass Dein Newsreader diesen Fehler automatisch korrigiert, ist schön 
+für Dich, ändert aber nichts daran, dass ulfert Einstellung falsch ist. Sie 
+hat allenfalls für eMails eine Berechtigung, nicht aber in Newsgroups.
+
+Hannes

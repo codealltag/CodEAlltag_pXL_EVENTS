@@ -1,0 +1,6 @@
+Sobald ich replie, zeigt mir mein Editor (in deinem Fall) UTF-8 an, ich
+müßte es extra umstellen auf ISO, wenn ich will.
+
+
+-- 
+Niko Kögler

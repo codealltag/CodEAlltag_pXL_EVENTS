@@ -1,0 +1,30 @@
+Einspruch, Euer Ehren!
+
+Einstellung -> KNode einrichten -> Artikel lesen -> Filter
+
+Hinzufügen -> /Name eintragen z.B. *PLONK*/ ->
+Anwenden -> Anwenden
+
+Auf einen zu filternden Betrag gehen und
+Bewertung -> Bewertungsregel für Autor herabsetzen 
+(wird schon vorausgefüllt)
+Nur noch entscheiden ob die Filterregel nach Zeit automatisch ungültig wird
+und folgende Aktionen wählen:
+Punktzahl anpassen -10
+-> mehr
+als gelesen markieren.
+-> anwenden
+
+Filter -> PLONK 
+
+fettisch!
+
+KNode hat feine Filtereinstellungen, leider fehlt die Möglichkeit nach
+Newsreader zu filtern (damit hätte ich Conthey mit allen seinen multiplen
+Identitäten erschlagen).
+
+HTH&HAND
+Arthur
+-- 
+"Außerdem bin ich anständig, mir muss das UNZ keine Trojaner schicken."
+Arne Crohn, UGL

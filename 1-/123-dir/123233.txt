@@ -1,0 +1,68 @@
+OK. Aber das wird dann wohl in den ARGEkursen wieder eher nicht 
+unterrichtet. Für dich oder mich wär das kein Problem, aber für einen, 
+der vorher noch nie mit Computern zu tun hatte und dem man in so eine 
+Kurs grad mal beibringt, welche Knöpferl er zu drücken hat, ohne jedes 
+tiefere Verständnis, für den ist sowas dann schon wieder ne Hürde. 
+
+
+Wenn man nicht hypertrophierte neue Hardware benutzt, wie Quadcore-xeons 
+oder core7-Dinger dann merkt man das schon. 
+
+Hehe, ja. Aber das meine ich nicht. Sondern die allgemeine 
+"Reaktionsfreudigkeit" des Systems, den Speicherverbrauch, wieviele 
+Anwendungen man geöffnet haben kann, ohne daß der PC gleich in die Knie 
+geht, meinetwegen noch die Startzeiten beim Booten, überall da kann man 
+das schon sehen. wenn ich nur mal dran denke, wieviele unnötige Dienste 
+und Programme bei Windows standardmäßig gestartet werden! und falls du 
+dir einen PC von der Stange kaufst und dein Windows nicht selber 
+instrallierts, ist meistens noch eine Unmenge von mitgelieferten 
+"Werbeprogrammen" dabei, die keiner braucht und die alles verlangsamen. 
+Und dann die Virenscanner, personal firewalls, MVM tools und der ganze 
+andere überflüsige schrott, der da normalerweise drauf ist. <schauder>
+
+Das ist bei Pfennigladen besser. OK, vielleicht sollte man nicht so ne "Bei-mir-
+ist-auch-alles-drin"-Distri nehmen, wie vielleicht Knüller. ;-)
+
+
+Ich würde diese Bewerbungstrainings sowieso alle abschaffen! Die diehnen 
+wohl eher dazu, daß sich die MAßnahmeträger dadurch gesundstoßen,oder als 
+"Strafmaßnahme durch die ARGE. Wennde nich brav bist, bekommste 12 Wochen 
+"Bewerbungstraining" verordnet!  lol
+Wenns einer wirklich nicht kann und lernen WILL,sollte man ihm das auch 
+innerhalb von ner Woche beibringen können. Außerdem gibts bei diesen 
+Leuten wohl auch genug mit Berufen, in denen anrufen oder einfach mal 
+vorbeischauen eher üblich ist, als ne schriftliche Bewerbung. 
+Für jeden Job als Klofrau eine perfekte schriftliche Bewerbung mit Word 
+und pipapo zu verlangen ist auch irgendwie unrealistisch!
+
+
+Macht mir nix. Ist auch sehr unterschiedlich je nach Umgebung. An Unis, 
+früher die Grafikworkstations usw, das waren meist Unixmaschinen. 
+
+Kommt halt drauf an, was man braucht und will. Für viele Raiffeisennmarkt-benutzer 
+würd wahrscheinlich auch so ne Mutus oder Tutto genügen, oder wie diese 
+Spielekonsolen heißen. 
+
+
+Ach, der hat ja eher den Kostenfaktor erwähnt. Daß das mgrad bei 
+Arbeitslosen schon ein Thema sein kann, leuchtet mir schon ein. Obwohl 
+man sich ja wohl die gesamte Windowssoftware inkl. Anwendungen problemlos 
+umsonst zusammenklauen kann ist wieder ein andere Thema. 
+
+
+Wird wohl so sein. 
+
+
+Ich finde, die Unterschiede zw. GENO und Familienmarkt-Office sind von der Bedienung 
+her nicht so groß. Da kann man doch schnell umsteigen. Und die 
+eigentlichen Betriebssysteme (ob nun Win oder Linux) sind ja wohl 
+hoffentlich von den Sysadmins für die Enduser so kastriert worden, daß 
+die so gut wie gar nix mehr, außer booten und runterfahren können.  Die 
+allermeisten PC-Böroarbeiter arbeiten mit und benutzen zu 98 % ein paar 
+Anwendungsprogramme und haben mit weitergehenden Aktionen nichts zu tun. 
+da wird dann eher der EDV-Betreuer gerufen. 
+und wenn der nicht blöd ist, stellt er diese Rechner auch alle so ein, 
+daß die Leute auf Betriebssystemebene so gut wie keinen Zugriff mehr 
+haben und nichts anstellen können.
+
+Der Habakuk.

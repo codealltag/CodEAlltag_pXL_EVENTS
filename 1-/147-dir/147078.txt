@@ -1,0 +1,49 @@
+Naja, da gibts schon noch ein paar andere Hürden.
+
+Erstmal ist derzeit noch keine Software in der Lage, ein Fahrzeug 
+wirklich zuverlässig autonom in einem realen Verkehrsfluß auf der 
+Autobahn zu steuern, und das ist noch die einfache Übung. Im 
+Stadtverkehr wird das _richtig_ interessant.
+
+Die einzige Alternative dazu wäre ein Bodengebundenes 
+Leitschienensystem, das dann aber alle Fahrzeuge erfassen muß. Solche 
+Schienen müssen nichts mit einer mechanischen Schiene gemein haben, das 
+können durchaus drahtlose Kontakte sein - aber man müßte die 
+Selbstfahrer komplett aus den so "verschienten" Bereichen eliminieren 
+und die Kontrolle über die Fahrzeuge einem Zentralrechner übertragen, 
+und das wird auf den bereits verfügbaren Straßen nur in absoluten 
+Ausnahmesituationen durchzusetzen sein.
+
+Ein ganz anderes Problem, dessen Lösung durchaus alleine mehr als 30 
+Jahre dauern kann, ist das Thema Haftung. Wer wird es verantworten, wenn 
+so ein autonom gesteuertes Fahrzeug ein Kind überführt: der 
+Programmierer, der Fahrzeugbauer, der Halter, der Sensoriker...? - An 
+dieser Hürde scheitern schon jetzt diverse elektronische Fahrhilfen. Es 
+wäre z.B. technisch kein großes Problem, Vollbremsungen automatisch 
+auszulösen, wenn ein Crash droht - Sensorik und Software werden 
+einfacher als jeder Parkassistent, passende Steuerkomponenten sind 
+bereits Bestandteil vorhandener Systeme wie ASR und ABS. Wird aber nicht 
+eingebaut, weil der Hersteller sich dann haftbar machen könnte wenn es 
+doch mal crasht oder wenn eine unvermittelt ausgelöste Fehlbremsung zu 
+Auffahrunfällen führt.
+
+Ebenfalls interessant werden die Sicherheitsaspekte. Denn ein 
+optimiertes Transportsystem wird nur funktionieren können, wenn die 
+Fahrzeuge untereinander kommunizieren und z.B. Fahrspur- oder 
+Richtungswechsel untereinander "abstimmen". Das birgt dann allerdings 
+wiederum die Gefahr, daß einzelne Fahrzeuge mehr oder weniger gezielt 
+Falschinformationen liefern - sei es, weil sie manipuliert werden oder 
+sei es wegen technischer Fehler. Mit solchen Falschinformationen könnte 
+man wunderbar ganze Straßenzüge blockieren oder riesige 
+Massenkarambolagen auslösen.
+
+Insofern halte ich die 30 Jahre für äußerst optimistisch. Es wird bis da 
+hin sicher die Technik geben, in einem abgeschlossenen Transportsystem 
+dynamisches Routing durchzuführen und Unfallsituationen zu vermeiden. 
+Aber zum Ersatz des Individualverkehrs gehört deutlich mehr als das.
+
+-- 
+Thorsten Elsbernd
+
+albw Handles ElchboxPfärrich - http://kdl.amtkcrshyxqpmwg.zm/
+Asah running System - http://ywc.vgcmn.krh/

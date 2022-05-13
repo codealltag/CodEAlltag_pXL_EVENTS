@@ -1,0 +1,19 @@
+Der Unterschied ist gewaltig. Der Kern hat eine ungeheuer große 
+"Menge" an gespeicherter Wärmeenergie, die beim plötzlichen 
+Wegfall des Verbauchers zur Temperaturerhöhung führt.
+
+Vereinfacht: Mein Feststoffkessel voller glühender Kohle ist ein 
+wesentlich größeres Problem als ein Kessel mit einem l- oder 
+Gasbrenner, wenn die Umlaufpumpen ausfallen. Deswegen hat der ein 
+eigenes Kaltwasserventil zum zusätzlichen Kühlen bei Stromausfall.
+
+Die Kühltürme sind übrigens dazu da, um den Dampf aus den Turbinen 
+zu saugen, d.h. um Unterdruck 0,05 bar bei 35ö (meine 45 Jahre 
+alte Erinnerung aus der Schulzeit :-) zu erzeugen.
+
+Gl
+-- 
+wenn ich mich armselig theologisch definieren müßte, dann wäre
+ich kein Katholik mehr.
+ich bin ja auch nicht Österreicher aus Begeisterung über unsere 
+Verfassung.

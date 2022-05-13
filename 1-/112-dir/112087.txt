@@ -1,0 +1,12 @@
+Doch! Du mußt nur in der Nähe eines Mittelwellensenders ein langes
+Kabel an ne Diode klemmen, diese an den Tonkopf der Datasette löten
+und mit nem kleinen 6502er-Programm die Rechteckimpulse ein bißchen
+DA-interpoliert an den "Soundblaster" weiterleiten.
+SCNR...
+
+
+Gruß B.M.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

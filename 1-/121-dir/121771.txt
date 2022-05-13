@@ -1,0 +1,11 @@
+Victor, du sprichst gerade mit einem Skript, das ausschließlich auch 
+Postings von aeiou.org konditioniert ist.
+
+Du könntest dich auch mit Bubblesort oder Quicksort, oder ganz mutig 
+auch Heapsort unterhalten. Noch gesprächiger sind allerdings echte echte 
+Objekte. Auch wenn diese vollkommen abstrakt sind. Und wenn grade keins 
+zur Hand ist, dann wenigstens Patterns, also Observer, Factorys etc.
+
+Aber vorsicht: Singletons sind meist reicht einsilbig :))
+
+-ulferts

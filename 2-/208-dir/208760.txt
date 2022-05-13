@@ -1,0 +1,10 @@
+Mein kleinbi�chen Erfahrung bei Realtimesoftware besagt, daß
+die meisten Abstürze durch Fehlfunktion der Überwachungssoftware
+kommen.
+
+Aber du weit das sicher besser - von irgendwelchen theoretischen
+Abhandlungen ...
+
+Gl
+-- 
+Am Anfang war das Staunen.

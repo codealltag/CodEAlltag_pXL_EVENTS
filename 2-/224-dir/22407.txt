@@ -1,0 +1,10 @@
+Nur wirst Du ein Problem bekommen, wenn einer der beiden nur Secure-boot- 
+only-Rechner haben möchte - der eine macht das via Gesetz, der andere  
+durch die Definition der Voraussetzungen für ein Windowslogo.
+
+
+Ja, wichtig ist nur, daß der Rechnerbesitzer die Verschlüsselung nicht  
+brechen kann.
+
+MfG
+        Manfred

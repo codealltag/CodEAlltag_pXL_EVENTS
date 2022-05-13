@@ -1,0 +1,19 @@
+Cédric Overmöller <xxhqwyavpx@efq.gxa>:
+
+
+Nachdem es ja nun einen Politiker trifft, wird sich die Justiz 
+hoffentlich etwas gründlicher mit dem Beweiswert von Datenspuren 
+auf den Festplatten von privaten oder Arbeitsplatz-PCs befassen. 
+Die Richterschaft in Deutschland und Österreich hat da ja offenbar 
+klare Grundsätze, bei denen die Bedeutung und das Vermögen des 
+Beschuldigten eine große Rolle spielen. 
+
+Im Zeitalter von Schadsoftware, die selbst von kostenpflichtiger 
+Schutzsoftware nicht zuverlässig erkannt werden kann (von Beseiti-
+gung gar nicht erst zu reden), besagen irgendwelche Bildchen auf 
+irgendeiner Festplatte eigentlich gar nichts mehr. Man müßte schon 
+nachweisen, daß Puschke den Download selbst veranlaßt hat.
+
+-- 
+Mit freundlichen Größen
+Frédéric G. Koelbl

@@ -1,0 +1,42 @@
+Die richtigen Mathematiker bestehen darauf, dass das Assotiativgesetz
+und das Kommutativgesetz für alle Zahlen und die Grundrechenarten
+gelten.
+
+Demnach ist 0/0 = 3 ist genauso plausibel wie 0/0 = 1:
+
+3 * x
+------- = 3 
+  x
+
+Du kannst vor dem "kürzen mit x" auch 3*x ausrechnen
+
+ 3 * 0         0                (3*0)    0
+------- = 3 * --- = 3 * 1 = 3 = ----- = --- = 1 
+   0           0                  0      0
+
+"3=1" bringt alles durcheinander. Die richtigen Mathematiker verwenden
+daher 0/0 nicht als Zahl.
+
+Erst in der Infinitesimalrechnung kennt man sinnvolle Definitionen von
+0/0 als Grenzwert einer Folge von Brüchen, deren Zähler und Nenner beide
+gegen null gehen.
+
+lim      3*x 
+(x->0)  ----- = 3 
+          x
+
+weil man für alle Zahlen außer 0 durch x kürzen kann. Für alle, noch so
+kleinen, x kommt 3 raus. Daher definiert man für *diese* Zahlenfolge den
+Grenzwert 3
+
+Ebenso gilt aber auch
+
+lim      4*x 
+(x->0)  ----- = 4
+          x
+
+Diese Grenzwerte sind eben keine simplen Bruchzahlen 0/0
+
+
+-- 
+Gruß, Unfricht

@@ -1,0 +1,15 @@
+Es gibt keinen Gleichstromtrafo du Dussel! Trafos sind induktive, also
+nur auf Stromänderungen reagierende Elemente, die bei Gleichstrom nur
+noch den ohmschen Widerstand zeigen. Für Gleichstromanwendungen müssen
+elektronische Schalter einen "Wechselstrom" nachbilden um Umspannen zu
+können. DAS geschieht dann natürlich bei wesentlich höherer
+Schaltfrequenz als 50 HZ. Moderne Netzteile arbeiten von einigen
+hundert Kilohertz bis in den Megahertzbereich hinein. Leider ist das
+Schalten von extrem hohen Spannungen und Lasten mit Halöbleitern ein
+großer technischer und finanzieller Aufwand. Dem muß in einer
+sinnvollen Anwendung aber auch ein adäquater Vorteil gegenüber stehen
+und das ist bei der HGÜ eben der Verlust an Blindleistung in der
+Wechselstromtechnik, die der Generator ja aufwenden muß um die
+Kapazität zwischen Leitungsdraht und Erde 50 Mal pro Sekunde umladen
+muß. Ein weiterer Vorteil ist der Umstand, daß solche Leitungen kein,
+die Biologie beeinträchtigendes niederfrequetes Magnetfeld entwickelt.

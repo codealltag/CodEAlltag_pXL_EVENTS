@@ -1,0 +1,25 @@
+Das ist derselbe Themenkomplex wie bei älteren HTML-Dialekten. Dort 
+schrieb man auch nicht »Flötentöne«, sondern verwendete 
+»Fl&ouml;tent&ouml;ne« stattdessen.
+
+Heute (ab HTNL 4.0 geht das) kann ich mein HTML deklarieren (zum 
+Beispiel als ISO-8859-1) und anschließend den gesamten Zeichenvorrat von 
+ISO-8859-1 verwenden. Aber bitte *nur* zwischen »<body>« und »</body>«, 
+denn außerhalb des Bodies ist nach wie vor ASCII zwingend vorgeschrieben.
+
+Und das ist hier im Bereich Mail/News kein bißchen anders.
+
+Der Grund hierfür ist einfach und logisch: die 96 ASCII-Zeichen sind 
+Teilmenge in allen anderen Zeichensätzen und sehen darum als einzige 
+Zeichen überhaupt auf allen Systemen immer und überall gleich aus.
+
+
+Zum Beispiel diesen hier: habitat Outlook Express!
+
+
+Glückauf!
+Margarete Conrath (Irschenhofen/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://nor.legex-tdzjek.zt

@@ -1,0 +1,21 @@
+Ich kenne nur rechte Arschlöcher - linke Arschlöcher sind ganz selten.
+
+
+Glückauf!
+Clara Rolfsmeyer (Holzi/Deutschland)
+
+
+Im übrigen verwendest Du einen defekten Reader, der _unzulässige_ 
+nicht-ASCII-Zeichen in die Headers schreibt, und ich habe keinen Bock 
+das jedesmal manuell zu reparieren.
+
+Was für einen Schrott verwendest Du denn? Woll'n mal gucken:
+
+X-Newsreader: Microsoft Outlook Express 6.00.2900.5512
+
+Ach ja, der übliche Verdächtige, das hätte ich mir denken können!
+
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://lud.wecnz-wzfzgm.uq

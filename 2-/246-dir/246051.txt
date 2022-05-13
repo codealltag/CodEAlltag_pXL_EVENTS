@@ -1,0 +1,9 @@
+Das:
+
+Content-Type:   text/plain; charset="us-ascii"
+
+ändern in
+
+Content-Type:   text/plain; charset="ISO-8859-15"
+-- 
+Im übrigen bin ich der meinung, dass TCPA/TCG verhindert werden muss

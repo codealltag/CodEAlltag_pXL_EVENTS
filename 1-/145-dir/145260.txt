@@ -1,0 +1,3 @@
+Wohlstand = Zufriedenheit = man fühlt sich wohl.
+Gier = Unzufriedenheit = man fühlt sich unwohl, etwas fehlt immer noch ...
+Gier <>Wohlstand.

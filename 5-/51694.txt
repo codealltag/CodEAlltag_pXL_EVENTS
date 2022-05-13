@@ -1,0 +1,18 @@
+Was ich ja nicht begreif, ist die Einflußnahme des Übergangswiderstands
+des Einschalters auf den Komparator LM393.
+
+
+Nein! Immerhin liegen ja 2x9V über den 6 parallelen BPW34.
+Noch dazu mit 10MOHm. Soviel Elektronen knallt ein bißchen 
+Gammastrahlung dort auch nicht raus.
+
+
+Eben, die Frage lautet ja, ob das Summenrauschen kleiner wird, wenn man
+jeder Fl�chendiode einen eignen OpAmp spendiert.
+
+
+Gruß H.G.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

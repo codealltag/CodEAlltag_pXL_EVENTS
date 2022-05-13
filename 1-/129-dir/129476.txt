@@ -1,0 +1,3 @@
+Achso dieses Missachten der RFCs wird dann als fehlertolerant bezeichnet.
+
+Ulrich

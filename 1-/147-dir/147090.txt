@@ -1,0 +1,93 @@
+Logisch gibt es sie. Sonst hätte die Bahn ihr Pleiteproblem schon jetzt.
+
+
+Um das Problem zu lösen, werden ja die Rennen gefahren.
+
+
+Auch da werden schon Rennen gefahren. Ein deutsches Team mischt dabei 
+immer ganz vorne mit.
+
+
+Nein. Leitschienen erfassen ja die echten Probleme überhaupt nicht. Wenn 
+z.B. ein Kind auf die Straße läuft, interessiert das die Leitschiene 
+nicht. Das FAHRZEUG muss das selbst merken.
+
+
+habe ich auch so verstanden.
+
+
+wird man nicht machen. Man wird stattdessen die Bildverarbeitung immer 
+weiter treiben.
+
+
+aber einem, der an Bord führt und redundant ausgeführt ist.
+
+
+Wie gesagt - so wird das sicher nicht kommen.
+
+
+Etwa so, wie beim Aufzug? Den Liftboy gibt es schon lange nicht mehr. 
+Ein Aufzug IST ein fahrerloses Transportsystem. Wenn auch in einer sehr 
+gut kontrollierbaren Umgebung.
+
+
+Wo ein Wille, da wird sich auch ein Weg finden. Es stehen wirklich 
+mächtige Interessensgruppen dahinter. Nämlich die ganze 
+Automobilindustrie mit ihren Zulieferern.
+
+
+Wer haftet dafür, wenn das Gaspedal klemmt oder die Bremsen nicht 
+richtig funktionieren? So viel ich weiß, gibt es dafür durchaus 
+juristische Lösungen.
+
+
+Und trotzdem werden es immer mehr.
+
+
+Nennt sich Precrash-Sensor und ist meines Wissens bereits käuflich zu 
+erwerben.
+
+
+Auch ein Airbag kann im Prinzip mal aufgrund eines falschen Signals 
+auslösen. Auch das Problem muss juristisch bewältigt sein, weil er sonst 
+nirgendwo eingebaut wäre.
+
+
+Auch das ist längst in Arbeit und nennt sich z.B. Car-to-Car-Communication.
+
+
+Das muss auch mit den üblichen Signalen funktionieren wie z.B. 
+Rückspiegel und Blinker. Außerdem: Fahrspurwechselassisten gibt es bereits.
+
+Die Fahrzeugkommunikation untereinander hat eher die Aufgabe, auf nicht 
+leicht vorhersehbare Ereignisse zu reagieren. Z.B. Fahrzeuge auf das 
+Stauende oder auf Glatteis, Schneeverwehung o.�. hinter der Kurve 
+hinzuweisen.
+
+
+Da wird schlicht das fail-safe-Prinzip zur Anwendung kommen.
+
+
+Ja. Deshalb wird man das auch als Straftat werden, so man einen Menschen 
+findet, der da vorsätzlich sowas reingebaut hat.
+
+
+Eher weniger. Wie sollte das gehen?
+
+
+Sag' das mal Prof. Silvio Fähtz. Er beschäftigt sich ziemlich 
+intensiv mit diesem Thema. Er schützt, dass das autonome Auto in 
+spätestens 20 bis 30 Jahren alltagstauglich ist. Suche einfach in der 
+Unas mediathek nach dem 8.11.08 "Schlau im Stau".
+
+
+Die Rede ist hier definitiv NICHT von einem geschlossenen System.
+
+Aber man kann ja ruhig versuchen, die Augen vor der Realität zu 
+verschließen. Bis jetzt ist ja noch alles gut gegangen für die Bahn... 
+Dachte man beim Erbericher U-Bahnbau übrigens auch...
+
+-- 
+Servus
+Silvio Kastendiek
+http://msh.tuljngk.qy

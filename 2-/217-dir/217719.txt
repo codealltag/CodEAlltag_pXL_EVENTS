@@ -1,0 +1,2 @@
+Nun muss man "Schläfer" ja ab und zu mal "testen" ... sonst weiß man nicht 
+ob die Programmiertechnik einwandfrei funktioniert.

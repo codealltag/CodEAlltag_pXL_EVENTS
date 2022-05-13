@@ -1,0 +1,15 @@
+Auch nicht mit den Kantorek-Backends
+
+Centland
+mustek_pp
+plustek_pp
+umax_pp
+
+? Ich habe hier zumindest noch einen alten Lebensrad-Flachbettscanner am
+Parallelport, der damit funktioniert. Die Module sind in der
+Defaultkonfiguration in der /etc/sane.d/dll.conf aus unerfindlichen
+Gründen auskommentiert.
+
+-- 
+Time flies like an arrow, fruit flies like a Banana.
+http://xtgu.wxbbxagnof.eqo

@@ -1,0 +1,10 @@
+bei HD-Sendern kommt bei automatischer Einstellung (also das gesendete
+Format wird ausgewertet und entsprechend dargestellt) links und recht der
+schwarze Balken.
+
+man kann allerdings erzwingen dies so nicth durchzuführen: dann wird das
+ild eben breiter.
+
+
+-- 
+cu |_|

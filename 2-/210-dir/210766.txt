@@ -1,0 +1,32 @@
+Hallo,
+
+
+Warum wird es dann nicht praktiziert?
+
+
+Es ist selten daemlich anzunehmen, dass "DNS-Sperren" jemanden von solchen
+Inhalten fern halten koennte, der wirkliches Interesse daran haette. Der
+Betrieb eines eigenen cache-only DNS wuerde die Sperren wirkungsvoll und
+dauerhaft aushebeln (wie jeder sofort sieht, der weiss, wie DNS funktioniert).
+Damit wuerde man mit den DNS-Sperren zwar keine Zugriffe auf KiPo verhin-
+dern koennen, wohl aber Zugriffe auf *eigentlich* freie Inhalte erschweren
+koennen, wenn man diese denn auf die Sperrliste setzt (bei solchen Inhalten
+ist vermutlich auch das Interesse der Nutzer oftmals nicht in genuegendem
+Masse vorhanden, um ueberhaupt ueber ein umghen der Sperre nachzudenken).
+Das naechste Problem ist, dass die Listen nicht kontrolliert werden koennen,
+solange sie geheim sind, und dass spaetestens, wenn denn die Zugriffe auf
+die "Stop-Seite" auch noch protokolliert werden (was, wenn das Gesetz erst
+einmal durch ist, nur noch ein winziger Schritt waere), kaum noch jemand
+das Netz angstfrei nutzen koennte: ist er doch mit jedem Mausklick sehr
+dich dran am "KiPo-Verdacht" ...
+
+Nein, das "Kosten/Nutzen-Verhaeltnis" bei solchen Massnahmen stimmt einfach
+nicht: das angeblich angestrebte Ziel wird man damit nicht erreichen, aber
+die Nebenwirkungen waeren fatal, eine Kontrolle der Sperrlisten durch die
+Oeffentlichkeit unmoeglich.
+
+Tschuess,
+	Berthold Monique			(hprhphc@yofybi-tsllzefqtw.xc)
+-- 
+Ein Domainname (auch wenn er Teil einer Mailadresse ist) ist nur ein Name,
+nicht mehr und nicht weniger ...

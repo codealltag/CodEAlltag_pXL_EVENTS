@@ -1,0 +1,7 @@
+N, bei 1,1kW/s würde nach geschützt 4-5 Sekunden der B16A
+Leitungsschutzschalter auslösen 8-)
+
+Vielleicht solltest du dich mal mit den Grundgrößen der Elektrotechnik
+auseinandersetzen?
+
+Fritz

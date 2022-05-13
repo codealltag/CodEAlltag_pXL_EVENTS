@@ -1,0 +1,13 @@
+Typisch Khaus
+Ein Mikrogramm Plutonium sind ca. 3000 Bq.
+Pu-239 hat einen Dosiskoeffizienten von 1,2 x 10exp-4 Bq/Sv bei 
+Inhalation. Die anderen Nuklide weniger. Also maximal ca. 300 mSv Dosis 
+(50Jahre Folgedosis Erwachsener)
+Das Risiko an Krebs zu erkranken beträgt nach ICRP 5% pro Sievert.
+das heißt die Aufnahme von 1 Mikrogramm Plutonium führt zu einem Risiko 
+an Krebs zu erkranken von 5 Promille.
+Von mir aus schlag noch einen Faktor 10 drauf, da die offiziellen Zahlen 
+ja alle verharmlosen, dann bist du bei 5 Prozent. Immer noch weit weg 
+von "unabwendbar".
+
+Gruß  Kaspar

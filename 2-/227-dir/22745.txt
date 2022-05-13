@@ -1,0 +1,22 @@
+Bei der Wärme hast du in jedem Fall einen Wirkungsgrad von unter 40% 
+gegenüber dem Fall, daß du die Kohle direkt auf dem Teppich verbrennst oder 
+dort hinreichend (bzgl. der Wärmeentwicklung) aktive radioaktive Substanzen 
+lagerst.
+
+Falls der Strom aus einer Solaranlage stammt, bist du im Wirkungsgrad 
+hinsichtlich der Umsetzung von Strahlungsenergie noch schlechter dran, weil 
+die Solaranlage nur etwa zu 15% davon in Strom und damit 'Wärme im 
+Wohnzimmer' umsetzen kann, während eine Solarhei�wasseranlage jedenfalls 
+über 90% käme. Wertet man als Input nur endliche irdische Energieträger, 
+modifiziert sich das natürlich.
+
+In Licht würden etwa 5% des Stroms umgesetzt, beim dessen Erzeugung im 
+thermischen Kraftwerk also etwa 2% der Primärenergie. Bei allen anderen über 
+Elektrizität vermittelten Energieträgern sinngemäß, während die Solarthermie 
+diesmal 0% erzielt. Jetzt mußt du nur noch sagen, wieviel Licht und wieviel 
+Wärme du willst und welche Energieträger du in welchen Prozentsatze nutzen 
+willst, dann kann man dir den Gesamt-Wirkungsgrad als gewichteten Mittelwert 
+ausrechnen.
+
+Gruß
+Luciano

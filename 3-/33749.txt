@@ -1,0 +1,41 @@
+Die Entscheidungen des Verfassungsgericht sind bindend und können auch 
+vom Europäischen Gerichtshof nicht übergangen werden. Allerdings binden 
+sie nur die Gesetzgebung in Deutschland.
+
+Wenn die BRD nun per Vertrag gehalten ist, so ein Gesetz über die 
+Speicherung von Verbindungsdaten zu erlassen, dann könnte man das 
+trotzdem tun.
+
+Man muß das Gesetz nur so gestalten, daß es verfassungskonform ist.
+
+Etwa könnte man die Daten speichern, aber nur im Einzelfall und auf 
+richterliche Anordnung einsehbar machen.
+
+D.h. es müßte der online Zugriff ausgeschlossen sein und der Kreis der 
+Nutzer der Daten müßte durch technische Maßnahmen auf die zulässigen 
+Personen beschränkt werden.
+
+Da die Nutzung des Internets auch Rückschlüsse auf den Benutzer zuläßt, 
+sind die Nutzungsdaten durch Persönlichkeitsrechte geschützt. Es dürfen 
+diese Profile nur in Einzelfällen und für schon aus anderen 
+Zusammenhängen bekannte Personen erhoben und genutzt werden. Sie dürfen 
+nicht selbst zur Bildung von Verdachten im Sinne eines Data-mining 
+genutzt werden.
+
+Es muß also verhindert werden, daß derartige Profile über völlig 
+unbescholtene Personen erstellt und von Unbekannten für unbekannte 
+Zwecke mißbraucht werden.
+
+Dies geht nur, wenn der Zugriff positive geregelt wird und alle anderen 
+Personen oder Organisationen sind nicht berechtigt.
+
+Typischerweise unberechtigt wären etwa Zugriffswünsche von Unternehmen 
+zu Werbezwecken, von Einzelpersonen, aber auch von ausländischen 
+Geheimdiensten.
+
+Da man es also tendenziell mit hochgerüsteten möglichen Ausspähern 
+derartiger Daten zu hat, so müssen die Sicherungen gegen diese auch von 
+ausreichender Stärke sein.
+
+
+DIDIER

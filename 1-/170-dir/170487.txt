@@ -1,0 +1,11 @@
+<gähn> Vielen Uhrensch�ndern wäre es vermutlich am liebsten, wenn die
+Sonne mittags auf und um Mitternacht untergeht.
+
+Wenn schon, dann sollte man die mittlere Zonenzeit einzuführen, d.h. für
+MEZ nicht nach 15ö Ost sondern 7.5ß Ost. Also die Uhren eine halbe
+Stunde gegenüber der heutigen Normalzeit *zurück* zu stellen. So wird
+der Fehler zur wahren Ortszeit verringert und zudem noch im Mittel biasfrei.
+
+-- 
+Gruß,
+      Gernot

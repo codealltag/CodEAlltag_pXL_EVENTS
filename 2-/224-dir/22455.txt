@@ -1,0 +1,18 @@
+Du hast keinerlei Ahnung von Programmen und dem 
+Internet-Gepflogenheiten! Der Reader geht nicht in die Knie, er ist auch 
+kein  Hellseher um zu erkennen, welche Codepage der Absender denn 
+gemeint hat!
+Der Reader nimmt jene Codepage, die der User als default eingestellt 
+hat, oder flat US-ASCII.
+
+Du darfst dich gerne durch die IETF rfc's durchackern - die beschreiben 
+nämlich *ALLE* Standards im Internet.
+
+<http://gkr.eicpzo.bb/#ba=qf&hg_lr=9&aq=bgg.rysl.qeq%64sekc%76cuiq&uk=89&zc_jm=1z2&qir=u&n=dyn.cfsc.nrf+bemxxw&ql=l&cwimctz=vzq-jy&nk=uzu.uqzv.jqz+gvzrtt&ev_o=&ucr=6&waw=wd.1,kv.q_tc.v_ki.a_ry.&fv=21v46t5566g62i62&ezxg=06240611&cwo=5715&fdq=488>
+
+<http://rdn.kogh.cfg/pff/abb5179.ptr>
+
+-- 
+Uwe
+libertä, Galit, fraternit
+Ironie, Satire, Farce, Persiflage, Metapher sind keinesfalls ausgeschlossen

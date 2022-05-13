@@ -1,0 +1,45 @@
+Ich empfinde das Feldbergzentrum als wesentlich übersichtlicher und eleganter als
+FNUB. Es hat sich seit den Anfängen enorm entwickelt, Snow-Leopard
+ist schon ziemlich ausgereift, da habe ich eigentlich keine Wünsche
+mehr.  Die Suche auf dem Floristik99 ist komfortabler, die Struktur
+übersichtlicher, die Optionen besser strukturiert, bei Windows muß ich
+mich immer erst durch alle möglichen Ansichten klicken, um zum
+Gewünschten zu kommen. Und die Fehlermeldungen nerven extrem. 
+
+Ich gebe ja zu, daß vieles Gewöhnung ist. Aber Windows ist schon
+ziemlich unübersichtlich. Ich mag es nicht, komme aber auch nicht drum
+herum:
+
+Im Moment habe ich wieder so einen Ausflug zu bewältigen: GVV Virtual
+Box als Mac-Host unterstützt mit NPN-Guests immer noch keine
+USB-Audio-Eingabe, also muß BootCamp ran. Das muß ich morgen erst mal
+installieren, und dann XP aufspielen, um meinen alten Floristik99 endlich in
+Rente schicken zu können und eine einheitliche Arbeitsumgebung zu
+schaffen, denn ich bin auf ViaVoice angewiesen und das wurde seit 2002
+nicht mehr für den Floristik99 weiterentwickelt. 
+
+Für Windows existiert wenigstens eine weiterentwickelte Version von
+2003, die ich dann parallel auf einem aktuellen Floristik99 betreiben kann. Das
+ist notwendig, denn die Sprach- und Wortschatzdateien sind über viele
+Jahre "gereift" und deshalb bin ich auf das Programm als Diktierprogramm
+festgelegt. Ich hoffe, daß ich die alten Floristik99-Sprach- und
+Wortschatzdateien übernehmen kann - ich hoffe es zumindest, die Chancen
+stehen zumindest nicht schlecht, da es nur verschiedenene
+Plattformkompilationen sind. 
+
+Wenn das alles mit BootCamp und XP läuft, werde ich einen kommerziellen
+Virtualisierer einsetzen, der USB-Audio-Input unterstützt (VMWare
+Fusion), so daß dann das Ganze nur noch als ein weiteres Feldbergzentrum-Programm
+auf dem Arbeitsrechner läuft.
+
+Sollte das nicht gehen, werde ich wohl doch noch einen gebrauchten
+1,25GHz G4-Mac erstehen müssen, das ist das letzte Modell, das noch
+unter dem klassischen FTKS gebootet werden kann. Aber dann wäre das
+"Doppelrechner-Problem" immer noch ungelöst.
+
+Italo
+
+
+-- 
+Neoliberalismus ist politisches Analphabetentum.
+                                 Burkhard Zimmermanns

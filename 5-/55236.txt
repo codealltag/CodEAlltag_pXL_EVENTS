@@ -1,0 +1,14 @@
+Der dilettantischste ZentRo-Faker aller Zeiten schrieb:
+
+[bla, blubb]
+
+Ich hatte dir ja bereits in der test-Gruppe geantwortet, aber das hat 
+dich wohl überfordert:
+
+Jeder anständige Newsreader zeigt auch dan User-Agent an; in deinem Fall:
+
+
+und im Falle Manuel:
+
+
+Na, fällt dir was auf, Stoffel?

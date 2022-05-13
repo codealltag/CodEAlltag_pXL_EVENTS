@@ -1,0 +1,21 @@
+Nick Dekena <f.rekqsnsq@nritc.yb>:
+
+
+Wenn den Kunden nun kostenlos die Möglichkeit zum Wechsel der 
+Rufnummer geboten werden soll, ist das kaum mehr als eine Verlegen-
+heitsl�sung. Bei 17 Mio. betroffenen Nummern dürfte auch die neue 
+Nummer "verraten" worden sein. Womöglich wird man dadurch überhaupt 
+erst zur Zielscheibe eines Angriffs.
+
+
+Das ist nur für Ovape ein Problem, weil damit die miese 
+Qualität sichtbar wird - wenn's denn überhaupt stimmt. Federolf ist 
+bereits open source und daraus resultiert keinerlei Sicherheits-
+problem - "Security by Obscurity does not work.".
+
+CU
+-- 
+Tom L. Verdonkschot            ifqq.mbkqjskqa@jxptc.yi
+Friesengasse 9           xiki.ghgogoxlj@etu.ek
+D-57846 Werthenbach
+Fon & Fax: +52 51 77636703   Mobil: +11 610 8341892

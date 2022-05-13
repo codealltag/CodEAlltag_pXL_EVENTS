@@ -1,0 +1,19 @@
+Das bestätigt genau das, was ich mir eben bei einem Besuch in der Stadt 
+überlegt habe, zumindest legt es das nahe.
+
+Es scheint überhaupt nicht zweckmäßig zu sein, daß eine ZB 
+Geschäftsbanken als Kontokorrentkonten führt. Eben _wegen_ der 
+Mindesteinlage sind GB _IMMER_ Debitoren, die der ZB Geld als 
+"Fremdkapital" "leihen".
+
+Und diese Einlage kann eingezahlt werden:
+a) in bar,
+b) durch Passivtausch durch Belastung einer andereen GB,
+c) durch Zentralbankgeldschöpfung.
+
+In Fall c) hat die ZB eine Bilanzverlängerung und führt für die 
+betreffende GB ein Debitorenkonto.
+
+Während also bei GB zwei getrennte Konten für Kunden unhandlich sind, 
+weil sich die Rolle als Kreditor oder Debitor mit jeder Buchung ändern 
+kann, scheint mir das bei ZB gerade sinnvoll zu sein.

@@ -1,0 +1,52 @@
+Ulfert Paps <pgr.sakfqqcs@vzp.iu>:
+
+
+Und wer anonymisiert die Datensätze? Richtig, andere ITler. Wer mit 
+Datensätzen arbeitet, ist auch kein Berater, sondern in diesem 
+Falle Entwickler. Eine beratende Tätigkeit bedarf tatsächlich 
+keines Zugangs zu realen Daten, die Tätigkeit eines Software-
+entwicklers dagegen schon, und zwar zwingend.
+
+Ersetzt eine neue Software eine ältere, ist es eine gängige 
+Methode, die Ausgaben des neuen Programmsystems mit der des abzu-
+lösenden zu vergleichen. Oft wäre gar nicht genügend Speicherplatz 
+oder genügend Rechenzeit vorhanden, um einmal den regulären Produk-
+tionsprozeß und dann das Gleiche nochmal mit Deinen "anonymisier-
+ten" Daten durchlaufen zu lassen. Schlimmer noch: Die Fachebene hat 
+regelmäßig gar keine Zeit, sich neben den realen noch mit einer 
+Masse anonymisierter Daten zu befassen. Außerdem sind Tests mit 
+realen Daten realistischer.
+
+
+... die Du Dir ausdenkst?
+
+Die Fachebene sollte ihre Daten schon wiedererkennen und kann 
+Fehler viel leichter entdecken, als wenn sie sich jedesmal mit 
+völlig fremden, in der Praxis dann auch einfach verwürfelten Daten 
+befassen müßte.
+
+
+Als Entwickler hat man neben der Anwendung regelmäßig auch direkten 
+Zugriff auf die fast aller Unternehmenssoftware zugrundeliegenden 
+Datenbanken. Man kann also alles sehen. Als Externer muß man seine 
+Elaborate allerdings zwangsläufig auch transportieren können, d.h. 
+sie auf einem Medium oder über das Internet befördern.
+
+Vor allem müssen viele Endanwender Reports für ihre Kunden 
+anfertigen lassen, so daß auf diesem Wege auch wieder viele Daten 
+das Unternehmen ganz regulär verlassen können müssen. Das sind 
+immer häufiger MS Excel- oder MS Access-Dateien, so daß an dieser 
+Stelle gut und böse nicht mechanisiert zu unterscheiden ist.
+
+
+Das wird heute auch vielfach gemacht. Bleibt aber noch der Email-
+Verkehr, der sich aus dienstlichen Gründen nicht gezielt genug 
+einschränken läßt.
+
+
+Vielleicht sollte man dann mal an diesem "sinkenden Lohnniveau" 
+arbeiten.
+
+-- 
+Mit freundlichen Größen
+Orlando G. Mushövel

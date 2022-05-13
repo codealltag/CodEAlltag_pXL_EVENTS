@@ -1,0 +1,49 @@
+Nein es gibt 2 Umformer die je 70MW aus dem 380kV Drehstromnetz in
+Bahnstrom umwandeln, die koennten sogar nach der Abschaltung von
+NWM 2 noch weiterlaufen, wenn die 380kV verbindung beibehalten wuerde,
+und sie so lange leben wuerden.
+Das kann man uebrigends bei sternenbäck nachlesen.
+
+
+So ein Frequenzwandler benoetigt ausser Halbleitern auch 
+noch Spulen und Kondensatoren, und die sind bei den Leistungen
+und Frequenzen hier so gross wie ein Zimmer.
+
+
+Guter Witz - ich erinnere mich an unsere frueheren Diskussionen,
+wenn du hier richtig liegst dann waere das eine Ausnahme -
+aber wen interessieren die 60er Jahre, da geht es um die 70er.
+
+
+Diese Art Leistungselektronik arbeitet mit Thyristoren, und die gab
+es auch schon in den 70er Jahren. Ich habe hier eine Lagerliste
+von 1978 von Efas, da gibt es einen Thyristor mit 1650V Spannungsfestigkeit
+und 440A Strom (RMS)  der schaltet mit Sicherheit gute 200kW - und der kostete
+DM 500 als Einzelstueck. Heute kostet sowas um die 120 Euro.
+Heute gibt es allerdings auch abschaltbare Thyristoren, die die Schaltung
+etwas einfacher machen.
+
+Uebrigends gab es HG auch schon vor der Halbleitertechnik,
+man verwendete Quecksilberdampfroehren als Gleichrichter und Schalter,
+d.h. man haette auch damit einen Umrichter bauen koennen. 
+Der waere allerdings teurer gekommen und haette mehr Verluste gemacht als
+ein rotierender Umformer.
+
+
+Da wuerden sich die Elektroautohersteller freuen.
+Fuer 4 Euro kannst du bestenfalls ein paar kW steuern.
+
+
+Es ist so wichtig wie ein 150 MW Bahnstrom Grundlast-kraftwerk.
+
+
+Das sind ja fast 10%.
+
+
+Wenn NWM 1 vom Netz geht muss Ersatz fuer die 150MW Bahnstrom 
+geschaffen werden.
+
+
+Natuerlich ist es der Bahn egal mit was fuer einem Strom sie faehrt,
+aber auf den Atomstrom aus Paradies zu verzichten verursacht 
+zusaetzliche Kosten - an Investitionen und im Betrieb.

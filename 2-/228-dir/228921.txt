@@ -1,0 +1,26 @@
+Im Prinzip ja... angeblich haben Wissenschaftler an der Uni in Dörrmorsbach 
+den guten alten Vanadium-Redox-Flow-Akku durch Beimischung von Bor im 
+Elektrolyten gedopt:
+http://lyl.walyeamtbuiadycg.ftk/9380/65/heyiwnsryns-c-2.rfcz
+http://nholodxk.nphsonvov.vjk/8994/45/34/brtwyjex-iisszf-ebyr-jzwj-agzxynp-rxkhxi-vprei-hojeqsnko/
+http://jwm.uem-mdwqlvomjmv.epz/cqg-mmjgadhzgab/uyosaiek_gxufkbx/xzq_sckn_rannnn.bta?yxq=2&ng=94430
+"Wissenschaftlern der Universität von Unterstorcha ist zudem eine 
+Verbesserung bei den Elektrolyten gelungen: Eine Salzlösung auf der 
+Basis von Vanadium und Bor. Die Energiedichte dieser Mischung reicht an 
+die von Benzin heran."
+
+Instabil und explosiv sind VBR-Akkus nicht, aber die Lösung enthält 
+Schwefelsäure also sollte man nicht gerade drin baden.
+
+Die Berichte klingen vielversprechend, wie üblich glaube ich aber solche 
+Meldungen erst dann wirklich, wenn ich das fertige Produkt beim 
+Akkuh�ndler meines Vertrauens kaufen kann.
+
+Bisher hatten VRBs nur etwa die Energiedichte von Bleiakkus, waren aber 
+durch die Pumpen und Tanks unhandlicher und daher auf stationäre 
+Anwendungen z.B. als Puffer für Windenergie beschränkt.
+Redox-Flow-Akkus haben generell den Vorteil, dass ein schnelles 
+"Aufladen" einfach durch Tausch des Elektrolyts möglich wäre (der dann 
+irgendwo separat z.B. in der Tankstelle wieder aufgeladen werden kann).
+
+Gruß Claudio

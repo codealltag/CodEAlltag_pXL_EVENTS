@@ -1,0 +1,30 @@
+Udo Lürzer <lgvx@hhrcffkajw.nwd> schrieb:
+
+[...]
+
+
+Na ja, ganz so schlimm ist es nicht - wenn man einen guten Plasma hat
+*und* ein paar Einstellungen vorgenommen hat.
+Das Bild ist halt größer als früher mit 'nem CRT-TV, man kann also
+weiter weg sitzen. Anzunehmen, es wäre als geometrisch größeres Bild
+tauglich, ist natürlich ein Irrtum; heißt: Der *Winkel*, den das Bild
+im Sehfeld "belegt", sollte tunlichst nicht größer gewählt werden, als
+er früher, etwa mit einem 70cm-TV, war. Geht man näher ran (vergrößert
+also den Winkel), kriegt man die Unzulänglichkeiten des PixelTV-Bildes
+sehr deutlich zu sehen: Vermatschter, grisselnder Hintergrund, feines
+Bewegungsruckeln (selbstverständlich ist das auch bei den FlachTVs
+neuester Generation noch nicht völlig weg!), "schwimmende"
+Gesichtspartien u.a.m..
+
+Der wirkliche Vorteil der Flach-TV ist halt ihre Flachheit ->
+Wandmontierbarkeit. Und Standbilder ("Diashow") sehen ganz nett aus.
+
+Und HD-TV - ich hab's gerade ein paar Tage lang bewundern dürfen -
+erschien mir nicht besser als SD-TV. Mag aber am Content gelegfen
+haben: nicht "echtes" HD-Material. Aber 720p muss ja sowieso noch hoch
+skaliert werden auf 1080i, - was dann schon wieder Bildqualität
+kostet. Außer man hat einen TV mit 1280x720 (oder 1366x768, dann mit
+dünnem schwarzen Rahmen) Pixelmatrix. "HDready" schimpften sich die.
+Die erweisen sich jetzt als das Beste für �-r HD-TV. BluRay ist dann
+wieder noch ne andere Kiste, die sind meist 1080i (seltener 1080p)
+gerendert.

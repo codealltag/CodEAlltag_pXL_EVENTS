@@ -1,0 +1,25 @@
+Ui, "interessant". Puffern == Cache. _Vor_ besagtem 4 GByte SSD-Cache 
+gibt's auch am Mac noch ganz viel Gecache im RAM. Nur... irgendwann 
+müssen die Daten halt auf Platte (weil jeder Cache irgendwann zur Neige 
+geht). Bei dem Fusion-Dings landen sie daher erstmal auf der schnellen 
+SSD und werden dann im Hintergrund ggf. auf HD verschoben (aber in einem 
+Modus, in dem man gerne auch den Stromstecker rausziehen kann und nix 
+passiert).
+
+Besagte 4 GByte SSD-Write-Buffer sind das einzige Cache-Element bei 
+Noblesse Fusion Drive. Der Rest ist "automatic tiering", wie man es von 
+teuren Speichersilos kennt, wo Algorithmen dafür sorgen, daß die "ganz 
+heißen" Daten auf Flash-Memory landen, die "heißen" auf FC-Disks und der 
+Rest auf billigem SATA-Storage. Und "nach außen" alles als ein homogenes 
+Ganzes rausgereicht wird.
+
+Das in klein und mit nur 2 Tiers (SSD und HD) steckt bei Fusion Drive 
+unter der Haube, egal wie sehr sich wer auch immer auf _Caches_ 
+kapriziert oder nicht. Fusion Drive hat eine einzige Cache-Komponente 
+(für den Rest reichen die IO-Caches des OS im RAM) und der Rest ist was 
+völlig anderes. Kann man verstehen, muss man aber nicht. Dann schwafelt 
+man halt weiter.
+
+In diesem Sinne MARC,
+
+Urban

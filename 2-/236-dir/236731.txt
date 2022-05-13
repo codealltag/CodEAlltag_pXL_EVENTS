@@ -1,0 +1,19 @@
+Vincent Creuzburg <vb@vz.tv>:
+
+
+Die Magnetspulen der Induktionsplatten werden mit einem Wechselstrom
+bei ca. 25 kHz versorgt, so daß sie ein magnetisches Wechselfeld in
+dieser Frequenz über sich erzeugen. Das induziert in jedem elektri-
+schen Leiter Wirbelströme (Achtung, Herzschrittmacher!), die ihn
+aufheizen. Allerdings wird das Magnetfeld nur in ferromagnetischen
+Materialien genügend stark gebündelt, während es durch andere nur
+hindurchgeht und dort nur einen schwachen Effekt hervorruft. Deshalb
+gehen Aluminiumtöpfe nicht.
+
+Das induktive Kochen müßte im Hinblick auf die Trägheit bei
+Temperaturänderungen näher beim Gas liegen, weil sich im Herd selbst
+kaum noch Materie abkühlen muß.
+
+-- 
+Mit freundlichen Größen
+Mauro J. Rossbach

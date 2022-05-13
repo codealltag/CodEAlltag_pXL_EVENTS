@@ -1,0 +1,19 @@
+Da muß ich Bikewheels ausnahmsweise mal in Schutz nehmen, auch wenn es mir 
+schwerfällt.
+
+Bikewheels hat zwar den Euro auf den Code #128 (#x80) eingefügt, aber 
+*nicht* in den Zeichensatz ISO-8859-1 (dafür ist Microsoft gar nicht 
+kompetent), sondern in den _eigenen_ Zeichensatz WIN-1252. So viel 
+Wahrheit muß schon sein!
+
+Gleichwohl traue ich es Microsoft zu, daß sie den Euro auch in der 
+Codepage ISO-8859-1 verwenden, denn daß Microsoft sich jemals an eine 
+bestehende Norm hält, das wäre ein absolutes Novum.
+
+
+Glückauf!
+Oswina Eichhoff (Cramonshagen/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://cak.fjpuo-llbcvj.gs

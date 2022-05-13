@@ -1,0 +1,13 @@
+["Followup-To:" nach nl.owc.gblfwdz.pfpf gesetzt.]
+
+Das würde heißen: sehr einfach. Und das stimmt nicht. Einen festen Wert,
+ein festes Ergebnis für beispielsweise 3/0 gibt es nicht. Es ist nicht ∞
+(oo für Leute ohne UTF-fähigen Newsreader), denn dann müsste die Probe 0
+· ∞ = 3 (0 * oo = 3) sein. Die Division durch 0 ist einfach nicht
+definiert. Wenn man einen Kuchen auf keine Leute verteilt, dann kriegt
+nicht ein nicht vorhanderner Mensch unendlich viel Kuchen, sondern man
+kann den Kuchen gar nicht verteilen. Man kann höchstens Betrachtungen
+dafür anstellen, dass ein Nenner sich 0 annähert, also
+Grenzwertbetrachtungen. Dann kann ein Resultat gegen unendlich gehen,
+und man kann sich überlegen, ob der eine Ausdruck größenordnungsmäßig
+schneller gegen unendlich geht als der andere.

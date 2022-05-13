@@ -1,0 +1,9 @@
+Die 7 kWh müssen aber doch erstmal in einen Akku reingeladen werden, bevor
+das Auto fahren kann. Der Wirkungsgrad des Akku ist nicht berücksichtig,
+wenn ich das richtig sehe...?
+
+Größe,
+
+
+-- 
+Alexander Hollanders

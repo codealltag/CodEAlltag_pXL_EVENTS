@@ -1,0 +1,34 @@
+Wir haben ganz andere Probleme: Beweislastumkehr und erfundene
+Schadenhöhen. Mittlerweile kann jeder Rechteinhaber beliebige
+Behauptungen aufstellen, und die Beweislast liegt beim Beschuldigten.
+Ganz perfide ist folgende Konstruktion:
+
+Rechteinhaber:
+  "Lgt Igor hat mit der ip-Adresse 2.2.9.4 am 5.4. um 20.30 Uhr den
+  Song "Bla Bla" illegal heruntergeladen. Unser Schaden beträgt 1000
+  EUR."
+
+Tee Trinker:
+  "Ich habe zu der Zeit gar nichts heruntergeladen. Ehrlich. Ich war
+  nicht mal zu Hause. Und wieso soll ein Schaden von 1000 EUR für den
+  einen Song entstanden sein?"
+  (Dass Tee Trinker u.U. auch gar nicht mehr so genau weiß, was er an
+  diesem Tag um diese Zeit getan hat, ist ein weiteres Problem)
+
+Rechteinhaber:
+  "Unsere Software hat die ip-Adresse mitgeschnitten. Unser Ausdruck ist
+  der Beweis. Und der Schaden ist eben so hoch, basta!"
+
+Tee Trinker:
+  Fragt den Internetprovider, welche ip-Adresse er zu der Zeit hatte.
+  Internetprovider hat die Daten aber bereits gelöscht.
+
+Landgericht Neudietendorf:
+  Obwohl Zahlendreher vorkommen können und auch schon vorgekommen sind,
+  gibt das Gericht dem Rechteinhaber in allen Punkten Recht.
+
+
+Ob Tee Trinker eine Chance gehabt hätte, wenn er z.B. wie ich alle
+ip-Adressen mit Uhrzeit in eine Datenbank schreibt, sei dahingestellt.
+Bei der derzeitigen faktischen Beweislastumkehr wird das an bestimmten
+urheberfreundlichen Gerichten wenig helfen.

@@ -1,0 +1,11 @@
+Hm, hast Du für Thunderbird eine Lösung, wie Du eine Threadanzeige für  
+Deinen Mailaustausch mit anderen hinbekommst, insbesondere wenn empfangene
+Mail in einem speziellen Ordner für die jeweilige Person landet? Eine  
+OpenXP äquivalente diesbezügliche Funktionalität habe ich leider noch  
+nicht gefunden.
+Am liebsten wäre mir ein Programm, das die graphischen Fähigkeiten von  
+Thunderbird mit der Programmierbarkeit von gnus und der Datenbank und  
+einigen anderen Konzepten von Crosspoint in sich vereinigt.
+
+MfG
+        Raphaël

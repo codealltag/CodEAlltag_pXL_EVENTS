@@ -1,0 +1,34 @@
+Urs, sieh mal, es ist ein Leichtes im Netz zu ueberpruefen, was ein
+Akku fuer Elektroautos kostet, gibt es laengst zu kaufen.
+
+Ein heute typischer E-Auto Akku duerfte im Bereich von 15 - 18 kWh
+liegen, fuer eine Reichweite von 100 km. Hier z.B. LiFePO4 speziell
+fuer Elektromobilitaet entwickelt, voellig unproblematische im Betrieb
+beim Laden/Entladen und nichtmal unbedingt eine Kuehlung erforderlich.
+Ideal fuer Elektroautobastler, 16 kWh/100V/160Ah, Einzelstueckpreis:
+4963 EUR
+http://jhj.lhdk.vu/vpfiuty/zwbi-ncgb-ytmvep/ggsmc.hgs
+
+Die Zyklenzahl liegt laut Datenblatt bei 3000 (80% DOD) bzw. 5000 (70%
+DOD). Damit kommst du rein rechnerisch mit einem Elektroauto (typ. 15
+kWh/100km) mehrere 100.000 km weit. Selbst wenn sich diese Werte in
+der Praxis als deutlich niedriger herausstellen sollte, sind es immer
+noch weit ueber 100.000 km.
+
+Oder anderes Beispiel: Von Euchler ist mir bekannt, dass sie mit Kosten
+von 200 US$ pro kWh kalkulieren. Bei dem obigen 16 kWh Akku sind dies
+3200 US$ oder je nach Wechselkurs rund 2500 EUR. Sie erreichen diese
+niedrigen Preise durch eine Verschaltung von vielen in Laptops weit
+verbreiteten Li-Ion Akkus der Bauform 18650.
+
+Am unteren Ende der Preis und Qualitaetsskala kosten solche 18650
+Akkus bei 100.000 Stueck Abnahme 0,20 EUR/Stueck. Bei 2200mAh und 3,7V
+sind das 25 EUR/kWh. Oder fuer meinen oben genannten 16 kWh Akku 400
+EUR. Ja, nur vierhundert Euro! Du musst halt die knapp 2000 Akkus
+geeignet verschalten. Hier machen gerade welche eine Sammelbestellung
+uber die 100.000 Stueck, kannst dich beteiligen:
+http://bzhcr.rhfqtj.jd/kjqg.bnk?926,020826,okip=5
+
+Ich persoenlich gehe davon aus, dass so ein fertiger 16 kWh Akku in
+einer vernuenftigen Qualitaet fuer Elektroautos in 10 Jahren um die
+1000 EUR zu haben ist.

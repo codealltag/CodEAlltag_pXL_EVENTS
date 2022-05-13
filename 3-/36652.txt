@@ -1,0 +1,28 @@
+Das reicht leider nicht für ein komfortables Lesen. Ich suche schon lange  
+vergeblich nach einem Newsreader, der einem ermöglicht, Teilbäume eines
+Threads zu bewerten und dann ggf. auszublenden. Stehe I für Idiot und S  
+für seriös, dann würde ich einen Teilbaum
+I - S - S - S - S - S sehen wollen, einen Teilbaum wie
+I - S - I - S - I - S oder
+
+I -+-S
+   +-S
+   +-S
+   +-S
+
+dagegen nicht. Wenn jetzt weitere Postings eingehen, könnte sich im
+obigen Fall (*) der Baum zu
+
+I -+-S - S - S - S - S
+   +-S
+   +-S
+   +-S
+
+erweitern. In diesem Falle wäre ich dann daran interessiert, den
+Teilbaum I-S-S-S-S-S zu sehen, d.h. der zunächst verborgene erste S- 
+Beitrag in diesem Teilbaum müßte wieder sichtbar werden.
+Ein Programm, das die guten Seiten von Thunderbird (Darstellung), Gnus  
+(Programmierbarkeit) und OpenXP (Datenbank) vereint, gibt es leider nicht.
+
+MfG
+        Samu

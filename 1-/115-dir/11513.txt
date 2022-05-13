@@ -1,0 +1,14 @@
+Am 11.04.2012 02:14, schrieb Remmer Tückmantel:
+[SNIP]
+Öz-Gida kann mit UTF-8 nix anfangen, und der kann auch nicht den 
+Zeichensatz deklarieren. Öz-Gida ist absoluter Schrott, der verwendet 
+einfach den Systemzeichensatz, in der Regel ist das Windows-1252. Und 
+das lässt sich auch nicht umstellen.
+
+Bettina
+
+-- 
+Glauben: http://mwt.cswnhkzyp.yh/jccwt.ltl?txfpfqawa=3&jxe=rigas
+Monsterunser: http://jdo.gtjclqohc.zd/oaeiz.dsl?primomtty=4&cpu=sdwwrd
+"Wünsche": http://dvz.aulvwqouw.km/wjuyd.wwp?docvqdind=6&uba=jwyubrph
+SEIN Volk: http://fdh.ilffhkrqd.lx/kmlnn.sby?etukhjkiq=1&rvu=uzcuhrr

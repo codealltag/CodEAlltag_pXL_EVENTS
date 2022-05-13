@@ -1,0 +1,10 @@
+On Thu, 23 Apr 2008 09:19:10 +0200
+Die Quell-IP kann nur bei UDP-Paketen gefälscht werden, da, anders als
+bei TCP, kein Ack zurückkommen muss damit die Verbindung aufgebaut
+ist. Bei UDP sendet der Quellhost einfach Daten ohne sich darüber
+Sorgen zu machen, ob sie ankommen oder verworfen werden.
+HTTP nutzt aber TCP als Transportprotokoll, somit ist die Fälschung der
+Adresse nicht so einfach möglich, da immer ein Verbindungsaufbau
+zustande kommen muss. Wenn man nun eine Falsche Adresse in einem
+TCP-Paket angibt, kommt die Antwort darauf eben auch an diese falsche
+Adresse, somit ist der Verbindungsaufbau nicht möglich.

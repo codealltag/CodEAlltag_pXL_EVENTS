@@ -1,0 +1,3 @@
+Es geht ihr wohl nur darum ihren Namen korrekt nach dem polnischen Alphabet schreiben
+zu koennen. Das ginge nur mit iso-8859 -2 aber der ist hier ungebraeuchlich, man verwendet 
+den iso-8859 -1 , weil der die franzoesischen Zeichen enthaelt, in UTF geht beides.

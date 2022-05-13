@@ -1,0 +1,47 @@
+Das erkläre mal einem Entwicklungsingenieur!
+
+
+Welche relevanten Gesetzmäßigkeiten sind denn deiner Meinung nach nicht
+bekannt? Ich sehe da im wesentlichen Thermodynamik, Elektrodynamik und
+Strömungslehre, alles seit rund hundert Jahren bekannt. Und teilweise
+sind es die gleichen Gesetzmäßigkeiten, mit denen Autos oder Flugzeuge
+entwickelt werden.
+
+
+Das Computermodell ist nur die praktische Anwendung der bekannten
+Gesetze. Da setzt sich nicht einfach irgendjemand hin und programmiert
+irgendwas.
+
+
+Das Objekt verhält sich streng deterministisch, man kann aber auch mit
+den leistungsfähigsten Rechnern nicht das Verhalten jedes einzelenen
+Atoms und Moleküls berechnen.
+
+
+Quatsch lese ich hier eigentlich nur von dir.
+
+
+Du verstehst nicht, daß die Physik bereits in den Algorithmen steckt.
+Das Problem ist jedoch, daß es nie einen Computer geben wird, der das
+Verhalten der realen Welt exakt berechnen kann. Daher müssen
+Vereinfachungen gemacht werden und deren Zulässigkeit wird anhand
+bekannter Daten überprüft, ehe daraus Prognosen abgeleitet werden. Das
+gleiche Problem haben auch Ingenieure, die nicht das Verhalten jedes
+einzelnen Atoms einer Fahrzeugkarosserie bei einem Crash berechnen können.
+
+
+Mein C128 wäre schon mit den relativ einfachen Simulationsrechnungen für
+meine Doktorarbeit hoffnungslos überfordert gewesen.
+
+
+Es ist relevant, weil ein Geuder die Berechnungen niemals beenden könnte.
+Da fehlt ein Faktor von einer Milliarde und mehr an Rechenleistung und
+Speicherplatz.
+
+
+Einen schnelleren Computer kann man sehr wohl richtiger rechnen lassen,
+weil man weniger Vereinfachungen vornehmen muß.
+
+Das ist schlichtweg Unsinn.
+
+Gilbert

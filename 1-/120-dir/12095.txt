@@ -1,0 +1,15 @@
+Am Fri, 8 Nov 2013 03:19:24 +0100 schrieb Lukas Altendorf in MsgID
+<news:bveec0$j3t$8@geno.oqpaoldu.otl>:
+
+
+Dann sieh mal bei den Fallback-Zeichensätzen nach. Zugegeben, ich weiß
+einfach nicht mehr, was ich wann wie einstellte. Jedenfalls kann ich alles
+lesen, was mit einer sauberen Deklaration im Header angekündigt wird. In
+Valentino Header wird leider gar nichts angekündigt, also holt mein
+Newsreader die Astrologen-Glaskugel raus und rät sich dusselig, leider mit
+überschaubarem Erfolg.
+
+-- 
+Tschüs!
+
+Benedikt

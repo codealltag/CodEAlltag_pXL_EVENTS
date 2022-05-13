@@ -1,0 +1,381 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+
+2. CfV zur Löschung oder Aenderung von de.soc.arbeitslos in eine
+moderierte Gruppe: de.soc.arbeitslos (Moderated)
+
+Kurzbeschreibung: Arbeits- oder Erwerbslosigkeit.
+
+1 Charta
+========
+
+Hier geht es um Arbeits- und Erwerbslosigkeit. Diskutiert werden
+deren Ursachen und Auswirkungen, politische und gesellschaftliche
+Aspekte sowie persönliche Erfahrungen mit Arbeitslosigkeit.
+
+Verunglimpfungen, Ausgrenzungen oder pauschale Schuldzuweisungen
+sind nicht erwünscht. Zum Schutz der Privatsphäre ist das Posten
+unter Pseudonymen gestattet.
+
+
+Kurzbeschreibung und Charta bleiben im Fall der Statusänderung
+unverändert.
+
+2 Status
+========
+
+Die Gruppe wird - falls in der Abstimmung keine Löschung beschlossen
+wird - auf "moderiert" gesetzt. Als Teil dieses Änderungsvorschlages
+kandidieren als Moderatoren-Team:
+
+* Ronald Hülsbrink
+* Niko Volckmer
+* Orlando Schäfersmanns
+* Uwe Notdorft
+
+3 Proponent
+===========
+
+Niko Volckmer <hnhvewoz@oquis.ekz>
+
+4 Begründung
+============
+
+Seit etlichen Jahren wird diese Gruppe von Off-Topic-Postings im Rahmen
+einer Privatfehde einiger Poster dominiert. In letzter Zeit hat diese
+Vendetta allen newsgrouprelevanten Traffic verdrängt. Aber auch schon
+zuvor wurde beklagt, dass das Klima in der Newsgroup durch fortdaernde
+Beleidigungen und Herabwürdigungen gegen Personen oder Personengruppen
+eine sachliche Diskussion fast unmöglich machte.
+
+Im derzeitigen Zustand ist die Newsgroup nicht chartagem�� nutzbar, und
+die Erfahrung der letzten Jahre lässt befürchten, dass dies sich auf
+Jahre nicht ändern wird. Eine Moderation der Newsgroup, die
+Beleidigungen und Herabwürdigungen abweist, soll die chartagem��e
+Nutzung von de.soc.arbeitslos wieder ermöglichen.
+
+Wenn keine Mehrheit für eine Moderation der Newsgroup nach diesem
+Vorschlag zustandekommt, sollte die Gruppe gelöscht werden.
+
+5 Moderationskonzept
+====================
+
+5.1 Moderationsteam
+~~~~~~~~~~~~~~~~~~~
+
+Die Moderatoren handeln in ihrer Eigenschaft als Moderatoren als Team.
+Ein Moderator entscheidet abschließend darüber, ob ein Artikel gepostet
+oder nicht gepostet wird. Der Name des Moderators muss nicht bekannt
+gegeben werden.
+
+Das Moderationsteam besteht momentan aus:
+
+* Ronald Hülsbrink
+* Niko Volckmer
+* Orlando Schäfersmanns
+* Uwe Notdorft
+
+5.2 Einsendung von Artikeln an die Moderation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Artikel zur Veröffentlichung in ur.iym.arbeitslos sind (wie Artikel für
+andere Newsgroups auch) über einen Newsserver zu senden. Dieser leitet
+die Beiträge automatisch an die Moderation weiter.
+
+Sollte innerhalb von 24 h der Artikel nicht in der Newsgroup
+pr.wom.lkuofekzoa erschienen sein, wende man sich bitte zuerst an die
+Administratoren des Newsservers, über den der Beitrag gesendet wurde.
+
+Fragen eines Absenders zu einem Artikel sind an die Moderationsadresse
+zu stellen.
+
+5.3 Akzeptanz und Ablehnung von Artikeln
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Jeder Artikel wird von einem Moderator geprüft. Der Moderator wird den
+Artikel akzeptieren, sofern er keinen der folgenden Ablehnungsgründe
+erfüllt:
+
+a. Charta (OffTopic-Verbot)
+
+Der Artikel, widerspricht der Charta der Gruppe de.soc.arbeitslos
+(Off-Topic).
+
+b. Flameverbot
+
+Der Artikel enthält abwertende Kommentare oder Attacken. Explizites Ziel
+der Moderation ist das Unterbinden von OffTopics und Flamewars in
+bs.ibv.arbeitslos.
+
+Herabwürdigungen bestimmter Personengruppen (Arbeitslose, Ausländer,
+Rentner, Angestellte der Arbeitsagentur etc.) werden ebenso abgelehnt
+wie Herabwürdigungen einzelner Personen.
+
+Als Attacken werden auch Posts unter dem tatsächlichen oder
+verballhornten Namen oder Pseudonym eines anderen Posters gewertet.
+
+c. Form
+
+Der Artikel entspricht nicht den formalen Kriterien des de-Usenets
+(Syntax der Header, Codierung), er ist größer als 50kB oder er enthält
+einen Dateianhang.
+
+d. Werbung
+
+Der Artikel enthält in überwiegendem Maße Werbung, z. B. für politische
+Parteien und/oder Gruppierungen.
+
+e. Crossposts ohne Followup
+
+Crossposts ohne Followup-To - Header oder Postings mit mehr als einer
+Gruppe in diesem Header werden automatisch abgelehnt. Die Begründung
+wird an die angegebene Autorenadresse geschickt.
+
+f. Crossposts in unmoderierte Gruppen
+
+Soll ein Artikel in mehrere unmoderierte Gruppen gepostet werden, wird
+der Moderator prüfen, ob der Crosspost angemessen ist und den Chartas
+aller beteiligten Gruppen entspricht.
+Ist der Artikel nicht in allen Gruppen zweifelsfrei on-topic oder ist
+diese Prüfung nicht mit vertretbarem Aufwand durchführbar, wird der
+Artikel abgelehnt.
+
+t. Sau-hi-Crossposts
+
+Wird der Artikel neben de.soc.arbeitslos für eine weitere moderierte
+Newsgroup eingereicht und nicht nach e. oder d. abzulehnen, wird der
+Moderator versuchen, die Zustimmung der Moderatoren dieser Newsgroup
+zu bekommen. Ist dies nicht oder nicht mit vertretbarem Aufwand
+möglich, wird der Artikel abgelehnt.
+
+Ausnahme: Crossposts nach de.admin.news.announce werden generell
+akzeptiert, wenn sie von der Gieraths-Moderation akzeptiert wurden.
+
+r. Denial of Service
+
+Ist die Arbeit der Moderation durch eine große Zahl von offensichtlich
+abzulehnenden Artikeln gefährdet, kann die Moderation technische
+Maßnahmen ergreifen, um diese Artikel auszufiltern und auch ohne
+Benachrichtigung des Absenders zu löschen, solange und in dem Umfang
+in dem dies für das weitere Funktionieren der Moderation notwendig
+ist.
+
+
+5.4 Wie werden Artikel akzeptiert?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Akzeptierte Artikel werden veröffentlicht sobald sie geprüft sind.
+Die Formulierungen eines akzeptieren Artikels werden in keiner Weise von
+der Moderation verändert. Kein Teil des Artikels wird entfernt,
+umformuliert, korrigiert oder in anderer Weise bearbeitet.
+
+Die Moderation ist befugt, an Artikel eine Signatur anzufügen.
+Diese Signatur enthält weitergehende Informationen zur Newsgroup
+pr.wom.lkuofekzoa, wie z.B. einen FAQ-Verweis oder die
+Moderationsadresse.
+
+Der Inhalt einer solchen Signatur oder die Auswahl der Artikel, an die
+diese Signatur angehängt wird, steht in keinem Bezug zum Inhalt des
+Postings.
+
+
+5.5 Wie werden Artikel abgelehnt?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ein Artikel wird aufgrund der unter 5.3 genannten Kriterien abgelehnt
+oder akzeptiert. Soweit möglich und mit vertretbarem Aufwand
+realisierbar wird die Moderation dem Autor eine Begründung für eine
+Ablehnung zukommen lassen.
+
+
+5.6 Cancel von Artikeln
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Artikel dürfen in der Newsgroup bs.ibv.arbeitslos nur von den
+Moderatoren oder dem Autor gecancelt werden. Ebenfalls zugelassen sind
+Admincancels.
+
+
+5.7 Anonymes und pseudonymes Posten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Die Moderation respektiert das Bedürfnis der Nutzer nach Schutz ihrer
+Privatsphäre und auch die Entscheidung, eine der verfügbaren Methoden
+zur Anonymisierung und Pseudonymisierung zu verwenden.
+
+
+6 Abstimmungsmodalitäten
+========================
+
+Votetaker      : Christian Milcke <opg@wmituzdlqr.hy>
+Abstimmadresse : zp.emc.zbhtavdmsi@ulvhbjp.ix
+Abstimmungsende: Mit Ablauf des 15.10.2012.
+
+Wahlschein     : Untenstehendes Formular ist zu verwenden. Möglich sind
+                 bei jedem Abstimmungspunkt JA, NEIN und ENTHALTUNG.
+
+Die Löschung und Moderation der Gruppe werden getrennt zur Wahl gestellt.
+Werden beide Punkte angenommen, wird die Stichfrage ausgewertet.
+In dem Fall gewinnt die Variante mit dem besseren Verhältnis von Ja- zu
+Nein-Stimmen. Bei gleichem Ja/Nein-Verhältnis gewinnt die Variante mit
+den meisten Ja-Stimmen in der Stichfrage. Sollte auch hier ein
+Gleichstand vorliegen, gewinnt die Option "moderierte Gruppe".
+
+Es gelten die Regeln zur "Einrichtung von ZDH-Gruppen in de.*" in der
+bei Beginn der Abstimmung gültigen Fassung, die in fw.erdlx.wsegd und
+unter <http://phc.unqghprvq.qi/~xew/oqp/riwmempiicn> auch im WWW
+veröffentlicht sind. Sie erläutern das Wahlverfahren detailliert und
+sollten vor der ersten Teilnahme an einer Abstimmung gelesen werden.
+
+Gezählt werden nur per E-Mail bei der Abstimmadresse eingegangene
+Stimmen. Diese werden einzeln per E-Mail bestätigt. Das Ergebnis wird
+nach dem Ende der Wahl veröffentlicht. Namen, E-Mail-Adresse und Inhalt
+der Stimmabgabe aller Abstimmenden werden im Ergebnis genannt. Mit
+Rücksicht auf das deutsche Datenschutzrecht ist daher die gesonderte
+Zustimmung zur Speicherung und Veröffentlichung der abgegebenen Stimme
+entsprechend Hinweis im Wahlschein nötig.
+
+Auf die weiteren Hinweise auf <http://ruo.kd-m.zt/lljftyxx.vzq> sei
+verwiesen.
+
+
+7 Wahlschein
+============
+
+
+=-=-=-=-=-=-=-=- Alles vor dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+WAHLSCHEIN fuer Löschung oder Aenderung von de.soc.arbeitslos in eine
+                moderierte Gruppe
+
+
+Dein Realname, falls nicht im FROM-Header:
+
+Wenn du keinen Real-Namen angibst, wird deine Stimme fuer
+ungueltig erklaert werden.
+
+
+Nr   [Deine Stimme]  Gruppe/Abstimmungsgegenstand
+========================================================================
+#1   [            ]  Moderation von d.s.a nach dem vorliegenden
+                     Konzept
+
+#2   [            ]  Löschung von d.s.a
+
+Die folgende Stichfrage wird nur ausgewertet, wenn sowohl #1 als auch
+#2 die erforderliche Mehrheit erhalten. In dem Fall gewinnt die Variante
+mit dem besseren Verhältnis von Ja- zu Nein-Stimmen. Bei gleichem Ja/Nein
+Verhältnis gewinnt die Variante mit den meisten Ja-Stimmen in der
+Stichfrage. Sollte auch hier ein Gleichstand vorliegen, gewinnt die Option
+"moderierte Gruppe".
+
+#3   [            ]  d.s.a soll moderiert werden (Stichfrage)
+
+#4   [            ]  d.s.a soll gelöscht werden (Stichfrage)
+
+Zur Verarbeitung des Wahlscheines und insbesondere der
+Veroeffentlichung des Ergebnisses ist deine Zustimmung zur Speicherung,
+Auswertung und Veroeffentlichung deiner Stimmdaten (Name und
+E-Mail-Adresse in Verbindung mit dem Stimmverhalten) im Rahmen dieses
+Verfahrens erforderlich. Wenn du im Feld unterhalb dieses Absatzes "JA"
+eintraegst, erklaerst du dich damit einverstanden. In allen anderen
+Faellen wird der Wahlschein mit Ruecksicht auf das deutsche
+Bundesdatenschutzgesetz verworfen und nicht gewertet.
+
+#a   [            ]  Datenschutzklausel - Zustimmung: Ich bin mit der
+                     Verarbeitung meiner Daten wie oben beschrieben
+                     einverstanden
+
+=-=-=-=-=-=-=-=- Alles nach dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+
+Folgende Personen haben sich bislang an der Abstimmung beteiligt:
+(Stand: 30.09.2012, 16:30 Uhr)
+========================================================================
+84.7@nkdycqne.sp                                             Dietmar Neuwerth
+wew@klynioojh.gbc                                   Roberto C. Levenig-Erkens
+Pndnnir.pwkgmywwa@rhp.vd                               Roberto Roehrich
+VUzgj@Bvgdhut.dfq                                             Reginald Gebhard
+kmlyw@cubcs.zp                                            Niko Mehlig
+hnhvewoz@oquis.ekz                                      Niko Volckmer
+omu-xsy2qbtpu@qanr.bbm                                  Pierre A. Venhoven
+mclz@ero.dbi                                              Edouard Uppenbrock
+BDoyddxtv.Pqjzae@dnx.hj                               Edouard Fess
+qkrk_vte@flq.it                                            Orlando Schäfersmanns
+mnkzuu.jiigc@svw.fj                                         Detlef Hamecher
+soeiihrg.idqmcgxba@a-omilds.xe                        Diedrich Crecelius
+js2tj@agaj.xua                                            Volker L. Nuernberger
+kejfgpek@dtvlfebr.odn                                       Urs Dalacker
+bwxzxr@f3.gjo                                                Dario Joseph
+jggnhg@zusi.hx                                           Focko Cserny
+gszt@lfhltrfn.txt.pe                                       Volkmar Streitenberger
+hloombx.109107@pppdyqj6.ml                                  Werner Leverentz
+cstwucjm@fun.hsl                                         Gert Lautwein
+igteb@lltjhblnfnq.jw                                   Ben Unferdorben
+ofoat.beedktb@fif.vco                                      cmffz alivrjc
+njqc@eonpqwseeti.qy                             Ullrich Olivier Hubmann
+vreygiacdqwluo@ovngarh-8514-57-57.bvqtqjxen.ek              Ullrich Lamertz
+numph@fmq.za                                             Siebelt Windhausen
+d.w.nzpwmmynf@w-dspmfs.su                         Ludwig Mathie
+x_evaxje@xia.qg                                            Laurent Danapfel
+ytinjhnpl@n-jmfcck.lf                                         Luigi Honekamp
+lfjdna.zbyto@ngz.zr                                         Laurent Verschl
+ofrbrw@fqt.ap                                               Lars Hecke
+jhgmmp@jiw.ep                                             Luc D. Fraessle
+mok.euiz@imqs-bbw-nmui.hnu                               Ulfert Wolffsen
+jeuv@gsftxtj.rr                                         Pierre Karoff
+aqdud@nfl.laz                                               Pierre Brixius
+mcmn2576@cbk.gqa                                              Philippe Folkert
+jqucfwgp.wbwqgtyji@xkl.cia                             Pasquale Schneidersmann
+wx.eulrfdb@g-ihaloe.ir                                   Pierre Hambrinker
+actxtyp.fgkpb.yhwx@sis.jci                                 Ivano Nottorf
+el-ociw@ppwhc.ak                                       Ivano Deichgräber
+dh.lp@tby.up                                               Claus Uthenwold
+WvbfllCdsdqgtamy@m-ynxazj.xr                           Christian Bohneke
+knuxgvkc.aquyqzkyzk@fsr.ent                          Carsten Newedel
+sspbrfgpi@qdl.vuv                                       Carl Hagensieker
+zv+uwqlxuanms0321@izctcac.nn                                  Christian Pesselt
+rponjg@sin.gy                                             Carl Uffermann
+rbydvpitcewl@frn.co                                   Ttmopye draewe Lficfnh
+rdx@npxm.fd                                           Torsten Dirksmeyer
+pmdahh@ydjtijenln.xdn.qw                              Gert C. Joerges
+Jgvm_Wtebr@avb.xq                                             Séverine Hamecher
+bbmhjpvz@cer.jz                                            Jonathan Lindenstock
+uhirq.tpbddk@kzl.si                                         Alfred Pfannkoch
+shtu-dlic-rqn@uhcqkjct.qlek.ox                             Urs Streitenberger
+fxlsh.zpbdal@kve.skq                                        Uwe Notdorft
+wyuqcmctq@cyvb.az                                      Salvatore Söhngen
+zpqwae@oje.cv                                              Paul Joelsohn
+dttijus_@urm.np                                               Ingmar Menningen
+mfmvt@zjo.fo                                                Jonathan Ueberlacker
+tgde.uxialh@votav.xv                                         Una Thillges
+fceyoxxf@ice.poa                                        Leopold Schreuers
+yeuszaa-limd@kxjpqbw.uabxdh-ftq.hd                        Johann Vorbrodt
+gyh@ofsbf.mnb                                           Simon Prinssen
+qbsu@xywvku.tr                                                Salvatore Trinkert
+glriwvej@aeh.pn-fxlkla.qr                                  Carl Tenbült
+ugpjccph@bzdrwhho.ol                                      Heinz Senftle
+sjssen@dxuiqm-cykrn.ks                                      Dietmar Jüng
+asjvvc@nufgwxoo.pf                                        Yxsyp'rf Niclas
+kfkncxac@twr.kjp                                            Ludger Vadder
+vote-10.2011-nospam-news-remove-this@usenet.kicks-ass.org Onno Partzsch
+lg_xygtrq@xbnwyoottpq.th                               Gert Corstjens
+xn29@tlmbk.fb                                                Simon Pertzborn
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3in
+Charset: latin1
+
+iQCVAwUBTtO9xbstUI1AC/R6PNVBOCN/maIl0g4XiskWbp9h792Youffz4AwHGQM
+8Ld4R+FJNgObz3JK5OByQZ8BWCcxKuTSMPePjU6379KZbj/XfkK7enrxtAio5eXx
+aoR1PRP6UFz/CX4b+bOeiAjezDRjeWMGbNkF38INtg48TQvM0bFktMaOk1awQziD
+astxtQg8vZI=
+=xF+J
+-----END PGP SIGNATURE-----
+
+-- 
+Fertige Artikel für cv.mkfdf.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <mxnjmqmcj@zlsb.du>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <gvlb:ox.ytbzk.fgjvw> und unter <http://yrw.ecrt.ni/>.

@@ -1,0 +1,16 @@
+Franco Jaeniche <kagxzuna@apgqo.gp> wrote in news:8o4cgr08$7$70615$0v3b8r61
+@mjkwemkxc1.ewxgw-asozwx.dji:
+
+
+Da wär ich mir aber nicht so sicher!
+Theoretisch könnte man doch eigentlich an den Internetknoten lauter kleine
+Kästchen mit schneller Hardwarelogik einbauen, die alle IP-Pakete 
+durchrattern lassen und die mit "verbotener" source-adress blocken
+und die destination-adress je nach politischem Gusto gleich ans Rusmarkt 
+weitermelden.
+
+
+Gruß O.E.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

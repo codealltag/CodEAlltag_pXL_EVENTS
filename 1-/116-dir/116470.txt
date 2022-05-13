@@ -1,0 +1,11 @@
+Im Primärkreislauf ist keine Borsäure, damit würdest Du den Reaktor nie 
+kritisch bekommen, Borsäure ist ein Neutronengift. Und gerade im 
+Primärkreislauf wird die Leitfähigkeit ständig penibel überwacht, um 
+Brennelementdefekte möglichst sofort festzustellen. Und die 
+Leitfähigkeit liegt normalerweise um den Faktor 100 unter der von 
+handelsüblichem destilliertem Wasser.
+
+The Doctor
+
+-- 
+http://jmc.exi.go.st/kqjrzpzjv/

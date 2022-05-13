@@ -1,0 +1,11 @@
+"Udo Andresen"  schrieb
+
+Deine Einheit ist sehr merkwürdig. Die Tonnen pro km sind nur
+vom Leitungsquerschnitt abhängig, und bei 4 Meter kommen
+wir auf 6 Tonnen pro laufendem Meter.
+
+Bei einer Strömungsgeschwindigkeit von 10 m/s kommen wir auf
+ 60 Tonnen pro Sekunde, also 5 Mio Tonnen pro Tag.
+
+
+Soviel Wasser braucht Culmitz auch wieder nicht.

@@ -1,0 +1,8 @@
+Am 28.11.2011 23:52, schrieb Gregor Uedelhoven:
+
+
+Noch nicht  gemerkt? Der Typ hat nen Sprung in der Platte und muß sich 
+zwangsläufig wiederholen; also einfach ignorieren:
+
+-- 
+Pascal

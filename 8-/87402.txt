@@ -1,0 +1,20 @@
+Ein Randwertproblem kenne ich z.B. als die Berechnung der Temperaturverteilung aus 
+der Waermeleitunggleichung
+in einem Koerper wenn die Oberflaechtemperaturen ueberall bekannt sind:
+Man findet
+eine genaue Definition hier:
+
+http://ye.mdjddvzdu.xnj/uyuh/Xbtqdpjbiqzafls 
+
+Was ist jetzt beim Klima  der Rand des Systems das hier modelliert wird und wieso
+kennt man die Werte dort ueberhaupt ?
+Die Numerische Wettervorhersage als Anfangswertproblem ist zumindest prinzipiell 
+verstaendlich, warum geht das fuer die Klimavorhersage nicht auch ?
+
+
+Sicher nicht, Ammenmaerchen haben eine lange Tradition und werden
+von Generation zu Generation weitergegeben.
+
+
+Leute die nur glauben was sie auch verstehen. Was fuer Wissenschaftler
+gilt gilt auch fuer alle anderen Menschen.

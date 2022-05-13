@@ -1,0 +1,46 @@
+Am 9 Okt 2013 12:50:34 GMT schrieb Thomas Angelkort in MsgID
+<news:40at675i$9$04878$95ndv866@mzgbckwoid63.yymflqx.cruymcc.pz>:
+
+
+Mir scheint, du weißt nicht so recht, worum es geht.
+
+Courier, Arial, Verdana etc. sind Produkte von Designern. Sie haben eine
+rein geschmackliche Form z.B. für das E erdacht. Es könnte auch ganz anders
+aussehen. Aber es ist immer ein E und hat in ASCII den Logenplatz Nr. 69.
+Wie Sara bereits darstellte, sind die Zeichen ASCII <128 auf diese Weise
+normiert. Die Zeichen darüber in der Tabelle sind es jedoch leider nicht,
+sondern da herrscht Chaos. Wo finde ich einen Umlaut, das ß, den €, das ç
+o.dergl.?
+
+Im Header muss also nicht deklariert werden, ob ich Bodoni fettkursiv
+meine, sondern wo meine Zeichen oberhalb ASCII 128 liegen. Das Design
+(hier Ohaara, aber selbstverständlich auch Courier oder Arial) ist
+vollkommen gleichgültig.
+
+Wie Sara schon sagte, sind diese Anordnungen sehr unterschiedlich, haben
+aber glücklicherweise jeweils einen Namen. *Der* muss im Header stehen.
+Dann weiß mein Reader, an welcher Stelle der nunmehr bekannten Tabelle er
+den Umlaut herauspicken soll.
+
+UTF-8 ist ein Unicode-Zeichensatz. Unicode stellt jedoch 16 oder mehr Bit
+zur Verfügung (dann halt in mehr Bytes). Damit sind dann nicht nur 256
+Zeichen möglich, sondern 65536 (16 Bit in einem Byte bei UTF-16 oder zwei
+Byte bei UTF-8). Das langt dann auch für Griechisch, Arabisch, Hebräisch
+und allerhand Kinkerlitzchen (Spielkartenzeichen, Herzchen und ähnlich
+unverzichtbare Grundnahrungsmittel).
+
+Deshalb sollte man im Reader und Editor grundsätzlich UTF-8 wählen, womit
+man schreibend und lesend auf jeden Fall auf der sicheren Seite ist.
+
+Auf jeden Fall? Nein, auf fast jeden. Wie schon die Versionsnr. 8 zeigt,
+gibt es auch in UTF Varianten. 8 ist für 8-Bit-Codierung, 16 für 16 Bit
+usw. Um sich auf den kleinstmöglichen Nenner einigen zu können, der aber
+(s.o.) schon alle nichtexotischen Wünsche erfüllt, ist UTF-8 Common Sense.
+
+Ob alle hier vertretenen News-Clients UTF-8 beherrschen, weiß ich natürlich
+nicht. Falls nicht, einfach umsteigen! Dann verstehen wir einander endlich.
+
+-- 
+Tschüs!
+
+Pierre

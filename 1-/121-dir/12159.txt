@@ -1,0 +1,15 @@
+Das spielt aber bei einer stateful inspection Firewall keine Rolle, bei 
+einer reinen NAT sehr wohl. Das habe ich früher mal Live erlebt, als bei 
+einen Windows Rechner hinter einer (angeblich sicheren) NAT Zonealarm 
+immer wieder anschlug.
+
+Ein mal habe ich so eine IP zu einen P&A Rechner in China 
+zurückverfolgen können, der war aber etwas von sooo offen. Ich habe ihn 
+dann eine Warn Text Nachricht auf seinen Desktop abgelegt ;-)))
+
+-- 
+Heino
+libertä, Galit, fraternit
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

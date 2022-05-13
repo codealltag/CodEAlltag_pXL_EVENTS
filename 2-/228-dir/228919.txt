@@ -1,0 +1,7 @@
+Eine Radionuklidbatterie mit 50kg Plutonium würde diese Anforderungen 
+erfüllen. Die gäbe konstant so 20kW Wärmeleistung ab, mit einem dicken 
+Kondensator für Spitzenlasten könnte man daraus ein prima Auto bauen. 
+Sehe allerdings geringfügige Probleme mit der Zulassung.
+
+Gruß,
+Thorsten

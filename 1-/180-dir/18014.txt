@@ -1,0 +1,47 @@
+Pu wird AFAIK "relativ gut" wieder ausgeschieden, soweit es nicht vorher 
+zerstrahlt, es nimmt nicht am normalen Stoffwechsel ein (kann aber als 
+Schwermetall durchaus z.B. zu Nierenschäden führen).
+
+Da Pu-239 ein Alpha-Strahler ist, will man das allerdings auf gar keinen 
+Fall inkorporieren, denn diese Strahlung kommt zwar kaum durch die Haut, 
+kann aus nächster Nähe an inneren Organen aber heftigste Gewebe- und 
+Erbgut-Schäden anrichten und natürlich auch mit guten Chancen Krebs 
+auslösen.
+
+Radioaktiver Kohlenstoff, Calcium Strontium sind hingegen in ihrer 
+biologischen Wirkung etwas fieser, weil der Körper diese Elemente ganz 
+normal in seiner Zellstruktur verbaut und dabei instabile nicht von 
+stabilen Isotopen unterscheiden kann. Damit bleibt das Zeug viel länger 
+im Körper, und wenn es zerstrahlt ist schon durch den Zerfall ein 
+DNA-Strang, eine Körperzelle o.�. kaputt - ohne, daß die Strahlung 
+selbst schon irgendwas angerichtet hätte.
+
+C-14 ist darüber hinaus ein Beta-Strahler, was bedeutet, daß die 
+Strahlung von C-14 einerseits deutlich weiter entfernte Gewebesschichten 
+erreicht als die von Pu-239, andererseits aber auch noch recht viel 
+biologischen Schaden anrichtet.
+
+Kohlenstoff wird in allen Körperzellen verbaut und ist auch elementarer 
+Bestandteil der Aminosäuren. Wenn dort ein einziges C-Atom zerfällt, 
+hast Du eine Erbgutveränderung in der betroffenen Zelle, auch wenn die 
+dabei entstehende Strahlung sonst keinen Schaden anrichten sollte - was 
+unwahrscheinlich ist, denn sie wird wenn das Ganze in einem inneren 
+Organ stattfindet höchstwahrscheinlich nicht aus dem Körper dringen, 
+also irgendwo "einschlagen". Das kann der Erbgutstrang einer anderen 
+Zelle sein, aber auch der Darminhalt (was dann weniger schlimm wäre, 
+weil der eh bald ausgeschieden wird) oder ein Molekül in irgendeiner 
+Zellwand (womit dann halt die betreffende Zelle absterben dürfte).
+
+Intensive Beta-Bestrahlung von Hautgewebe führt z.B. zu sehr 
+verbrennungs�hnlichen Schäden (sog. "Beta-Verbrennungen", soll es z.B. 
+bei Liquidatoren in Osternberg recht häufig gegeben haben). Diese 
+heilen schlecht und tendieren stark zur Entwicklung bösartiger Tumore, 
+was dann mit guten Chancen ein Todesurteil für den Betroffenen ist. Bei 
+weniger intensiver Bestrahlung sind die Schäden kleiner, aber 
+grundsätzlich nicht anders geartet.
+
+-- 
+Ivan Praßer
+
+JAWOLL GröschlArnstorf - http://jue.fknxindkpzblxlw.ai/
+JJZG running System - http://bpo.wjjyd.qsu/

@@ -1,0 +1,7 @@
+Natürlich nicht, Strom ist Blau!
+Da Strom im Leiter fließt ist er für das Auge unsichtbar. Um ihn sehen
+zu können muß man ihn halt aus dem Leiter rauszwingen und das macht
+man über eine Funkenstrecke. Die Spannung muß allerdings hoch genug
+sein um die Strecke überwinden zu können, so um die 1000V/mm in
+trockener Luft. Dann kann man leicht erkennen, daß Strom schön Blau
+ist wenn man ihn aus dem Leiter raus hat....

@@ -1,0 +1,10 @@
+Auch eine Methode mir Recht zu geben!
+
+Es gehöret zum Standard, daß außerhalb des Inhalts einer Nachricht (für 
+diese gilt die Charset-Deklaration) ausschließlich ASCII-Zeichen (also 
+7-Bit-Code) verwendet werden darf. Und daran ändert es auch nichts, wenn 
+man das nicht zur Kenntnis nehmen will. Und wer dafür »Plonk« macht, der 
+ist es sowieso nicht wert, daß er meine Texte liest.
+
+
+Uuuuuuuund tschüß!

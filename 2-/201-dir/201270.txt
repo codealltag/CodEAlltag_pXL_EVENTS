@@ -1,0 +1,6 @@
+Du musst da mathematisch rangehen:
+Aufgrund der künstlichen Unstetigkeitstelle von 5% ist das 
+differenzielle Stimmgewicht am stärksten bei Parteien die um die 
+5%-Hürde herum dümpeln.
+
+Bietet sich derzeit eigentlich nur die Ufas an.

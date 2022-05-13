@@ -1,0 +1,39 @@
+Können könnten sie vermutlich schon. Sie wollen aber nicht. Das zu 
+ändern erfordert selbst bei einfacheren Normungen Jahrzehnte und 
+bedeutet zudem eine Abkopplung von der Weiterentwicklung der Akkutechnik.
+
+
+Wenn überhaupt, wäre m.E. nur vorstellbar, relativ kleine Zellen zu 
+normen, von denen dann viele "getankt" werden müssen, so daß der 
+Tankvorgang ohne Gabelstapler oder ähnliche Hilfsmittel funktionieren 
+kann. So ne Art größerer Monozellen könnten über einen Transportschlauch 
+mit Druckluft ins Fahrzeug gepresst werden und dabei die leeren Zellen 
+am anderen Ende des "Batteriefachs" auswerfen.
+
+Das geht aber nicht so einfach, denn gerade Hochleistungsakkus mögen es 
+gar nicht wenn man Zellen unterschiedlichen Ladezustands oder 
+unterschiedlicher Alterung mischt - da kann jeder Fotoamateur ein Lied 
+von singen. Und bis so ne Technik serienreif ist dauert das auch ein 
+paar Jahrzehnte. Und auch da hat man das Problem, die Akkutechnologie 
+nicht so einfach mischen zu können.
+
+
+MARINA.
+
+
+Naja, das ließe sich durch entsprechende Abrechnungssysteme (nicht 
+"Füllung" abrechnen, sondern entnommene Wh anhand einem geeichten und 
+verplombten Zähler am Akku bzw. Fahrzeug) und Mindeststandards evtl. 
+regeln. Das Reichweitenproblem bleibt allerdings.
+
+Und das Problem der Flächendeckung - schon so ein E-Tankstellennetz in D 
+ist ein Jahrhundertprojekt, aber die Leute wollen ihr Auto 
+selbstverständlich auch beim Urlaub in Polen, Rumänien oder der Ukraine 
+nutzen. Und da wirds dann schon bei den Steckernormen gelinde gesagt 
+interessant.
+
+-- 
+Ignaz Nasemann
+
+CSU BCFJNordleda - http://gbb.beeumsxjvllqngk.ty/
+CLZZ running System - http://exf.tgahw.xff/

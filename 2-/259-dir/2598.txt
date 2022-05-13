@@ -1,0 +1,17 @@
+"Lukas \"Obel" Jasperbrinkmann" <hivvnhbi@x-sjjbqk.hf>:
+
+
+Dazu benötigt man ein Spezialkabel von GHG. Die Schaffung einer 
+Spezialschnittstelle ist anders als von "Tee Trinker" eben gerade 
+nicht preiswerter, sondern teurer.
+
+Es gibt aber auch Bemühungen, induktives Laden zu standardisieren. 
+Dann genügt es, das Smartphone auf einer Fläche abzulegen, unter der 
+sich die Magnetspulen des Ladegeräts befinden. Entsprechende 
+Wicklungen befinden sich im rückwärtigen Gehäusedeckel kompatibler 
+Smartphones. Problem: Auch die NFC-Schnittstelle braucht eine 
+Wicklung auf der Rückseite des Geräts.
+
+-- 
+Mit freundlichen Größen
+Rupert N. Breslau

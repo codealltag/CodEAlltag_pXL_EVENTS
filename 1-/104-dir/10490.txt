@@ -1,0 +1,144 @@
+Antwort auf eine Nachricht von Grobi
+
+
+Ich korrigiere, 42 Prozent. 45 Prozent sind es erst ab einem Einkommen
+von 250.401 Euro, und mehr.
+
+
+Doch, jeder, steht so im §32a Abs. 1 EStG. Nur eine kleine Minderheit,
+die weniger als 52.552 Euro verdienen, werden steuerlich begünstigt.
+
+
+Konkret, bis 7.834 Euro (das sind 652,833333333… im Monat) zahlste gar
+nix, das ist der Grundfreibetrag.
+
+Von 7.835 bis 13.139 Euro zahlste:
+
+    (939,68 × y + 1 400) × y
+
+* „y“ ist ein Zehntausendstel des 7.834 Euro übersteigenden Teils des
+  auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens.
+
+Also nehmen wir mal an, der Willi verdient 900 Euro im Monat, das sind
+dann 10.800 im Jahr. Dann gilt:
+
+   y = (10.800 - 7.834) ÷ 10.000 = 0,2966
+
+Und das setzen wir jetzt in die Formel ein:
+
+   (939,68 × 0,2966 + 1.400) × 0,2966 = 497,905115501
+
+Das sind dann rund 41,49 Euro im Monat oder 4,61 Prozent.
+
+Und nun lasset uns denken!
+==========================
+
+Wenn wir dem armen Kerl tatsächlich 25 Prozent gleich 225,00 Euro
+abzögen, wie Du begehrst, dann verblieben ihm nur noch 675,00 Euro und
+er hätte folglich Anspruch auf ALG-II (Hartz-IV), – so aber kommt er
+gerade eben nochmal mit einem blauen Auge davon.
+
+Ich hoffe, dieses kleine Beispiel überzeugt Dich von der Notwendigkeit
+des Freibetrags und der Progressionszone, denn diese ersparen uns doch
+immerhin die eine oder andere Sozialakte, nicht wahr!?
+
+Mannomann, – daß man Euch aber auch alles erklären muß! :'-(
+
+Also, – wir haben *IN DER TAT* eine Flattax von 42 Prozent (abzgl.
+8.064€), die bei einem Einkommen von 52.552 Euro, oder mehr, erhoben
+wird. Ob Du das jetzt verstehst oder nicht, ist irrelevant, es sit
+einfach so. Nur wer *weniger* als diese 52.552 Euro im Jahr verdient,
+der hat auch einen geringeren Steuersatz, aber das wollen wir aus
+sozialen Gründen bitte nicht beanstanden!
+
+
+Ach, – möchtest Du bitte mal Dein System so konfigurieren, daß es
+Unicode akzeptiert?
+
+
+Unsinn!
+
+Ich lebe nicht von meiner Steuer, sondern von meinem Lohn! Und darum ist
+es ganz natürlich, daß ich von einem geringen solchen so viel wie nur
+irgend möglich behalten will, so wie ich bei einem großen solchen
+schadlos etwas abgeben kann. Wo ist das Problem, wenn nicht bei Dir
+zwischen den Ohren?
+
+
+Nein, eben nicht. Sie haben zwar alle denselben Steuersatz, aber der
+eine leidet unter diesen und der andere lacht sich kaputt. Und die
+Ackermänner sind nicht die, die leiden.
+
+GUCK DOCH MAL HIN:
+==================
+
+–––––––––––––––┼––––––––––┼––––––––––┼–––––––––
+De Willi:       |   14%¹   |    25%   |   +11
+De Höfges:  |   42%²   |    25%   |   -17
+
+
+¹ Eingangssteuersatz
+² Spitzensteuersatz
+
+Das sieht doch ein Blinder mit’m Krückstock, daß das so nicht geht!!!
+Dieses ganze widerliche Gelaber um die ach so gerechte Flat-Tax ist doch
+offensichtlich nichts anderes als der ganz und gar obszöne Plan irgend
+welcher liberaler Verbrecher, die Reichen und Superreichen noch mehr zu
+entlasten als eh schon geschehen, und im Gegenzug dazu die Armen und die
+Superarmen brutalstmöglich zu belasten, – ich bitte um Verständnis, daß
+ich Dir für solch perverse und herzlose Sauereien die Zustimmung
+verweigern muß.
+
+
+Ja eben! Dann hör auf, vom Schröpfen zu reden! Wir leben in einem gut
+entwickelten Land mit einer intakten Infrastruktur und einer genügenden
+Sicherheit, und dafür bezahlen wir. Und daß wir Leute, die weniger Geld
+haben, schonen, das ist aus sozialen Gründen richtig. Das zu verstehen
+muß man nicht einmal Kommunist sein, Christ geht auch.
+
+
+Weil er es kann!
+
+
+Weil er es nicht kann!
+
+
+Ach, jetzt wechselst Du plötzlich von der Prozentrechnung auf konkrete
+Zahlen? Wie erbärmlich! Nö, der Spitzensteuersatz (42%) verhält sich zum
+Eingangssteuersatz (14%) nicht wie 1:2040, sondern wie 1:3, so viel
+Wahrheit muß schon sein.
+
+
+Oh doch! Allein durch die Tatsache, *DAẞ* er mehr Geld einsackt, nimmt
+er nolens volens mehr Staat in Anspruch, wenn auch nur mittelbar und für
+einen einfach denkenden Menschen wie Dich nicht erkennbar.
+
+Tatsache ist, kein Mensch der Welt kann 17.000.000 Euro „verdienen“, das
+geht einfach nicht. Dieses Geld hat er nicht allein, sondern im Verein
+mit seinen 500.000 KVFP-Arbeitern verdient (das sind 34 Euro je Arbeiter),
+und daß *die* den Staat in Anspruch nahmen, allein schon wenn sie für
+den Weg von und zur Arbeit unentgeltlich das öffentliche Straßennetz
+benutzten, darauf kannst Du einen lassen.
+
+
+Eben, das ist unangemessen. Nach den Regeln ehrbarer Kaufleute gilt es
+als angemessen, wenn ein Chef ungefähr das zwanzigfache dessen erhält
+was sein bestbezahlter Angestellter verdient. Nehmen wir also mal eine
+Abteilungsleiter und lassen den 5000 Euro kriegen. Das sind 60.000 Euro
+im Jahr, mal zwanzig macht 1.200.000 Millionen, *DAS* wäre angemessen.
+Und glaub mir, mit 1,2 Millionen (100.000 Euro im Monat) kann man
+verdammt gut leben.
+
+
+Oh doch, worum denn sonst? In diesem Garten soll niemand hungern oder
+frieren, – und jeder, der so viel nimmt daß es anderen fehlt, dem soll
+man auf die Flossen klopfen.
+
+
+-- 
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+❦ Warum tragen Hütehunde eigentlich keine Hüte?
+
+Fährst Du Fahrrad? Guckstdu: www.ylixq-cvccjo.hl

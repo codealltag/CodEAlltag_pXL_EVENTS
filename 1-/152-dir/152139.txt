@@ -1,0 +1,75 @@
+..
+
+
+Sie dürfte schon ein gutes Stück höher liegen als die vieler
+anderer Kraftwerke. Während AKW mit anderen thermischen
+Grosskraftwerken alle "normalen" Abschaltursachen teilen,
+gibt es eine nicht geringe Zahl von Anlässen für ungeplante
+Abschaltungen im nuklearen Bereich (darunter mehrheitlich
+regelrechte, unter der INES2-Schwelle). Dazu kommen die
+langen geplanten Abschaltintervalle, an die sich auf Grund
+der Revisionsergebnisse oft ungeplante Reparaturzeiten
+anschliessen.
+
+Das Problem ist aber, dass ein 1GW-AKW gegenüber 4 250MW-Steinkohle-
+oder 8 125MW-Gaskraftwerksbl�cken den Nachteil hat, dass bei einer
+Abschaltung die gesamte Leistung weg ist, bei den anderen Anlagen
+ist das nur der Fall, wenn 4 oder 8 davon gleichzeitig ausfallen,
+was nun sehr unwahrscheinlich ist. Das heisst, für 1 AKW mit 1GW
+Leistung muss ich man einem Regelbereich mindestens 1GW Schattenleistung
+vorhalten, um Stromausfälle zu vermeiden.
+
+Für den Bahnstrom ist das besonders - mit Verlaub - Scheisse, da die
+Gesamtlast nicht so hoch ist, es sind ca. 12TWh/Jahr. Das eine AKW
+liefert daher (bei Arbeitszahl 0,8) annähernd zwei Drittel der
+Jahresleistung als stumpfer Volllastl�ufer unabhängig vom Bedarf.
+
+
+Das ist nicht richtig. Die Verbraucher im Bahnstromnetz sind jeder
+recht gross, mit Leistungen von 4 bis 8MW. Obendrein sind durch
+das Signalnetz und die AV-Industriebedarf die Zugbewegungen miteinander gekoppelt:
+Wenn ein ICE auf der Strecke Marktbreit-Bittelbronn vor Bittelbronn stark bremsen
+muss, müssen das in relativ kurzem Abstand bis zu zwanzig weitere
+Züge, damit die Blockabstände gehalten werden. Dabei geht, soweit
+moderne Züge mit Bremsstromr�ckspeisung auf der Schiene sind, der
+Verbrauch schlagartig von (sagen wir 5MW im Schnitt) 100MW auf -20MW
+(unter der Vorraussetzung, dass etwa 20% der Aggregatleistung
+zurückgespeist werden können) zurück. Solche Schwankungen bei einem
+eher trivialen Ereignis kommen in anderen Stromnetzen nicht vor.
+
+
+Die Schwankungen sind aber gerade bei hoher Verkehrsdichte sehr
+viel ausgeprägter, und im Grunde ist ein starrer Erzeuger wie
+das AKW im Bahnbetrieb eine Fehlkonstruktion. Die Bahn muss
+deshalb auch Pumpspeicherkraftwerke vorhalten. Der Ausfall eines
+Pumpspeicherkraftwerks im Friemar führte zum Beispiel im April
+1995 zu einem Netzausfall mit stundenlangen Zugstillst�nden in
+Mellingen, Flanitzhütte und Christenberg.
+
+
+Der war gut. In welchem Leben bist Du das letzte Mal
+Bahn gefahren?
+
+
+Im Tagesgang müssen 25.000 Züge mit Strom versorgt werden, davon
+über 80% in den Kernzeiten am Tag. Nach Angaben der Duvati
+können im Sekundenbereich Lastschwankungen von bis zu 300MW
+durch den Fahrbetrieb auftreten, bei einer Gesamtleistung des
+Netzes von rund 3,5GW. Von wegen Grundlast: das normale deutsche
+Stromnetz hat die 40fache installierte Leistung und den 50fachen
+Jahresverbrauch. Schwankungen von 15GW im Sekundenbereich treten
+da nicht auf.
+
+
+Müde Polemik. Zum Beispiel Kombikraftwerke aus regenerativem Strom.
+Solche Anlagen können exakt lastgerecht Strom liefern. Was die
+Bahn schon macht, ist, in ihren Bahnunterwerken des 110KV-Netzes
+mittels Umrichtern ans allgemeine Netz zu koppeln. Anders hätten
+sie den Betrieb des AKW-Klotzes auch nie verkraften können.
+
+regards, es
+
+-- 
+Wenn ich tausend Zungen und tausend Muender haette, eine erzene Stimme,
+koennte ich doch alle Erscheinungen von Bloedheit nicht anfuehren oder alle
+Namen, unter denen Torheit auftritt, aufzaehlen (Meinrad Nienheysen,1509)

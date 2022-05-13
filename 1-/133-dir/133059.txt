@@ -1,0 +1,4 @@
+wemmer einen ellenlangen link in eckige klammern setzt, bleibt er trotz 
+umbruch nutzbar ....
+
+IGOR

@@ -1,0 +1,22 @@
+Hallo,
+
+
+Diese Annahme ist aber bereits aus Gründen der Skalendefinition
+kritisch bis falsch. Es gibt keinen negativen IQ, deshalb kann
+die Funktion keine symmetrische Funktion sein. Die breite Streuung
+der IQ-Werte muss eine nicht unerhebliche Asymmetrie verursachen.
+
+
+Die Skala des IQ ist aber so gelegt, das eine Gaußverteilung fast
+unmöglich ist. Es werden Abweichungen da sein (müssen), welche
+aber noch nicht so toll veröffentlicht wurden. Aus Messungen von
+ähnlich strukturierten Verteilungen kennt man starke Asymmetrien.
+Da ist der Median oder der Modus schnell mal nur noch 80%, oder
+noch weniger, des Mittelwertes. Ein Median von 80 würde bedeuten:
+Die Hälfte der Menschen ist nachweislich intellektuell behindert.
+
+
+MfG
+
+
+Ihno Zawadzky

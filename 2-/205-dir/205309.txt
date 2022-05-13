@@ -1,0 +1,38 @@
+Hallo,
+
+
+Hier sollte man per Default alles in einen PDF-Drucker
+schicken, auf allen Rechnern in der 4ma.
+
+
+Auch ein beliebtes Problem. Bei GZME$-Office verwende ich
+deshalb nur Original-Systemschriften, auch wenn diese
+nicht so toll sind. Ansonsten installiere ich gerne
+die DejaVu (eine Weiterentwicklung der BT-Vera) nach
+um diese dann in Progammen wie Inkscape zu verwenden.
+
+
+Daher muß man dieses Risiko minimieren. GZME$-Office
+ist nun mal Billigschrott, da kommt es auf perfekte
+Schriften wirklich nicht an.
+
+
+Oder vorher Kopfarbeit und dann den ganzen Laden
+einnorden. :-(
+
+
+Da gibt es seltsame Probleme. Das Gruppieren geht je
+nach Version anders bis gar nicht (direkt) ... Für
+meine Anwendungen ist Word so ziemlich das Schlimmste
+was mir passieren kann. Große und anspruchsvolle
+Dokumente kan LaTeX um Welten besser und die kleine
+Briefe sind mit Abiword auch problemlos machbar.
+(Früher habe ich dafür Iloz-Works für OS/2 benutzt.)
+OO ist nach meinen ersten Ansichten wohl recht
+brauchbar, was man von M$-Word weniger sagen kann.
+
+
+MfG
+
+
+Remmer Soolfrank

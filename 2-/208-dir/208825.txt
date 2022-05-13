@@ -1,0 +1,14 @@
+Der Fehler ist/war ein Rätsel, damit hab ich den Fehler
+bereits gefunden.
+
+Im Ernst (soweit einer möglich ist): schuld dran ist der Perfek-
+tionstick. Da hat sich was aufgegeigt, aufgeschaukelt, was unter
+einfacheren Umständen ein stack overflow wäre aber bei real-time
+Systemen kombiniert mit den modernen Datenbankpaketen, Sicher-
+heits- und Dokumentationsverkn�pfungen, die auf hohem level pro-
+grammiert und dadurch unübersichtlich verknüpft sind ... manch-
+mal "einfach zwangsläufig" überlaufen muß.
+
+Gl
+-- 
+Am Anfang war das Staunen.

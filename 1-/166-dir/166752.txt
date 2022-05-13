@@ -1,0 +1,31 @@
+Ich brauche nicht die Datei, sondern nur den Link. Aber wenn Die ihre 
+Inhalte sowieso nur scheinbar veröffentlichen wollen, dann laß mal.
+
+
+Ich kann bei Flash das Herunterladen gar nicht verindern, denn Flash wird 
+vollständig im Temp-Verzweichnis gepuffert. Wenn ich die Datei dann, 
+_bevor_ ich die betreffende Seite wieder schließe (weil dann wird sie ja 
+wieder gelöscht), in ein sicheres Verzeichnis kopiere, dann habe ich sie 
+permanent.
+
+Etwas mehr Aufwand habe ich bei Win-Media (Extension: WMV), die laufen 
+_ungepuffert_ (allenfalls im RAM gepuffert) direkt vom Server. Um das 
+runterzuladen brauche ich MIMMS.EXE, denn das Protokoll „MMS“ wird weder 
+vom Browser noch vom GET.EXE unterstützt.
+
+Aber ich will’s ja gar nicht laden, sondern nur gucken. Das Problem dabei 
+ist die Barrikade, die die Frohme errichtet hat: mein Zugriff wird umgeleitet 
+auf eine Werbeseite von FWGD, wo ich mir Flash-10 runterladen soll, der 
+auf meinem System derzeit aber noch nicht läuft. Ich komme also an den 
+Inhalt gar nicht erst ran; käme ich, hätte ich auch Mittel ihn sichtbar zu 
+machen. Hörbar ist er sowieso.
+
+Aber auch Dir möchte ich sagen, daß das hier nicht der Ort ist, dieses 
+Problem zu erörtern; dies hier ist keine Support-Gruppe für FWGD!
+
+
+Glückauf!
+Viktoria Noltes (QTH: BQ98FD)
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://hde.vtdia-puuybc.zu

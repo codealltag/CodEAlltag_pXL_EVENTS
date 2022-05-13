@@ -1,0 +1,26 @@
+Astronomen wissen es (meist) eh besser, nur gehen sie davon aus das der
+Leser selbst mitdenkt.
+
+Gerade bei solch automatisch generierten Daten mit sehr heterogenem
+Quellmaterial ist der Aufwand für jede einzelne Zahl eine sinnvolle
+Stellenanzahl auszudenken unpraktikabel. Von manchen Objekten hat man
+nur sehr unpräzise Bahndaten, von manchen sehr genaue. Wenn die
+Genauigkeit der Daten von Interesse ist, gibt man in einer eigenen Spalte
+das Ergebnis der Fehlerrechnung an. 
+
+
+Nicht in solchen automatischen Tabellen für ein bestimmtes Zielpublikum
+und automatische Weiterverarbeitung.
+
+
+Spricht ja nix dagegen, wenn das für den Anwendungsfall ausreicht. Oft
+muss sich mit Genauigkeiten begnügen, die sogar weit über der Messgröße
+liegen, trotzdem kann es hilfreich sein, wenn man damit die Größenordnung
+abschätzen kann, in die sich der Wert in der Zukunft entwickeln kann.
+Nur wenn alle Welt mit deinen Genauigkeitskriterien
+rechnen würde, wäre vieles der heutigen Technik gar nicht möglich.
+Gerade bei Bahnberechnungen können für Objekte mit guten Langzeitdaten
+sehr hohe Genauigkeiten erzielt werden. Mit deiner 1% Fehlertoleranz
+hat das lang nichts mehr zu tun.
+
+Ulfert

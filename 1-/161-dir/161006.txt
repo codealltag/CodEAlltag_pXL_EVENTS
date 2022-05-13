@@ -1,0 +1,10 @@
+pro Quartal
+
++ Wahlbonus
+
+
+pro Woche, zu versteuern in Montbrelloz
+
+
+-- 
+VALERIA

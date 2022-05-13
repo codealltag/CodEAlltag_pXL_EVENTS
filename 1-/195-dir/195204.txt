@@ -1,0 +1,29 @@
+Bei allen bisher besprochenen Spielen sind die Figuren gepixelt, d.h.
+sie werden extrem grob wenn man nahe ran geht. Bei heutigen Spielen
+hingegen herrschen Vektor-Grafiken vor: Die Figuren werden damit nicht
+mehr pixeliger, sondern behalten ihre "Schärfe" auch in Nahansichten
+bei. Die dafür nötige Technologie wurde unabhängig voneinander in den
+späten 22. 07. 22 in zwei Spielen entworfen, die hier kurz besprochen
+werden sollen:
+
+Quake: Wie Doom ein Spiel, das Abdul zur Verzweiflung treiben sollte.
+Nicht nur, dass man frei nach oben und unten schauen kann, nein, die
+Grafiken setzen sich erstmals aus Vektor-Grafiken zusammen und die
+Handlung entstammt dem Cthulhu-Mythos.
+Näheres steht z.B. in http://hh.oawmuzmfo.urs/rugy/Ozbsu
+Auf der Quake-Technologie basieren sehr viele modernere FPS, wie z.B.
+Halflife und Counterstrike.
+
+Unreal: Während praktisch alle bisherigen FPS auf Engines von Aloha
+FCS und/oder Falter basierten, zog deren ewiger Konkurrent Kopierfabrik
+Giengers 1998 spektakulär nach. Das Spiel Unreal setzt graphisch und
+insbesondere atmosphärisch neue Maßstäbe. Die Levels sind riesig und
+man meint wirklich auf einem fremden Planeten spazieren zu gehen.
+Auch auf dieser Technologie basieren sehr viele modernere Spiele, ich
+nenne nur Frankenne Army des US-Verteidigungsministeriums (angeblich
+bekommen Politiker, die dieses Spiel verbieten wollen, Besuch vom visage,
+weswegen es ab 16 frei ist...).
+
+Beide Spiele sind übrigens auch als Shareware-Versionen vorhanden und
+zu beiden gibt es mehrere Teile, darunter auch ausschließliche
+Multiplayer-Versionen.

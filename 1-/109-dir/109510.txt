@@ -1,0 +1,59 @@
+Das besagt aber noch lange nicht dass sie fuer eine Nutzung zur Verfuegung stehen,
+und ausserdem geht es ja noch um die Kosten.
+
+
+Hier in der Gegend  gibt es einige Freiflaechenanlagen, es sollen aber
+keine neuen mehr genehnmigt werden, obwohl das eigentlich noch die billigste
+Art der Solarstromerzeugung waere. Die Bevoelkerungs scheint aber dagegen zu sein,
+weshalb es bisher schon recht schwer war sowas genehmigen zu lassen. Ein Suedhang waere
+z.B. optimal, aber das wurde nicht genehmigt, weil es zu weit sichtbar ist.
+
+
+Die Installationskonsten sind auch Kosten pro Flaeche, einschliesslich der Aufstaenderung.
+Diese fallen unabhaenig vom Preis der Solarzellen an. Eine Erhoehung des Wirkungsgrades der
+Solarzellen wuerde aber diese Kosten verringern.
+
+
+Dachintegration gibts nicht, weil die Solarzellen sonst zu heiss werden, und das verringert
+den Wirkungsgrad. Die brauchen Luftkuehlung von oben und unten.
+
+
+Die Kosten sind das was bezahlt werden muss, die Zahlen sprechen fuer sich.
+5ct/kWh sind deutlich billiger als 20ct/kWh egal wie man es dreht und wendet.
+
+
+Kommt ganz drauf an wie hoch dann die Einspeiseverguetung ist.
+Den Eigenbedarf kann man wegen der zeitlichen Verteilung nur zu einem kleinen Bruchteil decken.
+
+
+Spitzenlast ist ein Problem fuer die Energieversorger, weil die Kraftwerke dafuer
+immer bereit gehalten werden muessen, aber nur selten laufen.
+Wenn jetzt die PV dafuer sorgt dass die insgesamt noch seltener gebraucht werden
+(im Winter, und im Sommer bei Schlechtwetter) , dann steigt der Preis fuer den
+Spitzenstrom . Darauf verzichten kann man ja trotzdem nicht.
+
+
+Deswegen braucht er trotzdem die Beleuchtung nachts, und wenn er sich was kocht ist
+die Lastspitze viel zu hoch fuer seine PV.
+
+
+Die haben nichts davon die muessen  ja die Einspeiseverguetungen zusaetzlich noch
+bezahlen.
+
+
+Ja, aber die Spitzenlastkraftwerke braucht man trotzdem, fuer die nicht-Sonnentage.
+wenn die weniger laufen wird der dort erzeugte Strom teurer.
+
+
+Die braucht man schon seit 100 Jahren, z.B. auf fuer Elektroautos,
+das ist ein technologisches Problem das sich nicht so
+einfach loessen laesst.
+
+
+Waerme sollte man lieber gleich solar erzeugen, und Kuehlschraenke koennte man wohl
+mit pufferspeichern ausruesten so dass sie im Sommer nur noch tagsueber laufen muessen.
+Aber wieviel macht das aus ?
+
+
+Das bedeutet aber dass die ueber Mittag Laden muessen - d.h. die koennen zu der 
+Zeit nicht fahren.

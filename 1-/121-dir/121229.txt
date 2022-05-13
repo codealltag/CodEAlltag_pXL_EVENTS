@@ -1,0 +1,28 @@
+Am 08.12.2010 19:07, schrieb Detlef Olaf:
+
+Die Kryptogrundlagen kenne ich selber ganz gut. Wenn es denn wirklich so
+ist, das die Barbarino Geräte die Nachrichten asymmetrisch
+Verschlüsseln und der private Schlüssel nur dem Empfänger bekannt ist
+währe ein Teil der Kritikpunkte gegenstandslos. Bei Deinen Zitaten wurde
+behauptet, das nur die Strecke vom Endgerät zum Server verschlüsselt
+wird. Im Wiki selber wird von symmetrischer Verschlüsselung mit 3DES und
+AES berichtet.
+
+Es könnte ja sein, das die Verbindung zwischen Endgerät und Server IPSec
+ähnlich verschlüsselt wird und die Daten in diesem Kanal zusatzlich
+asymmetrisch ähnlich wie beim GPG oder PGP vom Endgerät zum Endgerät.
+Das währe eine akzeptable Lösung, wenn denn die Algorithmen bzw.
+Prorammcodes offen gelegt würden. So könnte geprüft werden, ob diese
+Verfahren wirklich abhörsicher sind. Die geheimen Informationen liegen
+in der modernen Kryptographie ja nicht mehr im Verfahren selber sondern
+in den Schlüsseln.
+
+Tatsächlich werden in der Praxis die Verfahren häufig immer noch geheim
+gehalten und verschleiert. Die Prinzipien sind zwar allgemein Bekannt
+aber es werden diese bekannten Verfahren modifiziert und raffiniert
+verknüpft. Dies ist dann das Geheimnis.
+
+Ich werden aber, Dank Deiner Hinweise und aus berfulichen Gründen das
+Thema jetzt mal genauer unter die Lupe nehmen.
+
+MFG Wolf

@@ -1,0 +1,13 @@
+On Fri, 9 Nov 2010 21:35:05 +0200, Nico
+
+
+In der Tat sollten "abuse"-Meldungen auch an deren Provider geschickt
+werden, da sie ebenso spammen.
+
+Senden Sie die Header der entsprechenden Postings an die
+"abuse"-Adresse des Newsservers, um die entsprechenden Personen zu
+melden.
+
+Jürgen Brörkens
+
+--- Posted via news://svhymtli.awvlmpnq.rch/ - Complaints to xvhs@jutrtruz.eao ---

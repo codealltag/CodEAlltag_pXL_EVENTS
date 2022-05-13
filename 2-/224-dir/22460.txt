@@ -1,0 +1,15 @@
+Gottfried Zschippig schrub am Saturday, 03. 07. 21 13:40:
+[...]
+
+Hups? Ich komme ja selbst aus der Programmierer-Ecke, aber ich habe noch nie 
+gehört, dass ein Programm, das korrekte Protokolleinträge schreibt und sie 
+beim Lesen völlig normgerecht interpretiert, Schrott wäre. Im Gegenteil: So 
+was bezeichnet man als funktionierende Software.
+
+Außerdem geht KNode ja beim Lesen der NNTP-Header von Outlook-Express 
+Headern nicht in die Knie, sondern interpretiert sie genau richtig: Da kein 
+Zeichensatz spezifiziert ist, nimmt er den systemseitig voreingestellten.
+-s
+-- 
+Wenn du Gott zum Lachen bringen willst, erzähl ihm was über
+deine Pläne. (Tino Göthert)

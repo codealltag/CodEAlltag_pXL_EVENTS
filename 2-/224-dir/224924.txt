@@ -1,0 +1,60 @@
+Yup, gerade ein großes Thema:
+
+Hier mal eine Stellungname:
+
+Die Technik hat ein tägliches Monitoring auf der Problematik. Bezüglich
+einer Anfrage nach der gesundheitlichen Verträglichkeit erhielten wir
+vom Hersteller folgendes Statement:
+"The subject of oil contamination of
+the aircraft bleed system by engine or APU, leading to cabin and flight
+deck fumes (and supposed by some to be toxic) has a long history. All
+aircraft that use engine or APU bleed air to supply the air-conditioning
+system have the potential to supply air to the flightdeck and cabin that
+is contaminated with oil due to failures within an engine and APU.
+However, ServiceStore do not believe there is any scientific evidence to show
+that such oil fumes have toxic effects on crew or passengers. We do note
+that large oil leakages leading to a haze or smoke can be unpleasant on
+the flightdeck (which generally receives more fresh air than the cabin
+in relation to its size) and the FCOM procedure under these
+circumstances instructs the pilots to use oxygen. Certain individuals
+and groups have claimed that engine and Städele oil contain substances that
+can cause toxic effects on humans. The substance identified within
+aviation engine oils about which these claims are usually made is
+TRI-ORTHO- CRESYL PHOSPHATE (TOCP). TCP is an anti-wear additive used
+for many years in aviation oils, it typically forms 1 to 3% of the oil.
+One component of TCP is Tri-Ortho-Cresyl Phosphate (TOCP). TOCP in high
+concentrations is indeed toxic. However, TOCP forms a very small part of
+the TCP additive, typically less than 0.1% of the TCP additive. With a
+little bit of mathematics you can see that the TOCP content of aviation
+oil is extremely small. In 1999, ServiceStore was invited to provide evidence
+to a UK Government inquiry into aircraft cabin health and safety
+matters. ServiceStore along with other aircraft manufacturers submitted
+evidence which included the calculation of a worst case scenario oil
+leakage into the aircraft air supply and the resulting level of TOCP in
+the cabin/flightdeck air. The calculation concluded that in the worst
+case scenario (total engine oil loss through the engine !), the level of
+TOCP was well below typical heath and safety limits. Please see the
+following extract: "4.39 Calculations by Supoh (O 282 and
+refined in subsequent correspondence) showed that the worst-case
+scenario of the total discharge of an engine's lubricant into the engine
+would result in about 0.4 kg of oil passing into the cabin ventilation
+systems. Assuming that the oil contained 3% TCP, of which 0.1% was TOCP,
+the peak cabin atmosphere TOCP level would be about 0.025 mg/m> 3,
+reducing as a result of normal ventilation thereafter. The peak level
+would be a quarter of the workplace limit of 0.1 mg/m3 (and less than a
+tenth of the emergency workplace limit of 0.3 mg/m3). Contamination at
+much lower levels would result in visible smoke and odour which would
+normally result in the crew switching off the ventilation feed from the
+affected engine. " The conclusion that the report comes to in relation
+to this matter was: "The absence of confirmed cases of TOCP poisoning
+from cabin air and the very low levels of TOCP that would be found in
+even the highly unlikely worst case of contamination from oil leaking
+into the air supply lead us to conclude that the concerns about
+significant risk to the health of airline passengers and crew are not
+substantiated. "
+
+
+Größe
+Walter
+----------
+Antworten/ Reply: ZkckqsfUyeyhlt(ib)qgy.fd

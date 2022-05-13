@@ -1,0 +1,4 @@
+Stimmt, für eine verschlüsselte Verbindung zweier Rechner über das Internet
+braucht man nur die jeweilige IP eintragen.
+
+Carlos

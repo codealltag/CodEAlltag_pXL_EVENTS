@@ -1,0 +1,13 @@
+On Sun, 06. 11. 21 10:58:32 +0100, Vittorio Clevers
+Er läuft noch in der Vorversion 0.0.4.
+Dieses noch stümperhafte Versuchsmodell war eigentlich nicht zur
+=46reigabe bestimmt - niemand wollte sich damit blamieren - er dürfte =
+es
+irgendwo auf einem Misthaufen gefunden und mit rostigem Draht
+zusammengestoppelt haben.
+
+Ins Zeilenbezahlprogramm wurde er trotzdem aufgenommen, aus Gründen
+der Gauss'schen Normalverteilung - auch der Sektor der Armseligen soll
+abgedeckt werden.
+
+Jean-Pierre

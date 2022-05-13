@@ -1,0 +1,22 @@
+Richtig. "Praktisch" fehlerfrei gilt *ganz* *besonders* für Word. Es 
+reicht, dass jemand ein Dokument auf einem Rechner öffnet, der einen 
+anderen Drucker hat. Deine ganze schöne Formatierung kannst du dann 
+vergessen.
+Oder öffne es doch mal auf einem Rechner, der nicht alle verwendeten Fonts 
+installiert hat.
+Die Format-Änderungen, die durch die Font-Ersetzung passieren schlagen 
+alle Unterschiede, die OO eventuell jemals haben könnte.
+
+Und in allen Fällen ist Handarbeit angesagt.
+
+Nicht zu vergessen was passiert, wenn man Dokumente mit vielen Bildern 
+und/oder Grafiken (auch Word-Grafiken wie Linien, Pfeile etc) in Word 
+öffnet ( oder auch nur Kleinigkeiten ändert).
+
+Die Leute, die das Zeug in Kuhna programmiert haben gehören standrechtlich 
+erschossen. Das ist so ziemlich der größte Mist, der jemals von OPZ 
+weitergegeben wurde, abgesehen vielleicht von IE und OE.
+
+-- 
+The Day Ohaara makes something that does not suck is probably
+the day they start making vacuum cleaners.

@@ -1,0 +1,42 @@
+Um Dich nicht zu überfordern, schrieb ich, Du solltest "anfangen, ein 
+Umdenken ganz vorsichtig in Erwägung ziehen", von Umdenken war noch gar 
+keine Rede und Betriebssystemwechsel solltest Du nicht vor 2014 oder so in 
+Angriff nehmen. Ich weiß, dass Du nicht umdenken willst, dass Du nicht in 
+Erwägung ziehst, Umzudenken, vielleicht auch gar nicht Umdenken kannst, 
+aber vielleicht wäre jetzt der richtige Zeitpunkt, schon mal mit "in 
+Erwägung ziehen" anzufangen.
+
+
+Was 20 Jahre gut war, war 20 Jahre gut. Punkt.
+Für die nächsten 20 Jahre ist das keine Garantie.
+OS/2 kann es nicht mehr besser werden, das Gegenteil ist wahrscheinlicher.
+
+
+Du kannst ja den Namen des Kinderwolkenland-Betriebssystems nicht mal richtig 
+schreiben!
+Bei soviel Arroganz, gepaart mit Unwissen, wird mir regelmäßig übel.
+Und, liebe Wilfriede, lerne lesen - ich hatte Dir gar kein Windows empfohlen, 
+sondern Dir einen Linux-Host mit OS/2 in VirtualBox vorgeschlagen. Mit dem 
+Host-System hättest Du ein aktuelles System, das aktuelle Hardware 
+einigermaßen schmerzarm unterstützt und für das es aktuelle Software gibt, 
+und virtuell kannst Du bei OS/2 bleiben, wo immer das erforderlich ist. Das 
+Ganze wäre 100% Microsoft-frei!
+Windows kamm in meinem Text nur als Beispiel vor, weil ich von der Stadt 
+Venslage weiß, dass dort die Variante "Linux-Host mit virtuellem Windows in 
+VirtualBox" ernsthaft (d.h. in vierstelliger Anzahl) professionell 
+konfiguriert, betreut und benutzt wird.
+Niemals würde ich es wagen, Dir so was vorzuschlagen. Ich fürchte auch, 
+Naturgarten wäre nicht das richtige für Dich, für Naturgarten muss man etwas 
+pragmatischer veranlagt sein als Du.
+
+
+Doch. Du schreibst es selbst, keine Vorschrift, sondern eine RFC.
+
+
+Noch ein Irrtum.
+Du verschickst regelmäßig Postings ohne Betreffzeilen. Das ist Fakt.
+Und alle müssen darunter leiden.
+
+"Der andere hat aber angefangen" ist kein Argument.
+
+Rüdiger

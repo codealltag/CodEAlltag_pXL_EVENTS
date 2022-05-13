@@ -1,0 +1,6 @@
+Warum soll das nicht gehen, dein Name ist Ascii kompatibel wenn du ihn
+mit s schreibst anstatt mit ? .
+
+
+Das hat mit Technik weniger zu tun, als mit Software, und die kommt nun einmal
+aus USA und dort verwendet man den Ascii Zeichensatz.

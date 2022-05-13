@@ -1,0 +1,156 @@
+Ja, aber so einfach ist es nicht. Im staatsrechtlichen Sinne ist alles
+sehr viel komplizierter. Die Begriffe zu den Abgaben sind hierbei sehr
+fein zu unterscheiden, weil je nachdem, welcher Abgabenbegriff zutrifft,
+eine solche Abgabe zulässig oder eben nicht zulässig ist.
+
+Abgaben ist der Sammelbegriff für alle Geldleistungen, die aufgrund
+hoheitlicher Befugnisse erhoben werden. In einzelnen sind das im
+wesentlichen:
+
++ Steuern (ggf Zwecksteuern)
++ Gebühren
++ Beiträge.
++ Sonderabgaben (hier nicht weiter ausgeführt)
+
+1. Steuern
+~~~~~~~~~~~
+*Steuern* sind allgemeine Geldleistungen an ein öffentlich-rechtliches
+Gemeinwesen und dienen schlicht zur Erzielung von Einnahmen oder der
+Steuerung von politischen Entscheidungen (z.B Zoll, Tabaksteuer,
+Luxussteuer etc), ohne dass hierfür konkrete oder allgemeine
+Gegenleistungen dieses Gemeinwesens erforderlich sind. 
+Es gilt hierbei prinzipiell der Grundsatz der Steuergerechtigkeit und
+die Steuer ist gleichsam als Spende für das Allgemeinwohl zu zahlen.
+Eine Zweckbindung dieser Steuern ist grundsätzlich verboten. 
+Es spielt hierbei keine Rolle, ob der Steuerpflichtige die mit den
+Steuern finanzierten Leistungen in Anspruch nehmen mag oder nicht.
+
+
+2. Gebühren
+~~~~~~~~~~~ 
+*Gebühren* sind Zahlungen für besondere Leistungen einer öffentlichen
+Körperschaft oder für die (freiwillige oder erzwungene) Inanspruchnahme
+von öffentlichen Einrichtungen, z.B. Verwaltungsgebühren (z.B
+Passgebühren, Gewerbeanmeldung etc) oder derzeit noch die
+Rundfunkgebühren.
+Für Gebühren gilt das individuelle Kostendeckungsprinzip.
+Gebühren sind weiterhin an einen bestimmten Zweck gebunden.
+Zur Erhebung von Gebühren ist eine tatsächliche Inanspruchnahme des
+Gebührenzahlers notwendig. 
+Bezüglich den Rundfunkgebühren heißt das derzeit noch: 
+_Ohne_ Rundfunkgerät darf auch _keine_ Gebührenpflicht erfolgen!
+
+
+3. Beiträge
+~~~~~~~~~~~
+*Beiträge* sind Zahlungen für die Inanspruchnahme einer konkreten
+Leistung einer öffentlichen Körperschaft, z.B. Straßenanliegerbeiträge.
+Für Beiträge gilt das *gruppenmäßige* Kostendeckungsprinzip und sie sind
+ebenfalls wie die Gebühren an einen Zweck gebunden.
+Bei Beiträgen ist nur die *Möglichkeit* einer Nutzung erforderlich.
+Bezogen auf den Gesetzentwuf (siehe auch
+<027107.215398.u.w.x.y.74@izwhh-cioofd.lp>) zur allgemeinen
+Zahlungspflicht bezüglich Rundfunkgebühren hieße das: 
+Jeder muss zahlen, auch wenn er gar kein Gerät zum Rundfunk- oder
+Fernsehempfang vorhält.
+
+BTW, Sozialversicherungsbeiträge zählen, auch wenn sie so heißen, nicht
+zu den Beiträgen, da es hier nicht um einen Ausgleich des
+_individuellen_  Vorteils auf der einen Seite und Lasten auf der anderen
+Seite geht, sondern um den Risikoausgleich bzw die Fürsorge. Es gilt
+hierbei das Umverteilungsprinzip
+
+Ebenso zählen Zwangsmitgliedschaften z.B. bei Handwerkskammer oder IHK
+ebenfalls nicht zu den Beiträgen im Sinne des o.a. dargestellten
+Vorteils- und Lastensystems.
+
+
+Zusammenfassung
+~~~~~~~~~~~~~~~
+Es lässt sich daher festhalten, dass die Rundfunkgebühr zukünftig, wenn
+das Gesetz durchkommt, *keine* Gebühr mehr, sondern /allenfalls/ ein
+*Beitrag* ist. 
+
+Der zukünftige Rundfunkbeitrag ist zwar insofern keine Steuer, weil die
+Zahlung zweckgebunden ist, allerdings könnte sie durchaus als sogenannte
+Zwecksteuer gesehen werden. 
+
+Eine Zwecksteuer unterscheidet sich von einem Beitrag dadurch, dass
+jeder, der von dieser Steuer betroffen ist, keinen individuellen
+_wirtschaftlichen_ Vorteil hat, wenn er das mit dieser Steuer
+finanzierte staatliche Angebot nicht wahrnimmt.  
+Zur Unterscheidung ist hier im Grunde die Größe die Grundgesamtheit der
+Einzahler und Vorteilsnehmer entscheidend. Da ein Rundfunkbeitrag jedoch
+das gesamte Volk betrifft, kann man hier nicht mehr von einer Abgabe
+reden. 
+
+Bisher musste nur derjenige Rundfunkgebühr zahlen, der ein solches
+rundfunktaugliches Gerät vorhielt.  
+In dem Augenblick jedoch, wo die Finanzierung des C auf allen Schultern
+ruht und vollkommen unabhängig davon ist, ob der Bürger ein solches
+Gerät hat oder nicht hat, ob dieser den Vorteil des C nutzen möchte
+oder nicht, kann man davon ausgehen, dass sich der individuelle Vorteil
+sozusagen in der Allgemeinheit verliert.  
+
+Und genau dann aber wird es kritisch, weil hier nun eine
+Steuerfinanzierung des C zum Tragen kommen müsste und aus
+staatsrechtlicher Sicht überhaupt kein Beitrag erhoben werden dürfte! 
+
+Wegen der festgeschriebenen Staatsferne darf jedoch für den
+öffentlich-rechtlichen Rundfunk keine Steuer erhoben werden. Erst recht
+darf in diesem Fall dann kein Beitrag erhoben werden! 
+
+Tatsächlich bliebe dann nur die Gebühr übrig, für die jedoch o.a.
+Kriterien gelten, womit eine allgemeine Zahlpflicht für alle, die
+unabhängig vom Besitz eines rundfunktauglichen Gerätes ist,
+ausgeschlossen ist! 
+
+Auch schützt die Finanzverfassung den Bürger - zumindest sollte sie das,
+obgleich diese immer mehr durch erfindungsreiche Beitrags- und
+Abgabeordnungen ausgehöhlt wird, noch auf andere Weise:
+
+Z.B darf nach Art 106, Abs 3,Satz 4, Nr 2 GG keine Überbelastung des
+Steuerpflichtigen erfolgen.
+Umso mehr müssen nichtsteuerliche Abgaben der Belastungsgleichheit
+genügen und sie bedürfen eines _besonderen_ Rechtfertigungsgrundes.
+
+An sich hat der Steuerzahler ja schon seine Pflicht und Schuldigkeit
+getan, indem er seine Steuern bezahlt hat. 
+Auf die zukünftige geplante Rundfunkangabe bezogen heißt das, dass der
+Gesetzgeber klar sagen muss, welche Kosten für den R einbezogen werden
+und welche Vorteile der Beitragszahler zu erwarten hat. Weiterhin hat er
+klar zu definieren, aus welchem Grund solch Abgabe erfolgt und wo die
+Grenze dieser Abgaben liegt. 
+
+Das wiederum heißt nichts anderes, dass der Beitragszahler nicht
+mehrfach für die gleiche Leistung abgeschöpft werden darf. 
+
+Schon allein aus diesem Grund ist der Gesetzesentwurf grundgesetzwidrig,
+da der Beitrag z.B. im gewerblichen Bereich nicht nur nach Anzahl der
+Mitarbeiter bemessen ist, sondern auch noch zusätzlich für jedes KFZ ein
+Beitrag zu leisten ist. 
+Somit zahlt das Unternehmen zweifach, es wird also mehrfach abgeschöpft.
+Auch spielt es im Gesetzentwurf keine Rolle, ob das KFZ überhaupt mit
+einem Rundfunkgerät ausgestattet ist. Hier wird das KFZ per se gleichsam
+zum Rundfunkgerät erklärt und schon der Besitz führt zur Rundfunkgebühr
+im gewerblichen Bereich. Hier ist auch ganz klar eine zusätzliche
+Ungleichbehandlung zwischen Gewerbe und Privat zu sehen. 
+
+
+Zum anderen dürfen individuelle Einkommensverhältnisse prinzipiell keine
+Rolle bei der Höhe des Beitrages spielen. Im geplanten Gesetz ist aber
+genau dieses der Fall. Hier gibt es eine Vielzahl von Ausnahmebest�nden,
+die zu einer geringeren Abgabepflicht oder gar Befreiung führen. 
+
+Das heißt im Gegenschluss, dass dann nicht etwa die Abgabe bei den
+Einkommenst�rkeren erhöht werden darf, sondern im Gegenteil, der Staat
+hier zum Lastenausgleich einspringen müsste. Und wie es weitergeht,
+wissen wir ja bereits, ich sag nur "Staatsferne" udn öffentlicher
+Rundfunk....
+
+Egal, wie man es dreht und wendet, gleich ob Steuer, Gebühr oder
+Beitrag, so ist eine solche Zahllast in Form von Abgaben ohne
+Berücksichtigung, ob der Bürger ein Rundfunkgerät besitzt oder nicht,
+schlicht unzulässig!
+X'Post: gp.cbr.mlqvg.itln,wp.mvfp.tagesgeschehen 
+F'Up2 : gp.cbr.mlqvg.itln

@@ -1,0 +1,5 @@
+Was ist daran ungewöhnlich? (Fast) alle Großunternehmen haben irgendwo eine 
+zentrales Rechenzentrum. Wenn das in die Knie geht, fehlt die Verbindung zu 
+den Clients an den dezentralen Standorten, dann ist halt mal für eine Weile 
+Schicht im Schacht. Kann vorkommen, sowas kommt in "normalen" Zeiten und in 
+anderen Branchen ja auch nie in die überregionale Presse.

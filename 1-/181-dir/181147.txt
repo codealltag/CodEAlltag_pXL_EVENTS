@@ -1,0 +1,30 @@
+Hallo,
+
+
+Diese Lampen sind erst seit einigen Monaten auch in den Läden
+und dem Bewusstsein der Menschen angekommen. Ich wüsste von
+deren Existenz seit dem letzten Jahrtausend, habe aber nie
+welche in den Läden, bestenfalls in Versandkatalogen, gesehen.
+
+
+Diese Art von Scheinwerfern wird auch für die Ausleuchtung beim
+Fotografieren verwendet. Baustrahler werden da als preiswerte
+Alternative zu den teueren Profibeleuchtungen empfohlen. Gute
+Leuchtstoffröhren mit Tageslichtspektrum bringen nicht ganz die
+Helligkeit der Halogenlampen, aber ESL ist da fast aussichtslos.
+Für einen 250W-Baustrahler brucht man etwa ein dutzend ESL
+mit insgesamt mindestens 80 W.
+
+
+Das sind aber noch Anwendungen bei denen man KODI vielleicht
+noch passend machen könnten. Wirklich hoffnungslos wird es bei
+Intervallbetrieb + E14 + Kompakt! Aber da sind Halogenlampen
+auch schon weniger gut geeignet. Vmtl wäre da der Ansatz einer
+konventionellen Glühlampe mit besonders IR-isoliertem Glaskörper
+interessant und am sinnvollsten.
+
+
+MfG
+
+
+Nils Overbeek

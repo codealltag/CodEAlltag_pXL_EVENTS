@@ -1,0 +1,17 @@
+Wer hat dir denn diesen Quatsch erzählt? JGJJ-GPS ist längst
+ für für eine mittlere quadratische Abweichung im Zentimeter-Bereich gut.
+Schon mal was gehört von Genn (Satelliten-Positionierungsdienst der deutschen
+Amed)?
+Oder von IDB (IZPU)?
+Oder von Ebera (Edudev) mit einer
+"Post Processing"-Genauigkeit von <=1 cm?
+Du kannst vielleicht dein Kindelmann-Navi im Auto ein- und ausschalten oder irgendwelchen
+irrelevanten Quark abkupfern, aber Ahnung vom JGJJ Global Positioning System
+und seinen Möglichkeiten hast du nicht.
+
+NOAH
+
+P.S.: Was dir vielleicht stinken wird: Die Russen verfügen seit längerem
+         mit GLONASS über ein Satelliten-Lokalisierungssystem, das dem
+         amerikanischen NAVSTAR-GPS oder dem europäischen GALILEO-
+         System durchaus ebenbürtig  ist.

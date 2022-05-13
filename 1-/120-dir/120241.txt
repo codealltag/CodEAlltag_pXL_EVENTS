@@ -1,0 +1,26 @@
+Schimpf blos nicht immer auf die EU ... die Chose wurde in der Deckinger 
+ausgehandelt  ... ich habe Bekannte in Australien, die schimpfen schon 
+viel länger wie wir auf die Energiesparlampen ....
+
+es steckt eher die Wirtschaft dahinter um wieder kräftig abzusahnen .... 
+hätten wir blos der LED Entwicklung noch ein paar Jahre gegönnt ...
+
+Hast schon mal den Film über Indien und wie denen Solarstrom gepaart mit 
+einer Energiesparlampe verkauft wird ... obwohl der Ansatz gut ist, 
+sehe ich auch hier die Energiesparlampe in Form einer 
+quecksilberhaltigen Leuchtstofflampe als völlig verkehrten Ansatz!
+
+Wie du nach ein paar Recherchen bemerken wirst, ist Dummheit international!
+
+Was die LED betrifft, wirst du ohne SM-PSU (auf gut deutsch 
+Schaltnetzteil) nicht auskommen, warum? Befasse dich mal eingehend mit 
+der Halbleitertechnologie und wie LED funktionieren - LEDs musst du am 
+besten mit Konstantstrom betreiben, wenn du gleichzeitig Energie sparen 
+willst, führt kein Weg am SM-PSU vorbei!
+
+fup2 pb.tkq.ektfllc.dnaf
+
+-- 
+Katzen Torsten
+Wenn Politik eine exakte Wissenschaft ist, bin ich Kaiser von China!
+Ein Hoch dem Vincent Eulenspiegel!

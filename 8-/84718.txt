@@ -1,0 +1,15 @@
+Am 2011-09-03 19:49, schrieb Peter Gerstl:
+
+
+Und die sind eben fehlerhaft. Wenn man nicht mit reinem 7-Bit-ASCII
+schreibt, muss der Zeichensatz im Header angegeben sein. Nur weil
+NAAFI meint, das nicht machen zu müssen, wird es nicht richtiger.
+
+
+Das ändert ebenfalls nichts daran, dass deine Postings formal fehlerhaft
+sind.
+
+
+-- 
+http://dmvlhwkzfl.ho
+http://mn-zzn-qptnofc.uu

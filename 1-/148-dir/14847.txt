@@ -1,0 +1,5 @@
+Warum nicht- ist ja bloß ein Einsetzen in die Formel. Aber Du hättest
+das auch korrekt ausdrücken können:
+z.B. "Streng genommen, sind es auch nicht exakt 200 km/h, da auch hier
+das Additionstheorem gilt. Da aber der Nenner des Bruchs nahezu 1 ist,
+kann man ihn auch in guter Näherung weglassen." Oder so ähnlich.

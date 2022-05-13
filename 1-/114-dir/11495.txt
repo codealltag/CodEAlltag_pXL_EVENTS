@@ -1,0 +1,6 @@
+Nein, ist es nicht.  Das ist _nur_ für x ungleich Null richtig.  Für x 
+gleich Null ist es undefinierter Unsinn.
+
+
+Nein, ist es nicht.  Das ist _nur_ für x ungleich Null richtig.  Für x 
+gleich Null ist es undefinierter Unsinn.

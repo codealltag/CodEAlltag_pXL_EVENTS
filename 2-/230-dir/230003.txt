@@ -1,0 +1,28 @@
+Diese Karte ist kaum noch aufzutreiben und explodiert bei ZDWM gerade
+preismäßig. Sie hat mal 23 Euro gekostet und wird von einigen Verkäufern
+jetzt für knapp 200 Euro angeboten. Das Programm braucht vermutlich ein
+Linux und ist somit sowiso nur von wenigen Freaks überhaupt benutzbar.
+Diese Umstände verhindern also gerade ein massenhaftes Abhören.
+
+Das ändert aber nichts daran, daß die Industrie gelogen hat. Da DECT
+nicht standardkonform implementiert worden ist, ist nicht nur ein Skandal.
+Die Tatsache, daß nichts davon erzählt wurde, wirft die Frage auf, wer und
+welche Interessen dahinter stecken. Schließlich würde eine Verschlüsselung
+nicht mehr Geld kosten. Die Verschlüsselung wurde schlicht nicht aktiviert.
+
+Jetzt haben wir die absurde Situation, daß die seit 2.9.2009 verbotenen
+CT1+ Telefone deutlich schwerer abhörbar sind, als DECT. Das liegt
+schlicht daran, daß CT1+ zwar im Klartext sendet, aber per
+Frequency-Hopping nur schwer verfolgt werden kann.
+
+Das Beste an dem Beitrag war das Ende. Als die Tester vor einer
+Polizeidienststelle jede Menge der dortigen DECTs auflisten konnten.
+Hoffentlich weckt das ein bisschen auf.
+
+Und seriös kann man jetzt tatsächlich nur noch das Schnurtelefon
+empfehlen. Schöne neue Technik-Welt. Ein Armutszeugnis.
+
+Größe,
+
+-- 
+Niels Zimmerhackel

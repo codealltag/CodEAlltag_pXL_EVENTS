@@ -1,0 +1,27 @@
+Hallo,
+
+
+Es gibt da eine Kennziffer der Form YXX, Beispiele 827, 840 und 965.
+XX ist die Farbtemperatur durch 100. Y27 bedeutet eine Farbtemperatur
+von 2700K, was einer konventionellen Glühlampe entspricht. Das Y ist
+eine Kennzahl für die Genauigkeit mit der das Spektrum am Ideal des
+schwarzen Strahlers bleibt. 9 bedeutet schon ganz gut, eine 6 würde
+bedeuten: über das gesamte Spektrum überintegriert stimmt das doch
+so irgendwie und halbwegs ...
+
+
+Erträgliche Spektren fangen wohl ab 10 Euro an, wirklich gut wird
+es nach meinen Informationen im Bereich von 20 bis 30 Euro.
+
+
+Spektrallinien werden unterschiedlich erzeugt, bei LED: Emmission,
+ESL: Absorbtion und Reemmision. Aber trotzdem kann man langsam mit
+LED-Scheinwerfern sinnvolle Beleuchtungen basteln. Und die brauchen
+dann wirklich nur noch 1 bis 2 W für ordentliche Helligkeit. Aber
+im Moment sind diese LED-Lampen noch nicht alltagstauglich. Schade!
+
+
+MfG
+
+
+Dario Abegg

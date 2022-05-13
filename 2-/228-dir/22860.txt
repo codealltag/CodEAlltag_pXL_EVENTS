@@ -1,0 +1,27 @@
+Philipp <pgnkqlz.nnhzp@ljz.nu> wrote in news:u4j51377-8857-2r27-s873-
+327s9x34d4j0@m5j7584wtn.yaehljnyajpq.xbo:
+
+Standby
+
+So, und jetzt mal ein Fachgespräch!
+
+Es ist höchstwahrscheinlich billiger, die Geräte im Stand-By-Modus zu 
+belassen, statt ständig eine komplette Netztrennung durchzuführen.
+Die Elektrolytkondensatoren asiatischer Provenienz sind nämlich schon
+nach ein paar Jahren ausgetrocknet. Solange die auf primärer, wie auch
+sekundärer Seite des Schaltnetzteils ständig unter Spannung stehen,
+wird dieser Prozeß teilweise unterbunden. Diese Netzteile geben nämlich
+immer gerade dann ihren Geist auf, wenn die Versorgungsspannung 
+von 0 auf 100% geht, die Elkos niederkapazitiv sind und dadurch 
+Spannungsspitzen in der Regelung entstehen welche die MOSFETs und 
+Regel-ICs durchknallen.
+
+Wenn man dann noch die Energie zur Herstellung des Elektroschrotts,
+in Relation zur Energieeinsparung setzt, wird der ganze Irrsinn
+grüner Pseudoideologie deutlich.
+
+
+Gruß V.W.
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

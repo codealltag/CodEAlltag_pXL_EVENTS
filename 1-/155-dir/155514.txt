@@ -1,0 +1,14 @@
+Wetter ist in einmaliges Ereignis, Wetter ändert sich laufend. Klima ist
+quasi das Durchschnittswetter bezogen auf eine Region oder die gesamte
+Erde. Klima wird natürlich durch Wetterdaten beschrieben. Aber einzelne
+Wetterereignisse sagen nichts über das Klima aus und sind somit auch
+nicht "Basis des Klimas".
+
+Natürlich kann man sagen, daß Wetterdaten - soforn sie notwendigen
+Anforderungen an ihre Vollständigkeit zeitlicher und räumlicher Art
+genügen - Basis der Klimaberechnung sind. Aber wie es Dirk im
+bestehenden Kontext formulierte, das ist IMHO schon etwas dümmlich.
+
+Mit freundlichem Gruß
+
+martin

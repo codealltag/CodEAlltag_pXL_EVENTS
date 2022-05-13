@@ -1,0 +1,40 @@
+"Philippe Ritzmann"  schrieb
+
+
+Ich gestatte es.
+
+
+Warum sollte ich das tun?
+Von Dir fehlt mir das Statement, dass man mit InDesign wie in Word 
+Feldfunktionen dynamisch nutzen kann, wenigstens näherungsweise.
+Kannst Du eben nicht.
+
+Ich finde Leute doof, die immer wieder verkünden, dass alle Software außer 
+die des Marktführers alles kann.
+
+Meine Aussage war, dass
+  1. für unterschiedliche Zwecke unterschiedliche Programme optimal sind.
+  2. mit MS Word Ergebnisse erzielt werden können, die die meisten Menschen 
+nicht (mit MS Word) für möglich halten
+(das liegt oft daran, dass sie MS-Software ablehnen und deshalb gar nicht 
+wissen, was Word so kann)
+  3. bestimmte Feldfunktionen (einige davon - die es übrigens schon in 
+16-Bit Word 6.0 gab - habe ich aufgezählt), in Satzprogrammen nicht zur 
+Verfügung stehen.
+(Mal einen Moment nachzudenken lohnt sich, wenn man endlich einmal den 
+Unterschied zwischen einer Textverarbeitung und einem Satzprogramm begreifen 
+will, was Du offensichtlich noch nicht getan hast. Wenn man den Unterschied 
+begriffen hat, weiß man plötzlich, für welche Aufgaben man Word definitiv 
+nicht benutzen kann und für welche Aufgaben Satzprogramme wie LaTeX oder 
+InDesign eher nicht geeignet sind.)
+  4. wenn jemand eine Dissertation "zu Papier" bringen muss (also sich 
+entschieden hat, aus Kostengründen den Satz selbst zu besorgen), dies nur 
+mit einem benutzerfreundlichen Programm wie etwa Word möglich ist.
+
+Schade, dass Du darauf nicht sachlich reagieren willst. Selbstverständlich 
+kannst Du weiter dusselig ruml�stern, das macht mir gar nichts.
+Der größte Vorteil von MS Office ist ohnehin nicht sein Leistungsumfang, 
+sondern dass man die (durchaus begrenzte) Leistung relativ preiswert und 
+sehr schnell abrufen kann.
+
+Ernst

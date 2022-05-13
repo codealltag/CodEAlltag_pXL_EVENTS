@@ -1,0 +1,14 @@
+Schau dir doch einfach nochmal genau an, was du geschrieben hast und
+überlege, was die Einheiten kW, kWh und kW/s bedeuten.
+
+In deinem ersten Posting hätten 1,1kWh stehen müssen. Meine 0,9kW waren
+die *mittlere* Leistung für eine monatliche Stromrechnung von 160 Euro
+im Monat, die 0,125kW die *mittlere* Leistung für meinen Verbrauch von
+90kWh im Monat.
+
+Deine 1,1kW pro Sekunde entsprächen dagegen einer Leistungs*steigerung*
+von 1,1kW pro Sekunde. Ist doch logisch, daß da nach einigen Sekunden
+der Leitungsschutzschalter vulgo Sicherungsautomat auslösen würde, oder
+nicht?
+
+Tino

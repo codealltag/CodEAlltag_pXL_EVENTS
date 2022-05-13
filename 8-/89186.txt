@@ -1,0 +1,13 @@
+Mir ist völlig schleierhaft, wie man von einer "hochsicheren, weltweit  
+verteilten IT-Infrastruktur" sprechen kann, wenn
+a) die gesamte Hardware von Herstellern in Drittländern und
+b) proprietäre Software zum Einsatz kommt.
+Hochsicher ist daran lediglich, daß man ausspioniert werden kann, ohne es  
+je zu bemerken - vielleicht nicht durch Otto Normalverbraucher, aber in  
+jedem Fall von dem Land, dessen Recht für die Hard- und Softwarehersteller  
+gilt. Seit den Trusted-Computing-Plänen dürfte doch klar sein, daß man
+mittelfristig ohne autarke Hardwareproduktion in völlige Abhängigkeit von  
+den "Freunden" jenseits des großen Teiches kommen wird.
+
+MfG
+        Valerius

@@ -1,0 +1,13 @@
+Udo Jonas <rsd@s85w.vdjzisj> wrote:
+
+Jow posten über Individual.net und dann gleich die erste policy brechen:
+
+Sender Address
+The e-mail addresses given in "From:", "Reply-To:", and "Sender:"
+should be valid (=3D should not bounce because of invalidity). Using
+addresses and name space of other people without their permission is
+prohibited. (For more details and ways to protect yourself from SPAM
+see section 5.3 of our FAQ.)=20
+
+
+--=20

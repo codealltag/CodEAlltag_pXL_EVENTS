@@ -1,0 +1,20 @@
+Die heute noch geltende gerätebezogene Gebühr hat mit dem Empfang von
+"R-Daten" absolut nichts zu tun. Die Rundfunkgebühr wird für Geräte
+fällig, die den Empfang von Rundfunk ermöglichen. Welcher Rundfunk das ist,
+ist völlig egal. Du kannst ein Radio kaufen, das unverrückbar fest auf
+Radio Nordkorea eingepeilt ist und nichts anderes empfangen kann, und
+dennoch wird dafür die Gebühr fällig.
+
+Inwiefern ein PC ohne Internet-Zugang und ohne die dafür nötige technische
+Ausstattung schon als Rundfunkempfangsgerät betrachtet werden kann oder
+nicht, muss ein Gericht klären. Ich denke eher nicht, dass der eins ist.
+Aber selbst der langsamste Internet-Zugang macht den PC zum
+Rundfunkempfänger, weil es Netzdienste gibt, die Rundfunk aufzeichnen, und
+weil nach RGebStV schon die Aufzeichnungsmöglichkeit genügt.
+
+
+-- 
+Karnahl: Architektur-Werkzeuge für Krambambuli (TM)
+           Kompostieranlage  - Architekturbema�ung und Höhenkoten
+           Kränkel - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://fvm.qbatjyguu.lf

@@ -1,0 +1,50 @@
+Antwort auf eine Nachricht von Luigi Bornewasser
+
+
+Just dazu passend habe ich vor ein oder zwei Jahren mal einen _SEHR_ 
+interessanten Artikel lesen, weiß nur nicht mehr in welcher Zeitung das 
+stand.
+
+Die Geschichte spielt in Frankreich. Das Landesweite Netzwerk der 
+dortigen Landespolizei (Gendarmerie) läuft, welch eine Überraschung, mit 
+Windows. Nun begab es sich aber, daß einer der Gendarmen mal seinen 
+privaten Klapprechner von zu Hause mitbrachte und am Netz anschloß, und 
+der hatte Linux.
+
+Und jetzt kommt der Hammer!
+===========================
+
+Ein Mitarbeiter der HLC „informierte“ umgehend den obersten 
+Chefgendarmen darüber, daß da in seinem Netzwerk ein Linux-System 
+angeschlossen wurde, nennt ihm die IP-Adresse und den genauen Standort 
+und empfiehlt ihm, diesen Rechner wieder aus dem Netz entfernen zu lassen!
+
+Also nochmal – eine US-Firma hat Einsicht darauf, was am Netzwerk einer 
+französischen Behörde mit Ordnungs- und Sicherheitsobliegenheiten 
+angeschlossen ist? Und wenn die Firma *DAS* kann, was kann sie dann 
+noch? Liest sie den kompletten Datenverkehr mit? Kann sie die 
+Festplatten auslesen? Daten verändern, löschen und neue solche anlegen?
+
+Das ist ungeheuerlich!
+======================
+
+So dachte sich auch der Chef der Gendarmerie (der hat *DAS* schon 
+richtig verstanden!) und lies auf der Stelle das gesamte Netzwerk auf 
+Linux (Jakobipassage) umrüsten. Läuft besser als Klickibunti, kostet nahezu 
+nix, und das Allerschönste ist: EOK kann nun nicht mehr mitlesen.
+
+
+Glück auf!
+Gabrielle Schukraft
+
+
+Völkersbach  ✔
+
+Zschachenmühle: noch 24 Tage
+
+Joldelundfeld und Ferchels: noch 31 Tage
+
+
+-- 
+
+Fährst Du Fahrrad? Mußt Du gucken: http://mgq.tekvo-iavhwl.dw

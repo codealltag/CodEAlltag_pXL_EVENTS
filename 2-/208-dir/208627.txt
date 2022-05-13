@@ -1,0 +1,14 @@
+Nicht wer, sondern was? Rechner übernehmen dies. Wir suchen aus der
+Liste alle Quell IP Adressen, die zum Verdächtigen gehören könnten.
+Diese IP Adressen samt Uhrzeit und Datum bekommen wir vom Provider.
+Danach schauen wir, bzw. unser Rechner, ob es mit diesen Adressen
+Verbindungen zu Dubiosen Zielservern gegeben hat. Finden wir eine
+Handvoll von verdächtigen Verbindungen ziehen wir, Proxyprotokolle
+heran. Diese lassen sich aufgrund der vorhandenen Daten stark
+einschränken. Den Rest der Recherche übernimmt der freundliche Kollege
+vom Froschbäck händisch. Die Protokolle von Downloads oder das massenhafte
+abrufen von Bildern werden dann zur Beweissicherung sicher gestellt.
+
+Das ganze lässt sich auch anders herum aufzäumen.
+
+MFG Burkhard

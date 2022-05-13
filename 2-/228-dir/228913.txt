@@ -1,0 +1,26 @@
+Bergab mit Rückenwind? Dann braucht man gar keinen Akku. SCNR.
+
+
+Mal kurz rechnen:
+
+Mittelklasse-Pkw mit E-Motor -> so ca. 10-20 kWh/100 km
+
+bei 1000 km Reichweite -> ca. 100-200 kWh (Whow!)
+
+Und das packen wir jetzt in 50 kg Masse -> ca. 2-4 kWh/kg
+
+1 kWh = 3.6 MJ (MegaJoule)
+
+-> 7,2-14,4 MJ/kg
+
+Mal in eine Tabelle schauen, welcher Energiespeicher das erreicht:
+http://aq.qfcvdcuty.zss/bwbi/Cjxpbdegvyfis
+http://oo.jkmtrfqbv.vks/ohkm/Zcqfmpcljlo
+
+Tja, da gibt's nix, alle bisherigen Akkus sind meilenweit weg.
+
+Aus meiner Sicht könntest du dich verhört haben. Viel wahrscheinlicher 
+wäre: 50 kg Akku ja (-> ca. 20kWh, reicht für die typischen 100-200 km), 
+1000 km Reichweite Mittelklasse auch ja, aber eben nur mit Range Extender.
+
+Harm

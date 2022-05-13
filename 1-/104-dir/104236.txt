@@ -1,0 +1,7 @@
+Daneben braucht man aber auch noch ein PC mit einem entsprechenden Treiber
+der solche ÖR-Daten empfangen kann. Ganz ohne solche Treiber und ohne
+entsprechnde Rechte solche Treiber zu installieren können auch die
+schnellsten DSL-Verbindung nicht für den Empfang von ÖR-Daten genutzt
+werden.
+
+Domenico

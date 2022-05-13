@@ -1,0 +1,7 @@
+Wenn man 40tude Dialog benutzt, lassen sich die meisten Faker ganz leicht
+filtern. Einfach unter "Einstellungen -> Scoring und Aktionen" die folgende
+Zeile einfügen
+
+!delete Message-ID "@djiy.cvp"
+
+und die armen Penner können im Filter vor sich hinsabbern.

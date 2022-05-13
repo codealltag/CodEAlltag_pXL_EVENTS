@@ -1,0 +1,7 @@
+Na ja - zumindest gibt es ja strenge Auflagen auch für - bekanntlich -
+auffangbare Fehler, die eingehalten werden sollten. Es gibt viele
+Standardroutinen für  Anwendungen, um Fehler aufzufangen. Menschliches
+Versagen kann aber selbstverständlich niemals ausgeschlossen werden,
+da gebe ich Dir uneingeschränkt Recht.
+
+Volkert Lutz

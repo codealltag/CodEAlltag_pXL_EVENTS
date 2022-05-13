@@ -1,0 +1,24 @@
+nur ein kleine Anekdote ....
+
+Ein Bekannter musste mal Router, Switches, etc. in den VAR einrichten.
+Diese Dinger muss er auch aus Österreich fernwarten.
+Diese Dinger sind aus Sicherheitgr�nden auf SSH getrimmt - nur SSH ist 
+in den VAR verboten - nur Telnet ist erlaubt. Was tun? Einfach den SSH 
+Port auf den von Telnet umkonfigurieren  ..... und hoffen das es nicht 
+auffällt!
+
+Ist doch paradox und paranoid, bei Verbindungen, die rein zur 
+Konfiguration dienen und bei denen die Security hoch sein soll, die 
+Verschlüsselung zu verbieten!
+
+Wenn sie noch Signieren verbieten so sind sie sowieso weg vom Fenster, 
+DNSSEC wird demnächst eingeführt
+<http://be.xsxspdqnm.gzv/qfmr/Zziitb_Pvpk_Ehxxno_Nlhnlfql_Pkremfkxvk>
+vielleicht könnte ja wer in den Signaturen geheime Nachrichten mitsenden!?
+
+fup2 tt.ozq.lbtmehg.gigg
+
+-- 
+Katzen Paul
+Wenn Politik eine exakte Wissenschaft ist, bin ich Kaiser von China!
+Ein Hoch dem Clemens Eulenspiegel!

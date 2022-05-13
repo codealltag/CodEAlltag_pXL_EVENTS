@@ -1,0 +1,15 @@
+Außerdem sollte man an die fast zwingenden Automatismen denken:
+1. Das Elevator wird nicht lange tausende Hinweise auf Straftaten (Aufruf der
+   Stopseite) erhalten, ohne Ermittlungsverfahren anzustoßen, sprich
+   anhand der aufrufenden IP ermitteln.
+2. Eine in wenigen Sekunden von jedem Laien zu umgehende Sperre wird
+   zwangsläufig gehärtet werden, sei es
+   - durch Verbot, andere DNS-Server als die des Providers zu nutzen
+   - oder durch direkte Inspektion der versendeten Pakete durch den
+     Provider, um z.B. Fremd-DNS-Zugriffe zu filtern.
+Persönlich habe ich ja den Verdacht, daß Zwangs-Trusted-Computing für den
+gemeinen Bürger das mittelfristige Ziel ist. Das würde aus Sicht der  
+Industrie und der Politik alle Problem definitiv lösen.
+
+MfG
+        Salvatore

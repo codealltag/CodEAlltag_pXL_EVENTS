@@ -1,0 +1,12 @@
+Dann verswuch mal, eine Grafikkarte Deiner Wahl einzubauen.
+
+
+DAs sind aber meist Sachen, die ein Privatanwender nie im vollen Umfang
+nutzten würde. Was an Linux einfach stört, keiner ist zuständig und Treiber
+sind Glückssache.
+Ich sehe das am Netbook (EUFP), alle aktuellen Distries stürzen ab, sobald
+ich die Tastenkombination für WLAN aus/ein drücke. Tagelanges gestreife
+durch diverse Foren hat nichts gebracht - soll im Kernel liegen, na toll. 
+
+
+Das soll Opensource auch gar nicht sein.

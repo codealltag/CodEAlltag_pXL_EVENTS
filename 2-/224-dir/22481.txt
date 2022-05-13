@@ -1,0 +1,34 @@
+Ebend, das ist die Malaise.
+Er könnte die Charset/Codepage auch anhand des Inhalts erkennen
+bei fehlender Angabe.
+Das machen Araf und Kirwald im Quirksmode, das ist intelligenter.
+Wenn er die häufig nicht passende Standard-CP nimmt, gibt's
+eben Buchstabensalat.
+Das ist das Ergebnis ausschließlich "Standard"-Konformen Vorgehens:
+In punkto Praxistauglichkeit mangelhaft.
+
+Ich mein, es ist eine persönliche Entscheidung, Software zu
+bevorzugen, die abseits des Standards versagt und unlesbare
+Dokumente rendert, während es genügend bessere Software gibt,
+die Standardabweichung kompensieren kann und dem Anwender
+wohl-aufbereitete Dokumente serviert.
+Dieses Defizit als Plus, weil standardkonform, umzudeuten,
+passt zu Möchtegern-Tekkies, die meinen mit Standardkonformität
+sei alles gegessen, dabei ist es gerademal die Grundlage für
+komfortable Software.
+Besonders peinlich wird's, wenn man seine Mangelware anderen vorhält,
+und meint die müssten sich die Mühe, mundgerechte Häppchen zu
+liefern.
+Kein Wunder, dass der KNnode so eine enorme Verbreitung
+hat.
+
+
+LOL, Iseriz RFCs beschreiben einen Teil von "Standards" im Internet,
+alldieweil existieren noch andere Normierungsgremien und Standards.
+Wesentlich wichtiger ist aber der Umstand, dass längst nicht
+alle Protokolle, Verfahren u. Formate standardisiert sind, weshalb
+Dein Glaube an Standardisierung als wesentlichster Größe zur
+Beurteilung von Software-Qualität und -Leistungsfähigkeit sich
+als kindlicher, übertrieben regelkonformer Irrglaube erweist.
+Gute Software kann, in Grenzen, auch nicht regelkonforme Daten
+handeln und darstellen.

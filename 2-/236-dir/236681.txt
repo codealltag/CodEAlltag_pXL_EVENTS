@@ -1,0 +1,4 @@
+Ich weiss, das die im Kurzzeitbetrieb die Anlaufstroeme nach kaum ner
+handvoll Sekunden irrelevant sind.
+-- 
+1,2,3 Eierbrei

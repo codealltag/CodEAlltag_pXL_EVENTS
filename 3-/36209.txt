@@ -1,0 +1,45 @@
+Antwort auf eine Nachricht von Serge
+
+
+Ach was!?
+
+
+Dito, – hier tanzt der Pinguin! ;-)
+
+Aber Serge, Dein „Schraubenzieher“ hat auch ein Problem, wenn wir
+schonmal dabei sind und gegenseitig die Technik um die Ohren zu hauen.
+Wenn ich zum Beispiel ein Wort auszeiche, ...
+
+Zum Beispiel so: *fett*
+
+dann wird das Wort „fett“ fett geschrieben. So aber kommt es von Dir
+niemals zurück, sondern ...
+
+Zum Beispiel so:*fett*
+
+Den Leerraum vor dem Sternchen frißt es auf, und das ist übel, die
+Textauszeichnung tut dann nämlich nicht mehr.
+
+Ist aber nicht wichtig, ich wollt’s  nur mal erwähnt haben.
+
+Aber eine Anschlußfrage, nicht an Dich persönich, sondern mal in den
+Raum gestellt: warum ist eigentlich noch niemand auf die Idee gekommen,
+hier den sogenannten BBS-Code einzuführen?
+
+Zum Beispiel so: [B]fett[/B]
+
+Ja, gut, ich könnte meine Texte auch in HTML absenden, dann hab ich’s,
+das aber ist zu mächtig für unseren Zweck und das wollen wir nicht. Im
+Gegensatz zum HTML umfaßt der BBS-Code nur ganz wenige Elemente:
+
+[B]fett[/B], [I]Kursiv[/I] und [U]Unterstrichen[/U], und fertig. Mehr
+machen wir mit unseren „*“, „/“ und „_“ ja auch nicht, nur mit dem
+Unterschied, daß das übers Knie gebrochen ist und gelegentlich Schrott
+erzeugt wird.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+-- 
+Fährst Du Fahrrad? Guckstdu: www.pssbw-jmeymg.dv

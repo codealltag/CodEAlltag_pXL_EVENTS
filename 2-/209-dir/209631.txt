@@ -1,0 +1,12 @@
+Und als nicht eingetragener...
+
+Der Standard ist, dass der Filter gesetzt ist, es sei denn du meldest 
+dich an und gibst das Netzwerk an für den du den Filter ausschalten 
+willst. Um für das Netzwerk zuständig zu sein musst du Inhaber der IP-
+Adresse sein und natürlich bist du das oder? Mal abgesehen, dass anonymes 
+Surfen damit sowieso ausgeschlossen ist. Wenn du mehr als ein Netzwerk 
+freischalten willst, dann musst du den Namen angeben. Für ein Netzwerk 
+langt die Emailadresse.
+
+Größe,
+Nikolaus

@@ -1,0 +1,19 @@
+Ja. Es ist die höchstmögliche erzeugbare elektrische Leistung, die in
+der Praxis aber bestenfalls während weniger Stunden im Jahr tatsächlich
+erreicht wird. Um sinnvolle Vergleichswerte zwischen verschiedenen
+Standorten und Anlagen zu erhalten, wird daher die während eines Jahres
+gelieferte Arbeit über die Nennleistung in Vollaststunden umgerechnet.
+
+
+Das wird bei neueren Anlagen auch gemacht, allerdings nicht zur
+elektrischen sondern zur mechanischen Entlastung.
+
+
+Das Problem ist, daß die verfügbare Leistung mit der dritten Potenz der
+Windgeschwindigkeit geht. Unterhalb einer Windgeschwindigkeit von
+15-20km/h läuft überhaupt nichts und nach oben hin muß man sehr schnell
+abregeln, um die mechanischen Grenzen nicht zu überschreiten. Ohne
+Rotorblattverstellung müßte man in diesem Fall den Rotor aus dem Wind
+drehen und die Anlage abschalten.
+
+Karsten

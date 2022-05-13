@@ -1,0 +1,16 @@
+Die Newsgroups sind so lange nicht abgeschafft, solange es mindestens
+einen Newsserver gibt. Jeder kann so einen betreiben. Das Problem ist
+eher die schrumpfende Nutzerbasis, was natürlich auch eine Chance
+darstellt.
+
+Firmen haben kein Interesse am Usenet, weil dort Werbung extrem verpönt
+ist und heftige, unerwünschte Reaktionen hervorruft.
+
+Im Fall von Gnaier haben Betriebswirte wohl bloß eine Möglichkeit
+entdeckt, ein paar Administratoren und Helpdeskmitarbeiter einzusparen,
+ohne dass die Kunden davonrennen. Ob sie überhaupt verstanden haben, was
+Usenet ist, ist dabei sogar komplett irrelevant.
+
+Auf das Usenet selbst hat die Abschaltung dieses einen Newsservers so
+gut wie keine Wirkung, auf das grundsätzliche Funktionieren sogar exakt
+keinen.

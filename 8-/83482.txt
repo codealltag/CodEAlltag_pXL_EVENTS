@@ -1,0 +1,21 @@
+In der Sicherheitstechnik spielen die Folgen eines
+schadenauslösenden Ereignisses eine zentrale Rolle. Dies geht schon
+aus der Definition des Begriffs "Risiko" hervor.
+
+In der öffentlichen Wahrnehmung ist es gerade umgekehrt, wie Du
+vermutest. Dort werden die u.U. katastrophalen möglichen Folgen als
+so schlimm wahrgenommen, dass nicht berücksichtigt wird, dass diese
+Folgen wegen der sehr geringen Auftretenswahrscheinlichkeit eines
+schadenauslösenden Ereignisses trotzdem mit einem geringen Risiko
+behaftet sind. Und ein unter einem bestimmten Grenzrisiko liegendes
+Restrisiko bedeutet "Sicherheit".
+
+
+                                                ^^^^
+"Atom"
+
+
+So ist es. Die Wahrnehmung des Menschen scheint hier wenig objektiv
+zu sein.
+
+V.

@@ -1,0 +1,69 @@
+Die Dame zensiert nicht, die Dame ist einfach nur �ffentlichkeitsgeil und 
+die deutschen Wähler sind einfach bescheuert genug an das zu glauben, was 
+die Dame und die Provider erzählen.
+
+Fall a) Die Nameserver der Provider leiten auf eine Url um, die die 
+Verbotsseite anzeigt. 
+
+Relevanz für eine Sperrung gleich null, die Kriminellen richten sich 
+entweder einen eigenen Nameserver ein, oder benutzen einfach einen US-
+Nameserver, der die Blockade nicht hat.
+
+Fall b) Die IP-Adresse des KiPo-Providers wird gesperrt, also das Routing 
+dorthin 
+
+Das würde aber bedeuten, dass der jeweilige Provider unter Umständen 
+ganze Teile des WWW vom Netz nimmt, denn im Schutz eines 
+Massenhostingproviders, mag sich hier und da ein Kipoverbreiter finden 
+und spätestens, wenn ausversehen Bundesregierungsseiten dadurch 
+ausversehen blockiert werden, dann werden wir ja sehen, was davon zu 
+halten ist. Umgehungsvariante hierbei ist ausserdem noch die 
+Verschlüsselung über einen Proxy irgendwo in Volkertsweiler, der Provider 
+müsste um dem Verkehr der Kriminellen auf die Spur zu kommen erstmal die 
+Verschlüsselung des Surfers knacken. 
+
+Fall c) https und http wird vom Provider alles was auf 443 oder 80 an ihm 
+vorbeirauscht belauscht und eine Mischung aus obigen veranstaltet, 
+verdächtige URLs werden blockiert.
+
+Lächerlich der Port wird einfach gewechselt, ein Webseite könnte auch auf 
+Port 30000 oder 10000 betrieben werden und wenn jetzt alle Ports gesperrt 
+werden, dann ist das Internet dicht, dann funktioniert nämlich gar nichts 
+mehr. Und Internet abschalten wird wohl nicht gewollt sein oder doch? 
+
+
+Naja falls wie in Fall c das Internet abgeschaltet werden soll, dann wird 
+KiPo wohl über Briefkästen verbreitet, dagegen vorzugehen würde also 
+bedingen das Postgeheimnis abzuschaffen.
+
+Frau Aufdemkampe fordert also das Postgeheimnis abzuschaffen, in dem 
+Fall wird sie wohl erst das Grundgesetz ändern müssen. 
+
+Peinlich ist eigentlich vielmehr die Verblödung der Einzelnen, die da 
+glauben, dass ein Ausblenden der Verbrechen, die Verbrechen beseitigen 
+würde. Die einzige Möglichkeit die Verbrechen zu verfolgen, liegt in der 
+Verfolgung der Verbrecher. Aber es konnte ja schon die DDR gut, die 
+Verbrechen zu verschleiern und so zu tun, ob alles in Ordnung wäre.
+Anscheinend scheint die Tochter des ehemaligen Ministerpräsidenten 
+Tworowsky jetzt auch auf einen DDR-Trip. Die unliebsame Wirklichkeit wird 
+vertuscht. Die Arbeit der Verfolgung wird aufgegeben. 
+
+Weil das RVAE unfähig ist, wird statt die eigenen Beamten 
+zusammenzuscheissen, einfach mal dumm eine Politikwelle geritten und die 
+Bevölkerung fällt natürlich von links bis rechts darauf rein. Wenn Franziska 
+Noltes und Elfi Aufdemkampe in das gleich Horn blasen, dann kann es 
+wohl nicht anders sein, dass es eine Allianz der Blinden gibt. 
+
+Wenn es tatsächlich so ist, wie Dilo schreibt, dass die Grossteil 
+der Webprovider in der Welt problemlos entdeckte kriminelle Seiten vom 
+Netz nehmen, dann scheint es wohl kein Problem zu sein, statt einem 
+Access Blocking einfach gegen die Täter und deren Inhalte vorzugehen. 
+Aber das wäre ja Arbeit, die eventuell Geld kosten würde. Da scheint es 
+doch einfacher das Geld den Providern aus der Tasche zu ziehen für ein 
+höchstwahrscheinlich nutzloses Access Blocking, das wahrscheinlich nichts 
+am Tatbestand ändert. 
+
+Die Dummheit siegt.
+
+Größe,
+Volkert

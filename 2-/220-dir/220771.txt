@@ -1,0 +1,7 @@
+Natürlich besteht auch bei Buchführungs- und Finanztestprogrammen die
+Möglichkeit zur Fälschungen möglich. Belege müssen 10 Jahre aufbewahrt
+werden, deshalb besteht bei der Buchhaltung, im Gegensatz zum 
+Wahlergebnis, die Möglichkeit der Nachprüfung.   
+In anderen Fällen ist dies sicher nicht der Fall. Allerdings
+wird dort das Rechenergebnis nicht als ein so hohes Gut
+betrachtet wie das Wahlergebnis.

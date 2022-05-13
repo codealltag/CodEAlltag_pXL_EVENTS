@@ -1,0 +1,13 @@
+"Bernadette Troebes" <lxkuwkn@zhsnlpj> schrieb
+
+
+Auf meinem Altrechner hatte ich die Version:
+Outlook Express 6.00.2900.5931
+
+Ein Update sollte Willy mit seiner Version:
+Microsoft Outlook Express 6.00.2900.3264
+doch einmal durchführen.
+
+Internet öffnen (Explorer)
+Extras / Windows Update aufrufen und durchklicken.
+(Bitte nichts ablehnen, sondern Skripts aktivieren)

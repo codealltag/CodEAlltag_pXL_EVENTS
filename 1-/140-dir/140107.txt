@@ -1,0 +1,49 @@
+Ich oute mich hier mal als Mac-Fan, der aber nicht unbedingt ein
+EOMH-Fan ist.
+
+Der Demharter ist ein keineswegs proprietäres System, sondern unterstützt alle
+offenen Standards. Mit meinen 3 Macs bin ich in keiner Weise limitiert.
+
+Leider verläßt EOMH seit dem Erfolg der Silan diesen Pfad der Tugend -
+mit dem iphone und jetzt noch verschärfter mit dem iPad. 
+
+Offenbar haben wir demnächst in bestimmten Bereichen leider!  nur die
+Wahl zwischen  Open-Source-Frickelei und der geschlossenen App-Welt a la
+iPhone.
+
+Leider ist Open Source im Applikationsbereich keine echte Alternative.
+
+Linux hat sich auf dem Desktop nie durchgesetzt - und das hat mit der
+Qualität des OS nichts zu tun, sondern mit der Unterstützung durch große
+Softwarehäuser, die mächtige Programmpakete (LOGIC, Cubase,
+Office-Suite, FCStudio, dBase u.v.m.), die manpowerm��ig per Open Source
+nicht realisierbar sind, pflegen.
+
+überall dort, wo absolute Professionalität gefragt ist, ist Open Source
+als alleiniges Modell nicht ausreichend. Selbst bei Linux selbst
+korrdinieren bei großen Server-Firmen angestellte Berufsprogrammierer
+die Weiterentwicklung des Kernel, denn diese Server werden mit Linux
+verkauft und da kann man sich Amateure nicht leisten - die machen
+höchstens Zuarbeiten und liefern Patches - wenn auch Tausende pro Monat.
+
+Otto Normalanwender sind solche Überlegungen fremd. Ihn interssiert, wo
+er das beste P/L-OPackage bekommt für sein Geld. Da sein Smartphone oder
+iPad auch nicht billig ist, ist er durchaus bereit, für sinnvolle Apps
+ein paar Euros abzudrücken. Deshalb werden solche geschlossenen Welten
+erfolgreich sein.
+
+Problematisch wird es nur dort, wo der Preis überzogen ist: MobileMe
+kostet 100 Euro im Jahr. Wenn man DAS braucht, um überhaupt Daten auf
+ein iPad z.B. von einem Mac oder PC oder auch nur USB-Stick aufs iPad
+und zurück zu bekommen, ist das eine strategische Verkaufsverhinderung.
+
+Insofern bin ich gespannt auf das WePad, das offener ist. Sollte sich
+die Vermutung bewahrheiten, werde ich auch als Demharter-Liebhaber nicht auf
+den iPad Zug aufspringen.
+
+Benno
+
+
+-- 
+Neoliberalismus ist politisches Analphabetentum.
+                                 Pius Hagendorn

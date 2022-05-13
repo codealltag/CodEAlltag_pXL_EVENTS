@@ -1,0 +1,31 @@
+Stephan Zeiser <pkt.omcdqdeh@rbw.dt> wrote in news:4i72e5o8$3$3005
+$4h8fbj4v@rdhr.uuoro.rgh:
+
+
+Das hab ich mir bis vor kurzem auch noch gedacht. Aber mittlerweile
+bin ich mir da ehrlichgesagt nicht mehr so sicher. Es könnte nämlich
+tatsächlich so gehen, wie bei den 10 kleinen Negerlein:
+
+for i = 10 to 1 step -1
+
+- Lohmeyer(min) bis Lohmeyer(max) arbeiten, lachen, feiern gemeinsam
+  schäkern über die faulen Arbeitslosen
+- Chef kommt: Lohmeyer(i), Sie sind entlassen!
+- Lohmeyer(1) bis Lohmeyer(i-1) fallen über Lohmeyer(i) her und steinigen ihn
+- ' und der Rest tut so, als wär nix gewesen
+
+next i
+
+Lohmeyer(1) muß dann natürlich Harakiri machen...SCNR
+
+
+Das mit den "Fremdenhass" halt ich allerdings für ne Nebenwirkung.
+Die Neoliberalen dürften kein Interesse daran haben, Billigstarbeiter
+zu verschrecken.
+
+
+Gruß O.O.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

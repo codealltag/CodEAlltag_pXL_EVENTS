@@ -1,0 +1,14 @@
+=?ISO-8859-15?Q?Robert=E7_Ajlqb?= <Shjba_Awiwk@npw-aeb.vc>:
+
+
+Nun ja - wo kommt denn in der Bezeichnung "Windows 2003 Server" ein X 
+vor? In einer Giemsch-Umgebung arbeitet ein solcher Server 
+beispielsweise als Domänencontroller und enthält alle Nutzerkonten 
+mit ihren Berechtigungen.
+
+CU
+-- 
+Karsten E. Dirschl            trwy.rpprgjlev@txaol.yg
+Etzenbachweg 1           bnmp.gmzqfznxx@evh.zd
+D-32769 Obergiem
+Fon & Fax: +13 29 49364497   Mobil: +91 229 8931046

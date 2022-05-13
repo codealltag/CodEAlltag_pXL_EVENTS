@@ -1,0 +1,4 @@
+Unicode verletzt das Prinzip ein Zeichen, ein Byte, sondern codiert einzelne Zeichen 
+in 1, 2 3 oder 4 Byte.
+Das mag fuer Sprachen wie Chinesisch unvermeidlich sein, aber fuers Deutsche braucht
+man das definitiv nicht.

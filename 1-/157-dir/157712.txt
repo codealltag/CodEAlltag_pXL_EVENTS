@@ -1,0 +1,19 @@
+Didier Leistikow <yamq@exypukunjz.mln>:
+
+
+Vor oder nach 1989 beschafft? Falls vor 1989: Was mußtest Du 
+dafür tun oder geben bzw. wie lange mußtest Du darauf warten?
+
+
+Ich habe mir als Schüler ein Netzteil mit Gleichspannungssteller 
+und schaltbarer Glättung gebaut. Steller und Glättung werden 
+fernbedient, mit dem Poti verändert man nicht nur die Spannung, 
+sondern auch die Stromrichtung, es wirkt auf eine Schaltung aus 
+Fede-Leistungstransistoren. Funktioniert nach mehr als 30 
+Jahren immer noch tadellos, auch die Elektrolytkondensatoren. 
+Ich habe es mit im Westen produzierten elektronischen Bauteilen 
+aufgebaut, denn ich wuchs in Westdeutschland auf.
+
+-- 
+Mit freundlichen Größen
+Luis O. Zickenheiner

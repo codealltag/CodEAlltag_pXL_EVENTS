@@ -1,0 +1,19 @@
+Autsch, da habe ich einen Denkfehler. Module mit 1 kWp Leistung
+erzeugen ungefähr 900 kWh in Deutschland. Ein Quadratmeter Modulfläche
+hat konkret bei meinen polykristallinen Modulen 133 Watt. Also erzeugt
+1m2 Modulfläche im Jahr 120 kWh Strom.
+
+
+Das dürfte soweit noch richtig sein, aber hier jetzt korrigiert:
+
+Nochmal zum Vergleich:
+
+1m2 Solarmodul erzeugt im Jahr 120 kWh Strom
+1m2 Acker erzeugt im Jahr 0,5 kWh Strom
+
+=3D=3D> Zwischen Acker und Solarmodul ist ein Faktor 240 dazwischen
+
+Oder in Prozent Wirkungsgrad ausgedrückt:
+
+Solarmodul: 14% Wirkungsgrad
+Acker: 0,058% Wirkungsgrad

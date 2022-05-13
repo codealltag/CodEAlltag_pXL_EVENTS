@@ -1,0 +1,28 @@
+Hallo,
+
+
+Mit anonymisierten Datensätzen.
+
+
+Nein, da kann und sollte man durchaus realitischere Namen verwenden.
+
+
+aber nicht für diese Zwecke.
+
+
+Gesichert ungleich verkrüppelt! Es gibt gewisse Sicherheitsvorkehrungen
+für das Halten von Daten dieser Art. Eine davon ist eben das abschalten
+der USB-Schnittstelle und der Brennfunktionen auf den Rechnern.
+
+Die Daten eines einzelnen Vertreter vor Ort sind nicht so umfangreich.
+Deshalbs sind die Schäden in der Summe geringer und es wird weniger
+Handlungsbedarf gesehen. Wenn jedoch die komplette Datenbank von
+Externen abgegriffen werden kann sieht es anders aus. Das sinkende
+Lohnniveau in diesem Bereich ist da durchaus motivierend für Einige
+und deshalb ein Auslöser für viele Daten,,pannen'' geworden.
+
+
+MfG
+
+
+Thomas Jansson

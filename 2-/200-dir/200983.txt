@@ -1,0 +1,3 @@
+Tja, bliebe noch die Überlegung, sich ein Betriebssystem zu nehmen, auf
+dem fehlerhafte Header nicht gelöscht werden. Aber daß es sowas für Os2
+nicht gibt....

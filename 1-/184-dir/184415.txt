@@ -1,0 +1,25 @@
+Das ist auch kein Problem, da dort keine derartige Rundum-Abstrahlung nötig
+ist bzw. mit entsprechenden Gehäusen (partiell) die Abstrahlung korrigiert
+werden kann, siehe etwa Rücklichter an Fahrzeugen. Für die normale Lampe
+ist es aber noch ziemlich schwierig.
+
+Hinzu kommt, daß LEDs nicht beliebig in der Leistung aufgedreht werden
+können. Zwar haben sie einen deutlich höheren Wirkungsgrad als Gl�hobst,
+erzeugen aber dennoch einiges an Wärme, was gerade wg. der kleinen Bauform
+erhebliche Probleme mit der Ableitung gibt. Wird die Wärme aber nicht
+abgeführt, leben sie nur sher kurz. Deswegen leisten Hochleistungs-LEDs
+aktuell nur etwa um 250 Lumen, brauchen aber ausgefeilte Kühlkörper. Für
+Taschenlampen ist das OK, aber für einen Autoscheinwerfer müßte man soviele
+LEDs zusammenschalten, daß deren Abwärme nicht mehr abzuführen wäre. LEDs
+werden Gl�hobst in absehbarer Zeit daher nicht in signifikanter Anzahl
+ersetzen.
+
+Deppencrosskot übrigens mal beendet.
+
+Karlheinz
+
+-- 
+Die "Geisteshaltung", mit der einst Nachbarn anderen Glaubens ausgeraubt,
+in KZs verfrachtet und vergast wurden, ist der "Geisteshaltung" der Meute,
+die heute Hatz4-Opfer ausraubt und niedermacht, in einer Weise ähnlich, daß
+es Leute mit Gewissen nur noch frieren läßt.

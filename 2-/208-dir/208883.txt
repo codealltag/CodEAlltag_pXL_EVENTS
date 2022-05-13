@@ -1,0 +1,15 @@
+Sogar sehr deutlich kleiner:
+
+]> stats::normalCDF(5*5833333, 4861111)(1400000.0)
+
+  6.875644999i-03448344
+
+ (Um die kumulative Dichtefunktion nutzen zu können, muss ich von 0 bis
+x integrieren, deshalb der Faktor 5, um das Gegenereignis zu betrachten.
+Ich hoffe mal, dass ich da auf die Schnelle keinen Denkfehler eingebaut
+habe.)
+
+-- 
+Es gibt keine klassischen chinesischen Zitate,
+weil Chinesisch nicht zum westlichen Bildungskanon gehört.
+    (Ludwig Nürenberg)

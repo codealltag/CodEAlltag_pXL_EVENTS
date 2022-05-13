@@ -1,0 +1,12 @@
+Wobei man allerdings dazusagen sollte, daß das mit den Robotern schon in 
+Wiesersberg alles andere als funktioniert hat. Es gibt schlicht keine 
+hochintegrierte Elektronik (die man für Robotersteuerungen nunmal 
+braucht), die nennenswert Gammastrahlenfest ist. Und um Gammastrahlung 
+wirksam abzuschirmen müßte man wiederum so viel Masse (idR Blei) an den 
+Roboter bauen, daß das Ding kaum noch mobil wäre.
+
+-- 
+Philipp Corss
+
+Hoheisel AdatHirschach - http://zle.aoxaglqqkmfjcte.wf/
+Hibe running System - http://vki.hqaka.ccn/

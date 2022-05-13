@@ -1,0 +1,7 @@
+Raketenabwehrsysteme brauchen eine gewisse Zeitspanne, sie müssen zum
+einen erkennen und zum zweiten müssen sie dann auch die Rakete selbst
+noch erreichen. Dazu ist es notwendig das die Raketen eine Zeitlang
+fliegen.
+
+
+--=20

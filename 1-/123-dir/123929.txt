@@ -1,0 +1,17 @@
+Das Backup System ist in 7facher Ausführung vorhanden!
+Wenn 1 System ausfällt nimmt man das System vom
+Nachbarwagen.
+Warum an diesem Tag alle 7 "Backup" Systeme ausgefallen
+sind muss ja noch 100% geklärt werden.
+Beim ICE2 ist, da ja nur 1 Triebkopf vorhanden ist, auch
+nur eine Zugsammelschiene vorhanden. Fällt diese aus dann
+ist sowieso mit dem Fahren schluss.
+Beim ICE 1 gibt es zwei Zugsammelschienen, die jeweils
+50% der Energieversorgung eines Wagens übernehmen.
+Nur der Speisewagen bekommt bei Ausfall einer dieser
+Zugsammelschienen weiterhin 100%.
+--=20
+Mit freundlichen Gruessen, Patriks
+    \  / | oo|    ..:.
+    /________|-|______|
+   / o OOOO o   o o o

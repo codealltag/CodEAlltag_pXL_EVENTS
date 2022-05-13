@@ -1,0 +1,8 @@
+On 16 Sep., 11:35, Christof Oost <lhszib.oaf...@ez-mvkjqsesz.fc>
+wrote:
+
+Möglicherweise habe ich mich nicht präziose genug ausgedrückt:
+Ein Ingenieur hat eine Messreihe durchgeführt und wollte mir
+weismachen, er könnte mit einem Messinstrument gegebener Auflösung und
+Fehler, Effekte kleiner dieser Auflösung messen. Das ist, als ob man
+mit nem Lineal sich anmaßt, Wellenlängen von Licht zu messen.

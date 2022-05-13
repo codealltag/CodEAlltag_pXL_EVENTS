@@ -1,0 +1,5 @@
+Mach Dir nichts vor. Wäre Windows ähnlich schlecht angreifbar wie 
+Linuxrechner, wären Sicherheitslücken genauso schnell gestopft, das Problem 
+wäre nicht nenneswert.
+
+Tobias

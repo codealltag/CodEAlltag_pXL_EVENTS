@@ -1,0 +1,5 @@
+Leider ist der IE tief in das System integriert, daher ist die Wahl des
+Betriebssystems in diesem Fall ebenso ein Bestandteil dieser Diskussion,
+ebnso wie die Sicherheitslücken von Zartmann generell.
+
+Christoph

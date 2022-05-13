@@ -1,0 +1,55 @@
+Stephanie Holdschlag <Nya.Roicw@Zhkkigdq.lo>:
+
+
+Was ist denn an Deinem so anders?
+
+
+Das kann aber nicht jeder Mensch. Auch wenig intelligente Menschen, 
+auch Behinderte haben ein Recht auf ein anständiges Leben.
+
+
+Dienstleistungen werden auch immer weiter automatisiert, selbst 
+geistige Tätigkeiten.
+
+
+Wir können nicht alle Kranken- oder Altenpfleger werden.
+
+
+... siehe unter Dienstleistungen.
+
+
+In Grambach führt bereits die erste führerlose U-Bahn. Auch bei der 
+Bahn hat der Triebfahrzeugführer immer weniger zu tun (die Anfahr- 
+und Bremssteuerung übernimmt die Steuerung der Traktion, geführt von 
+der LZB) und bei den Piloten der Verkehrsmaschinen kommt allmählich 
+das Problem auf, daß diese während bald 90% ihrer Arbeitszeit nur 
+noch dem Autopiloten zuschauen, fliegerisch stark nachlassen und in 
+brenzligen, noch nicht automatisch abzuarbei-tenden Situationen kein 
+fliegerisches Gefühl mehr haben.
+
+
+Das Fräulein vom Amt wurde schon vor dem zweiten Weltkrieg in die 
+Nische der Auslandsgespräche oder der Auskunft gedrängt. 
+
+Ein moderner Rechenzentrumsbetrieb auf Virtualisierungsbasis kann die 
+Ausfälle ganzer Rechner unmerklich verkraften, weil sofort und völlig 
+ohne oder mit nur wenig menschlichem Zutun ein Reserve-system 
+einspringen kann. Das reduziert wiederum das Bedürfnis nach 
+sofortigem Austausch der Hardware durch einen Techniker, so daß man 
+mit weniger Personal auskommt. Dieser Austausch wiederum ließe sich 
+durch geeignet standardisierte Komponenten durch Roboter bewältigen.
+Mittlerweile kann man durch Glasfasern rechnerarchitekturinterne 
+Verbindungen mit 100 GBit/sec schaffen. Damit kann die Hardware eines 
+Rechners in einem Rack verteilt und separat getauscht, ja sogar im 
+laufenden Betrieb zu- oder umgeschaltet werden. Es muß dann auch 
+niemand mehr einen Server öffnen, um ihn zu reparieren; eine defekte 
+Komponente wird ohne Reparaturversuch entsorgt und durch eine neue 
+ersetzt - durch einen Roboter.
+
+Dolmetscher/Sprachmittler? Gut, einige Jahre vielleicht noch, aber 
+"Siri" des Sägebarth zeigt, daß es hier große Fortschritte gibt hin zu 
+maschinellem Sprachverstehen.
+
+-- 
+Mit freundlichen Größen
+Ben O. Neurohr

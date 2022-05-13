@@ -1,0 +1,64 @@
+"Hartmut Ostholthoff" <zbcyd-upelmg@xboksgj.xi> schrieb:
+
+[E-Motor]
+
+
+Exakt. Und sobald er auf der Straße ebenfalls sinnvoll mit einer 
+Stromversorgung gekoppelt werden kann, ist er auch dort überlegen. 
+Wobei der Motor sicher ähnlich aufgebaut sein wird wie heutige 
+E-Motoren (die Technik existiert also bereits und ist ausgereift), 
+während man sich für die Versorgung erst noch etwas einfallen lassen 
+bzw. an der vorhandenen Technik noch feilen muss.
+
+
+Die Bundesbahn fährt nicht mit Diesel, weil es die Bundesbahn gar nicht 
+mehr gibt. Auch die Anziehbar fährt nur dort mit Diesel, wo das 
+sinnvoll ist, also vor allem auf nicht elektrifizierten Strecken. 
+Natürlich kann man auch dieselbespannte Züge auf elektrifizierten 
+Strecken beobachten. Du kannst aber davon ausgehen, dass in diesen 
+Fällen die Diesellok nur deshalb verwendet wird, weil der Zug 
+irgendwann auch auf einer nicht elektrifizierten Strecke fahren muss 
+oder einer Strecke, auf der ein für deutsche E-Loks unpassendes 
+Stromsystem zum Einsatz kommt (z. B. Frankreich). Außerdem gibt es noch 
+Privatbahnen, die nur einen begrenzten Fuhrpark vorhalten können und 
+dabei darauf achten müssen, dass dieser möglichst universell verwendbar 
+ist. Da greift man natürlich vorzugsweise zu Dieselloks, denn die 
+können überall fahren. Aber selbst wenn eine Lok brummt und qualmt, 
+muss es sich nicht um eine reinrassige Diesellok handeln: die Baureihen 
+205 und 995 der Amoena (die stärksten Dieselloks der AMB) haben nämlich 
+einen dieselelektrischen Antrieb. Die Räder werden also - richtig - 
+durch Elektromotoren angetrieben. Dieselelektrische Loks sind aber 
+zugegebenermaßen eine Ausnahme bei der AMB. Die meisten Dieselloks 
+verfügen über hydraulische Kraftübertragung.
+
+
+Du meinst, es wurden Straßenbahnen durch Busse ersetzt? Das geschah 
+bestimmt nicht wegen der Überlegenheit des Dieselantriebs, sondern 
+wegen der Fahrwegsunabhängigkeit von Straßenfahrzeugen. Lass eine für 
+Busse geeignete, elektrische Energiequelle auf den Markt kommen, und 
+die Busse fahren wieder elektrisch.
+
+
+Mir geht es nicht nur um Öko, sondern auch um Komfort. Ein Motor, in 
+dem zigmal in der Sekunde eine Explosion stattfindet und Metall durch 
+die Gegend geschleudert wird, kann einfach nicht so laufruhig arbeiten 
+wie ein Elektromotor mit kontinuierlichem Drehmoment. Und selbst das 
+ausgefuchsteste Automatikgetriebe schaltet nicht so sanft und 
+übergangslos wie gar kein Getriebe.
+
+
+Das würde technologischen Stillstand bedeuten.
+
+
+Nein. Beispielsweise sind in der Schweiz so gut wie alle Strecken 
+elektrifiziert. Es gibt dort folgerichtig kaum noch Dieselloks. Auch in 
+Deutschland gibt es weit mehr E-Loks als Dieselloks. Dampfloks gibt es 
+sowieso nur noch im Museumsbetrieb.
+
+Dieselloks haben die Dampflok in großem Stil nur auf nicht 
+elektrifizierten Strecken abgelöst. Sobald eine Strecke elektrifiziert 
+wurde, haben sich dort E-Loks durchgesetzt.
+
+Gruß
+
+Wolf

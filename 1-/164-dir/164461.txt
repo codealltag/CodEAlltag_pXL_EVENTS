@@ -1,0 +1,9 @@
+Tja, Benjamin Zingrefe, du bist zwar ein großer Verarscher, aber ein großer Mathematiker
+bist du mit Sicherheit nicht,denn:
+0,8:0,7=1,142. So weit hast du noch richtig gerechnet, aber bezogen auf den
+Ausgangswert ist das eine relative Änderung von 114,2%, also ungefähr zehnmal mehr,
+als du herausgekriegt hast. Hättest du das gedacht? Ich vermute mal, dass dir der Begriff
+des "Differenzen-Quotienten" in deiner vorzeitig abgebrochenen Schulkarriere nie begegnet
+ist.
+
+OTTMAR

@@ -1,0 +1,15 @@
+Wusstest du schon, daß das übrigens auch übers Internet geht?
+Ein Posting das im TCP-Socket einen Buffer-Überlauf produziert
+und veranlasst daß der Soundblaster Ultraschall-Schwingungen zwischen
+20kHz und 50kHz produziert. In Fachkreisen genannt: Posting Of Death (POD).
+Dazu brauchts übrigens nichtmal Lautsprecher, die Frequenz wird auch
+übers Netzteil und deren Ferrit-Schalt-Trafos abgestrahlt.
+Geh mal mit deinem Ohr ans Netzteil und hör was da für hohe Töne 
+rauskommen.
+
+
+Gruß F.O.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

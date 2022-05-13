@@ -1,0 +1,9 @@
+Ich stelle fest das du entweder sehr wenig Strom brauchst, oder das der 
+Handel mit Motorradersatzteilen weit einträglicher ist als ich vermutet 
+hätte.
+
+-- 
+cu
+Lennart
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

@@ -1,0 +1,9 @@
+Die Online-Funktionalität des Personalausweises habe ich natürlich
+komplett sperren lassen, denn a) ein buggy Bundestrojaner names
+AusweisApp kommt mir nicht auf den Rechner und b) so kann ich bei
+Missbrauch meiner eIdentity nachweisen, dass ich eine Aktion nicht
+selbst durchgeführt habe. Beim Reisepass hatte ich keine Wahl:
+Fingerabdrücke müssen abrufbar sein. Rat des Sachbarbeiters: Um sich
+vor unberechtigtem Auslesen per Funk (wie es der ZTP wohl schon
+demonstiert hat) zu schützen, können die Ausweise in Metallfolie
+eingewickelt werden.

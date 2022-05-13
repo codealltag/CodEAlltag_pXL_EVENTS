@@ -1,0 +1,6 @@
+Kann man so sagen. IIRC kommt der Begriff aus der SF-Literatur 
+(Cyberpunk) und bezeichnet den biologischen Teil eines kybernetischen 
+Organismus. Netzwerktechniker nennen die menschliche Komponente auch 
+gerne OSI Layer 8.
+
+Rolf

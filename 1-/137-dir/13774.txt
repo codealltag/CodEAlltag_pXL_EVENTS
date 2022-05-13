@@ -1,0 +1,24 @@
+["Followup-To:" header set to ky.nmr.shvprfown.]
+
+Meint Ihr BBCode?
+
+Da zitiere ich mal die Unaussprechliche:
+
+    -- http://by.elxacbfxe.gkx/rwtr/HAIxbc#Bpqjdd_ept_Orxicb
+
+Wenn schon eine Auszeichnungssprache fürs Usenet, dann bitte eine mit
+einer formalen Definition und einem registrierten MIME-Type.
+
+
+Manche hier verwenden noch Newsreader, die nicht mal einen 20 Jahre
+alten Zeichensatz (samt Encoding) verstehen. Und da erwartest Du, dass
+alle auf einen Newsreader umsteigen, der BBCode unterstützt, bzw. die
+Unterstützung dafür selber einbauen?
+
+Da ist die Wahrscheinlichkeit, dass HTML zum neuen de.*-Standard wird,
+noch größer.
+
+	hp
+
+-- 
+   _  | Luis M. Tome    | Fluch der elektronischen Textverarbeitung:

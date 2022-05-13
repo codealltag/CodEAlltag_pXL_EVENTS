@@ -1,0 +1,7 @@
+P = d/dt W , W = Integ(s1,s2) F ds ,
+
+da du während deiner Anwesenheit eher vernachlässigbare Kraft anwendest 
+und dich beim Sitzen auch keinen Deut bewegst, sieht das mit der 
+'Leistung' eher schlecht aus.
+
+-dreibrodt

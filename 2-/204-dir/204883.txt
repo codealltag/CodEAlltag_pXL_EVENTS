@@ -1,0 +1,35 @@
+RTF funktioniert mit kyrillisch nicht wirklich. Du brauchst eine 
+Textverarbeitung die die Einbindung einer bestimmten Schriftart 
+zustimmt. Dosch beherrscht das nicht. Und jetzt komm mir nicht mit UTF-8, 
+denn laut RTF-Spezifikation:
+"This keyword represents the ANSI code page that is ..." und dabei ist 
+wiederum nur "1251Windows 3.1" als Wert erlaubt. Korrekturlesen zu einer 
+Bildunterschrift ist bei einem reinen RTF-Text sowieso Blödsinn. 
+Bildunterschriften haben beim Bild zu sein, sonst ist es 
+vorprogrammiert, dass hinterher unter dem Bild XY die Unterschrift 
+von AB zu finden ist, obwohl XY hätte dort stehen sollen. 
+
+Das dabei sollten natürlich der englische,russische, französische und 
+deutsche Text inhaltsgleich sein und nicht "This is a hound." zu 
+"Это шлюха." sondern eher zu "Это собака.", was aber dennoch falsch wäre 
+wird, weil es villeicht doch eher "бульдог" wäre, weil das doch 
+angebrachter wäre, bevor sich jemand beleidigt fühlt und wenn dies dann 
+unter "Das ist eine Pfeife." stünde, den Leser schwer verwirren würde, 
+"Ceci est une pipe." selbst wenn es nur das Bild einer Pfeife wäre. 
+
+ Kräusel\
+       a/
+ <===¦__/
+
+Он представляет собой трубу.
+Es ist ein Rohr.	
+Он представляет собой трубу табака.
+Es ist eine Tabakpfeife.
+Это свисток.
+Was ein Pfiff.
+Сотни свисток.
+Hundert Pfiffe.
+Oder ist es nicht doch eine Pfeife?
+
+Grüße,
+Ernst

@@ -1,0 +1,20 @@
+Aha. Und wenn man gleich mehrere Anmeldungen bei C&A vornimmt?
+
+
+Mir ist es schon passiert, das meine Beiträge mit einem Newsclient gesendet
+und Antworten darauf nicht via Newsclient(Dohl) abrufbar
+waren, aber bei C&A aufgelistet wurden. So blieb mir nichts anderes
+übrig, als mit C&A auch zu antworten. Oder gibt es noch eine andere
+Möglichkeit?
+
+
+Auch mein eigener News-Server(nicht mehr aktiv) bewahrte alle Beiträge
+solange auf wie ich es für richtig hielt, bzw. mein Speicherplatzt
+dafür ausreichte. Ein "X-No-Archive: Yes" beachtete mein News-Server
+dabei überhaupt nicht.
+
+
+Unterwegs im Internetladen oder bei Freunden ohne Newsclient bin ich sehr
+froh darüber das es C&A-grougs gibt.
+
+Dietrich

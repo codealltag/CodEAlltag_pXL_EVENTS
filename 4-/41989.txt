@@ -1,0 +1,8 @@
+Dann haette sie aber nicht 5 sondern 15 Vollaststunden am Tag.
+Um  zu beschreiben was wirklich passiert braucht man eine 
+Verteilungsfunktion die einem sagt wie sich die gelieferte Leistung auf 
+die Zeit verteilt, bzw noch besser wie sie sich auf laengere Zeitraeume verteilt,
+so dass man berechnen kann was fuer Speichervolumen man braucht.
+So weiss man nur dass das Integral der Leistung ueber ein Jahr  
+durchschnittlich 1800 Vollaststunden betraegt, wenn die Leistung in Bruchteilen
+der Nennleistung gemessen wird, also Nennleistung = 1.

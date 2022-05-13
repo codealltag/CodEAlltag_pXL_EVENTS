@@ -1,0 +1,34 @@
+Ach so.
+
+So:
+
+
+zum Beispiel?
+
+Ja, das kommt vor. Aber auch das kann ich erklären, _Du_ kannst Unicode 
+(UTF8) nicht.
+
+Unicode sind aber keine Hieroglyphen, sondern ein zulässiger und 
+neuerdings sogar ausdrücklich empfohlener Zeichensatz, der dafür 
+bestimmt ist, *ALLE* bisher vorhandene Zeichensätze zu ersetzen.
+
+Da Du das nicht kannst, liegt allerdings nicht an Deinem Thunderbird 
+(das ist nämlich einer von den Guten, auf den la ich nix kommen), aber 
+möglicherweise an Deinem Betriebssystem?
+
+Aber wie auch immer, es liegt an _Dir_, das Problem zu lösen. Denn 
+Unicode hat Zukunft, da führt kein Weg dran vorbei.
+
+Aber damit Du auch von mir mal eine lesbare Botschaft erhälst, will ich 
+_diesen_ Text ausnahmsweise mal mit ISO-8859-1 versenden; will Dir doch 
+auch mal 'ne Freude machen. ;-)
+
+(Ich hoffe, es gelingt auch)
+
+
+Glückauf!
+Susi Diekena (Pahlhude/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mut Du gucken: http://skf.mhqka-xgewyb.kz

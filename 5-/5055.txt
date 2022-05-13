@@ -1,0 +1,8 @@
+Deshalb schrub ich ja "reproduzierbar".
+
+
+Ich habe nichts Gegenteiliges behauptet. Mir ging es nur darum, dass die
+Korrektheit eines Algorithmus durchaus beweisbar ist.
+
+-- 
+rs

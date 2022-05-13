@@ -1,0 +1,16 @@
+Eine Funktion, die nur der Autor kennt, eine "Hintertür" sozusagen, zur 
+Fernsteuerung, aber auch zum Verändern für den Konfliktfall. Machen 
+viele Programmierer, um sich gegenüber ihres Argeitgebers abzusichern - 
+für alle Fälle. Bei komplexen Programmen, die nur der Autor versteht, 
+auch leicht zu vestecken.
+
+Mit so einer Hintertür wäre es möglich, ein Börsen-Handelsrogramm 
+fernzusteuern, mit unendlichen Möglichkeiten. AFAIK ist so ein Backdoor 
+vor einem Jahr auch schon aufgeflogen.
+
+Allein die Kenntnis der Algorithmen, nach denen die Programme handeln, 
+ist pures Gold. Sind ja auch strengstens geheim, aber der, der sie 
+programmiert, ist ja auch nur jemand, der auch gern Kohle macht.
+
+
+Willi

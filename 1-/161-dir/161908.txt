@@ -1,0 +1,14 @@
+Das muss nicht so sein. Im Prinzip kann ein Betriebssystem
+(einschließlich BIOS) und seine Eigenschaft, keine Malware zuzulassen,
+semantisch mittels mathematischer Beweise verifiziert werden.
+Allerdings trifft dies bisher noch auf kein anwendbares Betriebssystem
+auch nur annähernd zu, da eine semantische Verifizierung
+außerordentlich aufwändig ist und alle PCs mit einem solchen
+Betriebssystem ausgestattet sein müssten. (Solche Betriebssysteme kann
+man als Hacker nur noch schlagen, indem man sie mittels physikalischem
+Zugriff auf den PC ersetzt durch Malware, die u.A. das Betriebssystem
+simuliert.)
+
+
+I.B. braucht man dazu keine Anti-Viren-Software, siehe zB
+http://cpuu.vbwhw.cc/bwdgxd/uebxt_qbtqukxq_oyklntp.mxzp

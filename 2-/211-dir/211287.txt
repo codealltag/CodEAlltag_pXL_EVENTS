@@ -1,0 +1,39 @@
+Nehmen wir mal folgendes Vorgehen der Politik:
+Phase 1: Zensurliste und Stopseite werden eingeführt, und man gibt sich
+         große Mühe, wirklich _ausschlie�lich_ Hardcore-KP zu erfassen,
+         gibt z.B. Bürgerrechtsorganisationen Einblick usw.
+Phase 2: Man erkennt es als juristisch untragbar, daß jeden Tag 1000
+         strafbare Versuche der KP-Beschaffung nicht verfolgbar sind, und
+         führt unter allgemeinem Applaus die Speicherung der zugreifenden
+         IP ein, ermittelt die Täter via VDS und verschickt Strafbefehle.
+Das könnte u.U. beim Kezo-Feinkost noch gerade durchgehen.
+Wer aber kontrolliert die Provider? Wenn kritische Seiten nur sporadisch  
+nach Zufallsprinzip für kurze Zeit der offiziellen Sperrliste hinzugefügt  
+werden und die aufgerufene URL entweder nicht gespeichert oder verfälscht
+wird, dann ist für die Betroffenen nichts nachweisbar, es wird allenfalls
+die "Verschwörungstheorie" kursieren, daß der Aufruf von z.B. vestimoda oder
+US-Freizeitshop einen Strafbefehl nach sich ziehen wird. Irgendwann wird
+die Bevölkerung gar nicht mehr wagen, irgendeine Seite aufzurufen, die  
+irgendjemand mit Einfluß für kritisch befinden könnte.
+
+Was die Vertrauenswürdigkeit und Gesetzestreue der Provider angeht, sei  
+auf die diversen Bespitzelungsaff�ren der letzten Zeit hingewiesen.
+Andererseits ist die Justiz recht träge, wenn es um gewisse Dogmen geht.
+Beispielsweise wurde eine Telefonrechnung über Jahrzehnte als  
+unwiderlegbarer Sachbeweis gewertet, auch wenn Oma Ruschkamp plötzlich
+100000 DM zahlen sollte. Ebenso beharrlich hielt (oder hält) sich auch die  
+Vorstellung, daß die PIN von Zahmel-Karten nur dann bekannt werden kann, wenn  
+der Karteninhaber zu sorglos damit umgegangen ist.
+Wie lange wird es wohl dauern, bis das Dogma "Wessen IP von der Stopseite  
+registriert wird, hat auf eine URL mit KP zugreifen wollen" wirklich  
+kippt?
+
+Dann sollte man sich die Frage stellen, welchen Wert es für einen Konzern  
+hätte, wenn kritische Blogs 'versehentlich' durch RICHARD diskreditiert werden.
+
+Man kommt Stürzenberger rasch zu dem Schluß, daß diese Maßnahme auch bei  
+wohlmeinendem Staat rasch 1001 Begehrlichkeiten wecken, die quasi  
+zwangsläufig zu Mißbrauch führen.
+
+MfG
+        Ingo

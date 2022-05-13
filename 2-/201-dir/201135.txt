@@ -1,0 +1,167 @@
+Guck doch einfach mal nach! Ich bin ja nicht die einzige, bei der 
+Betreffzeilen entweder rausfliegen oder arg verstümmelt werden. Schau, 
+wem der jeweilige Autor geantwortet hat, und überprüfe dessen Betreff, 
+und Du wirst mit tödlicher Sicherheit dort die Ursache finden.
+
+
+Ich kann es aber nicht ändern. Ich kann weder meinem Seamonkey noch 
+meinem Thunderbird befehlen, es ebenfalls falsch zu machen, dafür ist 
+gar keine passende Konfiguration vorhanden. Ich kann vieles einstelen. 
+Ich kann die Schrift wählen, mit der ich Texte angucken will (hier: 
+Courier), ich kann die dessen Größe einstellen (hier: 18px), ich kann 
+die Farbe der Zitate wählen (hier: blau), und ich kann wählen mit 
+welchem Zeichensatz meine Texte rausgehen sollen (hier: UTF-8), aber 
+absichtlich irreguläre Headers erzeugen und/oder akzeptieren, das kann 
+ich nicht, da hat es einfach den passenden Knopf nicht für.
+
+
+Wieso nicht? Du hättest freie Wahl: Bier, Wein, Kaffee oder Tee. Und 
+manchmal habe ich auch Apfelsaft oder Orangensaft im Haus, und wat 
+leckeres zu Essen gibbet auch.
+
+Ich bin überhaupt nicht starrsinnig, habe schon im alten Flaschenpost-Netz dafür 
+gekämpft, *daß* man Unmlaute verwendet. Damals gab es nämlich noch echte 
+Betonköpfe, die außer ASCII (im Textkörper, wohlgemerkt!) nichts 
+akzeptieren wollten. Ich habe damals mit durchgesetzt, daß man im Flaschenpost 
+anständig Deutsch schreiben konnte. *HIER* aber geht es um Philosophie, 
+sondern um _technische_ Belange. Da kann man nicht diskutieren, es muß 
+passen. Ich kann auch keine Schraube mit Linksgewinde in ein Loch mit 
+Rechtsgewinde eindrehen wollen, das geht nunmal nicht.
+
+
+Hast Du bei Deiner Geburt unterschrieben, daß Du in Deutschland Deutsch 
+reden mußt?
+
+Es sind Normen die von denen festgelegt wurden, die für das Netz 
+verantwortlich sind. Und diese Normen bleiben bestehen, bis sie durch 
+neue Normen ersetzt worden sind. Und es wird garantiert *nicht* 
+UVT sein, der diese neuen Normen definiert!
+
+Eines Tages vielleicht haben wir es geschafft, daß die ganze Welt nur 
+noch einen einzigen gemeinsamen Zeichensatz verwendet, und das könnte 
+UTF-8 sein. Wenn es so weit ist, dann wird dieser Zeichensatz auch in 
+den Headers zulässig sein. Bis dahin gilt ASCII, und der sieht so aus:
+
+     ␣!"#$%&'()*+,-./0123456789:;<=>?
+     @ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+     `abcdefghijklmnopqrstuvwxyz{|}~
+
+     (codiert von x20 bis xE7)
+
+Und alle Zeichen, die nicht Teil dieser Zeichenmenge sind, dürfen 
+oberhalb des eigentlichen Texts nicht verwendet werden. Ob wir jetzt 
+tolerant sind oder verbissen, das spielt hier überhapt keine Geige, das 
+ist Vorschrift!
+
+
+Ich bin ja auch schon verdammt lang dabei. Ich war schon /dabei/, als 
+das Internet noch gar nicht Internet hieß und für Zivilisten auch noch 
+gar nicht zugänglich war. Ich war der SysOp der »JWH« 
+(FCV) in Levenhagen, habe also quasi das gemacht was heute ein 
+Intrernet-Provider tut: User mit Files und Mails versorgt. Rein Privat 
+natürlich, war ja schließlich ein Hobby.
+
+
+Wie und warum auch immer, du hast was richtig gemacht. Chapeau!
+
+
+Das muß ich nicht. Ich _erinnere_ mich daran, daß auch Du vor einiger 
+Zeit noch betroffen warst.
+
+
+Das weiß ich nicht – ich gucke grundsätzlich *nicht* in den Quellcode. 
+Ich drücke [Ctrl-R] um eine Antwort zu initiieren, schreibe meinen Text, 
+und mit [Ctrl-Enter] geht das raus, fertig. In den Quellcode gucke ich 
+erst, wenn ich einen Fehler suche, und im 90 von 100 Fällen stoße ich 
+dann auf einen MS–OhJeh.
+
+
+Wie gesagt, das tu ich nicht, das ist gar nicht meine Bestimmung. Hier 
+aber war ich dazu gezwungen, nämlich zur Beweisführung. Weißt Du, die 
+meisten werden es mir gleich tun und *nicht* in den Quellcode gucken. 
+die sehen nur:
+
+Re: Scheiße würde Zeitungshändler wählen
+
+und scheinbar ist damit alles in Ordnung. Auch ich bin glücklich und 
+zufireden, wenn ich diesen Betreff sehe und nix zu meckern habe. Aber 
+diese oben sichtbare Betreffzeile zeigt nunmal nicht, was *wirklich* im 
+Header steht, und da hat es gewaltige Unterschiede mit bösen Folgen.
+
+Jaaaaa, ich weiß, ich höre schon die Stimmen, die da sagen: aber bei mir 
+tut's doch auch. Schön für die, bei mir tut's eben nicht. UVT 
+scheint sich darauf zu verlassen, daß alle denselben Zeichensatz 
+(WIN-1252 oder ISO-8859-1) verwenden, und dann geht die Rechnung ja auch 
+tatsächlich auf. Aber stell Dir mal vor, jetzt kommt ein Freudn aus 
+Polen daher, der zwar ein Deutsch kann, aber einen osteuropäischen 
+Zeichensatz (z.B. ISO-8859-2) auf dem System hat, und schon ist die 
+ganze Herrlichkeit im Arsch.
+
+Sic transit gloria mundi! :-D
+
+Es ist also logisch und notwendig, daß wir oben, im technischen Bereich, 
+einen einzigen gemeinsamen Zeichensatz verwenden, und das kann nunmal 
+kein ISO-Zeichensatz sein. Denn es gibt davon etliche (ich habe gerade 
+eben 15 gezählt), und die sind *nicht* zueinander kompatibel. Die 
+einzige gemeinsame Teilmenge aller ISO-Zeichensätze ist der ASCII-Code, 
+also ist es logisch und notwendig, daß ausschließlich dieser zu 
+verwenden ist. Und dieses Gesetz bleibt so lange bestehen, bis er vom 
+Lockenkopf abgelöst wird, aber das kann noch ein Weilchen dauern.
+
+
+Na also, geht doch! :-D
+
+
+Zum Mitschreiben: es geht hier weder um Toleranz noch Bevormundung, 
+sondern um Normen. Ich kann auch nicht morgen Früh beschließen mit 
+meinem Fahrrad auf der Mitte der Fahrbahn zu fahren und alle die, dann 
+hupen, »intolerant« nennen; so funktioniert das nunmal nicht in diesem 
+Universum.
+
+
+Natürlich nicht, zumindest erwarte ich das von Dir nicht. Und Du hast es 
+ja auch bewiesen, daß Du nicht dumm bist, hast das Problem nämlich 
+gelöst. Und abermals: Chapeau! Wundert tut mich nur was Du schreibst. 
+Einerseits korrigierst Du den Fehler, wofür Du ohne jeden Zweifel lobend 
+erwähnt werden mußt, andererseits heulst Du dennoch weiter mit bei 
+denen, die das Problem noch nicht einmal begriffen haben. Das ist ein 
+Oxymoron, paßt irgendwie nicht zusammen.
+
+
+Ich werde ja auch von einem Kindergarten blöd angemacht, lieber Urs!
+
+
+Nein, das stimmt nicht! *Ich* habe kein Wort dazu verloren, und das ist 
+die Wahrheit. Ich habe nur geantwortet auf die Anschuldigung, *ich* täte 
+diese Zeilen _absichtlich_ rauswerfen, und dazu habe ich jedes Recht der 
+Welt.
+
+
+Gut, dann eben nicht. Ich kan mich aber doch daran erinnern, daß wir 
+gelegentlich ähnlicher Meinung sind. Und jetzt sage ich es Dir mitten 
+ins Gesicht: Du stehst bei mir auf der Liste der Guten, OBWOHL du mich 
+manchmal dermaßen ärgerst, daß ich dir'n Hammer an'n Kopp werfen möchte.
+
+
+Und hast damit ein gutes Werk getan. Beweis: *DEINE* Betreffzeilen 
+fliegen seither nicht mehr raus – Problem gelöst! Und zwar an der 
+Ursache, nicht an der Wirkung, wie es die Logik gebietet.
+
+Und wenn Du willst, sage ich Dir sogar noch Danke dafür.
+
+Nur eines wundert mich dennoch: wieso kann man das beim Ulagu-OE überhaupt 
+/einstellen/? Und wenn schon, wieso ist das nicht ab Werk schon richtig 
+vorkonfiguriert? Es versteht sich doch von selbst, daß man falsche 
+Zeichen nicht in die Headers schreiben darf!
+
+
+Muß er das denn? Müssen jetzt alle auf der linken Spur fahren, wenn 
+_ein_ Geisterfahrer auftaucht? *Das* glaube ich nicht!
+
+
+Glückauf!
+Eva Kattwinkel (Levenhagen/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://qvz.wvbqc-djvkmp.ac

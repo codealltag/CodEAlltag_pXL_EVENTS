@@ -1,0 +1,27 @@
+Dominik Utermoehlen <fmy.pqthtrnl@pll.zf>:
+
+
+P.
+
+
+Ich schrieb "Gliederung und Layout, Farben, Bilder und Texte". Bei 
+der Gestaltung aktiver Funktionen hatte die Entwicklung meiner 
+Erfahrung nach freie Hand bzw. die Aufgabe, dem Kunden zweckmäßige 
+Ansätze nahezubringen. Sie erhebt und implementiert ja auch die 
+Geschäftslogik der Anwendung, gleichviel ob im Web oder anderswo. 
+Große Firmen beschäftigen für Usability-Fragen wiederum eigens 
+Leute (auch wenn man's oft nicht merkt).
+
+
+Ich halte sie für nicht so verkehrt. Welche wäre denn besser? Man 
+muß ja auch mit den Leuten klarkommen, die man hat. Und gestalte-
+rische Kompetenz vereinigt sich nun mal nicht gerade häufig mit 
+organisatorisch-logischer Kompetenz in einer Person.
+
+
+Ach weit Du, wie lange soll es denn dauern? Keiner weiß alles, 
+auch die Erfahrenen nicht.
+
+-- 
+Mit freundlichen Größen
+Johann B. Boenecke

@@ -1,0 +1,21 @@
+Pst, nelly, Du zeigst da ein Bild vom großkraftwerk triefenbach.
+Selbstverständlich brauchen die Kühlwasser. Und nicht zu knapp. Die
+haben bloß keinen Kühlturm. Aber
+das Piefke hat zur Zeit eine Entnahmeerlaub nis von knapp 60 m^3/s.
+mit Block neun werden es noch ein paar mehr.
+
+
+Und inm der Erlaubnis- nein diesmal musst Du selber suchen steht unter
+Punkt:3.2.1
+dass ab einer Rheintemperatur von 24 Grad muss der Wärmeeintrag durch
+Block 9 reduziert werden.
+
+Kurz- jedes Wärmekraftwerk bekommt im Sommer schwierigkeiten, wenn der
+Fluss zu warm wird. Block9 GKM darf übrigens nur um 0,6 K das Wasser
+erwärmen. Und die eingeleitete Wärmemenge ist auch noch begrenzt.
+Kühltürme haben übrigens den Vorteil, dass sie Kühlwasser gegen die
+Luft kühlen können und solcherart ausgerüstete Kraftwerke sind gegen
+warmes Flusswasser unempfindlicher.
+
+
+da hätte ich doch gerne eine Quellenangabe für....

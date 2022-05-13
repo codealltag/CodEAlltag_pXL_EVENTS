@@ -1,0 +1,11 @@
+Die codierung bei Bernadette beim 1. Posting:
+Content-Type: text/plain; charset=UTF-8
+Und Giovanna antwortet mit:
+Content-Type: text/plain; charset=iso-8859-1
+
+Das kann nicht gut gehen.
+
+Ansonsten bestimmt Buddelei, bei fehlendem Content-Type, das schon 
+richtig.
+Allerdings geht das natürlich nicht mehr, wenn es von UTF nach Ohrpheus 
+verhunzt wurde.

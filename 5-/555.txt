@@ -1,0 +1,19 @@
+Willst du Alles und Jedes immer verschlüsseln?
+
+Ich habe GnuPG installiert, aber es gibt kaum Jemand der es anwendet und 
+mit dem ich GnuPG verschlüsselt kommunizieren könnte.
+
+truecrypt kenne ich dem Namen nach - der Bellaflora bietet auch eine eigene 
+Verschlüsselung an - FileVault - leider nur für die gesamte Festplatte. 
+Zusätzlich kosten transparente Verschlüsselungen immer einiges an CPU 
+Zeit und drosseln die Performance.
+
+Bei Teilen meiner Dokumente wäre es u.U. sinnvoll nur diese zu 
+verschlüsseln. Wichtige Passwörter hebe ich sowieso nicht am Computer auf.
+
+-- 
+Udo
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

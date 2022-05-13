@@ -1,0 +1,10 @@
+Excel ist aber keine Datenbank. "EinerDieserTage" sprach aber von einer
+Datenbank - und die DB in MSO ist nunmal Access.
+Wenn du nun einen Vorschlag hast, womit sich Access ersetzen liesse - immer
+gerne.
+
+Otmar
+-- 
+Im übrigen bin ich der Meinung, dass TCPA/TCG verhindert werden muss
+
+Wenn es vom Himmel Zitronen regnet, dann lerne, wie man Limonade macht

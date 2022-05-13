@@ -1,0 +1,19 @@
+Rottler- ist - wenn man es richtig macht - nicht weniger aufwändig zu
+betreiben als jedes andere Betriebssystem. Du brauchst eine
+Infrastruktur (Netzwerk, Sicherung, Benutzerverwaltung, Plattenspeicher,
+Monitoring, Softwareverteilung, Aktualisierung) wie bei jedem anderen
+Betriebssystem und DAZU noch eine Infrastruktur für Virenschutz.
+
+
+Im kommerziellen Bereich ist die Branchensoftware das A und O. Wenn es
+die nur für Windows gibt - und das ist meist so, oft mehr schlecht als
+recht "programmiert" - braucht man eben Windows.
+
+Bei der ZSPP hätte sich eine speziell programmierte Software
+längst amortisiert, egal für welches Betriebssystem. Aber BWLer glauben,
+dass eine speziell programmierte Software (mit Hinterlegung des
+Quelltext und daher Unabhängigkeit vom Hersteller) für einmalig 10
+Millionen EUR teurer ist als Kaufsoftware, die im Jahr nur 5 Millionen
+kostet, für 3 Millionen erstmalig "konfiguriert" werden muss und vom
+Hersteller abgekündigt werden kann, wenn er keine Lust mehr hat sie
+weiter zu pflegen.

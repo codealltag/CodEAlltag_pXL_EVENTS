@@ -1,0 +1,8 @@
+Stromzähler: Endstand minus Anfangsstand = Verbrauch
+Grundpreis + Verbrauchspreis(Verbrauch x Preis per Einheit).
+Der Lieferant hat alle Daten offen gelegt, somit kannt du dir jederzeit 
+deine Stromkosten auch selber rechnen.(Grosses Einmaleins,Bruchrechnen 
+...)!
+
+
+peace

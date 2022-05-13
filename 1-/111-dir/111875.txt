@@ -1,0 +1,21 @@
+Nanu Herr Doktor...SCNR
+
+Also hier mal meine Lieblingsschaltung für Wanze/UKW-Sender:
+
+2M0668E als UKW-Oszillator ~500mW, Emitterschaltung, Rückkopplung über
+C zwischen Kollektor und Emitter. Basis ist über 2 Cs HF-mäßig 
+kurzgeschlossen.
+FM-Modulation über Emitterschaltung BC237 direkt an Basis von 2N2219
+
+Kostenpunkt: ~ 4Euro
+Reichweite: mehrere Stadtteile
+
+Wenn mans als Wanze benutzt, ein Elektret-Mikro davorschalten, dann 
+knallts im Lautsprecher, wenn ein Blatt Papier auf den Boden fällt.
+
+
+Gruß I.H.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

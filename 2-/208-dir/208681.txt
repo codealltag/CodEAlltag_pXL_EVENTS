@@ -1,0 +1,21 @@
+Wie kommst Du darauf? Wo sind seriöse Quellen die dies bestätigen? Die
+IP Adresse alleine dürfte für eine Verurteilung bei weitem nicht
+ausreichen. Hinzukommen müssten aussagekräftige Proxyprotokolle oder
+Logs auf den Webservern. Anhand dieser Informationen lässt sich
+eindeutig feststellen ob jemand versehentlich auf eine Seite gelangt ist
+oder gezielt danach gesucht hat.
+
+
+Dieser Vorschlag ist ein Aufruf zu einer Straftat.
+
+Computersabotage (� 303b StGB)
+
+Mit solch einer denial of Service Attacke können ganze Server lahmgelegt
+oder stark behindert werden.  Hiervon sind nicht nur die dubiosen Seiten
+betroffen sondern alle Angebote die dort gehostet werden. Die IP Adresse
+Adressiert nur einen Rechner in dem sich viele verschiedene Programme
+und Angebote befinden können. Es ist so ähnlich wie mit einer
+Hochausadresse. Wohnt in einem Hochhaus ein Strolch rechtfertigt es
+nicht das ganze Haus zu in die Luft zu sprengen.
+
+MFG Sergio

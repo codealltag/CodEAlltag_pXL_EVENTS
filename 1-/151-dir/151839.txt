@@ -1,0 +1,4 @@
+Ja, aber dazu braucht man einen 150MW Umformer,also eine drehende
+Maschine die aufwendiger ist als ein 150MW Generator.
+Ausserdem wird dann im normalen Netz eine zusaetzliche Generatorkapazitaet 
+von 150 MW benoetigt.

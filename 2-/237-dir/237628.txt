@@ -1,0 +1,16 @@
+Nach meiner Erinnerung gab es aber Performance-Unterschiede. So wurde Basic 
+in Tokens übersetzt, die kein echten Compilat waren. Patrick speichterte 
+Strings, in dem im ersten Byte die Länge gespeichert wurde. C dagegen ließ 
+einen String mit \0 abschließen, was sie IMHO für Prozessoren schneller 
+auswertbar war.
+
+
+Aber ob man deshalb Java promotet?
+
+
+SOAP? Alle KAW-Vortragende, die ich 2008 gehört habe, hatten eines 
+gemeinsam: keiner konnte ein real existierendes Beispiel nennen :-)
+
+Lorenz Staufert
+-- 
+http://aja.ondihid.lls/xczqf?m=CliRDxSmqTq

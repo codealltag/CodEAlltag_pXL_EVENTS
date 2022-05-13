@@ -1,0 +1,40 @@
+Hallo,
+
+Antonio A Groteguth schrieb:
+
+...[...]...
+
+
+*STAUN* Ich habe viele Dutzend Distributionen ausprobiert. Es
+gab nur wenige Ausfälle, teilweise lagen die aber auch an etwas
+malader Hardware. Das ,,Glück'' dreimal in Reihe ins Klo zu
+langen hatte ich noch nicht, aber es ist theoretisch möglich.
+
+
+Da habe ich Glück gehabt. Großrechner und Workstations waren
+das erste an das ich ran kam. PCs habe ich mir immer vom Müll
+ziehen müssen, daher blieb mir nix anderes übrig als Ahnung zu
+haben und die Kisten ganz schnell vom PC in alltagstaugliche
+Unix-Workstations zu konvertieren. Danach hat man dann einige
+Jahre Ruhe bis die Kiste absemmelt.
+
+Ich teile den Ansatz: ,,Rechner einschalten und gut ist's''
+nicht. Das liegt an der grausigen Hardware-Vielfalt beim PC
+und den damit verbundenen Problemen. Wer sowas will soll sich
+einen MAC zulegen. Wer sich keinen Liebler zulegen will oder kann
+muss dann in den saueren Apfel beißen. Entweder grottiges
+Windoofs oder aber einen auf Bescheidwisser machen und mit
+Linux ein überschaubares Leben führen.
+
+Und noch ein kleiner Nachschlag: Die Kosten für die Wartung
+einer Windoofs-Spielkonsole oder der Zeitaufwand zum Wissenden
+der unixoiden Galaxie sind nicht kleiner als die Mehrkosten
+für einen Liebler. Alles eine Frage der Rechnung und leider auch
+der Anfangsinvestition, welche beim MAC größer ist. Und da
+wird es fast wieder gesellschaftskritisch: Der Liebler passt nicht
+in unsere ,,Billig, darauf fahr ich voll ab'' Welt.
+
+MfG
+
+
+Domenico Stadtbäumer

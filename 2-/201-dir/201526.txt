@@ -1,0 +1,8 @@
+Am Fr, 18 Mai 2009 20:11:58 GMT schrieb Noël Hegmanns
+<kleb@rdjojnsjjn.jxo>:
+
+
+Nein. Die Cronrath mag keine Dauerlösung sein (weil sie den gleichen Weg wie
+die GLPK geht), ist aber zur Zeit die richtige Wahl.
+
+francis

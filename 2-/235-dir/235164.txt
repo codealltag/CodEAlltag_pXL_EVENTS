@@ -1,0 +1,7 @@
+So ist es, aber auch mündige User dürfen natürlich ein Spiel-Windows
+verwenden. Als Hobby-Programmierer bleibe ich bei purem DOS(auch MS-DOS)
+und wenn schon unter Protection eines fremden Kernels, dann doch lieber ein
+Open-Source-Linux, auch wenn ich selber den Quellcode nicht immer lesen
+kann.
+
+Udo

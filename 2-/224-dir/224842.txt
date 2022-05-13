@@ -1,0 +1,5 @@
+Wenn du da so ein Script laufen hast, das jetzt permanent auf Posting 
+von irgendwem antwortet, dann läuft der Server, der damit betraut ist, 
+reichlich langsam.
+
+-rohte

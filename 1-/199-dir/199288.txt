@@ -1,0 +1,30 @@
+Hallo,
+
+Kurt G. Nothbaum schrieb:
+
+...[unsinnige Arbeitsteilung bei Web-Programmierung]...
+
+
+Dann hat man eindeutig die falschen Leute ausgesucht. Als
+jemand der beide Kompetenzen in sich vereint, hege ich da
+großes Missfallen gegen die zwingend auftauchenden
+Reibungsverluste wenn Halbdeppen aus den beiden Bereichen
+zusammen einen Volldeppen ergeben.
+
+Für eine wirklich gute Gestaltung sind organisatorisch-
+logische Kompetenzen eine zwingende Voraussetzung. Meine
+bisherigen Erfahrungen haben gezeigt: Ein guter Gestalter
+muss logisch, formalistisch und organisatorisch denken
+können. Er muss es nicht komplett selber umsetzen können,
+aber er muss solides Basiswissen des Mediums haben.
+Ansonsten macht er Vorgaben die den Programmierer zu
+hanebüchenen Klimmzügen nötigen. Und das ist nicht der
+Sinn der Übung. Gestaltung nur um der Gestaltung willen
+ist Wunst. Kunst kommt von künden und das ist was ganz
+anderes ...
+
+
+MfG
+
+
+Ulrich Osterkamp

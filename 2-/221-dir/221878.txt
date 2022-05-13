@@ -1,0 +1,42 @@
+Auch hallo
+
+
+Ich bin, zugegebenermassen, kein Experte für Braunkohlekraftwerke,
+mein Wissen in dieser Beziehung ist angelesen, allerdings nicht
+nur von Kraftwerksgegnern, sondern auch von der technischen und
+Prozessseite, die auch sehr interessant ist.
+
+So wie ich das verstehe, sind Braunkohlekraftwerke nur wirtschaftlich
+in einer gewissen räumlichen Nähe zum Abbau, da die Masse des Brennstoffs
+im Verhältnis zur Energie sehr hoch ist. Zusätzlich fällt für einen
+wirtschaftlichen Betrieb Energiebedarf für die Vortrocknung des
+Brennstoffs an, wo dieser Teilprozess unterbleibt, muss mit einer
+Grössenordnung mehr Schadstoffanfall bei sehr stark vermindertem
+Wirkungsgrad gerechnet werden, Trocknung ist also essentiell.
+
+Förderung, Trocknung und Abbau bilden mit den möglichst nahe
+am Abbau gelegenen Kraftwerken einen Verbund. Während man den
+Strom für die Bagger und Bänder auch aus dem Stromnetz beziehen
+könnte, trifft das für die Trocknung nicht zu. Die gigantische
+Abwärme der Kraftwerke steht zur Verfügung, solange dasselbe
+läuft, und braucht nur einen geringen Teil der produzierten
+Abwärme, aber wenn man das Kraftwerk abschaltet, kann man
+nicht mehr trocknen.
+
+
+Glaub mir, ein Braunkohlekraftwerk kann wirtschaftlich nur
+betrieben werden, wenn es möglichst auf Volllast durchläuft.
+
+
+So ist das nicht. Die schnelle Regelreserve kommt heute zum
+grossen Teil aus den fossilen und nuklearen Grossanlagen, die
+einfach ca. 1% unter Maximalleistung laufen und notfalls mal
+1% rauf- oder runterregeln. Soviel Luft ist da. Das gleiche
+Spiel ginge auch mit Windparks, keine Frage, und das ist
+nötig für die Frequenz- und Spannungshaltung.
+
+
+Man soll da nicht dämonisieren. Von der technischen Seite
+haben die Netzbetreiber das schon im Griff.
+
+regards, es

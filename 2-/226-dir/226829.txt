@@ -1,0 +1,14 @@
+Wie darf ich mir den Abgleich vorstellen?
+
+Die Bank, die BLZ und Konto-Nr. meines Mitarbeiters ist mir durch meine 
+Gehaltsüberweisung bekannt.
+Die Bank, die BLZ und Konto-Nr. meines Lieferanten ist mir durch 
+Rechnungstellung bekannt.
+
+Wie bringe ich beide Konten in Verbindung / gleiche ich die Konten ab 
+ohne die Kontobewegungen (Zahlungsempfänger) der Konten zu kennen?
+
+Charly
+-- 
+"Außerdem bin ich anständig, mir muss das Vivete keine Trojaner schicken."
+Cédric Forell, VIVO

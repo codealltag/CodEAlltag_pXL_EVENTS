@@ -1,0 +1,11 @@
+Weil es kein unendlich langes Schiff geben kann - das bedeutet aber auch
+dass ein lichtschnelles Raumschiff immer mit der Laenge Null beobachtet wuerde.
+
+
+Wenn  zwei Lichtpakete beobachtet die auf einer Gerade aufeinander zu fliegen,
+dann verkuerzt sich der Abstand zwischen beiden mit einer Geschwindigkeit von 2LG.
+Weniger kann man herausbekommen wenn die beiden Lichtpakete sich auf
+kreuzenden Geraden naehern, das entspricht der Beobachtung aus einem System 
+das sich senkrecht dazu bewegt - das ist aber nicht wirklich sinnvoll.
+Die Geschwindigkeit des einen Lichtpaketes aus dem System des anderen Lichtpaketes
+berechnen zu wollen fuehrt wieder zum unmoeglichen Lichtschnellen Raumschiff...

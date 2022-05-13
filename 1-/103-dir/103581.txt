@@ -1,0 +1,23 @@
+Lassen wir einfach mal alle Fragen beiseite, die hierbei in Bezug auf
+kulturelle und soziale Entwicklung irgend eine Rolle spielen. Dann habe ich
+noch immer eine Frage für Dich übrig: von was soll ich leben?
+
+Ich schreibe Software für Ingenieure. Wenn ich Software im Auftrag
+schreibe, dann kriegt mein Auftraggeber alle Rechte daran. Was könnte
+meinen Auftraggeber davor schützen, dass ich das Programm auch kostenfrei
+an seine Wettbewerber verteile und diesen dadurch einen Wettbewerbsvorteil
+verschaffe? Die logische Konsequenz wäre, dass niemand mehr
+Softwareentwicklung in Auftrag geben würde.
+
+Ich habe auch "Standardprogramme" entwickelt, von denen ich einzelne
+Lizenzen verkaufe. Was könnte meine Kunden davon abhalten, die von mir
+bezogenen Programme zu niedrigeren Preisen selbst weiter zu verbreiten? Ich
+müsste von meinem ersten Kunden die vollen Kosten für die Entwicklung
+herein holen, so dass der anstatt 200 � etwa 200.000 � für die Lizenz
+bezahlen müsste.
+
+-- 
+McHempel: Architektur-Werkzeuge für Morgenduft (TM)
+           Möwe  - Architekturbema�ung und Höhenkoten
+           Masche - Flächenermittlung und Raumbuch nach DIN 277
+Info und Demo unter http://gez.zhvhmpwbu.za

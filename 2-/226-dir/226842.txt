@@ -1,0 +1,2 @@
+Wenn die Bankverbindung des Lieferanten gleich der Bankverbindung eines
+Mitarbeiters ist, dann ist das zumindest verdächtig. Oder etwa nicht?

@@ -1,0 +1,11 @@
+Dummerweise gibt es so gut wie keine, für die Bundeswehr ernsthaft nutzbare
+kommerzielle Software dafür und außerdem muß die Bundeswehr sparen, sie
+kann sich nicht eine Unmenge von IT-Spezialisten leisten, die den Laden am
+Laufen halten.
+Mein Sohn hat mehrere Jahre versucht, aus Prinzip kein Windows in seinem
+Unternehmen einzusetzen und sich auf Linux-Distributionen gestützt. 
+Leider konnte er sich den Aufwand, der dahinter stand, auf Dauer nicht mehr
+leisten - er mußte zwischendurch immer mal wieder auch arbeiten und sein
+Geschäft am Laufen halten können.
+
+maurice

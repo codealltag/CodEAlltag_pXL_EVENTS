@@ -1,0 +1,20 @@
+Nö, aber Flash-9 ist nunmal nicht für alle Betreibssysteme verfügbar; 
+Flash-7 war es noch.
+
+Aber das eigentlich böse ist, die haben nicht nur ein proprietäres Format 
+gewählt, sondern auch noch eine Barriere eingebaut, so daß ich nicht einmal 
+an die FLV-Datei herankomme. Ich kann Flash-9 zwar nur hören (kein Bild), 
+aber wenn ich wenistens Zugriff hätte, könnte ich es mit FFMPEG.EXE auf 
+MPEG4 umkodieren.
+
+Aber daß der Film gut ist, glaub ich Dir, Du hättest den Link sonst 
+sicherlich nicht publiziert.
+
+Aber vielleicht kannst Du mir helfen? Wie heißt die Datei denn? Sie muß die 
+Extension „FLV“ haben.
+
+Glückauf!
+Heidrun Imker (QTH: OB87KT)
+
+-- 
+Fährst Du Fahrrad? Mußt Du gucken: http://haj.aujro-kecpkl.zf

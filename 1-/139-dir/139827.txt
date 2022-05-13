@@ -1,0 +1,6 @@
+Sofern Du alles auf LVM installiert hast und den Platz dann der
+Home-Partition zuteilen kannst, ja. :)
+
+Besonders gut find ich an der Meldung: Die Betriebssysteme müssen IPv6
+können, aber die ganzen Router und Netzwerkgeräte nicht. Die routen
+fröhlich weiter. :D:D:D

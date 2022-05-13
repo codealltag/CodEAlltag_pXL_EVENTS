@@ -1,0 +1,31 @@
+Böse könnte ich jetzt Klaus Bohnes zitieren, aber weil ich nett bin sage 
+ich mal eine 6 im Mathematik und eine 6 in Wirtschaftskunde.
+
+Mathematik: Man kann Prozente nicht beliebig addieren und subtrahieren 
+wie man Lust hat.
+Du ziehst von 119 19% ab wobei 96,39 heraus kommt. Dann addierst Du 
+wieder 14% hinzu, nimmst aber dafür als Basis den Wert ohne Steuer. Dann 
+kommt logischerweise 109,88 heraus. Aber überprüfen wir das ganze noch 
+einmal. 109,88-14% (so wie bei den 19% oben) = Preis ohne MWSt 94,50. 
+Warum kommt da nicht auch 96,39 heraus?
+Schone eine simple Überschlagsrechnung ergibt das bei 14% statt 19% MWSt 
+niemals eine Differenz von 9ö herauskommen kann.
+
+Wirtschaftskunde:
+Eine Mehrwertsteuer gibt es in Deutschland nicht, korrekt heißt das in 
+Deutschland und Österreich Umsatzsteuer.
+Ü10 UStG regelt wofür USt zu zahlen ist, ä12 regelt die Höhe. Deshalb 
+ist jedem klar das die 19% auf den Preis ohne Steuer aufgeschlagen 
+werden und nicht 19% des Endpreises aus Umsatzsteuer bestehen.
+Deshalb ist auch die Aussage falsch das durch die Erhöhung der USt um 3% 
+alles um 3% teurer wurde. Zum einen gibt es einige Sachen für die der 
+ermäßigte Umsatzsteuersatz gilt (z.B. Grundnahrungsmittel) oder die ganz 
+von der USt befreit sind (z.B. Miete), zum anderen wurden Produkte die 
+mit 19% statt 16% USt belegt sind um 2,59% teurer.
+
+Tja weder Prozentrechnung hinbekommen noch Ahnung wie die USt berechnet 
+wid. Aber jeder blamiert sich halt so gut er kann.
+
+Größe
+
+Wolfram

@@ -1,0 +1,5 @@
+Die Frage ist die nach der Funktion p = f(a, n)
+
+a - Angebot
+n - Nachfrage
+p - Preis

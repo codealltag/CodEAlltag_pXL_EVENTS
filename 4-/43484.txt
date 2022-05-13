@@ -1,0 +1,13 @@
+Hhh?
+Bezogen auf 100km eben nicht. Der Vorteil vom geringen Luftwiderstand 
+bei niedrigen Geschwindigkeiten wird vom Nachteil des geringen 
+Motorwirkungsgrades wieder zu großen Teilen aufgefressen.
+E-Motoren haben solche Probleme nicht. Hybride mit etwas größerem Akku 
+und stärkerem E-Motor könnte man so ansteuern, dass der 
+Verbrennungsmotor nur dann zugeschaltet wird, wenn er mit relativ hoher 
+Last und damit im guten Wirkungsgradbereich arbeiten kann -> Range Extender.
+
+Aber ursprünglich gings um die gleiche Fahrstrecke mit kaltem und mit 
+warmem Motor. Und da vervielfacht sich der Verbrauch eben nicht.
+
+Denis

@@ -1,0 +1,29 @@
+Hallo,
+
+
+Alles klar. Randbedingungen etwa abzuschätzen ...
+
+
+Befürchtungen bestätigt! Der Fehler ist hier aber nicht Rosenrot,
+sondern die mangelnde IT-Kompetenz der Beteiligten. Für die
+Kontrolle von Texten langen die Texte in blanker Form (zB als
+RTF) vollkommen aus. Das Layout sollte von der inhaltlichen
+Arbeit getrennt werden. Das ist auch ein Prinzip das sich durch
+Textsatzprogramme wie LaTeX durchzieht.
+
+
+Auf der einen Seite Null IT-Kompetenz, auf der Anderen wollen
+oder sollen die ,,Nutzer'' noch die Formatierung und den Satz
+beeinflussen. Voll krass! Kein Wunder das sowas kracht.
+
+Hier liegt das Problem viel tiefer als WinWord. Die Vorgabe
+Rosenrot ist nur ein Symptom von fortschreitender Zivilisations-
+demenz seitens der Entscheider und Nutzer. Hier fehlend Milchbar
+die einfachsten Basiskenntnisse über den effizienten Einsatz
+von IT.
+
+
+MfG
+
+
+Clemens Peterseil

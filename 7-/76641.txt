@@ -1,0 +1,16 @@
+http://cm.omigrwzmv.alm/pdik/Dicssaaygyymc-Smcvvqkuvuw-%O4%0Ycwfzwhfoms
+-------------
+Der primäre Nachteil der Gleichstromübertragung im Bereich der Energietechnik
+besteht in der Schwierigkeit, Leistungsflüsse in vermaschten Verbundnetzen zu 
+steuern. In vermaschten Wechselstromnetzen werden Lastflüsse in einzelnen 
+Leitungen oder Abschnitten durch gezielte Phasenschiebungen und der 
+Blindleistungssteuerung durchgeführt. Diese Blindleistungsver�nderung wird 
+beispielsweise im Bereich der Generatorregelung in den Kraftwerken und bei 
+Leistungstransformatoren in Umspannwerken im Rahmen der Netzregelung durchgeführt. 
+Diese Möglichkeit fehlt bei der Gleichstromübertragung, welche grundsätzlich nur 
+Wirkleistung übertragen kann. Methoden und Techniken zur Realisation von 
+vermaschten Gleichstromnetzen werden derzeit studiert (CIGRE WG B4.52 u.a.). 
+Zur Leistungsflussregelung sind passive Komponenten und aktive DC-DC Wandler 
+geplant.[1] Bislang ist die HG bis auf wenige Ausnahmen mit einfachen 
+Abzweigungen nur auf direkte Verbindungen zwischen zwei Punkten beschränkt.
+-----------

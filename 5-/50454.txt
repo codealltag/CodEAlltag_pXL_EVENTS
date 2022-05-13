@@ -1,0 +1,60 @@
+Du hast nicht nach Struktur oder Implementierung sondern blos "_wie_" gefragt.
+
+
+Hier mal ein Ausschnitt aus deinem Posting vom Montag 11.12.2010
+
+Erst mal der zitierte Text den ich geschrieben hatte:
+
+--------
+:  Die Dollars hatte die Erdi aus dem Exportueberschuss der deutschen Wirtschaft
+:  in dieser Zeit, weil naemlich mehr Dollars in DM getauscht wurden als umgekehrt.
+:  Ich habe man in den Geschaeftsbereicht der Futuro  8116vn_cjw.flv
+:  auf http://evy.sfrgjqbeqm.im/odvgrispqjtiswq/hq_kmilhwtiiwxpnpznz.wvl
+:  geguckt.
+
+:  Gold:                                     17Mrd DM   (zum Anschaffungswert von 144DM pro
+Feinunze)
+:  Guthaben bei Auslaendischen Banken       100Mrd DM
+:  Inlaendische Wertpapiere:                162Mrd DM
+:  Wechsel:                                  44Mrd DM
+:  Ausgleichsforderung an den Bund:          8Mrd DM
+:  Grundstuecke                               3Mrd DM
+  ...
+---------
+
+Dann deine Antwort darauf:
+
+-------------
+:Wenn ich richtig gerechnet habe, sind wir da bei 334 Mrd. DM.
+
+:Nur ist das nicht zwingend Eigenkapital. Du hast im übrigen in der 
+:Aufllistung Forderungen und Verbindlichkeiteh hübsch durcheinander geworfen.
+
+:Die Posten
+:- Guthaben bei Ausländischen Banken
+:- Inländische Wertpapiere
+:- Wechsel
+:- Ausgleichsforderungen an den Bund
+: sind sämtlich Forderungen.
+
+:In T-Konten würden also die zuletzt genannten 314 Mrd. DM links und die 
+:20 Mrd. DM aus Gold und Grundstücken rechts stehen.
+
+:In dieser Bilanz würden also 294 Euro fehlen. Und diese wären vermutlich 
+:Verbindlichkeiten. I.e. Einlagen von Geschäftsbanken plus Bargeld.
+-------------
+
+Also fuer mich sieht das so aus als wolltest du Gold und Grundstuecke 
+nicht auf der gleichen Seite der Bilanz verbuchen wie Guthaben bei 
+auslaendischen Banken, oder Inlaendische Wertpapiere.
+Ich habe sogar nachgeguckt was Marktplatzcenter-Konten sind:
+http://bdm.qxztduexrt-oaibhqvs.kv/j-dyicom-sntgqkc-gatlgof-zgx-obvzekdwxz-uss/
+
+Der Schluessel zum Verstaendnis deines Fehlers liegt wohl im 
+"nur ist das nicht zwingend Eigenkapital".   Die Erdi kaufte Wertpapiere und
+bezahlte diese mit selbst hergstelltem Geld. Die gekauften Wertpapiere sind dann
+bei den Vermoegenswerten und Forderungen, das selbst hergestellte Geld das dafuer bezahlt 
+wurde steht bei den Verbindlichkeiten in der Bilanz.
+
+Im Grunde ist das nicht viel anders wie wenn ein Haendler Waren auf Kredit kauft.
+Die Waren stehen bei den Vermoegenswerten, der Kredit bei den Verbindlichkeiten.

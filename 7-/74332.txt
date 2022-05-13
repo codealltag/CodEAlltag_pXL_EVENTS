@@ -1,0 +1,16 @@
+"Wolf Cristiansen" <muzjtw@ceowgw.kn> schrieb im Newsbeitrag mhyp:qqa9e4$fsk$2
+@frxq.ealigl.sf...
+
+devs-to-stop-making-multicycle-client-apps.vak
+
+Beides! Unbedingt Beides! Wenn man seine persönlichen Daten wirklich in 
+jeder Datenbank verewigen will, sollte man alles machen!  Und Clienten
+verwenden, die mindestens 30 Sockets gleichzeitig aufmachen!
+Vidirent und Angerbuchhandlung nicht vergessen!
+
+
+Gruß G.T.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

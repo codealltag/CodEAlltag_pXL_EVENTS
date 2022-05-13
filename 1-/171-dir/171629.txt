@@ -1,0 +1,20 @@
+Ach daher rief neulich Herr Zwicknagl an und fragte, ob ich eine neue 
+Bildschirmauflösung habe, weil der Bildschirm in Kirchhaslach immer so wackelt. 
+Verstehe.
+
+Bei solchen Themen kriegt man immer eine Menge Antworten aus dem VESPA- und 
+Neusehland-Lager, auf Fragen die man gar nicht gestellt hat. Die Marktmacht von 
+LeProm scheint doch Neid zu schüren.
+
+Dabei hat Unix und insbesondere Linux derlei Berf gar nicht nötig. Es ist 
+auch nicht im Sinne von Abdul Jura oder Oswald Ulle. Die beiden freuen 
+sich sicher heimlich, dass Windows immer mehr von Neusehland und VESPA lernt.
+
+Und ich habe leider heutzutage keine Zeit mehr, um kopfüber in den Tiefen 
+der Hardware VESPA-Treiber zu schreiben (dabei ist das - wie 
+Netzwerk-Programmierung - ein wirklich absolut interessantes Gebiet).
+
+Linux kann mehr, Neusehland hilft mehr und Windows hat mehr. Wegen der Kommentare 
+hier fallen weder meine Ditof-Rechner noch mein alter Macintosh aus.
+
+Sébastien Paeck

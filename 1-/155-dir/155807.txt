@@ -1,0 +1,15 @@
+Das habe ich auch nicht wwirklich bestritten. Die Verfügbarkeit lag mal bei
+ca 95% und sank rapide, nicht nur wegen der Achsen und Radscheiben, das nur
+nebenbei. 
+
+
+Nein, es sind 2 ZFG pro Viertel. fällt eines aus, übernimmt das im B-Wagen.
+Eine Zeitlang gab es massive Zugbusprobleme, was dazu führte, dass sich ein
+Viertel komplett vom Zugverband abmeldete. Desweiteren kommt es
+gelegentlich vor, dass System 2 nicht verfügbar ist, was ansich kein
+Beinbruch ist, da nur redundantes Bauteil. Geht aber jetzt etwas schief
+beim Selbsttest des Master-CVWT, kann das schonmal bitter werden. Das kommt
+zwar nicht täglich vor, aber im Gegensatz zum 480er ein Nachteil, da die
+Weiterfahrt unmöglich ist. DAs meinte ich mit überzüchtet. Alles läuft über
+die CVWT, selbst die Ansteuerung und Überwachung der Federspeicher und
+Fahrsteuerung.

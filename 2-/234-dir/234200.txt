@@ -1,0 +1,82 @@
+Das mag sein - wenn du ein Diagramm eines aktuelleren Motors hast, zeige
+es doch bitte, dann können wir auch damit diskutieren. Wesentlich ander=
+s
+dürfte das aber nicht aussehen, vom Drehmomentplateau aufgrund der
+Begrenzung mal abgesehen.
+
+
+Bei Vollgas.
+
+
+Das Diagramm hat zwei Dimensionen. Nach oben aufgetragen ist das
+Drehmoment bzw. der Mitteldruck, die beide ziemlich direkt mit der
+Gaspedalstellung zusammenhängen. Wenn die Gaspedalstellung niedriger
+wird, sinkt auch der Wirkungsgrad. Beispielsweise beträgt er bei
+3000U/Min und 100Nm (also nicht Vollgas, bei Vollgas hätte der Motor ca=
+=2E
+265Nm) nur noch ca. 35%.
+
+Wenn man jetzt mal ein paar typische Betriebspunkte bei konstanter
+Geschwindigkeit nimmt: (*)
+
+1) 100km/h, d.h. ca. 10kW, bei ca. 1900U/Min, also ca. 52Nm Drehmoment.
+Da hat der Motor laut Muscheldiagramm einen Wirkungsgrad von ca. 25%.
+2) 130km/h, d.h. ca. 22kW, bei ca. 2500U/Min -> 84Nm, also laut
+Muscheldiagramm immerhin ca. 32% (**)
+3) 50km/h, d.h. ca. 1.25kW, bei ca. 950U/Min -> 12Nm, also laut
+Muscheldiagramm wohl unter 20%
+4) 210km/h bei 96kW (***) bei ca. 4000U/Min -> 225Nm, also laut
+Muscheldiagramm etwa 39%
+
+Das ganze ist natürlich massiv vereinfacht. Tatsächlich geht ja nicht=
+
+nur der Luftwiderstand ein, sondern auch Rollwiderstände,
+Lagerwiderstände etc., die nur linear mit der Geschwindigkeit wachsen,
+d.h. die Leistung, um sie zu überwinden, steigt nur quadratisch. Manche=
+
+Widerstände sind auch konstant, d.h. die nötige Leistung steigt nur l=
+inear.
+
+Also wären in der Realität die nötigen Leistungen bei niedrigen
+Geschwindigkeiten etwas höher, die Wirkungsgrade also etwas besser usw.=
+
+- aber als grober Überschlag mag das gültig sein, insbesondere über=
+
+100km/h, wo der Luftwiderstand den Hauptanteil ausmacht.
+
+Echter Stadtverkehr, inklusive Ampelstopps, sanftem Anfahren etc. ist da
+noch gar nicht dabei - da liegt die Durchschnittsgeschwindigkeit
+deutlich niedriger. Zum Beispiel durfte ich mal Testfahrer im
+Stadtverkehr sein - Durchschnittsgeschwindigkeit waren 18km/h.
+
+Selbst wenn der Motor also maximal 42% erreicht, wird er das in der
+Praxis eher selten dauerhaft schaffen. Im Jahresmittel werden 30% schon
+eher hoch sein.
+
+
+=2E..und die Leistung. Dabei sinkt bis zur Schubabschaltung die Leistung
+stärker als der Verbrauch, also sinkt der Wirkungsgrad. Sieht man am
+Muscheldiagramm, wenn man die zweite Dimension erkennt.
+
+
+=2E..und die abgegebene Leistung auch.
+
+
+Weil du anscheinend nur die Rechts-Achse betrachtest, nicht die
+Hochachse, auf der das momentane Drehmoment, also mehr oder weniger die
+momentane Gaspedalstellung aufgetragen ist.
+
+MfG, Berend
+
+P.S: Bei Fehlern in meinen Rechnungen bitte darauf hinweisen.
+
+(*) Leistungswerte mal nur unter Berücksichtigung des Luftwiderstands
+berechnet, der quadratisch mit der Geschwindigkeit geht, d.h. die nötig=
+e
+Leistung nimmt sogar kubisch zu.
+(**) Zu Bedenken ist allerdings, dass bei 130km/h die benötigte Arbeit
+pro Strecke um 69% (1.3^2-1) höher ist als bei 100km/h, d.h. trotz
+besserem Motorwirkungsgrad nimmt der Verbrauch zu.
+(***) Referenz für die benötigten Leistungen: Ein Partl 1.9TDI mit 96kW =
+hat
+eine Höchstgeschwindigkeit von 210km/h.

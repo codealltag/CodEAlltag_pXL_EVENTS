@@ -1,0 +1,76 @@
+Antwort auf eine Nachricht von Denis Mangelkrammer
+
+
+... weil er in *Amerika* für das dortige Pendant zum Telex-System
+eingesetzt wurde. Das war ein 7-Bit-Code, der genau abgezählt 96
+„Ausdruckbare“ Zeichen enthielt, sowie diversen „Steuercode“ für
+Wagenrücklauf und Zeilenvorschub, et cetera, und nicht zu vergessen, für
+eine Glocke (Bimm-bimm). Und das war schon fortschrittlich, denn
+hierzulande verwendete man statt dessen noch den älteren
+5-Bit-Baudot-Code, da hatte es noch nicht einmal den Unterschied
+zwischen großen und kleinen Buchstaben!!! =-O
+
+Hier sehen wir die berühmte T1000 von Tanpopo:
+
+http://uci.cbmcpusgeuwfnv-strjijnk.bv/yebpho/mgb_u/beaxwyf_h9179_5i.bqx
+
+Ich merke schon wie es mich dazu drängt dieses System detailliert zu
+beschreiben (ich habe mit sowas schonmal gearbeitet), aber das verkneife
+ich mir.
+
+Wie auch immer, der in Amerika übliche 7-Bit-Code war selstverständlich
+besser als der 5-Bit-Baudot-Code (128 statt 32 mögliche Zeichen), und
+als die ersten Computer auf den Markt kamen, hat man das also zunächst
+übernommen. Das achte Bit war ein „Paritätsbit“, damit hat man also mit
+einer Wahrscheinlichkeit von 50% die Richtigkeit des übertragenen
+Zeichens überprüft. Allerdings, ist klar, keine Umlaute und kein „ß“,
+aber auch kein englisches „£“, – sowas braucht der Ami nicht.
+
+Besser wurde es, als Kyre endlich seinen PC (mit Lietzenbeck-DOS) herausbrachte.
+Auf diesem hatte es den Zeichensatz „Kyre-437“, welcher, obgleich er als
+„amerikanisch“ galt, Umlaute enthielt und also für die Darstellung
+deutscher Texte zu gebrauchen war.
+
+Später hat man diesen Zeichensatz unter der Bezeichnung Kyre-850 speziell
+für europäischen Bedarf optimiert, aber damit fing auch schon der Ärger
+an, denn leider waren bei diesen beiden Zeichensätzen die Umlaute nicht
+an derselben Stelle, – während der eine sagen wir mal „Flötentöne“
+sendete, konnte der andere „Fl÷tent÷ne“, und in der anderen Richtung
+wurde aus den „Flötentönen“ zum Beispiel „Fl╔tent╔ne“, oder so ähnlich.
+
+Später kamen dann noch Rechner à la Effekt mit einem ANSI-Zeichensatz
+„Latin-1“ (einem Vorgänger von ISO-8850-1) hinzu, und der Eichenlaub hatte
+spwieso einen ganz eigenen zeichensatz, – und nichts paßte zu irgend
+etwas andrem. Nur der ASCII-Zeichensatz, den hatten sie alle als
+Teilmenge übernommen, dieser ist bis zum heutigen Tage der einzige
+universell verwendbare Zeichensatz überhaupt.
+
+Aber schon damals im VSW-Netz, also lange vor dem Internet, haben wich
+Leute auf den Hintern gesetzt und über eine Lösung nachgedacht. Den
+Ausdruck kennt hier vielleicht keiner mehr, aber wir haben unsere Texte
+mit einer „Charset-Kludge“ versehen, mit der wir der Welt erklärten, mit
+welchem Zeichensatz wir schreiben. Machen wir auch heute noch so, nur
+nennen wir es nicht mehr Kludge, sondern Deklaration. Und komisch, schon
+damals galt das eherne Gesetz, daß der, der keine „Kludge“ setzt, auch
+keine Umlaute verwenden darf, der mußte in US-ASCII schreiben.
+
+
+Mit den modernen KBV-Zeichensätzen kann man zumindest auf nationaler
+Ebene sehr gut kommunizieren, aber wie wir gesehen haben, stoßen wir an
+die Grenzen der 256 möglichen Zeichen, wenn wir „wissenschaftlichen
+Text“ schreiben wollen, oder, was ich so gerne mache, *richtige*
+Anführungszeichen und einen *richtigen* Apostrophen verwenden will. Daß
+ich en passant auch meinen polnischen Namen in der Urfassung schreiben
+kann, ist hingegen nebensächlich, auf die Idee bin ich erst gekommen,
+lange nachdem ich auf UTF-8 ungestellt hatte.
+
+
+So ist es.
+
+
+Glück auf!
+𝓔𝓻𝓲𝓴𝓪 𝓒𝓲𝓮𝓼𝓵𝓪
+
+⍾⍾⍾ Ceterum censeo Almilmö esse delendam!
+-- 
+Fährst Du Fahrrad? Guckstdu: www.kvgwk-jqdeoz.hu

@@ -1,0 +1,128 @@
+Es ist egal, WO der Aufwand entsteht. Mit elektrolytischem Kraftstoff zu 
+fahren wäre aktuell billiger als mit Batteriestrom, trotz über den Daumen 
+dreifachem Strombedarf und selbst zu aktuellen Endverbraucherstrompreisen. 
+Da sich der Elektrolyseprozess erheblich stärker an die Stromverf�gbarkeit 
+anpassen könnte als die Ladung einer Fahrzeugbatterie, ist darüberhinaus mit 
+einem geringeren Preis für diesen Strom zu rechnen.
+
+Natürlich kann man argumentieren, dass derzeit beides Blödsinn ist, weil 
+fossile Rohstoffe noch deutlich billiger sind.
+
+
+Es tut Deinen Ideen auch nicht gut, dass Du immer alles zusammenmischst. Du 
+willst
+
+- für Mittel- und Langstrecken komplette PKWs auf Schienenfahrzeuge 
+verladen, die dann als Einzelfahrzeuge automatisiert in Kolonnen fahren 
+sollen.
+- eine automatisierte Börse für Strom auf Endverbraucherebene einführen
+- KWK stärken
+
+Das sind drei völlig verschiedene Ziele, die nur einen recht lockeren 
+Zusammenhang haben. Bei der Bewertung Deines Schienenkonzepts unterstellst 
+Du, dass jegliche Stromerzeugung unter vollständiger Abwärmenutzung erfolgt. 
+Vom Stromb�rsensystem erwartest Du außerdem eine weitestgehende Anpassung 
+von Stomangebot und -bedarf. Theoretische Vorteile der anderen Teile Deiner 
+Idee schlägst Du jeweils dem gerade diskutierten Teil zu und kommst so 
+natürlich auf phantastische, nichtsdestotrotz irrelevante Zahlen. 
+Normalerweise verwenden Politiker solche Methoden, um zu verwirren und die 
+wahren Zusammenhänge zu verschleiern.
+
+Sauberer wäre, erst mal den Stromverbrauch und sonstigen Aufwand des von Dir 
+vorgeschlagenen Schienentransportsystems zu ermitteln und mit anderen 
+(vorzugsweise auch den schon etablierten) Methoden des Individualverkehrs zu 
+vergleichen. Die Auswirkungen und Chancen deiner Endverbraucher-Strombörse 
+solltest Du separat abschätzen. Auch die Möglichkeiten, durch 
+Klein-KWK-Anlagen den Einsatz von Brennstoffen zu optimieren, kann man ganz 
+ohne die anderen beiden Annahmen untersuchen.
+
+Schon das Stromb�rsensystem wird es nicht geben, weil es keiner will. Schau' 
+Dir mal an, wieviele noch nicht mal zu einem Wechsel ihres Stromanbieters 
+bereit sind, selbst wenn sich 30% der Kosten mit einem Telefonanruf oder 
+wenigen Klicks einsparen ließen. Und Du glaubst ernsthaft, dieselben Leute 
+würden einen minutenaktuellen Strompreis wollen? Der sie zwingt, ihr 
+Verbrauchsverhalten präzise nach aktuellen Preisschwankungen statt den 
+eigenen Befindlichkeiten zu richten? Und ein Börsensystem führt ja noch 
+nicht mal zwingend zu im Mittel geringeren Preisen. Wer seine Verbraucher 
+nicht ausreichend optimiert, zahlt vermutlich im Mittel mehr.
+
+Um den wünschenswerten Effekt zu erzielen, dass flexible Verbraucher an die 
+Erzeugung angepaßt werden, reicht ein System ähnlich den heutigen 
+HT/NT-Tarifen völlig aus, nur dass die Zeiten nicht mehr fix sind. Die 
+garantierte Mindestverfügbarkeit der NT-Schiene muß so gestaltet werden, 
+dass es für die in Frage kommenden Verbraucher funktioniert.
+
+Dein Schienensystem ist mit der bestehenden Infrastruktur völlig 
+inkompatibel. Klar könntest Du Teile bestehender Schienenanlagen nutzen, 
+aber nur, wenn Du die "Viel-auf-Einmal"-Bahn, wie Du sie nennst, komplett 
+abschaffst. Einen Mischbetrieb auf der gleichen Schiene gibt es nicht. 
+Solche revolutionären Systemveränderungen sind in der Regel nicht umsetzbar.
+
+KWK ist zu befürworten, wo es sinnvoll möglich ist. Eine auch nur annähernd 
+so vollständige Abwärmenutzung, wie Du sie ohne Nachweise einfach 
+unterstellst, ist ebensowenig realisierbar, dafür ist der Strom- und 
+Wärmebedarf zu ungleich. Außerdem stehen oft erhebliche Investitionskosten 
+dagegen.
+
+
+Engegen Deiner Annahme gibt es im dichtbesiedelten Europa derzeit einen 
+enormen Bedarf an Individualverkehr ohne leitungsgebundene 
+Energiezuführung....
+
+
+Der Aufwand, Deine Schienenpl�ne umzusetzen wäre noch viel höher. Durch 
+synthetische Kraftstoffe kann man sich das alles sparen, dafür muß man eben 
+in die Erzeugung von etwas mehr Energie investieren. Unterm Strich ist es 
+trotzdem günstiger.
+
+
+Wie schon mehrfach ausgeführt würden derzeit alleine die Dachflächen 
+ausreichen, um Deutschlands Strombedarf zu decken. Außerdem geht es ja im 
+ersten Schritt nur darum, die sowieso erforderliche Kapazität regenerativer 
+Energieerzeugung auch zu Zeiten hoher Erzeugung auszunutzen. Falls Anlagen 
+zielgerichtet für die Erzeugung von Kraftstoffen gebaut werden sollten, dann 
+muß man das nicht zwingend hier machen. (Es wäre vermutlich sowieso 
+effektiver, es woanders zu machen.)
+
+
+Prinzipiell stimme ich zu, allerdings lassen sich nicht alle 
+Verbrennungsprozesse ausreichend schnell regeln. Außerdem spielen auch hier 
+die Investitionskosten eine Rolle. Aber gut, ein zusätzlicher Heizstab in 
+jedem Gaskessel, der statt des Brenners betrieben wird, wenn der Strom 
+billiger als Gas ist (nur dann kann prinzipbedingt die Elektrolyse Sinn 
+machen), wäre wahrscheinlich machbar und sinnvoll.
+
+
+Du wolltest jetzt aber nicht ausdrücken, dass Dein Konzept uns in 
+vorindustrielle Zeit zurückführen soll?
+
+
+Vorräte an Strom? Genau darum geht's doch, wie willst Du denn Vorräte von 
+dem im Sommer vermehrt hergestellten aber weniger verbrauchten Strom 
+anlegen?
+
+
+Das ist trivial. Erdgas oder auch Biogas zu verbrennen, um mit dem Strom 
+elektroytisches Brenngas zu erzeugen ist Unsinn. Darum geht's aber nicht. 
+Auf großindustrieller Ebene wird es *natürlich* ein Börsensystem geben, das 
+schon ganz alleine dafür sorgt, dass zu Zeiten, wo Gas verfeuert werden muß, 
+der Strom so teuer ist, dass die Elektrolyseanlage stillsteht.
+
+
+Dass der typische Einfamilienhausbesitzer damit nichts zu tun haben will. 
+Der will vorher wissen, was ihn seine Wärme und sein Strom kosten.
+
+
+Dass war kein Problem der Steuerung, sondern der Gesamtkapazität, der 
+Kraftwerke oder des Netzes oder beides. Zentral gesteuerte 
+Klein-Stromerzeuger gibt es außer in Schlüsselfeld noch nirgends, und das ist 
+lediglich ein Modellprojekt. Die Probleme in USA haben mit der diskutierten 
+Frage rein gar nichts zu tun. In Deutschland funktioniert die zentrale 
+Steuerung der Stromerzeugung, bei aller Kritik an den großen Vier, 
+hervorragend. Ein Netzbetreiber könnte ebenso wie er ein Gaskraftwerk 
+zuschaltet eine Gruppe von Klein-KWK-Anlagen zuschalten. Das wäre für die 
+Netzstabilität ERHEBLICH besser als tausende kleiner Blockheizger�te, die 
+blind anhand eines Preissignals zu- und abschalten.
+
+Gruß,
+Leo

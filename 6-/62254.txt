@@ -1,0 +1,8 @@
+starless&bibleblack: 
+
+
+Sieh mal in den Header, daraus lassen sich vorzügliche Filter basteln,
+so z.B. mit User-Agent in Zusammenhang mit Path. Ab und an muß man da
+etwas korrigieren, aber mein Bildschirm bleibt recht sauber.
+
+ Hansruedi

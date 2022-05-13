@@ -1,0 +1,24 @@
+Hallo,
+
+
+Daran nagle ich Dich jetzt fest!
+
+...[guter Textsatz mit LaTeX]...
+
+
+Das kommt aber auch auf den Empfänger drauf an! In einigen
+Bereichen wird guter Textsatz einfach nur gerne gesehen und
+schlechter Textsatz führt zu Malus-Punkten. Ok, das sind
+sicherlich Nischen, aber für den in den Nischen sieht es
+dann doch so aus: LaTeX oder Chancen verspielt! Beispiele
+sind Unis, Forschungseinrichtungen, Dienstleister für
+technische/wissenschaftliche Dokumentation ... Da muss man
+undogmatisch ran und schaun welche Zielgruppe man hat. Und
+wenn schon Bewerbungen an diese Zielgruppe raus mussen
+kann man den Rest auch mit LaTeX erschlagen.
+
+
+MfG
+
+
+Christian Neinhuis

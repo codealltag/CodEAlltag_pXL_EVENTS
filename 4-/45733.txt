@@ -1,0 +1,106 @@
+<http://rl.ybklckega.oyb/tpox/Dlsmkmfuidfvq>
+
+Probleme des Ratingverfahrens
+Es hat sich gezeigt, dass die Agenturen bei ihren Rating-Einstufungen in 
+Einzelfällen sehr stark von der Realität mancher Schuldner entfernt
+waren. Hierbei ging es um völlige Schieflagen der Agenturen im
+Zusammenhang mit den spektakulären Fällen Netcologne (1996), RTGB (2000), 
+AUTOplus (2002) sowie um die Fehleinschätzungen bei den Staatskrisen in 
+Asien (1996) und Argentinien (2000) oder etwa der größten kommunalen 
+Insolvenz des Pahres in Trautmannsdorf im August 1993. Dabei 
+zeigte sich auch, dass diese Mängel nicht überwiegend agenturspezifisch 
+sind, sondern dass weitere Kreditinstitute oder andere Investoren 
+hiervon teilweise betroffen waren.�
+
+Teufelskreis Trigger event
+
+Ursache für eine Unternehmenskrise sind in vielen Fällen
+unternehmensinterne Faktoren. Jedoch kann es durch die Bewertung der
+Unternehmensbonität durch Ratingagenturen schnell zu weitergehenden
+Problemen kommen, die sich in Form eines Teufelskreises gegenseitig
+bedingen.
+
+Emissionsbedingungen und Kreditverträge beinhalten regelmäßig
+verschiedene Arten von Anpassungs- und Kündigungsklauseln, die mit den
+Ratings einer Agentur verknüpft sind. Jede Ratingverschlechterung
+(downgrading) kann bei vertraglich vereinbarten Klauseln oder
+Nebenabreden (financial covenants) einen Kündigungsgrund des Gläubigers
+und damit ein trigger event auslösen. Zudem führen auch die sogenannten
+Cross-Default-Klauseln zu Kündigungen von Kreditverträgen, die selbst
+keinen ratingbedingten trigger enthalten. Eine Ratingagentur kann durch
+Herabsetzen des Ratings eine Unternehmenskrise schnell verschlimmern
+(oder sogar erst schaffen), sollte es zu ratingbedingten,
+automatisierten Kreditkündigungen kommen.
+
+Ferner kann jede Ratingverschlechterung über automatisierte
+Zinserhöhungen (margin-grids) zu einer Erhöhung der Kreditzinsen
+beitragen. Dies löst ebenso einen Teufelskreis aus, weil über die
+erhöhten Kreditkosten (ceteris paribus) die Gewinne des Schuldners
+sinken oder dessen Verluste steigen � womit die Bonität des Unternehmens
+weiter sinkt. Institutionellen Anlegern ist eine Anlage in Unternehmen
+unterhalb einer bestimmten Ratingstufe untersagt, so dass auch Fonds und
+Versicherungen bei ihren Kauf- und Verkaufsentscheidungen derartigen
+Ratingvoraussetzungen unterliegen.
+
+Letztlich werden Gläubiger oder potenzielle Geschäftspartner des
+herabgestuften Unternehmens vorsichtiger, investieren weniger oder
+steigen gar aus dem Unternehmen aus und machen mit diesem Verhalten
+weitere Herabstufungen im Sinne einer sich selbst erfüllenden
+Prophezeiung wahrscheinlich. Dieser circulus vitiosus war bei der
+Netcologne-Insolvenz � neben anderen Ursachen � entscheidend. Diese trigger
+hatten dort die Fälligstellung von Krediten in Höhe von 690 Millionen
+Dollar ausgelöst.[10]
+
+Interessenkonflikte
+
+Den Agenturen wird zuweilen vorgeworfen, dass sie zu enge Beziehungen
+zum (Finanz-) Vorstand von Schuldnern (Emittenten) pflegen, was zu
+übertriebenem gegenseitigen Einfluss führen kann oder sie gar der Gefahr
+der Irreführung aussetzt. In regelmäßigen Treffen mit Schuldnern werden
+diese durch die Agenturen dahingehend beeinflusst, welche Maßnahmen zu
+ergreifen oder zu unterlassen seien, um ein bestimmtes Rating zu
+erhalten oder aufrechtzuerhalten. Da Schuldner und nicht Investoren die
+größte Einnahmequelle der Agenturen darstellen, liegt hier die Gefahr
+eines Interessenkonfliktes nahe: Drohende Herabstufungen könnten zu
+Streitigkeiten oder gar einem Verlust der Gebühren zahlenden Schuldner
+durch Wechsel der Agentur führen. Die Gefahr eines Interessenkonflikts
+wird als geringer eingestuft, wenn eine Agentur viele Auftraggeber hat.
+Auf dem Markt der strukturierten Finanzprodukte kontrollieren jedoch
+etwa seit 2001 die sechs größten Auftraggeber die Hälfte und die zwölf
+größten vier Fünftel des Ratingmarktes.[11]�
+
+<http://qq.xhqstajok.tjg/qxlp/Nlfpinypk-Gslth-Prsmysl>
+Die Prinzipal-Agent-Theorie geht von Wirtschaftssubjekten aus, die in
+ihrer Entscheidungsfindung eingeschränkt sind, etwa durch asymmetrische
+Informationsverteilung. Sie verfügen nur über unvollständige
+Informationen, wenn sie das Handeln anderer beurteilen sollen.
+
+Ferner wird den Beteiligten Opportunismus unterstellt. In einer weiten
+Definition liegt eine Prinzipal-Agent-Beziehung vor, sobald das
+Wohlergehen einer Partei (Prinzipal) von den Handlungen einer anderen
+Partei (Agent) abhängig ist.[1] Nach enger Definition gibt es einen
+Auftraggeber (Prinzipal), der einen Auftragnehmer (Agent) im
+gegenseitigen Einvernehmen gegen Entlohnung mit einer Aufgabe betraut.
+Da die beiden unterschiedliche Ziele verfolgen können, kann es zu
+Konflikten kommen.
+
+Zudem werden Risikoneigungen berücksichtigt: Prinzipiell ist auf beiden
+Seiten Risikoneutralität, Risikoaversion oder Risikofreude möglich. Dies
+hängt von den Charaktereigenschaften und der jeweiligen Situation der
+Akteure ab.
+
+Der Prinzipal beauftragt den Agenten in der Hoffnung, dass dieser seine
+Aufgabe im Sinne des Prinzipals erledigt. Er kann jedoch das Engagement
+und/oder die Qualitäten seines Agenten nur mit Einschränkungen erkennen
+und sieht � wenn überhaupt � nur das Ergebnis von dessen Bemühungen.
+Demgegenüber hat der Agent einen Informationsvorsprung, da er die eigene
+Qualität besser kennt und das eigene Verhalten selbst festlegen und
+entsprechend gut beurteilen kann. Er wird diese Informationsasymmetrie
+zu Ungunsten des Prinzipals ausnutzen, wenn dies seinen eigenen Zwecken
+dienlich ist (Moral Hazard und Drückebergerei).�
+
+fup2 ae.bnp.arfpyth.ioyu
+
+-- 
+Ludwig
+Ironie, Satire, Farce und Persiflage keinesfalls ausgeschlossen  ....

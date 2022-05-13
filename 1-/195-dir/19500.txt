@@ -1,0 +1,10 @@
+On 14 Jan., 15:47, "Ottmar . K u s m i e r z" <h...@oldmrvt.dxousfg>
+wrote:
+
+Wieso? Heisst das, sie könnten es doch?
+
+Dass es solche Fälle gibt und es viele ungünstige Umstände gibt
+(MITM), dass Verschlüsselungen geknackt werden, ist klar, aber das
+Prinzip ist sehr wohl wirksam.
+
+Weniger Aufwand ist es jedoch, einfach auf Clouddienste zu verzichten.

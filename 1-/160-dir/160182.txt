@@ -1,0 +1,33 @@
+Wenn ich das überschlägig berechne, dann erzeugt der gegenwärtige
+Energieverbrauch der Welt (14 Mrd. t SKE) ungefähr 1/400 des vorhandenen
+CO2 zusätzlich pro Jahr. Das stimmt (leider) mit der Zunahme des CO2 in
+100 Jahren ganz gut überein. Ein Teil der Zunahme ist dabei sicherlich
+auf die Erwärmung der Ozeane zurückzuführen. Ich schätze mal, so ein
+Viertel oder ein Drittel der Zunahme des CO2 ist Folge der Erwärmung, der
+Rest geht auf das Konto der Menschheit.
+
+Wie auch immer, ob CO2 nun die Erde erwärmt oder nicht (ich meine:
+nicht), die Menschheit muß jedenfalls lernen, 90 Prozent des heutigen
+Energieverbrauchs einzusparen und die restlichen 10 Prozent mit Biomasse
+etc. zu erzeugen. Zum Beispiel gehen in Deutschland immer noch ungefähr
+40% des gesamten Energieverbrauchs in die Heizung der Privathäuser und
+-wohnungen. Einsparpotential ist reichlich vorhanden.
+
+Anders als die Treibhaustheorie bin ich allerdings der Meinung, daß wir
+für die nötigen technischen Entwicklungen noch mindestens 50 Jahre Zeit
+haben, und daß selbst 1000 ppm noch keinen meßbaren Temperaturanstieg
+zur Folge hätten.
+
+Und anders als die Atombefürworter bin ich der Meinung, daß Atomkraft
+kein Ausweg ist. Nach allem, was ich lese, ob es nun die bröckelnde
+"Asse" ist, der Atommüll, den die Russen einfach vergraben haben, die
+Leukämiefälle um Freist, oder auch Eggenhof: Atomtechnik und
+Atommüll sind viel schlechter beherrschbar, als man in den fünfziger und
+sechziger Jahren dachte.
+
+(Erdradius 6350 km, CO2 bis zur Vegetationsgrenze 2,5 km, CO2-Anteil 400
+ppm, Molvolumen 22,4 Liter, Molmasse CO2 44 g ergibt zusammen ungefähr
+1000 * 10^12 kg CO2. Dann 1 kg SKE = 8,1 KWh, Energie in 1 Liter
+Kraftstoff ca. 9 KWh führt auf 2,5 * 10^12 kg CO2)
+
+Robin

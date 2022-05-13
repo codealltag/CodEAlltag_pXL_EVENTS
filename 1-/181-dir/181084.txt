@@ -1,0 +1,25 @@
+Hallo,
+
+
+Jein. E27/E14 sah es da immer mau aus.
+
+
+Profis brauchen eine Ausrüstung für Profifotografen (mit Studio).
+
+
+Da hast Du aber noch keine Langzeiterfahrungen vorliegen? Nach
+meinen Informationen gibt das bei kurzeitigen Intervallen auch
+Probleme mit der Ausfälligkeit. Die Helligkeit könnte langsam
+aber sicher runtergehen oder die Lampen plötzlich versterben.
+Was genau eintritt ist dann eine Frage der Auslegung. Ich tippe
+auf ein langsames Nachlassen der Helligkeit in Anlehnung an die
+Erfahrungen mit Niedervolthalogenlampen (12V). Einen abrupten
+Frühtod würde ich zwar in Anlehnung an die Erfahrungen mit den
+Niedervolthalogenlampen (6V und drunter) erwarten, aber für
+unwahrscheinlicher halten.
+
+
+MfG
+
+
+Olivier Myler

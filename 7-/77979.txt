@@ -1,0 +1,3 @@
+Falsch. Die Wahrscheinlichkeit beim Würfeln ist 1 zu 6.
+Sogar beim Münzwerfen hast du keine 50 Prozent, weil die Münze nämlich auch 
+auf die Kante fallen kann.

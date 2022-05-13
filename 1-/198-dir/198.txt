@@ -1,0 +1,16 @@
+Die Kunden kaufen was ihnen die Werbung so eingetrichtert hat, dass sie 
+glauben es aus freien Stücken kaufen zu wollen!
+
+Eine 'one to n' Beziehung.
+
+Produzent <--> Werbewirtschaft -->>> Konsument
+
+
+Für dich undurchschaubar!
+
+-- 
+Niclas
+liberté, égalité, fraternité
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

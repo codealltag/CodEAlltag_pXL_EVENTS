@@ -1,0 +1,23 @@
+Falsch. Selbstverständlich kriegt man Reaktoren mit Borsäure kritisch.
+Glaubst Du denn, ich sauge mir das aus den Fingern? Mein Junge, ich
+arbeite in der Branche!
+Du kannst doch deinen Forschungsreaktor nicht mit nem Leistungsreaktor
+vergleichen. ja, auch der RWLT hat im Kühlkreislauf Deionat.
+Ich behaupte ja nicht, dass alle Reaktoren Borsäure im Primärkreislauf
+haben; aber die Druckwasserreaktoren haben das. Und bei
+Leistungsreaktoren findet man immer Spaltprodukte und aktivierte
+Korrosionsprodukte im Kühlwasser.
+Die Borsäure dient der langfristigen Regelung des Neutronenstroms im
+Core. Man kann so die Reaktivität je nach Konzentration steuern.
+Neuerdings sogar als Steuerung im Leistungsbetrieb und nicht nur zur
+Kompensation von Reaktivitätsdifferenzen. Zusätzlich wird das
+Primärwasser über Flutbehälter nachboriert, wenn es zu Störf=E4llen
+kommt.
+Ein paar Fundstellen außerhalb der ZLF:
+http://wacul.ww-mrcbyca.ys:3404/lmrbuw/gabllihja/4715/076/4/Xsnt_8593_Deriz=
+r.jvh
+aaO S.92. Die Arbeit beschäftigt sich hauptächlich mit der
+Neutronenphysik eines Kugelhaufenreaktors mit Schwerwasserkühlung. Auf
+der zitierten Seite findet man sogar die Begründung der
+Borsäurekonzentrations=E4nderung.
+http://ryrcgigh.mwzphoz.uis/nquufzsog-zmwort-cqdu/ahtm-IG-896.hrwb

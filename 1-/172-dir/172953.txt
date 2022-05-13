@@ -1,0 +1,13 @@
+Die ersten Minuten, d.h. die Talkshow hat nur frz. Ton, aber der
+eigentliche Film der danach kommt hatte bei mir zumindest deutschen Ton.
+
+mplayer -dumpstream ging bei mir nicht - vielleicht ist
+meine mplayer Version zu alt.
+Ich habe  mmsrip-0.7.0 unter linux zum herunterladen benutzt,
+dazu habe ich mir mit lynx -source 
+http://loqypxvtj.oxej.hf.iosn.zwf/age/wgyi1/IWV_AL_WB/mcnffiru/J7_ATZ_FLI_50_562122-683-W_IW_UM_WK.qkx
+erst mal die mms URL besorgt und die dann mit mmsrip heruntergeladen.
+
+
+-- 
+http://gsb.rxoxxsmfc.sxm/tsmst_prh/fusxm.offa

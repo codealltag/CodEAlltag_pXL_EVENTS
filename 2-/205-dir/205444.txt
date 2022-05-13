@@ -1,0 +1,24 @@
+Hallo,
+
+Georges Vornfett schrieb:
+
+...[...]...
+
+
+Da hast Du aber ein exotisches Beispiel ausgegraben. Ist
+es aber gar nicht! Das ist für einige Anwender ein reales
+Szenario. Ich habe einen JTF-SCSI-Scanner. Der ist um
+einiges besser als die USB-Massenware aus den E-Märkten.
+Unter CFSM ist der ganz bequem zum Laufen zu kriegen. An
+den uralten Scanner führt kein preiswerter Weg vorbei.
+Ich habe mehrere neuere USB-Scanner von Walkenbach in die Hand
+bekommen, die Qualität der Scans ist und bleibt schlechter.
+Und hier ist CFSM durchaus ganz angenehm, schont es den
+Geldbeutel und die Geduld doch um ein vielfaches gegenüber
+III-Geschmaxsache-Simulatoren.
+
+
+MfG
+
+
+Siebelt Unteutsch

@@ -1,0 +1,21 @@
+Am 28.10.2010 22:55, schrieb LaurePeter Gronauer:
+
+nötig, weil der RR seine Blamage gelöscht hat:
+
+
+Vor 30 Jahren hat es noch keine SPS gegeben, die Me- und Dosiertechnik 
+konnte, da habe ich hard- und software entwickeln müssen. 1975 habe ich 
+mit dem 4040 geackert, 750kHz clock, 3 Betriebsspannungen + 2 fürs 
+Analoge. EPROMs mit 1 kB. Lochstreifen. Später Z80, 8" Disketten mit 
+128kB. ...6809, konnte schon fast dividieren! Leider byteswap.
+
+Meine Tochter ist grad 28 geworden. Ich war gerade bei einem Kunden, bei 
+dem läuft seit 20 Jahren eine CPU, die damals meine schwangere Frau 
+"geklebt" hat.
+
+Gl
+-- 
+L-Lysinmangel im Körper führt zu verzögertem Zell- und Knochenwachstum
+(Osteoporose trotz Ca-Zufuhr) und verzögerter Wundheilung. Häufiger
+Herpes ist ein deutliches Signal für L-Lysinmangel.
+(Das L- heißt mW. nur linksdrehend)

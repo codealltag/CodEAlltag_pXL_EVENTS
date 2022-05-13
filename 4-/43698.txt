@@ -1,0 +1,24 @@
+Was soll dieser Vergleich? Dann komme ich vielleicht auf 4l und fahre im 
+schlechtesten Wirkungsgradbereich des Motors rum. Selbst dann kommt man 
+nicht auf ein Mehrfaches.
+
+Man müsste meine Strecke mit kaltem und mit warmem Motor fahren und 
+vergleichen. Da liegt sicher maximal Faktor 1,2 dazwischen.
+
+Würde ein kalter Motor das doppelte brauchen wie ein warmer, müsste die 
+doppelte Menge Sprit eingespritzt werden. Verbrannt kann er nicht 
+werden, sonst würde mehr mechanische Leistung rauskommen. Unverbrannt 
+aus dem Auspuff darf auch nicht viel kommen, das würde den Kat töten.
+An den Zylinderwänden können solche Mengen auch nicht kondensieren, 
+sonst würde irgendwann der Zylinder "überlaufen".
+Ein Teil des Kondensats geht ins Motoröl, aber das ist im Vergleich zum 
+Verbrauch extrem wenig, aber genug, dass es mir letzten Sommer das l 
+irgendwo rausgedrückt hat, weil der Ölstand über Maximum gestiegen ist.
+
+Das mit dem mehrfachen Verbrauch stimmt vielleicht die ersten paar Sekunden.
+Bei meinem alten GDAW mit Hand-Choke konnte ich den Choke unmittelbar 
+nach dem Anlassen wieder reinschieben, er lief trotzdem.
+
+
+-- 
+Patrice

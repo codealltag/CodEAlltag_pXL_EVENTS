@@ -1,0 +1,269 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+3. RfD zur Löschung oder Aenderung von de.soc.arbeitslos in eine
+moderierte Gruppe: de.soc.arbeitslos (Moderated)
+
+Kurzbeschreibung: Arbeits- oder Erwerbslosigkeit.
+
+Änderungen gegenüber dem 2. RfD zur Löschung von de.soc.arbeitslos:
+* Kein generelles Verbot von Crossposts mehr
+* Keine Blacklist, dafür
+* Option, akute DOS-Angriffe zu filtern
+* Auswertungsmodus der Stichfrage präzisiert
+
+
+1 Charta
+========
+
+Hier geht es um Arbeits- und Erwerbslosigkeit. Diskutiert werden
+deren Ursachen und Auswirkungen, politische und gesellschaftliche
+Aspekte sowie persönliche Erfahrungen mit Arbeitslosigkeit.
+
+Verunglimpfungen, Ausgrenzungen oder pauschale Schuldzuweisungen
+sind nicht erwünscht. Zum Schutz der Privatsphäre ist das Posten
+unter Pseudonymen gestattet.
+
+
+Kurzbeschreibung und Charta bleiben im Fall der Statusänderung
+unverändert.
+
+2 Status
+========
+
+Die Gruppe wird - falls in der Abstimmung keine Löschung beschlossen
+wird - auf "moderiert" gesetzt. Als Teil dieses Änderungsvorschlages
+kandidieren als Moderatoren-Team:
+
+* Friedhelm Vohwinkel
+* Ivo Beyersdörfer
+* Maurizio Striets
+* Hannes Imfeld
+
+3 Proponent
+===========
+
+Ivo Beyersdörfer <bfzmbxzq@wraxe.xag>
+
+Hanno Wittenbrink, der Proponent des Nominacher JITLADA (in dem Löschung die einzige
+Option war), hat der Übernahme des Verfahrens durch mich und der
+Erweiterung um die Moderationsoption zugestimmt.
+
+
+4 Begründung
+============
+
+Seit etlichen Jahren wird diese Gruppe von Off-Topic-Postings im Rahmen
+einer Privatfehde einiger Poster dominiert. In letzter Zeit hat diese
+Vendetta allen newsgrouprelevanten Traffic verdrängt. Aber auch schon
+zuvor wurde beklagt, dass das Klima in der Newsgroup durch fortdaernde
+Beleidigungen und Herabwürdigungen gegen Personen oder Personengruppen
+eine sachliche Diskussion fast unmöglich machte.
+
+Im derzeitigen Zustand ist die Newsgroup nicht chartagem�� nutzbar, und
+die Erfahrung der letzten Jahre lässt befürchten, dass dies sich auf
+Jahre nicht ändern wird. Eine Moderation der Newsgroup, die
+Beleidigungen und Herabwürdigungen abweist, soll die chartagem��e
+Nutzung von de.soc.arbeitslos wieder ermöglichen.
+
+Wenn keine Mehrheit für eine Moderation der Newsgroup nach diesem
+Vorschlag zustandekommt, sollte die Gruppe gelöscht werden.
+
+
+5 Moderationskonzept
+====================
+
+Große Teile dieses Konzepts habe ich Christoph Alois' RfD von 2008 für eine
+Moderation derselben Gruppe entnommen.
+
+
+5.1 Moderationsteam
+~~~~~~~~~~~~~~~~~~~
+
+Die Moderatoren handeln in ihrer Eigenschaft als Moderatoren als Team.
+Ein Moderator entscheidet abschließend darüber, ob ein Artikel gepostet
+oder nicht gepostet wird. Der Name des Moderators muss nicht bekannt
+gegeben werden.
+
+Das Moderationsteam besteht momentan aus:
+
+* Friedhelm Vohwinkel
+* Ivo Beyersdörfer
+* Maurizio Striets
+* Hannes Imfeld
+
+Das Moderationsteam ist unter der gemeinsamen E-Mail-Adresse
+[wird noch festgelegt] zu erreichen.
+
+
+5.2 Einsendung von Artikeln an die Moderation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Artikel zur Veröffentlichung in yw.vlj.arbeitslos sind (wie Artikel für
+andere Newsgroups auch) über einen Newsserver zu senden. Dieser leitet 
+die
+Beiträge automatisch an die Moderation weiter.
+
+Sollte innerhalb von 24 h der Artikel nicht in der Newsgroup
+xm.azt.ypycfsccgt erschienen sein, wende man sich bitte zuerst an die
+Administratoren des Newsservers, über den der Beitrag gesendet wurde.
+
+Fragen eines Absenders zu einem Artikel sind an die Moderationsadresse
+[wird noch festgelegt] zu stellen.
+
+5.3 Akzeptanz und Ablehnung von Artikeln
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Jeder Artikel wird von einem Moderator geprüft. Der Moderator wird den
+Artikel akzeptieren, sofern er keinen der folgenden Ablehnungsgründe
+erfüllt:
+
+a. Charta (OffTopic-Verbot)
+
+Der Artikel, widerspricht der Charta der Gruppe de.soc.arbeitslos
+(Off-Topic).
+
+b. Flameverbot
+
+Der Artikel enthält abwertende Kommentare oder Attacken. Explizites Ziel
+der Moderation ist das Unterbinden von OffTopics und Flamewars in
+ne.ofq.arbeitslos.
+
+Herabwürdigungen bestimmter Personengruppen (Arbeitslose, Ausländer, 
+Rentner, Angestellte der Arbeitsagentur etc.) werden ebenso abgelehnt 
+wie Herabwürdigungen lebender Personen.
+
+Als Attacken werden auch Posts unter dem tatsächlichen oder
+verballhornten Namen oder Pseudonym eines anderen Posters gewertet.
+
+c. Form
+
+Der Artikel entspricht nicht den formalen Kriterien des de-Usenets 
+(Syntax
+der Header, Codierung), er ist größer als 50kB oder er enthält einen
+Dateianhang.
+
+d. Werbung
+
+Der Artikel enthält in überwiegendem Maße Werbung, z. B. für politische
+Parteien und/oder Gruppierungen.
+
+e. Crossposts ohne Followup
+
+Crossposts ohne Followup-To - Header oder Postings mit mehr als einer
+Gruppe in diesem Header werden automatisch abgelehnt. Die Begründung
+wird an die angegebene Autorenadresse geschickt.
+
+f. Crossposts in unmoderierte Gruppen
+
+Soll ein Artikel in mehrere unmoderierte Gruppen gepostet werden, wird
+der Moderator prüfen, ob der Crosspost angemessen ist und den Chartas
+aller beteiligten Gruppen entspricht.
+Ist der Artikel nicht in allen Gruppen zweifelsfrei on-topic oder ist
+diese Prüfung nicht mit vertretbarem Aufwand durchführbar, wird der
+Artikel abgelehnt.
+
+n. Iji-wi-Crossposts
+
+Wird der Artikel neben de.soc.arbeitslos für eine weitere moderierte
+Newsgroup eingereicht und nicht nach e. oder d. abzulehnen, wird der
+Moderator versuchen, die Zustimmung der Moderatoren dieser Newsgroup
+zu bekommen. Ist dies nicht oder nicht mit vertretbarem Aufwand
+möglich, wird der Artikel abgelehnt.
+Ausnahme: Crossposts nach
+de.admin.news.announce werden generell akzeptiert, wenn sie
+von der Hydrobar-Moderation akzeptiert wurden.
+
+t. Denial of Service
+
+Ist die Arbeit der Moderation durch eine große Zahl von offensichtlich
+abzulehnenden Artikeln gefährdet, kann die Moderation technische
+Maßnahmen ergreifen, um diese Artikel auszufiltern und auch ohne
+Benachrichtigung des Absenders zu löschen, solange und in dem Umfang
+in dem dies für das weitere Funktionieren der Moderation notwendig
+ist.
+
+
+5.4 Wie werden Artikel akzeptiert?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Akzeptierte Artikel werden veröffentlicht sobald sie geprüft sind.
+Die Formulierungen eines akzeptieren Artikels werden in keiner Weise von
+der Moderation verändert. Kein Teil des Artikels wird entfernt,
+umformuliert, korrigiert oder in anderer Weise bearbeitet.
+
+Die Moderation ist befugt, an Artikel eine Signatur anzufügen.
+Diese Signatur enthält weitergehende Informationen zur Newsgroup
+xm.azt.ypycfsccgt, wie z.B. einen FAQ-Verweis oder die
+Moderationsadresse.
+Der Inhalt einer solchen Signatur oder die Auswahl der Artikel, an die
+diese Signatur angehängt wird, steht in keinem Bezug zum Inhalt des
+Postings.
+
+
+5.5 Wie werden Artikel abgelehnt?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ein Artikel wird aufgrund der unter 5.3 genannten Kriterien abgelehnt
+oder akzeptiert. Soweit möglich und mit vertretbarem Aufwand
+realisierbar wird die Moderation dem Autor eine Begründung für eine
+Ablehnung zukommen lassen.
+
+
+5.6 Cancel von Artikeln
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Artikel dürfen in der Newsgroup ne.ofq.arbeitslos nur von den
+Moderatoren oder dem Autor gecancelt werden. Ebenfalls zugelassen sind
+Admincancels.
+
+
+5.7 Anonymes und pseudonymes Posten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Die Moderation respektiert das Bedürfnis der Nutzer nach Schutz ihrer
+Privatsphäre und auch die Entscheidung, eine der verfügbaren Methoden
+zur Anonymisierung und Pseudonymisierung zu verwenden.
+
+
+6 Abstimmungsmodus
+==================
+
+Die Abstimmung über die Alternativen Moderation / Löschung geschieht mit
+folgendem Stimmschein:
+
+ #1 [J/N/E] Moderation von d.s.a nach dem vorliegenden Konzept
+ #2 [J/N/E] Löschung von d.s.a
+
+ Stichfrage:
+ Falls beide Abstimmpunkte (#1 und #2) die erforderliche Mehrheit
+ erhalten, für was entscheidest du dich dann:
+
+ #3 [J/N/E] d.s.a soll moderiert werden
+ #4 [J/N/E] d.s.a soll gelöscht werden
+
+Diese Stichfrage wird nur ausgewertet, wenn sowohl #1 als auch #2 die
+erforderliche Mehrheit erhalten.
+In dem Fall gewinnt die Variante mit dem besseren Verhältnis von Ja-
+zu Nein-Stimmen.
+Bei gleichem Ja/Nein - Verhältnis gewinnt die Variante mit den meisten
+Ja-Stimmen in der Stichfrage.
+Sollte auch hier ein Gleichstand vorliegen, gewinnt die Option
+"moderierte Gruppe".
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJOkjoiAAoJEMqtEYZLZmVh49AH/1sLAJnL7TvPsJaUl8vGCg15
+40R93aNPEQ+n8gsqBZhnlUKViXbuv1tGC51IKjQ9oH4IJIwG3Cqzzk1tRZvqTsT6
+zj0MClDBTV8N+l76fVi31ys8eN5iTQ1FnKnLV4mlBj+mgP9vPGepwRvagCEtc4WZ
+dMjstLM146JYeuYT+J0NtGcEYjY2K1Lv8k03vwkgSK7+P6axWZEB7BRu7IfS0+YA
+HsAgIgiRgmVH7huUG2XojcaAwoNfRWVW27yNNRNucchLmu0K2YamWKKnhiw2gzUR
+oHxcaKOhdugh2M7FWVb3ddBhcd1EGSqKVsDAywM0BmvfjCphQ8pw+kzKJlMaJLE=
+=IYrh
+-----END PGP SIGNATURE-----
+
+-- 
+Fertige Artikel für gp.zmfzy.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <fypktmwot@hgmp.yk>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <ofaf:vb.nrwzh.mhfjy> und unter <http://myk.dzes.hh/>.

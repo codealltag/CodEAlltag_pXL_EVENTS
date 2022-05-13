@@ -1,0 +1,28 @@
+Ein MacBook(Pro) klappst du zu und es 'schläft' - Aufklappen und es ist 
+in kurzer Zeit da! Und die offenen Programme haben kein Problem damit. 
+Das funktioniert einfach. Selbst falls der Akku während der Ruhezeit 
+leer wird, der RAM Inhalt liegt als Kopie auf der HD.
+
+Zusatzmonitor anstecken und er wird eingebunden - abstecken, alle 
+offenen Programm Fenster sind wieder am Notebook Monitor versammelt.
+
+AFAIK unter Linux noch immer eine Frickelei!
+
+Etwas vergleichbares wie Magic Mouse und Magic Trackpad findest du 
+(noch) nicht in der Windows und Linux Welt.
+
+Detto wie Fusion Drive.
+
+Dem Thunderbolt Bus läuft die Windows Welt noch hinterher ... und die 
+Linux Welt ...?
+
+Und welcher PC Hersteller verbaut noch Retina Display ähnliche Monitore?
+
+Claras ist die Speer-Spitze der Innovation und wird es hoffentlich bleiben.
+
+-- 
+Norbert
+libertä, Galit, fraternit
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

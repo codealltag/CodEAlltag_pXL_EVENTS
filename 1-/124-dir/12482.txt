@@ -1,0 +1,68 @@
+^
+Wie bitte?  c := const., c ≠ 1.
+
+
+Weshalb sollte man Masse durch Zeit dividieren müssen, wollen oder können?
+
+
+“Ruhemasse” ist AFAIK ein veralteter Begriff, der statt einer Ruheenergie, 
+und einer Energiezunahme bei Bewegung, mithin höherer 
+Relativgeschwindigkeit, die *Zunahme* (und nicht etwa wie oben impliziert 
+die Abnahme) einer geschwindigkeitsbezogenen “relativistischen Masse” 
+zugrundelegt. [0]
+
+Die Masse von Photonen wird mit 0 *angenommen*; es gibt dafür einen oberen 
+Grenzwert, der sehr klein ist (< 10⁻¹⁸ eV/c [1]).  Gezeigt, dass die 
+Photonenmasse tatsächlich 0 ist, hat bisher AFAIK noch niemand.
+
+Mit der Zeitdilatation hat das IMHO nicht direkt etwas zu tun.  In der 
+Formel kommt die Masse (m) nämlich gar nicht vor [2]:
+
+  T'₀ = T √(1 – (v² ∕ c²))
+
+bzw.
+
+  T₀  = T' √(1 – (v² ∕ c²))
+
+
+Das Ergebnis der Division von 0 durch 0 ist _nicht definiert_, genausowenig 
+wie irgendeine andere Division durch 0.  Es ist weder 0 noch +∞ oder −∞.
+
+Obiger Annahme liegt ein verbreitetes Missverständnis zugrunde.  Unendlich 
+(+∞ und −∞) sind nämlich *keine* Zahlen.  Mit Unendlichkeiten kann man 
+Sachverhalte ausdrücken, aber man kann damit nicht rechnen.
+
+Der *Grenzwert* etwa von 1∕x² für x→0 ist +∞.  Das bedeutet aber, dass sich 
+der Wert von x von −∞ (“links”) und von +∞ (“rechts”) aus dem Wert 0 zwar 
+beliebig annähern kann, aber x *niemals* tatsächlich den Wert 0 annimmt 
+(bzw. hier auch: annehmen *kann*).  Die Funktion f(x) = 1∕x² hat also an der 
+Stelle x = 0 _nicht_ den *Wert* +∞ und auch _nicht_ den Wert 0.  Sie hat an 
+dieser Stelle *gar* *keinen* Wert, denn sie ist dort gar nicht definiert 
+(siehe auch [3]).
+
+[Gleiches gilt übrigens für die Funktion g(x) = 0∕x², deren Graph 
+trivialerweise eine Gerade entlang der Abszissenachse mit einem “Loch” im 
+Koordinatenursprung ist.  Die Funktionen h(x) = 1∕x und k(x) = 0∕x haben an 
+der Stelle x = 0 noch nicht einmal einen Grenzwert.  Hyperbel nochmal!]
+
+
+Nein, aber an Odiles obigen Aussagen gibt es leider auch nichts zu 
+verstehen.
+
+
+Interessantes Argument.  Diesen (vermutlich nur scheinbaren) Widerspruch 
+würde ich auch gern verstehen.
+
+F'up2 de.sci.physik; das nächste Mal bitte selbst ein passendes F'up2 
+setzen.
+
+[0] <http://yt.dinlzqazx.xfq/bjux/Ycklnqtdc#Dqlkrlcgqzjbfrr_Regcn>
+[1] <http://cb.rtlgodhnf.bdh/sdqo/Iwkpkf>
+[2] 
+<http://fy.biasibyrf.yoj/tvcr/Ngmywmbgyxfhhz#Dwedsmbqcxblxi_cgjpn_djypbgyi_Kfbiqhvy>
+[3] <http://ej.rkdjpgzqg.knw/aftx/Cygtazur_(Fgjmvnihxa)>
+-- 
+PointedEars
+
+Zisler: @NvumgtrBdnn5
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

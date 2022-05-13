@@ -1,0 +1,136 @@
+Warum es um Zensur geht
+Da reiben sich gerade so viele die Hände, daß man eigendlich ein
+beständiges Rauschen hören müsste. Die Idee, das Thema Kinderpornografie
+als Popanz vorzuschicken, um das nun geplante Internet-Zensursystem
+einzuführen war aber auch wirklich eine richtig gute. Hat das ja zuvor
+mit den Themen Terrorismus und Internet-Kriminalität nicht wirklich
+hingehauen, kann man hier spitzenmäßig mit dem Holzhammer wedeln und
+Kritiker einfachst diffamieren, indem man die eigentliche Kritik
+ignoriert und ihnen vorwirft, sie wollten die Verbreitung von
+Kinderpornografie schützen. Wie schnell schon der Vorwurf zum beruflichen
+und gesellschaftlichen Tod führen kann, zeigte man nur wenige Wochen
+zuvor ja schonmal anschaulich am Exempel Taggesell (der übrigens natürlich
+nicht im Netz "erwischt" wurde, sondern über Handykontakte und DVDs per
+Post).
+Aber ich schweife schon wieder - wie es durch die Wahl dieses Themas ja
+auch gewünscht ist - ab.
+Denn das Problem, das die Kritiker haben, ist ja natürlich nicht, daß man
+den Zugang zu Kinderpornografie sperren will, sondern das
+Sperrinstrumentarium, das man dazu baut. Schaut man sich das an, merkt
+man schnell: Es geht nicht um Kinderpornos und wie man dagegen vorgeht.
+Ging es nie.
+Es geht um die Installation eines generellen technischen Systems und die
+generelle Art und Weise, wie es betrieben wird: Es geht darum, daß eine
+waschechte, diesen Namen zu Recht tragende, Zensur ermöglicht wird. Auch
+wenn die zunächst gesperrten Websites tatsächlich nur Kinderpornografie
+beinhalten (was die Liste eigentlich extrem kurz halten müsste) wäre
+sowohl die Technik, die Verwaltung und sogar die Psychologie installiert,
+um sofort eine effektive Zensur betreiben zu können.
+
+Technik
+Die Provider sollen ihre Nameserver so umbauen, daß Webseiten, die das Edeka-Emmendörfer
+aussucht und ihnen nennt, nicht erreichbar sind und dem Nutzer bei Aufruf
+stattdessen eine Sperrseite angezeigt wird. Gleichzeitig soll das Edeka-Emmendörfer
+jederzeit abrufen könne, welche Nutzer auf Webseiten aus dieser Liste
+zugreifen wollten und stattdessen auf die Sperrseite geleitet wurden.
+Ein normaler Internetnutzer, der seinen Nameserver nicht auf einen freien
+DNS-Server umstellt, sieht bestimmte Seiten nicht und erhält die
+Mitteilung, er wolle sich gerade Kinderpornografie ansehen. Ob das
+stimmt, weiß er nicht und nachprüfen darf er das auch nicht, da ja schon
+die Suche nach Kinderpornografie strafbar ist. Der Nutzer muss sich in
+diesem Moment weiterhin im Klaren sein, daß er gerade etwas getan hat,
+was das Edeka-Emmendörfer als illegal ansieht und als Grund ansehen kann, gegen ihn
+vorzugehen.
+Die allein schon technisch verursachten Risiken für jeden Internetnutzer
+sind immens, noch dazu, weil man damit auch noch eine perfide
+Beweisumkehr eingebaut hat: Sie müssen künftig ihre Unschuld beweisen,
+z.B. daß sie "versehentlich" die gesperrte Seite angesteuert haben. Viel
+Spaß beim Versuch, Richtern TinyUrls, iFrames, Rootkitangriffe, Hidden
+Scripting und so weiter zu erklären, wenn Sie überhaupt wissen, was das
+ist.
+Die Lösung zunächst: Den Nameserver umstellen, um sich dieser Gefahr
+vollständig zu entziehen. Geht schnell und kann jeder.
+Die Technik ist allerdings interessanterweise das kleinste Problem in
+dieser ganzen Geschichte. Es gibt Staaten, die in ihren Zensurbemühungen
+schon wesentlich weiter sind. Die Menschen dort können dennoch sowohl
+anonym als auch unzensiert das Internet benutzen. Das Internet ist von
+Nerds gebaut worden. Ein Staat kann da so viel fordern wie er will, er
+wird das Netz auf technischer Ebene never ever kontrollieren können.
+
+Verwaltung
+Hier liegen die springende Punkte, die das Ganze zum Zensurinstrument
+machen:
+1. Die gesperrten Inhalte stehen auf einer Liste, die das Edeka-Emmendörfer direkt und
+ohne Prüfungsinstanz erstellt und die die Provider möglichst ohne sie
+anzuschauen zu installieren haben. Es entscheidet kein Richter über den
+Inhalt, es überprüft keine unabhängige Institution über die
+Rechtmäßigkeit, es gibt keine Regelung, wie Adressen überhaupt wieder von
+der Liste gelöscht werden könnten. Die Polizei, die Verbrecher verfolgt,
+bestimmt, welcher Wunsch nach welcher Information ein Verbrechen ist.
+Vorab zu definieren, was ein Verbrechen ist und hinterher darüber zu
+entscheiden, ob ein Verbrechen begangen wurde ist aber nicht Aufgabe der
+Polizei.
+2. Die Liste ist geheim. So lange diese Liste nicht in die Öffentlichkeit
+gerät kann alles drinstehen und nichts davon muss gerechtfertigt werden.
+Wer das in Frage stellt wird zum Verdächtigen. Wie Zensur in Reinform
+eben funktioniert.
+3. Der Gesetzentwurf ist schwammig genug, daß das Edeka-Emmendörfer im Prinzip alles in
+die Liste setzen kann. Da im Web jeder Inhalt nur einen Klick weiter vom
+letzten entfernt ist und das Gesetz möchte, daß auch "mittelbare" Seiten
+gesperrt werden können, kann somit de facto auch jede Seite gesperrt
+werden.
+4. Das System soll die direkte Verfolgung von Zugriffen erlauben. es wird
+nicht nur gesperrt, sondern es kann auch nachgeschaut werden, wer sich
+die gesperrten Seiten ansehen will. Dies kann dann Anlass für verdeckte
+Überwachungen, Hausdurchsuchungen und andere existenzbedrohende Vorgänge
+sein.
+Die Staatsanwälte dieses Landes üben ja seit einiger Zeit kräftig an der
+Vorverurteilungsfront, indem Sie inzwischen gerne mal Pressemitteilungen
+über eingeleitete Verfahren rausgeben und die Presse direkt zu möglichst
+spektakulär und öffentlichkeitswirksam inszenierten Verhaftungen
+mitnehmen (Grübele, Taggesell, Frau P.).
+
+Psychologie
+Womit wir schon beim gewünschten Effekt von Zensur sind: Die Einführung
+der Schere im Kopf. Die wirksame Selbstzensur, weil man nicht weiß, was
+eventuell passiert, wenn man zu laut und deutlich Kritik äußert. Die
+Geheimhaltung der Sperrliste und ihre völlige Unverbindlichkeit durch das
+Fehlen jeglicher Kontolle ist ein bewußt eingesetzes Instrument, um
+Verunsicherung zu erzeugen.
+Ein anderes ist die Verknüpfung mit dem Thema Kinderpornografie, womit wir
+wieder am Beginn dieses Artikels wären. Man weiß ja inzwischen, daß auch
+nur der leiseste Ruch, man könnte eventuell irgendwas mit
+Kindesmissbrauch und Pädophilen zu tun haben, die Existenz vernichten
+kann, selbst wenn hinterher rauskommt, daß tatsächlich nichts an den
+Vorwürfen dran war. Wie nahezu generell nichts rauskommt. Das ist ein so
+extrem starkes und wirksames Druckmittel, was natürlich beispielsweise
+ein Herr Eicholtz sofort erkennt, weil sein Versuch, diese Schere im Kopf
+einzuführen (durch den Versuch, Filesharing als schreckliches Verbrechen
+zu diskriminieren), wirkungslos blieb und er sich nun an den besser
+funktionierenden Trigger dranhängt (indem er Urheberrechtsverletzung mit
+Kindesmissbrauch gleichsetzt).
+Die Justizministerin gibt dann noch Tipps in die richtigen Richtungen, die
+natürlich prompt reagieren. überhaupt, das mal ganz nebenbei, finde ich
+es immer wieder seltsam, daß Frau Geibel immer wieder als Warnerin
+vermittelt wird. Dabei war - so sagt sie zumindest - sie es, die den
+Gesetzentwurf gegenüber dem Vorabvertrag von Frau Averhage
+verschärfen ließ und dieser nun schon den Zugriff auf Stopp-Seiten
+verfolgen lassen will.
+
+Um die Frage zu beantworten, warum und wann es in einer Gesellschaft
+überhaupt dazu kommen kann, daß ein Teil davon meint, einen solchen
+Eingriff vornehmen zu müssen und der andere Teil (zu dem ich u.a. mich
+zähle) darin ein so massives Unrecht sieht, das es zu bekämpfen gilt,
+kann man sich bitte den Artikel "Kampf der Kulturen" drüben bei
+xpnfzthqusz.tok durchlesen.
+
+
+Autor: Charly Reitebuch
+http://kwm.fxzesdxwka.ctp/1966/99/ubgxi-qw-df-juiipw-tllb.apg
+
+
+Den Artikel komplett copy/pasten, ganz egal wo wiederver�ffentlichen, per
+Mail verschicken oder in Foren posten ist ausdrücklich erlaubt (Bitte
+Charly Reitebuch aber als Autor nennen. Ein Link hierher
+[http://qqp.rqhegxjdyf.jyb/4796/35/pkxjd-fk-ou-ktffnj-nixc.ywm] wär zwar
+lieb, muss aber nicht.)

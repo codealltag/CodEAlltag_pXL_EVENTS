@@ -1,0 +1,23 @@
+Hallo,
+
+
+Nein. Die unten folgende Begründung ist eine Langform der
+Angaben die ich bereits mehrfach gemacht habe. Einen Roman
+muss man dazu nicht schreiben und eigentlich gab es massig
+Infos in der (Computer-) Fachpresse zum Thema. Und das
+wichtigste: Einfach mal ansehen!
+
+
+Alles was irgendwas mit Grafik zu tun hat: Dort findet man
+geübte Betrachter. Das geht vom Grafiker bis zum technischen
+Redakteur. Dann kommt noch der Sonderfall Wissenschaft rein.
+Dort sind die Leser geschult. Da hat mich IIRC ein Mediziner
+nach LaTeX und der verwendeten Schrift gefragt. Es war die
+Computer Modern Bright (CMBR). In den Zeiten der Online-PDF
+ist diese Schrift jedoch nachteilhaft.
+
+
+MfG
+
+
+Patrik Osterfeld

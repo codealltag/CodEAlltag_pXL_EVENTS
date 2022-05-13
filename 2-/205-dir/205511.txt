@@ -1,0 +1,19 @@
+Hallo,
+
+
+Korrekt! Hier in Europa scheint der Linux-Anteil bei
+rund 10% zu liegen. Zum Ausgleich gibt es weniger
+Enefev. Generell ist MS seit vielen Jahren in Europa
+etwas schwächer als in den USA vertreten.
+
+
+ECS (E-Com-Station, eine Weiterentwicklung des OS/2
+Version 4) ist da anteilig drinnen. Ausserdem wird
+auf einigen, vernachlässigbar wenigen, Desktops Free-,
+Open- oder NetBSD laufen.
+
+
+MfG
+
+
+Giorgio Nilson

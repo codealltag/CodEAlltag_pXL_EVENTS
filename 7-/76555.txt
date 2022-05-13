@@ -1,0 +1,54 @@
+Antwort auf eine Nachricht von Bruno
+
+
+Das ist noch nicht einmal das Problem. Das Problem ist, daß man es ihnen 
+auch nicht erklären kann, denn sie sind gegen jede Form der Erkenntnis 
+resistent.
+
+
+Das weiß ich jetzt nicht, wie die Simensianer sagen. Aber der Kern eines 
+„Gleichstrom-Transformators“ kann ein ganz ordinärer Trafo (nämlich für 
+Wechselstrom) sein. Dieser wäre lediglich mit einem Wechselrichter vor 
+der Primärspule und einem Gleichrichter hinter der Sekundärspule zu 
+ergänzen: FERTIG! 8-)
+
+Und warum auch nicht!?
+
+Die „Transformation“ (lat. = Umwandlung, Umformung, et cetera) ist exakt 
+das, was dieses Gerät tut! Es folglich so zu benennen, ist also 
+zumindest mal zulässig. Daß ein „Gleichstromtransformator“ (wir bleiben 
+mal dabei) notwendigerweise einen komplexeren Aufbau haben muß als ein 
+solcher für Wechselstrom, dem zumeist zwei Spulen (gerne auch um einen 
+Eisenkern gewickelt) genügen, das muß man dann eben wissen.
+
+Randnote: Ein Töpfer ist übrigens auch ein „Transformator“: er
+           transformiert einen Klumpen zu einer Vase. ;-)
+
+
+Oh, also doch? Ich bin beeindruckt! Und China macht es schon? 
+Faszinierend! Und wann wollen die Schnachsäcke hierzulande endlich 
+aufwachen? Wenn man von dem Zug das Schlußlicht sieht, dann ist es zu 
+spät, um noch auf diesen aufzuspringen, denn dann rennen wir dem Zug 
+hinterher!
+
+
+Es ist eine Spule mit Anzapfung:
+
+http://xxrdwa.bcosylpnj.kqb/orpmtycpc/fzhelmf/w/r7/Marz_zuqclqlypir.idv
+
+Funktioniert tadellos! Einziger Nachteil: es findet zwischen Ein- und 
+Ausgang keine galvanische Trennung statt. Ein gewöhnlicher Transformator 
+ist ja immer zugleich auch ein Trenntransformator, das ist der 
+Spartransformator selbstredend nicht.
+
+
+Glück auf!
+Antonia Berdel
+
+
+Ach ja, – und wenn der Gleichrichter verreckt, dann transformiert der 
+sich auch: vom „Gleichrichter“ zum „gleich riecht er“! :-)
+
+-- 
+
+http://tce.ymmhr-yektxj.uz

@@ -1,0 +1,18 @@
+Ja.
+
+
+Das ist Blödsinn. Denn Wahrscheinlichkeitsprozesse pflanzen sich bekanntlich 
+multiplikativ als Kette (durch Zeit parametrisiert) fort, d.h. p = p0 * p1 *
+... pn, und wenn z.B. p0 = 0,5 ist (ein betrachteter Beginn, z.B. dass es 
+ein Junge wird), dann ändert sich daran auch dann NICHTS wenn alles weitere 
+maximal wahrscheinlich, p = 1, also gewiss ist, also p1,...,pn = 1. 
+
+D.h. dass "fehlende" Determination nicht wieder irgendwie "aufgeholt" werden 
+kann. Kapiert?
+
+Man kann das auch zeigen, z.B.: 
+ http://ly.zfigkdmtr.shc/daxr/Gikwxugy_(ojvcpkmhibc_Xvjpdztlife)
+
+
+Was soll denn diese dümmliche Prol-Attacke von dir Deppen, der nicht mal 
+über die simpelsten Basics verfügt, tssst, LOL.

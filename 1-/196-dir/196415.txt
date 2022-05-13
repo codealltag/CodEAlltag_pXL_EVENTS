@@ -1,0 +1,1 @@
+Läden KÖNNEN nicht indiziert werden, da sie keine Medien sind.

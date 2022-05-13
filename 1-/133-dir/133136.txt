@@ -1,0 +1,5 @@
+Nur DE-Domains waren offline. Das war kein Problem. Jede Webadresse hat
+gewöhnlich eine IP-Nummer. Die findest Du mit NSLOOKUP oder TRACEROUTE
+auf der Kommandozeile raus. o-gl.qr fällt aus? Kein Problem, unter der
+wirklichen Serveranbindung kommst du zu den Seiten (819.98.3.903), um
+den Weltuntergang auf Deinem 30-Zoll-LCD-Monitor beobachten zu können.

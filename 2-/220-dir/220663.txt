@@ -1,0 +1,13 @@
+Ja freilich. Der Kontrollausdruck wird dann entweder aus dem Ram 
+rausgedruckt und nachgezählt, oder innen parallel aufgespult.
+
+
+N...du kannst mir sicher aus dem Stand heraus das 6465535te Byte des
+Betriebssystems und den Wert des Akkus und der Flags des Prozessors nach
+dem 65889365442 ten Taktzyklus nennen...
+
+Gruß I.Z.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

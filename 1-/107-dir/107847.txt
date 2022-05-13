@@ -1,0 +1,57 @@
+Mit einer Hintertür für die "Hochsicherheitsserver" der Behörden. Um einen
+Virenscan machen zu können, _mu�_ entschlüsselt werden. Das geht nicht
+anders. Und genau hier ist die Schnittstelle für Angreifer.
+
+Warum nicht PGP?
+
+PGP wäre in der Tat unknackbar gewesen. Aber leider auch umsonst. Aus
+beiden Gründen hat man es wohl nicht genommen.
+
+
+Die Sicherheitsbehörden müssen nicht spionieren - die sagen einfach,
+welche Mails sie gerne ausgedruckt auf dem Tisch hätten.
+
+
+Die AGB reicht.
+
+
+Nach drei Tagen gilt die DeMail als nachweislich zugestellt. Im normalen
+Briefverkehr sind es immerhin Werktage. Nicht bei DeMail, da gilt jeder
+Tag. Sind damit behördliche Fristen verknüpft, laufen diese. Also auch
+über das Wochenende.
+
+
+Das wäre ja auch noch schöner.
+
+
+Genau. Dann habe ich das Schreiben in der Hand.
+
+Bei einer verlorenen DeMail wegen technischem Defekt habe ich nichts,
+obwohl die Behörde behaupten darf, rechtsverbindlich zugestellt zu haben.
+Mit allen Konsequenzen.
+
+Und dann soll ich als Bürger allen Ernstes _beweisen_, daß ich die Mail
+nicht erhalten habe.
+
+DeMail geht von einem unfehlbaren technischen System aus - Größenwahn in
+Reinkultur. Aber tatsächlich vermutlich nur die bekannte totale
+Inkompetenz unserer Regierung hinsichtlich Datennetzen.
+
+Abgesehen davon, daß die Nichtexistenz nicht bewiesen werden kann, wird
+hier so offensichtlich jede Verantwortung auf den Bürger umgelegt, daß
+dieses System garantiert eine Totgeburt ist.
+
+Allerdings könnte unsere Regierung per Gesetz einen DeMail-Account
+vorschreiben. Dann müßte aber auch jeder H4-Empfänger auf Staatskosten
+einen PC erhalten :-)
+
+Kommt also auch nicht.
+
+Man sollte die Sache einfach besser vergessen.
+
+
+Größe,
+
+
+-- 
+Ralph Pfüll

@@ -1,0 +1,62 @@
+Gute Idee, so sollte es funktionieren:
+
+Schritt 1: Outlook-Symbole entfernen
+Unter Systemsteuerung / Software / Windows-Komponenten hinzufügen/entfernen
+das Häkchen bei "Outlook Express" entfernen.
+Schritt 2: Folgende Verzeichnisse löschen (soweit vorhanden)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\Stationery
+C:\Dokumente und Einstellungen\username\Anwendungsdaten\Identities
+C:\Dokumente und Einstellungen\username\Anwendungsdaten\Microsoft\Address 
+Book
+C:\Dokumente und Einstellungen\username\Lokale 
+Einstellungen\Anwendungsdaten\Identities
+C:\Dokumente und Einstellungen\username\Lokale 
+Einstellungen\Anwendungsdaten\Address Book
+Schritt 3: Folgende Registry-Einträge löschen
+HKEY_LOCAL_MACHINE\Software\Microsoft\Outlook Express
+HKEY_LOCAL_MACHINE\Software\Microsoft\WAB
+HKEY_LOCAL_MACHINE\Software\Microsoft\Active Setup\Installed 
+Components\{24LPS045-PH50-92NB-SJKG-84XD46U1805K}
+HKEY_LOCAL_MACHINE\Software\Microsoft\Active Setup\Installed 
+Components\{9075964F-9025-54F9-MF34-36L95FC00P86}
+HKEY_CURRENT_USER\Identities
+CQEB_AXUBBKK_HBAX\Lunpmfqy\Pvvqucfps\Ktfefdp Express
+KHIB_ZFMBWEG_OICY\Obnokjdj\Rxlbjxeup\TCX
+Schritt 4: Folgende Dateien löschen
+Hinweis: Wenn nach dem Löschen von Dateien eine Warnmeldung von Windows 
+erscheint, auf Abbrechen klicken und die anschließende Meldung akzeptieren. 
+Windows stellt nämlich fest, dass die Originaldatei nicht mehr im Dllcache 
+vorhanden ist und will sie dann von der CD holen, was wir aber nicht wollen 
+;-)
+In C:\Windows\System32\Dllcache: (von hier aus restauriert Windows die 
+Dateien automatisch wieder, daher diese Dateien zuerst löschen!)
+csapi3t1.dll
+directdb.dll
+inetcomm.dll
+msimn.exe
+msoe.dll
+msoeacct.dll
+msoeres.dll
+msoert2.dll
+oeimport.dll
+oemig50.exe
+oemiglib.dll
+setup50.exe
+wab.exe
+wab32.dll
+wab32res.dll
+wabfind.dll
+wabimp.dll
+wabmig.exe
+In C:\Programme\Gemeinsame Dateien\System:
+directdb.dll
+wab32.dll
+wab32res.dll
+In C:\Windows\System32:
+inetcomm.dll
+msoeacct.dll
+msoert2.dll
+In C:\ Programme \ Outlook Express alle Dateien löschen.
+
+Solltest Du winME oder 98 benutzen, ist natürlich ein "Format C" auch sehr 
+erfolgreich.

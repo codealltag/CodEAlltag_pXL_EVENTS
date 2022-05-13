@@ -1,0 +1,28 @@
+Demnach müsste es finanziell egal sein, ob in sein Auto nur einen 
+kleinen Akku der Größe AA oder einen richtig großen Fahrakku einbaut. 
+Würde mich doch sehr wundern.
+
+
+Je nach System.
+
+
+Nicht unbedingt. Manche Akkus (z.B. bestimmte NiCd-Typen) muss man 
+regelmäßig "trainieren". Die gehen vom Nichtgebrauch kaputt. Andere 
+Akkus werden nicht unbedingt klassisch geladen, sondern mit einem 
+Elektrolyt betankt. Es wird einfach der Elektrolyt ausgetauscht. Da weiß 
+man dann gar nicht mehr recht, wie man einen Ladezyklus definieren soll.
+
+
+Das hängt aber doch in erster Linie vom verwendeten Akkusystem ab. 
+Meistens ist es halt so, dass die preiswerten Dinger auch viel größer 
+und schwerer sind, was sie für Langstreckenanwendungen indiskutabel 
+macht. Aber auf Kurzstrecken ist das Anforderungsprofil eben ein anderes.
+
+
+Um welchen Batterietyp geht es dabei? Welche Reichweite hat das Fahrzeug 
+damit?
+
+-- 
+Servus
+Roberto Hindermann
+http://afb.txxdjbl.ov

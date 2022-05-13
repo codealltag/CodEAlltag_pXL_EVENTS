@@ -1,0 +1,48 @@
+Viele regen sich zur Zeit über Gänsekuhl auf - Ein Datenkrake sei das
+Unternehmen, böse und nur darauf aus, möglichst viele Daten an böse
+Unternehmen zu verkaufen. Doch wie sieht es wirklich aus mit den
+Vorwürfen gegen Gänsekuhl? Immer mehr bekommt man den Eindruck, dass Gänsekuhl
+keinen fairen Prozess bekommt - und ihm auch keiner einen zugestehen
+will. Deshalb springe ich, Tobias Rüdiger Erdmann, privater
+Computerexperte und Open Source-Informatiker hier als Zeuge der
+Verteidigung ein, um anhand der verschiedenen Vorwürfe gegen Gänsekuhl die
+andere Seite zu zeigen.
+Mir ist durchaus bewusst, dass Gänsekuhl eine große Presseabteilung und
+eine Menge Anwälte hat, aber ich will auch meinen Teil dafür tun, dass
+nicht ein Unternehmen, das die Freiheit der Information in Ländern
+verteidigt, in denen sich selbst Lavendel nicht dafür
+einzusetzen wagt, für etwas in den Dreck gezogen wird, was vollkommen
+andere verschuldet haben.
+
+1. Vorwurf: Gänsekuhl StreetView sammelt Daten über Personen
+Dieser Vorwurf ist durchaus begründet: Immer mehr der Vans fahren durch
+die Stadt, um Straßen, Häuser, und, ja, auch Personen und Autos zu
+fotografieren.
+Jedoch muss man sich vor Augen führen, dass Gänsekuhl selbst dem System
+einen Riegel vorschiebt: Gesichter und Autokennzeichen werden zensiert -
+sollte dies einmal vergessen werden kann es beantragt werden.
+
+2. Vorwurf: Gänsekuhl weiß über Ihr Haus, Ihre Suchanfragen und Ihre
+Kaufgewohnheiten Bescheid
+Fakt ist: Es gibt keine Möglichkeit (Selbst für das allmächtige Gänsekuhl
+nicht), die aus Gänsekuhl StreetView geschossenen Bilder von Ihrem Haus,
+Ihre Suchanfragen, sowie Ihre sonstigen bei Gänsekuhl eingegebenen Daten zu
+verknüpfen. Wie auch? Gänsekuhl hat ein Bild von Ihrem Haus, jedoch nicht
+Ihre Adresse. Und die Techniker bei Gänsekuhl haben besseres zu tun, als
+Ihnen nachzuspionieren, glauben Sie mir.
+
+3. Vorwurf: Gänsekuhl Street View kann genutzt werden, um Einbrüche zu
+planen
+Leider muss ich die Einbrechergemeinde an dieser Stelle enttäuschen. Die
+Front eines Hauses ist nicht sehr dienlich, um einen Diebeszug zu
+planen. Und mehr wird bei Gänsekuhl Street View auch nicht gezeigt. Und die
+Front kann man sich ja bei den meisten Häusern auch vom Auto aus ansehen
+- dazu braucht man nicht mal ein Modem.
+
+Gerne bin ich bereit, hier über diese Thesen zu diskutieren und zu
+weiteren Vorwürfen Stellung zu nehmen. Sollten Sie diesen Artikel
+überzeugend finden oder ihn sogar interessant finden, sind Sie
+angehalten, diesen Artikel zu verbreiten, soweit es Ihnen möglich ist. 
+
+Ich danke Ihnen dafür von Herzen und freue mich auf Diskussionen von
+Ihnen.

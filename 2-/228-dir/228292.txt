@@ -1,0 +1,13 @@
+Wie genau würdest du ein Programm schreiben, das aus 175.000
+Telefonanschlüssen intuitiv herausfindet, daß der Telefonan-
+schluß nnn.nnn.xxx einem Lokführer zugewiesen ist und nicht
+einem Lageristen oder einem Einkäufer oder einem Elektriker?
+
+Ich würde die Nummer eine Zeitlang testen, ob damit Firmen
+verbunden werden, die als Zulieferer eingetragen sind. Dann
+gilt diese Nummer als in den näheren Kreis der Überwachung
+einzubeziehen (das habe ich als Sieb und Kies an anderer
+Stelle beschrieben).
+
+So weit durfte es aber nicht kommen im Fall der Bahn.
+Du bist auffallend nervös und persönlich.

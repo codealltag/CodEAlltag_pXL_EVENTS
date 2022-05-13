@@ -1,0 +1,12 @@
+...ist nicht Windows 7. Es sind die Prototyp Security Essentials. Dieser 
+kostenlose (und laut "BBK" ziemlich guter) Vollschutz ist seit einiger Zeit 
+verfügbar. Der läuft nämlich wirklich auf allen Findorffmarkt-PCs der letzten zehn 
+Jahre, ohne viele Ressourcen zu verbrauchen.
+
+Es ist doch nur eine Frage der Zeit, bis MSE per Win-/MS-Update verfügbar 
+ist oder sie zum Lieferumfang von Windows gehören. Und dann, bis neue PCs 
+serienmäßig damit installiert sind.
+
+Was machen nun die ganzen CYTEL, die Lesehexe und die Bunot?
+
+Mauro Bekemeyer

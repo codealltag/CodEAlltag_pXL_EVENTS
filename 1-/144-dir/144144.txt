@@ -1,0 +1,52 @@
+Drehstrom Motor (Kurzschlussläufer):
+
+Wartungsfrei (nur 2 Kugellager an beiden Enden der Welle), sehr hoher
+Wirkungsgrad über 90%, sehr hohe Drehmomente aus dem Stand (kein
+Getriebe notwendig), geringe Wärmeentwicklung, keine
+Stillstandsverluste, relativ geringes Gewicht, extrem Langlebig,
+mittels preiswerten Frequenzumrichtern einfach anzusteuern, ....
+
+Hat sich bei größeren Leistung deshalb so ziemlich überall
+durchgesetzt, mit Aunahme bei der Mobilität.
+
+
+Doch bei mir schon! Erzeugt über eine Photovoltaikanlage +
+Wechselrichter. Für eine übliche Fahrleistung reicht die Dachfläche
+eines Carports.
+<
+<
+na, mal was anderes zur abwechslung ...
+
+ziemlich optimistisch der letzte satz ... ;-)
+
+man aber einiges kombinieren, zumindest bis auf weiteres ...
+
+meinetwegen photvoltaik + kleinen benziner + batterien +
+4 kurzschlussl�ufer + elektronische steuerung ...
+
+bei der heutigen technik halte ich es sogar für tragbar,
+den kleinen benziner kurzfristig am stand laufen zu lassen,
+um die batterien zu füllen, dazu müssen gewisse gesetze
+geändert werden, denn der benziner läuft elektronisch
+geregelt im stand auf der BESTEN drehzahl und kann
+dadurch EXTREM sauber konstruiert werden ...
+
+schaltet nach natürlich sofort automatisch aus, wenn er
+nicht mehr gebraucht wird ... !
+
+man kann das in verschiedenen modellen bauen, einmal
+MIT gaspedal und etwas mehr PS (langstrecken), einmal
+OHNE gaspedal und manuellem drehzahlregler, und die
+SAUBERSTE drehzahl sucht er sich automatisch, wenn
+nicht manuell oder per pedes eingegriffen wird ...
+
+wie gefällt dir das ... ?
+
+vom reinen elektroauto halte ich nicht viel, es sei denn
+für transportanbieter in den stadtzentren ...
+
+das aufladen ist für die masse der fahrer ein örtliches problem
+und man müsste weltweit noch 200 atomkraftwerke bauen ...
+
+gru
+f

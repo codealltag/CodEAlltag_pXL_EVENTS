@@ -1,0 +1,28 @@
+Das wundert mich doch etwas. Es gehört zu den Binsenweisheiten der
+modernen Computerforensik auf einem beschlagnahmten System nichts zu
+verändern. Jede Veränderung kann Beweismaterial zerstören, genauso als
+wenn man auf einem herkömmlichen Tatort herumlatscht. Deshalb wird von
+allen beschlagnahmten Systemen zur Beweissicherung ein Image gezogen von
+dem man beliebig viele Systemclones erzeugen kann. Mit diesen Clones
+können die Ermittler dann machen was sie wollen.
+
+Was mir ungereimt erscheint ist die platte Aussage, die Daten wurden
+irgendwie geändert. Dies lie0e sich nur durch zwei Methoden feststellen.
+
+1. Man verfügt über einen Hashwert (Fingerprint) der veränderten Daten
+vor der Veränderung und vergleicht diesen mit einem neu gebildeten Wert.
+
+2. Man verfügt über eine solide Datensicherung, darum kommt keine Bank
+herum und kann die Daten vergleichen.
+
+Ersteres ist gewöhnlich nicht vorhanden. Das zweite sollte, zumindest
+bei einer Bank, vorausgesetzt werden können existiert aber angeblich
+nicht . Somit kann auch kein alter Fingerprint mit einem Neuen
+verglichen werden, bzw. die Daten neu gegen alt gegenübergestellt werden
+
+Ich halte die Behörden auch nicht für so Dumm, das sie derart
+diletantisch Rechner manipulieren und hoffen das es keiner merkt.
+
+Sorry, hier stimmt etwas nicht. Was tatsächlich übrig bleibt ist heiße Luft.
+
+MFG Giuseppe

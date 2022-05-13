@@ -1,0 +1,30 @@
+Wie kommst Du darauf? Hast Du schonmal überlegt, was eine Magnetlagerung
+ist, was ein Gleichgewicht zwischen kinetischer und potentieller Energie
+ist und was ein Wirkungsgrad ist? Außerdem ist der Vergleich zwischen
+Schwungrad und Kraftwerk völliger Blödsinn; wenn, dann vergleicht man
+Schwungräder mit Pumpspeicherwerken, Kondensatoren, induktiven Speichern,
+Akkus und Wasserstoffspeicherung. Denn ein Schwungrad ist nunmal kein
+Elektroenergieerzeuger, sondern ein Elektroenergiepuffer, und als solcher
+gar nicht mal so übel. Ob es Bedarf für Energiespeicher gibt, ist nämlich
+überhaupt keine Frage, denn sonst würde niemand Pumpspeicherwerke bauen.
+
+
+Es ist auf jeden Fall nicht sinnvoll, eine Wärmekraftmaschine mit ständig
+wechselnden Lasten zu betreiben, weil die Wärmekraftmaschine das nicht so
+sonderlich schätzt. Eine Wärmekraftmaschine läuft gern konstant bei einer
+optimalen Drehzahl durch, siehe Dauerfestigkeit, Wöhlerlinien, etc, etc.
+Deswegen braucht man Puffer. Das Schöne an einem Pumpspeicherwerk ist
+nämlich auch, daß man das innerhalb von Sekunden anfahren und auf Vollast
+bringen kann, und Schwungräder reagieren praktisch sofort.
+
+
+Wenn Du aus Deiner Inkompetenz und Uninformiertheit heraus Fragen stellst,
+dann ist das in Ordnung, aber wenn Du patzige Kommentare abgibst, dann
+prügele ich Dich kleines dummes Tier ganz schnell aus dem Saal. Die große
+Fresse haben kannst Du Dir hier nur bei Themengebieten leisten, auf denen
+Du Lehrer bist und ich Schüler. Aber was Energietechnik angeht, bin ich
+Lehrer, und ob Du zum Schüler taugst und aus Dir doch mal ein richtiger
+Mensch wird, oder ob Du für immer ein Affe bleiben wirst, das werden wir
+sehen.
+-- 
+The Coon

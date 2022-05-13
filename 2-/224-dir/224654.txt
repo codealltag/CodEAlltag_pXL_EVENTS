@@ -1,0 +1,4 @@
+aioe.org ist ein freier Newsserver und ohne Anmeldung für jedermann
+anonym nutzbar. An sich eine gute Idee, aber leider wird dieser Server
+von Trollen und anderen Vollspacken missbraucht, um anonym Schwachsinn
+oder Beleidigungen zu posten.

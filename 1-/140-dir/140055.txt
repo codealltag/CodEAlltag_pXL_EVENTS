@@ -1,0 +1,13 @@
+Es gibt noch diverse andere Einschränkungen.
+
+
+Wenn man mit dem Gefrickel fertig ist (und man hat seine Hardware nach dem
+Sefed gekauft) , ist Linux durchaus brauchbar, das stimmt. 
+
+
+Oki, manches ist einfach zu einfach.
+
+
+Ich weiß, weswegen ich Linux nie produtkiv einsetzen würde. Höchstens auf
+einem netbook, zum Surfen oder mal nen Video unterweegs guggen, Mails und
+ähnliches. Aber leider macht der Kernel auf meinem Netbook probleme.

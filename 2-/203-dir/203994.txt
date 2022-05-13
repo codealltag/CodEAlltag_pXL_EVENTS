@@ -1,0 +1,52 @@
+Nicht nur deswegen. Ich habe dieses furchtbare Weib schon seit ihrer 
+ersten Wirkungszeit auf der Schweineliste stehen.
+
+Sie hat damals gleich als erstes den Taxischein abgeschafft. Darauf 
+begab es sich, daß ein Renter vom Dorf aus der Gattung »sus poveri« 
+(arme Sau) sich die Fahrten zur Klinik nicht leisten konnte und 
+hierdurch die Termine für die dringend notwendige Dialyse verschleppt 
+wurden. Jetzt braucht er keine Dialyse mehr, jetzt braucht er Grabpflege.
+
+Just in der Woche, als die Meldung über die Ticker lief, stellte sich 
+das Tina grinsend vor die Kamera uns sagte: »Es wirkt schon!«
+
+Gewiß, geplant war das sicherlich nicht, daß der Tod des Rentners 
+zeitlich mit der Rede zusammenfiel, aber iregendwie hats doch gepaßt, 
+dachte ich mir.
+
+
+Wie man bisher jede Privatisierung begründete: mit quasi-religiöser 
+Überzeugung, daß Privat allem anderen vorzugehen hat.
+
+In Amerika, nur mal so als Beispiel, ist man diesbezüglich bereits einen 
+Schritt weiter, dort hat es sogar schon privatisierte Kriegseinsätze.
+
+
+ja, der Inhalt! Hier geht es aber um die Betreff-Zeile. Diese gehört 
+nicht zum Inhalt, sondern zu den Headers, und dort sind noch immer 
+ASCII-zeichen vorgeschrieben. Auch Umlaute müssen mit ASCII-Zeichen 
+dargestellt werden.
+
+So zum Beispiel:
+
+Subject: Re: Ein =?ISO-8859-15?Q?Ärztefunktion=E4r_dreht_komplett_?=
+  =?ISO-8859-15?Q?durch=2E=2E=2E?=
+
+ist es richtig! Die Unmlaute sind zwar drin, und doch werden hier keine 
+verwendet. Und so:
+
+Subject: Re: Ein Ärztefunktionär dreht komplett durch...
+                  ^            ^
+
+sieht es bei Dir aus, und das ist nunmal unzulässig.
+
+Aber gut, ich mach mal 'ne Ausnahme, ich will es doch reparieren. Und 
+zwar ganz ohne »ä«, dann passiert auch nix.
+
+
+Glückauf!
+Johanne Ueberfeld (Mellatz/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://yqs.dojuw-ykxmmj.ml

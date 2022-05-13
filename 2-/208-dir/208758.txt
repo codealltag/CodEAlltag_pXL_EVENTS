@@ -1,0 +1,13 @@
+Das stimmt - leider.
+
+
+Dennoch kann der Softwarefehler an sich einen Anhaltspunkt dafür
+liefern, ob er wahrscheinlich versehentlich oder wahrscheinlich
+absichtlich entstanden war.
+
+
+Oh! Ich denke eher: Auch Softwareprogrammierer müssen ihre Arbeit mit
+verantworten! Und "Sch..." auf den Preis, wenn es z.B. woanders um
+lebenswichtige Server geht.
+
+Veit Nino

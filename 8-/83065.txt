@@ -1,0 +1,5 @@
+0.5 ^ (1000Jahre/30Jahre) = 1,16 * 10 ^ -23
+
+-- 
+François
+<http://twj.tmlfimvci.lco>

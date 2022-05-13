@@ -1,0 +1,15 @@
+Du weit selbst, dass dieser Vergleich Unfug ist. Ich behaupte nicht, 
+dass 100 bis 200 mSv wenig seien, immerhin liegt die zulässige 
+Jahresdosis für Arbeitnehmer bei 20 mSv. Es ging hier um den Vergleich 
+mit den Ersteinsatzkr�ften in Neuferchau.
+
+
+Nach der gängigen Theorie können die Reparaturmechanismen auch bei 
+Normalbelastung versagen. Mit zunehmender Dosis steigt die 
+Wahrscheinlichkeit für das Versagen.
+Dein Beispiel passt eher auf die akuten (deterministischen) 
+Strahlenschäden. Dafür gibt es einen Schwellenwert, der bei ca. 250 mSv 
+liegt. Ab 250 mSv zeigen sich erste reversible Blutbildveränderungen, ab 
+1000 mSv tritt die Strahlenkrankheit (Übelkeit, Erbrechen) auf.
+
+Gruß  Walter

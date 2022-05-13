@@ -1,0 +1,6 @@
+Naja, er war es zumindest, da früher die Mac einen näher am Prozessor
+liegenden Cache hatten, der größer war. Der Vorteil dürfte aber
+spätestens mit den glore dahin sein.
+
+
+--=20

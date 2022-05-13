@@ -1,0 +1,29 @@
+Wir haben das ja kuerzlich hier schon diskutiert:
+Mein Hauptkritikpunkte zu dem Stromhandelssystem sind:
+- Wenn die Beitraege der Kleinerzeuger hauptsaechlich aus Photovoltaik
+stammen, dann loest das
+  Stromhandelssystem gerade nicht das Problem der Schwankungen  und
+Netzinstabilitaeten,
+  die die EE mit sich bringen.
+- Wenn die Kleinerzeuger sowas wie KWK/Stirlingmotor einsetzen, dann
+wuerden wir jetzt in eine   neue teure Infrastruktur zur Nutzung
+fossiler Energietraege einsteigen. Das kann nicht sinnvoll sein, wenn
+wir langfristig daraus aussteigen wollen/sollen/muessen. Wie schon
+frueher geschrieben haette man das vielleicht in den 70er/80er Jahren
+machen sollen.
+- Dafuer, dass Kleinverbraucher/erzeuger lokal Energiespeicher
+installieren, muesste erst einmal besser verstanden werden, welche
+Technologie zur stationaeren Energiespeicherung am besten geeignet
+ist, das wurde in diesem Thread ja schon diskutiert, ohne dass es zu
+einem klaren Favoriten gefuehrt hat. Fuer eine solche fruehe
+Technologieabwaegung ist ein Markt nicht die beste Methode. Ausserdem
+gibt es ja schon sein langer Zeit unterschiedliche Stromtarife (nach
+Tageszeit). Ich zahle zum Beispiel Mo-Fr tagsueber und Samstag
+vormittag etwa drei mal so viel fuer den Strom wie zu der uebrigen
+Zeit. Es gibt also auch ohne den bilateralen Stromhandel eine
+wirtschaftliche Motivation einen lokalen Stromspeicher zu
+installieren. Dass das kaum passiert, liegt vermutlich daran, dass die
+Kosten fuer den Speicher in keinem Verhaeltnis zu den Ersparnissen
+stehen.
+
+Luc

@@ -1,0 +1,14 @@
+Freilich stimmt das so nicht. Is ja nur Pseudo-Code und soll zur 
+Verdeutlichung dienen. Wie she denn das aus:
+
+cout << "Das ist hier nicht relevant" << endl;
+
+
+(doch beschissen)
+
+
+Gruß N.G.
+
+
+-- 
+Ich bin unschuldig, ich hab sie nicht gewählt!

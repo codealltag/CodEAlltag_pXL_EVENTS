@@ -1,0 +1,38 @@
+"Jean Brandow" schrieb
+
+
+OK, dann komme ich zur Zusammenfassung:
+
+(1) Ich finde es wie Du und Helena falsch, falsch kodierte Betreffzeilen mit 
+Umlauten in die Welt zu setzen.
+(2) Ich finde es nicht _besonders_ schlimm, falsch kodierte Betreffzeilen 
+mit Umlauten in die Welt zu setzen, denn es verursacht in praktisch keine 
+schlimmen Schäden.
+(3) Wenn der, der (2) tut, nicht weiß was er tut, ist es besonders nicht 
+schlimm.
+(4) Ich finde es in jedem Fall besonders schlimm, Postings ohne Betreff zu 
+versenden.
+(5) Wenn der, der (3) tut, weiß was er tut, dann ist es besonders besonders 
+schlimm schlimm.
+
+Meine unchristliche Erziehung hat dazu geführt, dass ich
+(a) allen die Freiheit gönne, alles zu tun, was anderen nicht schadet,
+(b) ggf. verständnisvoll reagiere, wenn jemand etwas tut oder tun will, was 
+anderen schadet
+(c) mit Unverständnis und ggf auch scharf reagiere, wenn jemand weiß, dass 
+er etwas tut, mit dem er anderen schadet.
+
+Letzteres ist bei Helena der Fall, und mich interessieren dabei keinerlei 
+technische Einzelheiten (die ich sehr gut verstehe und akzeptiere), wenn sie 
+die als Rechtfertigungen beim Fussaufstampfen benutzt.
+
+Fortsetzung Alexander:
+(6) Die Diskussion um RFC-gerechte Betreffzeilen wäre in der Praxis völlig 
+irrelevant, würde Helena auf Postings mit angeblich "kaputter" Betreffzeile 
+einfach nicht antworten.
+
+Da Hertas Vorschlag (Abschaffung von OE) kurz und mittelfristig nicht 
+realisierbar erscheint, schlage ich vor, dass zur endgültigen Lösung des 
+Problems der Punkt (6) umgesetzt wird.
+
+Philippe

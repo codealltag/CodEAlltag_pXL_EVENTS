@@ -1,0 +1,12 @@
+Im Prinzip schon. Sobald die Berechnung mit Daten von gestern
+reproduzierbar der Realität heute entspricht ist der Algorithmus
+korrekt. Da Klima die Summe von Wetter ist würde das bedeuten, dass man
+jederzeit 100 % zuverlässig das Wetter für jeden beliebigen Zeitpunkt an
+jedem beliebigen Ort vorhersagen können muss.
+
+Die Präzision heutiger Wettervorhersagen, insbesondere wenn sie
+Zeiträume von mehr als ein paar Tagen in der Zukunft betreffen, lassen
+erahnen wie /nah/ man diesem Ziel ist...
+
+-- 
+rs

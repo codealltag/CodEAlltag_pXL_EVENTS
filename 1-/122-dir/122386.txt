@@ -1,0 +1,11 @@
+Nicht zwingend. AFAIR können die GSM-Netze so "zurückgefahren" werden, 
+dass nur noch BOS dienste darüber kommunizieren können.
+Dann kann z.B. der Sanitäter mit seinem dienst-Mobiltelefon 
+telefonieren, mit dem privaten aber nicht
+
+klar. die "Ordner" können dann auch nicht mehr telefonieren.
+
+Werner
+
+-- 
+Wenn es vom Himmel Zitronen regnet -- lerne, Limonade zu machen.

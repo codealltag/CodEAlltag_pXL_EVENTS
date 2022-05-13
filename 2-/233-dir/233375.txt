@@ -1,0 +1,59 @@
+Er hofft auf verdammt viel Licht aus verdammt wenig Strom.
+
+Andere Baustelle: Rennrad.
+
+Die gute alte Rennradlampe mit Halogenlicht hatte dicke fette Ladyzellen 
+und brachte den Fahrer durch genau eine Nacht, dann war sie leer. Ich 
+habe LED-Licht, brauche nur noch Microzellen, und reichen tut das gut 
+und gerne für eine ganze Woche.
+
+Das sind jetzt zwar keine Zahlen, aber man hat doch ungefähr ein Gefühl 
+dafür, was LED-Licht kann.
+
+
+Das kauf ich Dir nicht ab.
+
+Nochmal Rennrad: LED-Licht brennt ungefähr zehnmal länger als 
+Halogenlicht, und das, obgleich die verwendeten Batteriepakete kleiner 
+sind. Deine Aussage kann also nicht stimmen, oder stellt zumindes nicht 
+den heutigen Stand der Technik dar.
+
+
+Neuentwickelte Fahrradscheinwerfer mit LED-Licht bringen es auf bis zu 
+60 Lux. Halogenscheinwerfer schaffen gerade eben mal 10 Lux. Auch diese 
+Aussage ist also fragwürdig. Allerdings muß ich Dir zustimmen, soweit es 
+sich um die derzeit angebotenen Leuchtmittel handelt, mit denen man die 
+Glühbirnen ersetzen will, da ist das Angebot noch etwas dürftig. Das 
+kann sich aber ändern.
+
+
+Hier kann ich nicht widersprechen, das ist wahr. Falls es noch nichts 
+neues gibt, von dem ich nichts weiß, wird mit LEDs monochomatisches 
+Licht erzeugt. Will man weißes Licht haben, muß man nolens volens drei 
+LEDs (rot, grün und blau) kombinieren. Oder man wendet einen Trick an, 
+wie bei meinem Fahrradscheinwerfer. Grundsätzlich ist da nämlich eine 
+blaue LED drin. Weißes Licht ergibt sich dadurch, daß man dem Material 
+einen fluoreszierenden Farbstoff zugesetzt hat, der unter Blaulicht ein 
+komplementäres gelbes Licht abgibt. So entsteht der Eindruck einer 
+weißen Lampe, obgleich es nicht wirklich eine solche ist.
+
+
+Äh, was flimmert denn da? Bei 50Hz geht die Lampe hundertmal an und aus. 
+So schnell sind unsere Augen nicht, daß sie das wahrnehmen könnten. und 
+überdies gilt nicht nur für Neonlicht, das macht die Glühbirne auch. 
+Allerdings wird dieser Effekt bei der Glühbirne ein bißchen dadurch 
+gedämpft, weil der Glühfaden im stromlosen Zustand ein bißchen nachglüht.
+
+Abgesehen davon müssen LEDs ohnehin mit Niedervolt-Gleichstrom betrieben 
+werden, will heißen, da ist eine kleine Elektronik vorgeschaltet. Wer 
+selber früher mal den Lötkolben schwang, der wird mir zustimmen, daß ein 
+einfacher parallel geschalteter Elektrolytkondensator am Ausgang der 
+Vorschaltung jedwedes Flimmern vollständig unterdrücken wird.
+
+
+Glückauf!
+Francine Fiebich (Oberaltertheim/Deutschland)
+
+-- 
+Fährst Du Fahrrad?
+Mußt Du gucken: http://ovs.pzfds-nfrurp.uz

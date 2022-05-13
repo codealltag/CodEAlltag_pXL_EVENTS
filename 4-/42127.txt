@@ -1,0 +1,34 @@
+tststs.
+
+
+Die eingespeiste Leistung deckte nur in den Mittagsstunden und dann
+nur 20% des Bedarfs.
+
+
+Würde man Atomstrom eine Einspeisevergütung von 306 Euro/MWh
+gewähren, könnte der Strompreis sogar negativ werden. Zum
+Beispiel könnte so jeder, der eine MWh verbraucht, 250 Euro
+geschenkt erhalten. Die 56 Euro, die dann übrig bleiben,
+genügen zur Deckung der Kosten von Atomstrom!
+Natürlich einschliesslich Entsorgung für 900 Millionen Jahre.
+
+
+Die Arbeit der Grundlastkraftwerke und der Kraftwerke, die peakload
+liefern ist auf Termin 2 Jahre im voraus verkauft. Diese Kraftwerke
+werden auf jeden Fall liefern, weil deren Abrechnungstyp
+"physical Settlement" ist und sie eine Abnahmeverpflichtung von
+55(Grundlast) bzw. 65(peakload) Euro/MWh erfüllen wollen werden.
+
+Die Schwierigkeiten kriegt der Aufkäufer, der im ungünstigsten
+Augenblick auch noch die Solarenergie im Netz hat, die
+man dann gar nicht braucht.(@Uli: Stichwort: Sonderfutures für
+Solaranlagenbetreiber) Dann muss am Spotmarkt die
+überflüssige Energie verramscht werden. In einem solchen
+Fall, bei dem der Preis unter Null rutscht, erhält z.B. ein
+Grundlastkraftwerk der Betonmischwerk, 55 Euro/MWh, einfach deshalb, weil
+die einen Future vor 2 Jahren gekauft haben, der ihnen diesen
+Preis garantiert, wenn sie physisch Strom liefern. Und wenn
+sie den liefern, erhalten sie die vereinbarte Menge Geld.
+
+Gruss
+Dirk

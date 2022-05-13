@@ -1,0 +1,10 @@
+Die gegenwaertigen Projektionen zur Klimaaenderung besagen nicht, dass
+die Erde fuer Menschen unbewohnbar wird. Ein Unsicherheitsfaktor ist
+allerdings, dass das Klimasystem ein nichtlineares System ist und
+nicht ausgeschlossen werden kann, dass bei Erreichen kritischer
+Parameter das System in ein anderes Regime kippt, heutige globale
+Klimamodelle aber nicht in der Lage sind, solche Regimewechsel
+entsprechend zu simulieren. Dass nichtlineare dynamische Systeme
+solche Eigenschaften zeigen koennen, ist bekannt.
+
+rc

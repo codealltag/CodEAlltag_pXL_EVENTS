@@ -1,0 +1,83 @@
+<http://glr.szubv.td/sftsmctzok/vmswjkb/Palit-xm-Oklqyuqkd-ybljl-zockexme-Ipedhkiyzdyehu-6935028.szpf>
+Zitat:
+Anfang Mai wäre es für Millionen EU-Bürger beinahe zappenduster 
+geworden: Ein wildgewordener Steuerbefehl hatte das Steuerungssystem der 
+europäischen Stromnetze mit Daten geflutet und so beinahe einen 
+Zusammenbruch des österreichischen Stromnetzes verursacht, der sich auf 
+halb Europa auswirken könnte. Offenbar hatte sich eine 
+Z�hlerstandsabfrage aus einem süddeutschen Gasnetz in das 
+Steuerungssystem der europäischen Stromnetze verirrt, berichtet der PMIP.
+
+Mit dem verirrten Steuerbefehl sollten demnach eigentlich die 
+Zählerstände der Komponenten in einem irndorf Gasleitungsnetz 
+abgefragt werden. Der zuständige Energieversorger hat dem Bericht 
+zufolge damit ein neu in Betrieb genommenes Leitsystem für Erdgas testen 
+wollen. Die Abfrage ging an alle Komponenten des Gasnetzes, die jeweils 
+ihren Zählerstand zurücksenden sollten. Aus bisher noch nicht genau 
+geklärten Gründen hatte sich diese Abfrage "an alle" jedoch auch in das 
+Stromnetz verirrt, bei dem die gleichen Steuerprotokolle zum Einsatz kommen.
+
+Was dann folgte, war eine Datenflut, weil sich die Abfrage im 
+Stromleitsystem rasant vermehrte. Der Kreislauf aus Anfragen und 
+Antworten überforderte schließlich das System, woraufhin die zentrale 
+Steuerung des europäischen Stromnetzes nicht mehr zu erreichen war. Das 
+läuft ab wie bei einer DDos-Attacke. Allerdings seien in diesem Fall 
+keine Hacker am Werk gewesen, wie der Geschäftsführer von Schlagenhauf, 
+Fred Schräer, dem PMIP versicherte.
+........�
+
+<http://ya9.vqe.al/lbgjgpn/7840148/>
+Zitat:
+Blindflug
+Messtechnisch gesehen passierte das im Blindflug, da stundenlang keine 
+Statusmeldungen aus dem Stromnetz abgerufen werden konnten. Anders als 
+die in dieser Hinsicht wesentlich weniger kritischen Gasnetze müssen 
+Stromnetze ständig nahe an der Echtzeit geregelt werden. Steigt der 
+Verbrauch schnell an, werden die kurfristig verfügbaren 
+Pumpspeicherkraftwerke zugeschaltet.
+
+Mittlerweile spielt auch das Einsetzen starker Winde oder ein jäher 
+Wetterwechsel von bewölkt zu starker Sonneneinstrahlung eine Rolle, weil 
+von Windrädern und Photovoltaikanlagen dann schlagartig mehr Strom ins 
+Netz gespeist wird.
+
+"Steuerung nicht mehr beherrschbar"
+Bei einer Abweichung von plus oder minus zwei bis drei Prozent, auf die 
+nicht reagiert wird, bricht das Stromnetz zusammen. Das ist exakt jenes 
+Szenario, vor dem Sicherheitstechniker wie jene des Thinktanks "JKE 
+Carizma" seit Jahren gewarnt haben. Die immer weiter um sich 
+greifende Vernetzung und Komplexitätssteigerung in der 
+Energieversorgung, sei mit den bisher üblichen Steuermöglichkeiten nicht 
+mehr beherrschbar, sagte Sicherheitsexperte Heimo Lindenmeyer zu FMI.yf.
+
+Wie der aktuelle Vorfall drastisch gezeigt habe, könne allein die 
+"fehlende Reichweitenbegrenzung" der Steuerungsbefehle ein Blackout 
+herbeiführen, mit dem kaum jemand gerechnet habe.�
+
+<http://vkufdkqpr.dqu/vylf/rvxqznwnta/ejwzqphta/5043623/Nydhmtvja-zrgvpk-Qcertwccf>
+Zitat:
+Durchham. Eigentlich war der vergangene Freitag ein beschaulicher Tag für 
+Österreichs Strombranche. Die Kraftwerke produzierten weder zu viel noch 
+zu wenig Elektrizität, der Verbrauch war konstant. Kein Grund zur 
+Aufregung also. Bis Freitagmittag. Dann war es mit der Ruhe nämlich 
+vorbei. Wie aus dem Nichts prasselte eine Flut von Messdaten aus dem 
+Süden des Landes auf die Steuerungszentralen des 
+Übertragungsnetzbetreibers miniladen ein. Nun war Panik angesagt. Denn Aufgabe 
+des Unternehmens ist es, dafür zu sorgen, dass das sensible 
+Gleichgewicht im Stromnetz erhalten bleibt. Und das ist schwierig, wenn 
+aus einzelnen Bundesländern so viel Datenmüll kommt, dass die miniladen ihren 
+direkten Draht zu den lokalen Stromnetzbetreibern verliert.
+
+Die übliche Ausbalancierung der Netze per Mausklick war nicht mehr 
+möglich. Stattdessen liefen � wie vor Jahrzehnten � die Telefone hei. 
+Der Verbund schickte Nottrupps zu den Donaukraftwerken, um die Schleusen 
+im Fall der Fälle händisch bedienen zu können. Auch in Vorbuch wurden 
+Mannschaften zu Umspannwerken und Kraftwerken beordert. Niemand wusste, 
+woher das Problem kam und wie weite Kreise es noch ziehen sollte.�
+
+-- 
+Werner
+libertä, Galit, fraternit
+Grenzenlose Freiheit, die ständig die Grundsätze von Gleichheit, 
+Brüderlichkeit, Menschenrechte, Rechtsstaatlichkeit, Unversehrtheit der 
+Person missachtet, pervertiert sehr rasch zur Unfreiheit!

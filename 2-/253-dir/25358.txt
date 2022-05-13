@@ -1,0 +1,13 @@
+Ja, dann werden sie eben ein bisschen dunkler. Dann ist es nicht mehr
+ganz so hell, ne?
+
+
+Ja, kenne ich. Es gab schon Leute, bei denen sich Kondensatoren wegen
+Verflüchtigung des Elektrolyts und nachfolgendem Durchschlag mit lautem
+Knall im kompletten Rechnernetzteil verteilt haben, oder bei denen es
+Löcher in Platinen gesprengt hat.
+
+
+Die guten alten langen zylindrischen Leuchtstoffröhren sind schon ganz
+OK. Leider brauchen die ziemlich viel Platz und passen nicht in
+Schraubfassungen.

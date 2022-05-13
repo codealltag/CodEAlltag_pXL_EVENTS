@@ -1,0 +1,51 @@
+On 22 Nov., 12:20, "Friedrich A. Schmiede" <zcoj.omrwlx...@qphnw.ca>
+
+Er meint keine Datencompression, sondern Dynamikkompression
+zwecks Lautmachens. Such mal nach "Loudnesswar".
+
+Die LP hatte auch technischen Gründen immer eine (leicht) andere
+Aussteuerung. (geometrische Struktur der Rillen).
+Das ist ok, war akzeptiert und kann leicht mit Lautstärkeregler
+ausgeglichen werden. Man konnte es technisch nur bedingt und man
+hatte nicht das Bedürfnis das Musikmaterial mit aller Gewalt laut
+zu machen, sondern man konzentrierte sich auf den Klang.
+Und insbesondere dieser wurde auf die Gegebenheiten der LP hin
+optimiert. Was Mischung und Mastering betrifft, so *dass* auf der
+LP das optimale Klangergebnis erziehlt wird.
+Logischerweise können daher digitale 1:1 Überspielungen des
+Masterbandes auf CD schlechter klingen. Vielleicht erst recht,
+wenn es erneut "digitally remastered" wurde.
+Es ist also *kein* Argument pro LP, dass alte Musikstücke auf LP
+(manchmal) besser klingen als auf CD.
+
+CD haben immer 0dBfs Maximalpegel. Sind daher theoretisch
+alle gleich ausgesteuert. Aber eben nicht laut.
+Gemäß dem Motto vieler Konsumer und vieler Musiker
+(! - nicht der Produzenten) ist laut =3D=3D gut.
+(hat auch hörphysiologische Hintergründe)
+Und daher wurden die CD immer lauter mit immer ausgereifteren
+Methoden. Übertreibt man es geht es zu lasten des Klangs
+und der Dynamik sowieso.
+Verstärkt wurde dieser Wahn durch den Loudnesswar der
+Dudelradiosender.
+
+Alle diese Behandlungen müssen bei einer objektiven Beurteilung
+herausgerechnet werden. Also ausgefeiltes LP-Mastering und
+Tot-Komprimierung bei CD.
+
+Und nur das reine Medium beurteil werden. Und da ist LP nunmal
+Dreck und CD gut. Und für 90% aller Musik ist die CD-Qualität
+auch 100% ausreichend. 24/96 bringt da keine hörbare Verbesserung.
+
+Und last but not least:
+Auch beim CD-Player spielt die Qualität dieses eine Rolle.
+Der Unterschied alter Mittelklasse CD-Player vs. Studiowandler
+ist viel stärker als der Unterschied 128er mp3 zu original CD.
+
+High-End-Plattenspieler vs. Billig-CD-Player ist ein unfairer
+Vergleich.
+Wenn schon dann High-End-Plattenspieler vs. High-End-CD-Player.
+Und billig Plattenspieler vs. Billig-CD-Player.
+Und gerade bei letzterem schneidet die LP weitaus schlechter ab.
+Denn die Qualität der Wiedergabegerätes spielt hier eine wichtigere
+Rolle. Wohingegen bei CD-Player eh die Standard-ICs verbaut sind.

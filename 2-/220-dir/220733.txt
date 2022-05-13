@@ -1,0 +1,38 @@
+Moin,
+
+Mark Cremerius schrub:
+
+
+Du vergleichst deutlich andere Motoren miteinander.
+
+
+6l Diesel sind ähnlich wie 7l Benzin. Aber wieder vergleichst du
+vermutlich technologisch weit voneinander entfernte Motoren.
+
+
+Gerade große Autos werden meistens erstaunlich weit entfernt von
+ihrer Nennleistung betrieben. Deswegen ist die
+Nenn(=Maximal)leistung ja auch nicht der Auslegungsfall für
+einem PKW-Motor.
+
+Du wirst dein 50PS-Motorrad sicher nur seltenst mit 50PS gefahren
+haben. 
+Rechnung z.B. Beschleunigung von 0 auf 100:
+100km/h bei Fahrzeuggewicht sind eine kinetische Energie von 
+116kJ.
+50PS sind 38kW, die bringen die Energie von oben in an sich in
+3.1s zusammen. 
+Und wie lange braucht das Mopped in echt? 10s? Dann heißt dass,
+dass so ein Vollgas-Beschleunigungsmanöver vom Motor nur im
+Mittel rund 17PS verlangt. Und das obwohl du den Gasgriff immer
+voll durchziehst (außer beim Schalten)
+
+Eben, die 50PS werden seltenst verwendet. Und dementsprechend ist
+so ein Motor (bei Autos gilt das gleiche) nicht darauf
+ausgelegt, bei seiner Maximalleistung den geringsten Verbrauch
+zu haben, wozu sollte man auch?
+
+Jedenfalls kann man das deswegen nicht mit Kraftwerken
+vergleichen.
+
+CU Rollo

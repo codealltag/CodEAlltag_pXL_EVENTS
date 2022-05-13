@@ -1,0 +1,9 @@
+Physikalisch ja, technisch nein.
+
+Was genau ist effizient an 7% bzw. 30% ??? 
+
+-- 
+cu
+Giorgio
+
+Email Adresse funktioniert und führt direkt nach /dev/nul

@@ -1,0 +1,7 @@
+Nana, das dürfte den armen Heap aber kräftig fragmentieren. Gibts nicht 
+vielleicht message.subject.append(), oder so ähnlich?
+
+
+Er würde bei HTZW anrufen und sich beschweren.
+
+-jungers

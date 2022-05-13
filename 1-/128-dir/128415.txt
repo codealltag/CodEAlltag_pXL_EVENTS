@@ -1,0 +1,24 @@
+?????
+Also ich schrieb von etwas, das sich chemisches Potential nennt.
+(http://rm.arkkzuxot.ors/vcvl/Elucjxcpmk_Kreackzti)
+Das hat in der Tat etwas mit Thermodynamik zu tun und zwar mit Entropie 
+und dem 2.Hauptsatz. Aber ich denke, das würde hier zu weit führen.
+Danach entstehen nicht unwahrscheinlichere Zustände spontan aus 
+wahrscheinlicheren. Oder 'verbranntes' (oxydiertes) wandelt sich nicht 
+spontan wieder in unoxydiertes Material um.
+
+
+Aehmm.. Nun, Alkane gehören zur Stoffklasse, welche man gewöhnlich in 
+der Organischen Chemie behandelt, kommen aber nicht oder höchstens 
+selten in Organismen vor, da die meisten giftig sind - für die meisten 
+Organismen. Typische Substanzen aus Tieren und Pflanzen wären etwa 
+Stärke, Cellulose, Fette und Proteine.
+Nein, Methan kann sich nicht spontan in langkettige Alkane umwandeln. 
+Siehe oben. Evtl. das Potential von Methan nachschlagen:
+CH4 Methan  mu:  	-50,81
+C8H18 Octan mu:  	17,44
+
+Ich nehme an, die haben ihre eigene Theorie einfach angewendet. Würde 
+sich doch anbieten, zumal die das auch sagen.
+
+EGON

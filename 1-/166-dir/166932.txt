@@ -1,0 +1,12 @@
+Na dann muss halt per Verbrauch abgerechnet werden. Ich würde neben dem 
+GPS-Ortungssystem für einen verplombten Durchflussmesser, der exakt den 
+verbrauchten Kraftstoff ermittelt, der dann versteuert wird, und diesen 
+in Echtzeit per HSPDA ans Finanzamt übermittelt.
+
+Gerecht und einfach, oder?
+
+Valentin
+-- 
+Offizielles Mitglied von Patrik Zöphel Killfile
+"Photovoltaik ersetzt 10cm Benzin pro Jahr."
+(Patrik Zeitlmeir in de.rec.fahrrad)

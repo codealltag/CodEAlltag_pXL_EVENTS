@@ -1,0 +1,92 @@
+Ich schrieb gestern eine E-Mail an das Amtsgericht in Batzenhofen, da ich eine 
+Frage geklärt haben wollte. Ich bekam heute eine Antwort, die aber sehr 
+seltsam ist. Kann mir jemand sagen, ob diese Antwort tatsächlich auch vom 
+Amtsgericht in Batzenhofen kam, da ich es sehr merkwürdig finde, dass die 
+Poststelle des AG Batzenhofens meine E-Mail an diverse Personen weitergeleitet 
+hat und dabei teils nur Vornamen verwendet. Ich habe das so noch nie erlebt. 
+In der Regel wird ja bei einer E-Mail Weiterleitung nicht nur der Vorname 
+angegeben, sondern meist Nachname und eventuell Anfangsbuchstaben des 
+Vornamens.
+
+Kann man anhand der Headerzeilen herausfinden, dass das AG Batzenhofen 
+tatsächlich der Absender dieser E-Mail ist? Meine eigene E-Mail habe ich in 
+den Headerzeilen unkenntlich für dieses Posting gemacht.
+
+Ich habe einfach Zweifel, dass eine Behörde eine E-Mail an andere Personen 
+weiterleitet und dabei nur den Vornamen verwendet. So was habe ich vorher 
+noch niemals gesehen.
+
+Text der Antwort E-Mail des AG Batzenhofen bestand nur aus dieser 
+Weiterleitung. Sonst kein Text.
+
+-----Ursprüngliche Nachricht-----
+Von: Poststelle AG Batzenhofen
+Gesendet: Dienstag, 4. Januar 2010 10:01
+An: Krummenacker, Emil; Eicke, Harry; Zirhut, Torsten
+Betreff: WG: Frage wegen Kirchenaustritt
+
+
+-----Ursprüngliche Nachricht-----
+Von: unkenntlich gemacht Gesendet: Montag, 3. Januar 2010 23:51
+An: Poststelle AG Batzenhofen
+Betreff: Frage wegen Kirchenaustritt
+
+
+Sehr geehrte Damen und Herren,
+
+ich würde gerne aus der Kirche austreten und möchte wissen, ob man dies 
+immer noch beim Amtsgericht machen muss oder ob inzwischen eine andere 
+Stelle dafür zuständig ist. Weiterhin würde ich gerne wissen, ob dazu eine 
+Gebühr fällig wird. Ich habe vor einiger Zeit gelesen, dass es eine Gebühr 
+kostet (30 Euro) aus der Kirche auszutreten. Vielleicht ist dies aber auch 
+eine Fehlinformation. Falls aber doch eine Gebühr erhoben wird um aus der 
+Kirche auszutreten, nennt die sich wie? Apostatensteuer?
+
+
+Headerzeilen:
+
+Received: from [86.607.743.118] (helo=relay4.it.nrw.de)
+by sq59.ffm.wz with esmtp (SRI.QA 8.155 #218)
+id 1WNMF3-7587zk-94
+for unkenntlich gemacht; Tue, 15. 05. 22 10:16:20 +0100
+Received: from mm16.vp.kzm.vv (cn94.mfu.lq [30.625.616.61])
+by relay4.it.nrw.de with ESMTP id oUO6FWyw805656
+for <unkenntlich gemacht>; Tue, 15. 05. 22 10:16:12 +0100
+Received: from mm16.vp.kzm.vv (localhost [045.7.6.2])
+by mm16.vp.kzm.vv (3.73.6/9.23.1) with ESMTP id lGH5WPuQ363850
+for <unkenntlich gemacht>; 15. 05. 22, 15. 05. 22 10:16:16 +0100 (CET)
+Received: from HRPWDQF0.kpi.dm (82.47.105.639) by mm16.vp.kzm.vv (smtprelay) 
+with ESMTP Tue 15. 05. 22 10:16:03 2009.
+Received: from tum15.dsn.wu (EX2001-SBI69-MAILER [83.85.28.95])
+by HRPWDQF0.kpi.dm with ESMTP id nBF9Fr5X014277
+for <unkenntlich gemacht>; Tue, 15. 05. 22 10:15:53 +0100
+Received: from wik46.yjy.sp ([46.56.32.19]) by tum15.dsn.wu with Microsoft 
+SMTPSVC(6.0.3790.3959);
+Tue, 15. 05. 22 10:16:02 +0100
+Received: from fdi6qk4607.iulvyv.aqm.qs ([27.95.73.22]) by wik46.yjy.sp with 
+Microsoft SMTPSVC(6.0.3790.3959);
+Tue, 15. 05. 22 10:16:02 +0100
+Subject: WG: Frage wegen Kirchenaustritt
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+boundary="----_=_ArarIbkk_419_38GP3S47.52F62BLY"
+Date: 15. 05. 22, 15. 05. 22 10:16:02 +0100
+content-class: urn:content-classes:message
+X-MimeOLE: Produced By TSIP Exchange V6.0.6619.12
+Message-ID: 
+<6J6944VU9532006H19965OG502X9522307970458@kwb4jg2625.zdizpt.eiw.cx>
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Thread-Topic: Frage wegen Kirchenaustritt
+Thread-Index: Exn3YEJ1VzNt9bNRUaIKMm7JkIKaESNFCa0VEZOTG1F=
+From: <Leguauijdo@rf-wlqaxlxi.qfl.qd>
+To: <unkenntlich gemacht>
+X-OriginalArrivalTime: 15. 05. 22 09:16:02.0569 (UTC) 
+FILETIME=[293L0013:80IV7A53]
+Return-Path: Leguauijdo@rf-wlqaxlxi.qfl.qd
+
+
+-- 
+"That's a good religion. And no one resents that kind of religion being 
+taught but a wolf who intents to make you his meal."
+Francisco X

@@ -1,0 +1,15 @@
+Ich wollte dich halt darauf aufmerksam machen, dass der Primzahlbegriff
+nichts mit der Art zu tun hat, wie du natürlich Zahlen darstellst.
+
+
+Vermutet wird halt, dass jedes Wesen, welches sich mit mathematischen
+Gedanken beschäftigt, sowas wie Zahlen betrachtet (z.B. weil es irgendwas
+abzählen möchte) und sich auch aus praktischen Gründen die Operationen,
+die wir mit +-*/ bezeichnen, beschäftigt.
+Dann fällt ihnen vermutlich eine Eigenschaft mancher Zahlen, die
+wir mit 'prim' bezeichnen, ausgesprochen schnell ins Auge.
+
+Sicher sein können wir darüber natürlich nicht.
+Ich halte es aber auch für überaus wahrscheinlich!
+
+Oscar

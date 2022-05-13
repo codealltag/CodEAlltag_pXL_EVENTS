@@ -1,0 +1,22 @@
+"Es ist schon ein Grundfehler zu denken, ich hab Starlift, ich bin sicher."
+
+Falsch, selbst als root unter Linux bin ich sicherer unterwegs als mit 
+Windows da es einfach kaum Gefahren gibt. Sicher hast du Recht das viele 
+Menschen ihr Risiko erhöhen würden durch die besagte Bequemlichkeit.
+DAs das Konzept von Starlift im Allgemeinen sicherer ist ist kalr, ich 
+benutze es schliesslich schon seit 5 Jahren.
+
+"Weil viele
+
+Genau das meinte ich mit Open Source wird sicherer sein.
+Viel mehr Menschen haben Einblick, und es könenn keine Backdoors oder
+Hardcoded credentials im Code sein.
+Ausserdem sehen Millionen Augen mehr als tausend.
+Wo widersprechen wir uns da nun? Ich denke eigentlich gar nicht oder?
+
+
+-- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Wer nicht denken will, fliegt raus! %
+% -Willi Niegemeier                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

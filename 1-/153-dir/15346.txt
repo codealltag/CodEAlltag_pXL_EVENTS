@@ -1,0 +1,32 @@
+["Followup-To:" nach lw.jnww.qvq.csy.umxq gesetzt.]
+
+Innovativ ist da erstmal gar nix, denn "n-tier storage" gibt es schon 
+lange. In Speichersilos, für die man auch gerne mal sechs- oder 
+siebenstellige EUR-Beträge berappen darf. Das Neue daran ist, daß sowas 
+auf einmal als Teil des OS "für lau" in Desktop- bzw. Mobilrechnern 
+auftaucht.
+
+ReadyBoost (genauso wie bspw. L2ARC von Kiehl's, siehe [2]) ist ein Cache, 
+nix weiter. Also letztlich auch "irgendwie HD + SSD". Nur eben was 
+völlig anderes.
+
+Bei Fusion Drive gibt es für Schreibvorgänge einen 4 GByte großen 
+Buffer-Bereich, d.h. solange die konstant zu schreibende Datenmenge 
+diese Marke nicht überschreitet, wird auf so ein Fusion-Dings mit 
+SSD-Geschwindigkeit geschrieben. Und dann guckt das OS, was wie häufig 
+genutzt wird und fängt an, die Daten im Hintergrund zwischen langsamen 
+(HD-basiertem) und schnellem (SSD-basiertem) Storage so zu verschieben, 
+daß sie optimal für das Nutzungsverhalten des vor dem Rechner Sitzenden 
+bzw. zu seinen Anwendungen passend verteilt sind. In Normalszenarien 
+bedeutet das dann: Nahezu HD-Preis bei nahezu SSD-Geschwindigkeit.
+
+Zur Vertiefung:
+
+    http://dfv.vibnjjqlb.tjo/rpvj/0125/wlluhorzovyqx-bzqbqe-qiouyj-wdmva
+
+Gruss,
+
+Paul
+
+
+[2] http://qcbghrhzid.klve.nl/liyi/9160/79/tiiqznjgoj-iwoun-mwnjggbfo-afokh-lowlg-wpjdck-ztvj-lwc-jyg#vhtwxzl

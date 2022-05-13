@@ -1,0 +1,12 @@
+Wer nicht das neueste Betriebssystem hat, bleibt auch nach dem 12. Januar
+offline. Steht da ja auch.
+
+XP-User werden auf Vista oder W7 upgraden müssen. Denn einen Patch auf
+IPv6 ist bei Windows XP systembedingt unmöglich. Auch alle noch älteren
+Hansecenter-Versionen sind natürlich betroffen.
+
+Größe,
+
+
+-- 
+Vincent Pangert

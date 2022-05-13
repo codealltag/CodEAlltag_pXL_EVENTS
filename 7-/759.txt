@@ -1,0 +1,38 @@
+21. Juli 2012
+WLAN-Router erkennt Gestensteuerung durch Wände
+
+Der umgebaute Router kann spezielle Gesten auch 
+in anderen Räumen erkennen
+
+....
+
+Die Gesten werden dabei durch Veränderungen im WLAN-
+Signal erkannt. Um zu erkennen, wo sich Menschen in 
+einem Gebäude befinden, seien nur ein Access Point, 
+Router und mobile Geräte notwendig. 
+
+Die WLAN-Signale gehen dabei, wie man weiß, auch 
+durch Wände. Bewegt sich der Mensch, sind die Signal-
+Änderungen messbar. Führt der User Gesten aus, so 
+entstehen bestimmte Muster an Doppler-Verschiebungen, 
+die von einem WLAN-Messgerät aufgenommen und analysiert 
+werden. Die Breitbandsignale werden zuvor in Schmalband-
+signale umgewandelt. Bewegt man seine Hand zum oder vom 
+Empfänger weg, erkennt dieses die Intention und setzt 
+es in Befehle um.
+...
+ Bastuck sei aber bislang das einzige System, dass Gesten 
+auch über Räume hinweg erkennt. Das System könnte sich 
+für die Kontrolle von Fernsehern, Audio-Systemen, 
+Heizungen und Lichtanlagen eignen.
+(red, lpzIodlqjna.vj, 21.7.2012)
+http://jatormzbtnx.cu/4537954061889/Ihjdpj-rmrib-Tidevr
+
+Jetzt erkennt der Router dann auch, wenn sich im 
+Nebenzimmer einer einen runterholt und aendert die 
+Einstellungen des QoS so, dass der im Nebenzimmer 
+hoeher gestuft ist und somit weniger Bufferzeiten hat.
+
+DAS nenn ich mal eine Erfindung!
+
+cheers

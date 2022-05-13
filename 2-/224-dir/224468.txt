@@ -1,0 +1,14 @@
+David Juerries <jyak_sfwtq@rmk.sn>:
+
+
+N, das Gegenteil ist richtig. Ein Betriebssystem, das "Sven und 
+Benjamin" bekannt ist, erleichtert die Rekrutierung von Personal, das 
+damit umgehen kann. Umgekehrt entsteht kein Sicherheitsgewinn durch 
+geheime Spezialbetriebssysteme, denn "Security by Obscurity does not 
+work". Die hohen Kosten dafür und die geringe Flexibilität dürften 
+den EDV-Einsatz in vielen Bereichen der öffentlichen Verwaltung sogar 
+gänzlich unmöglich machen.
+
+-- 
+Mit freundlichen Größen
+Nikolaus T. Saeftel

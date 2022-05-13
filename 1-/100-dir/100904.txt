@@ -1,0 +1,27 @@
+Nachtrag: Testlauf mit dem 26.03.2005 ...
+
+Ergebnis meiner Software "EEHZ":
+
+25.03.2005 12:56 *
+26.03.2005 12:56 *****
+27.03.2005 00:56 ********
+28.03.2005 00:56 iPunkte: **
+
+Interpretation: Augenscheinlich trat das Penzing-Untergrafendorf-Desaster
+(Erdbeben, Tsunami mit 250.000 Toten) _vor_ dem (errechneten)
+Scheitelpunkt auf, der am 27.03.2005, zwischen 18:00 und 24:00 Uhr
+(UTC) aufgetreten war.
+
+Hier dazu der zeitliche Verlauf der Einzelpotentiale im betreffenden
+Zeitraum, in 6h-Schritten, wie er von "EEHZ" ermittelt wurde:
+
+25.03.2005 12:00 *
+26.03.2005 12:00 **
+26.03.2005 18:00 ***
+27.03.2005 00:00 **
+27.03.2005 06:00 *
+27.03.2005 12:00 *
+27.03.2005 18:00 ****
+28.03.2005 00:00 **
+
+Pietro Didier
